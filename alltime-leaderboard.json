@@ -258,19 +258,21 @@
       ],
       "user_medal_rankings": [
         {
-          "guid": "fb1fee6b-ca95-11ee-92c6-861db27673fb",
-          "nickname": "mimitta",
-          "gold": 3,
-          "silver": 1,
-          "bronze": 2,
-          "total_points": 48
-        },
-        {
           "guid": "944a4162-d0a0-11ee-92c6-861db27673fb",
           "nickname": "Kami",
           "gold": 3,
           "silver": 1,
           "bronze": 2,
+          "total_meps": 61534,
+          "total_points": 48
+        },
+        {
+          "guid": "fb1fee6b-ca95-11ee-92c6-861db27673fb",
+          "nickname": "mimitta",
+          "gold": 3,
+          "silver": 1,
+          "bronze": 2,
+          "total_meps": 55717,
           "total_points": 48
         },
         {
@@ -279,6 +281,7 @@
           "gold": 2,
           "silver": 1,
           "bronze": 1,
+          "total_meps": 35020,
           "total_points": 33
         },
         {
@@ -287,6 +290,7 @@
           "gold": 1,
           "silver": 3,
           "bronze": 0,
+          "total_meps": 35597,
           "total_points": 30
         },
         {
@@ -295,6 +299,7 @@
           "gold": 1,
           "silver": 1,
           "bronze": 1,
+          "total_meps": 20375,
           "total_points": 21
         },
         {
@@ -303,6 +308,7 @@
           "gold": 0,
           "silver": 2,
           "bronze": 1,
+          "total_meps": 21365,
           "total_points": 15
         },
         {
@@ -311,6 +317,7 @@
           "gold": 1,
           "silver": 0,
           "bronze": 0,
+          "total_meps": 7989,
           "total_points": 12
         },
         {
@@ -319,6 +326,7 @@
           "gold": 0,
           "silver": 1,
           "bronze": 1,
+          "total_meps": 17868,
           "total_points": 9
         },
         {
@@ -327,6 +335,7 @@
           "gold": 0,
           "silver": 1,
           "bronze": 0,
+          "total_meps": 5128,
           "total_points": 6
         },
         {
@@ -335,14 +344,7 @@
           "gold": 0,
           "silver": 0,
           "bronze": 1,
-          "total_points": 3
-        },
-        {
-          "guid": "ef8ec70f-d287-11ee-92c6-861db27673fb",
-          "nickname": "nina",
-          "gold": 0,
-          "silver": 0,
-          "bronze": 1,
+          "total_meps": 9039,
           "total_points": 3
         },
         {
@@ -351,6 +353,16 @@
           "gold": 0,
           "silver": 0,
           "bronze": 1,
+          "total_meps": 7225,
+          "total_points": 3
+        },
+        {
+          "guid": "ef8ec70f-d287-11ee-92c6-861db27673fb",
+          "nickname": "nina",
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "total_meps": 5166,
           "total_points": 3
         }
       ]
