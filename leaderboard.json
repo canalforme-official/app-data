@@ -469,6 +469,37 @@
       },
       {
         "position": 16,
+        "nickname": "sabrina",
+        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
+        "meps": 405,
+        "moves": 3,
+        "calories": 1403,
+        "totalMinutes": 284,
+        "zone0Minutes": 60,
+        "zone1Minutes": 88,
+        "zone2Minutes": 95,
+        "zone3Minutes": 37,
+        "zone4Minutes": 4,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 136,
+        "zone1MEPs": 88,
+        "zone2MEPs": 190,
+        "zone3MEPs": 111,
+        "zone4MEPs": 16,
+        "zone5MEPs": 0,
+        "avgEffort": 58,
+        "peakHR": 156,
+        "avgHR": 109,
+        "belt": 7468336,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 17,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 404,
@@ -499,7 +530,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 402,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Mahmoud",
         "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
         "meps": 402,
@@ -559,37 +590,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 19,
-        "nickname": "sabrina",
-        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
-        "meps": 397,
-        "moves": 3,
-        "calories": 1369,
-        "totalMinutes": 279,
-        "zone0Minutes": 60,
-        "zone1Minutes": 85,
-        "zone2Minutes": 94,
-        "zone3Minutes": 36,
-        "zone4Minutes": 4,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 133,
-        "zone1MEPs": 85,
-        "zone2MEPs": 188,
-        "zone3MEPs": 108,
-        "zone4MEPs": 16,
-        "zone5MEPs": 0,
-        "avgEffort": 58,
-        "peakHR": 156,
-        "avgHR": 109,
-        "belt": 7468336,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 20,
@@ -1276,7 +1276,7 @@
     ],
     "total_meps_by_gender": {
       "male": 11715,
-      "female": 7510
+      "female": 7518
     },
     "active_users": {
       "male": 20,
@@ -1290,8 +1290,8 @@
     },
     "meps_averages": {
       "male": "585.8",
-      "female": "751.0",
-      "total": "640.8"
+      "female": "751.8",
+      "total": "641.1"
     }
   },
   "previous": {
