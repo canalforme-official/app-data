@@ -71,8 +71,8 @@
         "meps": 1590,
         "moves": 5,
         "calories": 5467,
-        "totalMinutes": 770,
-        "zone0Minutes": 197,
+        "totalMinutes": 771,
+        "zone0Minutes": 198,
         "zone1Minutes": 129,
         "zone2Minutes": 131,
         "zone3Minutes": 53,
@@ -562,6 +562,37 @@
       },
       {
         "position": 19,
+        "nickname": "sabrina",
+        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
+        "meps": 382,
+        "moves": 3,
+        "calories": 1323,
+        "totalMinutes": 272,
+        "zone0Minutes": 60,
+        "zone1Minutes": 85,
+        "zone2Minutes": 88,
+        "zone3Minutes": 35,
+        "zone4Minutes": 4,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 127,
+        "zone1MEPs": 85,
+        "zone2MEPs": 176,
+        "zone3MEPs": 105,
+        "zone4MEPs": 16,
+        "zone5MEPs": 0,
+        "avgEffort": 58,
+        "peakHR": 156,
+        "avgHR": 109,
+        "belt": 7468336,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 20,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 353,
@@ -592,7 +623,7 @@
         "male": false
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
         "meps": 340,
@@ -623,7 +654,7 @@
         "male": true
       },
       {
-        "position": 21,
+        "position": 22,
         "nickname": "YASSINEM",
         "usrGUID": "7076c5e1-e2e8-11ee-92c6-861db27673fb",
         "meps": 328,
@@ -654,7 +685,7 @@
         "male": true
       },
       {
-        "position": 22,
+        "position": 23,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 308,
@@ -685,7 +716,7 @@
         "male": true
       },
       {
-        "position": 23,
+        "position": 24,
         "nickname": "karim",
         "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
         "meps": 303,
@@ -714,37 +745,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 24,
-        "nickname": "sabrina",
-        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
-        "meps": 291,
-        "moves": 2,
-        "calories": 1036,
-        "totalMinutes": 222,
-        "zone0Minutes": 52,
-        "zone1Minutes": 76,
-        "zone2Minutes": 69,
-        "zone3Minutes": 23,
-        "zone4Minutes": 2,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 94,
-        "zone1MEPs": 76,
-        "zone2MEPs": 138,
-        "zone3MEPs": 69,
-        "zone4MEPs": 8,
-        "zone5MEPs": 0,
-        "avgEffort": 57,
-        "peakHR": 151,
-        "avgHR": 107,
-        "belt": 7468336,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 25,
@@ -1276,7 +1276,7 @@
     ],
     "total_meps_by_gender": {
       "male": 11715,
-      "female": 7404
+      "female": 7495
     },
     "active_users": {
       "male": 20,
@@ -1290,8 +1290,8 @@
     },
     "meps_averages": {
       "male": "585.8",
-      "female": "740.4",
-      "total": "637.3"
+      "female": "749.5",
+      "total": "640.3"
     }
   },
   "previous": {
