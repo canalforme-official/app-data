@@ -254,18 +254,18 @@
         "position": 9,
         "nickname": "hani jit",
         "usrGUID": "da8436fe-1b55-11ef-b332-aaa3735da68b",
-        "meps": 1568,
+        "meps": 1572,
         "moves": 7,
-        "calories": 8558,
-        "totalMinutes": 1341,
+        "calories": 8596,
+        "totalMinutes": 1345,
         "zone0Minutes": 578,
-        "zone1Minutes": 346,
+        "zone1Minutes": 350,
         "zone2Minutes": 168,
         "zone3Minutes": 110,
         "zone4Minutes": 103,
         "zone5Minutes": 36,
         "targetZoneMinutes": 417,
-        "zone1MEPs": 346,
+        "zone1MEPs": 350,
         "zone2MEPs": 336,
         "zone3MEPs": 330,
         "zone4MEPs": 412,
@@ -438,6 +438,37 @@
       },
       {
         "position": 15,
+        "nickname": "MUZAN ",
+        "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
+        "meps": 923,
+        "moves": 7,
+        "calories": 5104,
+        "totalMinutes": 614,
+        "zone0Minutes": 173,
+        "zone1Minutes": 188,
+        "zone2Minutes": 103,
+        "zone3Minutes": 71,
+        "zone4Minutes": 64,
+        "zone5Minutes": 15,
+        "targetZoneMinutes": 256,
+        "zone1MEPs": 188,
+        "zone2MEPs": 206,
+        "zone3MEPs": 213,
+        "zone4MEPs": 256,
+        "zone5MEPs": 60,
+        "avgEffort": 60,
+        "peakHR": 184,
+        "avgHR": 117,
+        "belt": 2132618,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/667b496e-0581-ac46-3a3b-9730e6d9e1b7.png",
+        "male": true
+      },
+      {
+        "position": 16,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 921,
@@ -468,7 +499,7 @@
         "male": true
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "Mahmoud",
         "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
         "meps": 910,
@@ -496,37 +527,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 17,
-        "nickname": "MUZAN ",
-        "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
-        "meps": 908,
-        "moves": 7,
-        "calories": 5032,
-        "totalMinutes": 609,
-        "zone0Minutes": 173,
-        "zone1Minutes": 188,
-        "zone2Minutes": 102,
-        "zone3Minutes": 68,
-        "zone4Minutes": 63,
-        "zone5Minutes": 15,
-        "targetZoneMinutes": 251,
-        "zone1MEPs": 188,
-        "zone2MEPs": 204,
-        "zone3MEPs": 204,
-        "zone4MEPs": 252,
-        "zone5MEPs": 60,
-        "avgEffort": 60,
-        "peakHR": 184,
-        "avgHR": 117,
-        "belt": 2132618,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/667b496e-0581-ac46-3a3b-9730e6d9e1b7.png",
         "male": true
       },
       {
@@ -1275,7 +1275,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22418,
+      "male": 22437,
       "female": 14327
     },
     "active_users": {
@@ -1289,9 +1289,9 @@
       "total": 9
     },
     "meps_averages": {
-      "male": "1120.9",
+      "male": "1121.8",
       "female": "1193.9",
-      "total": "1148.3"
+      "total": "1148.9"
     }
   }
 }
