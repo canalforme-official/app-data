@@ -130,18 +130,18 @@
         "position": 5,
         "nickname": "H BOXING",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 2162,
+        "meps": 2166,
         "moves": 9,
-        "calories": 11102,
-        "totalMinutes": 1236,
-        "zone0Minutes": 323,
-        "zone1Minutes": 311,
+        "calories": 11135,
+        "totalMinutes": 1245,
+        "zone0Minutes": 328,
+        "zone1Minutes": 315,
         "zone2Minutes": 181,
         "zone3Minutes": 195,
         "zone4Minutes": 204,
         "zone5Minutes": 22,
         "targetZoneMinutes": 602,
-        "zone1MEPs": 311,
+        "zone1MEPs": 315,
         "zone2MEPs": 362,
         "zone3MEPs": 585,
         "zone4MEPs": 816,
@@ -843,20 +843,20 @@
         "position": 28,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 427,
+        "meps": 438,
         "moves": 3,
-        "calories": 1366,
-        "totalMinutes": 222,
+        "calories": 1399,
+        "totalMinutes": 228,
         "zone0Minutes": 28,
-        "zone1Minutes": 49,
-        "zone2Minutes": 69,
-        "zone3Minutes": 64,
+        "zone1Minutes": 51,
+        "zone2Minutes": 72,
+        "zone3Minutes": 65,
         "zone4Minutes": 12,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 144,
-        "zone1MEPs": 49,
-        "zone2MEPs": 138,
-        "zone3MEPs": 192,
+        "targetZoneMinutes": 148,
+        "zone1MEPs": 51,
+        "zone2MEPs": 144,
+        "zone3MEPs": 195,
         "zone4MEPs": 48,
         "zone5MEPs": 0,
         "avgEffort": 63,
@@ -1275,8 +1275,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 23196,
-      "female": 14799
+      "male": 23200,
+      "female": 14810
     },
     "active_users": {
       "male": 20,
@@ -1289,9 +1289,9 @@
       "total": 8
     },
     "meps_averages": {
-      "male": "1159.8",
-      "female": "1138.4",
-      "total": "1151.4"
+      "male": "1160.0",
+      "female": "1139.2",
+      "total": "1151.8"
     }
   }
 }
