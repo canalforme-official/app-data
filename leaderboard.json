@@ -500,6 +500,37 @@
       },
       {
         "position": 17,
+        "nickname": "Mahmoud",
+        "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
+        "meps": 1318,
+        "moves": 7,
+        "calories": 6428,
+        "totalMinutes": 680,
+        "zone0Minutes": 99,
+        "zone1Minutes": 166,
+        "zone2Minutes": 163,
+        "zone3Minutes": 182,
+        "zone4Minutes": 69,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 414,
+        "zone1MEPs": 166,
+        "zone2MEPs": 326,
+        "zone3MEPs": 546,
+        "zone4MEPs": 276,
+        "zone5MEPs": 4,
+        "avgEffort": 63,
+        "peakHR": 170,
+        "avgHR": 115,
+        "belt": 7078576,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 18,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 1236,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 1220,
@@ -553,37 +584,6 @@
         "peakHR": 158,
         "avgHR": 109,
         "belt": 7424845,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 19,
-        "nickname": "Mahmoud",
-        "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
-        "meps": 1099,
-        "moves": 6,
-        "calories": 5467,
-        "totalMinutes": 585,
-        "zone0Minutes": 80,
-        "zone1Minutes": 156,
-        "zone2Minutes": 154,
-        "zone3Minutes": 145,
-        "zone4Minutes": 49,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 349,
-        "zone1MEPs": 156,
-        "zone2MEPs": 308,
-        "zone3MEPs": 435,
-        "zone4MEPs": 196,
-        "zone5MEPs": 4,
-        "avgEffort": 63,
-        "peakHR": 170,
-        "avgHR": 114,
-        "belt": 7078576,
         "rank": 6,
         "status": "Silver",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
@@ -1275,7 +1275,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 29826,
+      "male": 30045,
       "female": 20551
     },
     "active_users": {
@@ -1289,9 +1289,9 @@
       "total": 7
     },
     "meps_averages": {
-      "male": "1420.3",
+      "male": "1430.7",
       "female": "1580.8",
-      "total": "1481.7"
+      "total": "1488.1"
     }
   }
 }
