@@ -68,19 +68,19 @@
         "position": 3,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 3739,
+        "meps": 3744,
         "moves": 30,
-        "calories": 18555,
-        "totalMinutes": 1838,
+        "calories": 18588,
+        "totalMinutes": 1841,
         "zone0Minutes": 268,
-        "zone1Minutes": 353,
-        "zone2Minutes": 568,
+        "zone1Minutes": 354,
+        "zone2Minutes": 570,
         "zone3Minutes": 346,
         "zone4Minutes": 303,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 1216,
-        "zone1MEPs": 353,
-        "zone2MEPs": 1136,
+        "targetZoneMinutes": 1218,
+        "zone1MEPs": 354,
+        "zone2MEPs": 1140,
         "zone3MEPs": 1038,
         "zone4MEPs": 1212,
         "zone5MEPs": 0,
@@ -130,18 +130,18 @@
         "position": 5,
         "nickname": "H BOXING",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 3149,
+        "meps": 3151,
         "moves": 13,
-        "calories": 16001,
-        "totalMinutes": 1719,
-        "zone0Minutes": 406,
-        "zone1Minutes": 423,
+        "calories": 16022,
+        "totalMinutes": 1723,
+        "zone0Minutes": 408,
+        "zone1Minutes": 425,
         "zone2Minutes": 264,
         "zone3Minutes": 306,
         "zone4Minutes": 296,
         "zone5Minutes": 24,
         "targetZoneMinutes": 889,
-        "zone1MEPs": 423,
+        "zone1MEPs": 425,
         "zone2MEPs": 528,
         "zone3MEPs": 918,
         "zone4MEPs": 1184,
@@ -1275,7 +1275,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 33876,
+      "male": 33883,
       "female": 22326
     },
     "active_users": {
@@ -1289,9 +1289,9 @@
       "total": 7
     },
     "meps_averages": {
-      "male": "1613.1",
+      "male": "1613.5",
       "female": "1717.4",
-      "total": "1653.0"
+      "total": "1653.2"
     }
   }
 }
