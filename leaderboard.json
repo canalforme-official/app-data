@@ -68,19 +68,19 @@
         "position": 3,
         "nickname": "dikra",
         "usrGUID": "4a650738-ab15-11ef-b127-dad563f0e7af",
-        "meps": 4390,
+        "meps": 4401,
         "moves": 13,
-        "calories": 14924,
-        "totalMinutes": 1912,
+        "calories": 14979,
+        "totalMinutes": 1922,
         "zone0Minutes": 312,
-        "zone1Minutes": 370,
-        "zone2Minutes": 369,
+        "zone1Minutes": 379,
+        "zone2Minutes": 370,
         "zone3Minutes": 162,
         "zone4Minutes": 188,
         "zone5Minutes": 511,
-        "targetZoneMinutes": 1226,
-        "zone1MEPs": 370,
-        "zone2MEPs": 738,
+        "targetZoneMinutes": 1227,
+        "zone1MEPs": 379,
+        "zone2MEPs": 740,
         "zone3MEPs": 486,
         "zone4MEPs": 752,
         "zone5MEPs": 2044,
@@ -194,9 +194,9 @@
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 3024,
         "moves": 13,
-        "calories": 9748,
-        "totalMinutes": 1628,
-        "zone0Minutes": 470,
+        "calories": 9749,
+        "totalMinutes": 1634,
+        "zone0Minutes": 476,
         "zone1Minutes": 324,
         "zone2Minutes": 196,
         "zone3Minutes": 244,
@@ -210,7 +210,7 @@
         "zone5MEPs": 288,
         "avgEffort": 62,
         "peakHR": 190,
-        "avgHR": 119,
+        "avgHR": 118,
         "belt": 7424844,
         "rank": 6,
         "status": "Silver",
@@ -1276,7 +1276,7 @@
     ],
     "total_meps_by_gender": {
       "male": 39176,
-      "female": 25195
+      "female": 25206
     },
     "active_users": {
       "male": 21,
@@ -1290,8 +1290,8 @@
     },
     "meps_averages": {
       "male": "1865.5",
-      "female": "1938.1",
-      "total": "1893.3"
+      "female": "1938.9",
+      "total": "1893.6"
     }
   }
 }
