@@ -1058,6 +1058,37 @@
       },
       {
         "position": 35,
+        "nickname": "A",
+        "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
+        "meps": 0,
+        "moves": 0,
+        "calories": 0,
+        "totalMinutes": 0,
+        "zone0Minutes": 0,
+        "zone1Minutes": 0,
+        "zone2Minutes": 0,
+        "zone3Minutes": 0,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 0,
+        "zone1MEPs": 0,
+        "zone2MEPs": 0,
+        "zone3MEPs": 0,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 0,
+        "peakHR": 0,
+        "avgHR": 0,
+        "belt": 0,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 36,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1088,7 +1119,7 @@
         "male": true
       },
       {
-        "position": 36,
+        "position": 37,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1119,7 +1150,7 @@
         "male": true
       },
       {
-        "position": 37,
+        "position": 38,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -1150,7 +1181,7 @@
         "male": false
       },
       {
-        "position": 38,
+        "position": 39,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 0,
@@ -1181,7 +1212,7 @@
         "male": true
       },
       {
-        "position": 39,
+        "position": 40,
         "nickname": "HabibO",
         "usrGUID": "067865b8-d0ec-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -1212,7 +1243,7 @@
         "male": true
       },
       {
-        "position": 40,
+        "position": 41,
         "nickname": "حسام ",
         "usrGUID": "bdad44e0-0964-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1243,7 +1274,7 @@
         "male": true
       },
       {
-        "position": 41,
+        "position": 42,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -1274,7 +1305,7 @@
         "male": false
       },
       {
-        "position": 42,
+        "position": 43,
         "nickname": "waad95",
         "usrGUID": "b18eac6c-2298-11ef-8287-026a9adc4167",
         "meps": 0,
@@ -1316,8 +1347,8 @@
     },
     "inactive_users": {
       "male": 6,
-      "female": 2,
-      "total": 8
+      "female": 3,
+      "total": 9
     },
     "meps_averages": {
       "male": "2541.2",
