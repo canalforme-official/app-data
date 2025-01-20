@@ -192,19 +192,19 @@
         "position": 7,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
-        "meps": 4107,
+        "meps": 4109,
         "moves": 35,
-        "calories": 25137,
-        "totalMinutes": 4172,
+        "calories": 25147,
+        "totalMinutes": 4173,
         "zone0Minutes": 1582,
         "zone1Minutes": 1533,
-        "zone2Minutes": 696,
+        "zone2Minutes": 697,
         "zone3Minutes": 262,
         "zone4Minutes": 85,
         "zone5Minutes": 14,
-        "targetZoneMinutes": 1054,
+        "targetZoneMinutes": 1055,
         "zone1MEPs": 1533,
-        "zone2MEPs": 1392,
+        "zone2MEPs": 1394,
         "zone3MEPs": 786,
         "zone4MEPs": 340,
         "zone5MEPs": 56,
@@ -1306,6 +1306,37 @@
       },
       {
         "position": 43,
+        "nickname": "Vb",
+        "usrGUID": "81c169f2-d733-11ef-847b-0ec4e0dd23cb",
+        "meps": 0,
+        "moves": 0,
+        "calories": 0,
+        "totalMinutes": 0,
+        "zone0Minutes": 0,
+        "zone1Minutes": 0,
+        "zone2Minutes": 0,
+        "zone3Minutes": 0,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 0,
+        "zone1MEPs": 0,
+        "zone2MEPs": 0,
+        "zone3MEPs": 0,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 0,
+        "peakHR": 0,
+        "avgHR": 0,
+        "belt": 0,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 44,
         "nickname": "waad95",
         "usrGUID": "b18eac6c-2298-11ef-8287-026a9adc4167",
         "meps": 0,
@@ -1337,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 53392,
+      "male": 53394,
       "female": 31215
     },
     "active_users": {
@@ -1346,14 +1377,14 @@
       "total": 34
     },
     "inactive_users": {
-      "male": 6,
+      "male": 7,
       "female": 3,
-      "total": 9
+      "total": 10
     },
     "meps_averages": {
-      "male": "2542.5",
+      "male": "2542.6",
       "female": "2401.2",
-      "total": "2488.4"
+      "total": "2488.5"
     }
   }
 }
