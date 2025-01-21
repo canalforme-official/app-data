@@ -70,9 +70,9 @@
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 5836,
         "moves": 23,
-        "calories": 30482,
-        "totalMinutes": 3780,
-        "zone0Minutes": 1197,
+        "calories": 30487,
+        "totalMinutes": 3783,
+        "zone0Minutes": 1200,
         "zone1Minutes": 887,
         "zone2Minutes": 559,
         "zone3Minutes": 717,
@@ -161,22 +161,22 @@
         "position": 6,
         "nickname": "hani jit",
         "usrGUID": "da8436fe-1b55-11ef-b332-aaa3735da68b",
-        "meps": 4889,
+        "meps": 4905,
         "moves": 20,
-        "calories": 26278,
-        "totalMinutes": 3365,
+        "calories": 26327,
+        "totalMinutes": 3370,
         "zone0Minutes": 1168,
         "zone1Minutes": 852,
-        "zone2Minutes": 477,
-        "zone3Minutes": 389,
-        "zone4Minutes": 313,
-        "zone5Minutes": 166,
-        "targetZoneMinutes": 1295,
+        "zone2Minutes": 478,
+        "zone3Minutes": 391,
+        "zone4Minutes": 314,
+        "zone5Minutes": 167,
+        "targetZoneMinutes": 1298,
         "zone1MEPs": 852,
-        "zone2MEPs": 954,
-        "zone3MEPs": 1167,
-        "zone4MEPs": 1252,
-        "zone5MEPs": 664,
+        "zone2MEPs": 956,
+        "zone3MEPs": 1173,
+        "zone4MEPs": 1256,
+        "zone5MEPs": 668,
         "avgEffort": 59,
         "peakHR": 208,
         "avgHR": 112,
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 58064,
+      "male": 58080,
       "female": 31847
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 9
     },
     "meps_averages": {
-      "male": "2639.3",
+      "male": "2640.0",
       "female": "2449.8",
-      "total": "2568.9"
+      "total": "2569.3"
     }
   }
 }
