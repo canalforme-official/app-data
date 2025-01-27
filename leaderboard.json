@@ -99,20 +99,20 @@
         "position": 4,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 8421,
+        "meps": 8435,
         "moves": 55,
-        "calories": 41258,
-        "totalMinutes": 4725,
+        "calories": 41321,
+        "totalMinutes": 4730,
         "zone0Minutes": 1290,
         "zone1Minutes": 835,
-        "zone2Minutes": 994,
-        "zone3Minutes": 826,
+        "zone2Minutes": 995,
+        "zone3Minutes": 830,
         "zone4Minutes": 775,
         "zone5Minutes": 5,
-        "targetZoneMinutes": 2600,
+        "targetZoneMinutes": 2604,
         "zone1MEPs": 835,
-        "zone2MEPs": 1988,
-        "zone3MEPs": 2478,
+        "zone2MEPs": 1990,
+        "zone3MEPs": 2490,
         "zone4MEPs": 3100,
         "zone5MEPs": 20,
         "avgEffort": 60,
@@ -442,7 +442,7 @@
         "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
         "meps": 2817,
         "moves": 10,
-        "calories": 13648,
+        "calories": 13649,
         "totalMinutes": 1240,
         "zone0Minutes": 198,
         "zone1Minutes": 229,
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 75908,
+      "male": 75922,
       "female": 43704
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 9
     },
     "meps_averages": {
-      "male": "3450.4",
+      "male": "3451.0",
       "female": "3361.8",
-      "total": "3417.5"
+      "total": "3417.9"
     }
   }
 }
