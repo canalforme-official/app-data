@@ -419,7 +419,7 @@
         "zone3Minutes": 401,
         "zone4Minutes": 165,
         "zone5Minutes": 2,
-        "targetZoneMinutes": 940,
+        "targetZoneMinutes": 939,
         "zone1MEPs": 511,
         "zone2MEPs": 744,
         "zone3MEPs": 1203,
@@ -502,20 +502,20 @@
         "position": 17,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 3020,
+        "meps": 3021,
         "moves": 16,
-        "calories": 18934,
+        "calories": 18937,
         "totalMinutes": 2225,
         "zone0Minutes": 464,
         "zone1Minutes": 851,
-        "zone2Minutes": 624,
-        "zone3Minutes": 223,
+        "zone2Minutes": 623,
+        "zone3Minutes": 224,
         "zone4Minutes": 63,
         "zone5Minutes": 0,
         "targetZoneMinutes": 908,
         "zone1MEPs": 851,
-        "zone2MEPs": 1248,
-        "zone3MEPs": 669,
+        "zone2MEPs": 1246,
+        "zone3MEPs": 672,
         "zone4MEPs": 252,
         "zone5MEPs": 0,
         "avgEffort": 58,
@@ -533,20 +533,20 @@
         "position": 18,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
-        "meps": 2977,
+        "meps": 2980,
         "moves": 14,
         "calories": 9087,
-        "totalMinutes": 1408,
+        "totalMinutes": 1409,
         "zone0Minutes": 139,
         "zone1Minutes": 366,
         "zone2Minutes": 339,
-        "zone3Minutes": 323,
+        "zone3Minutes": 324,
         "zone4Minutes": 236,
         "zone5Minutes": 5,
-        "targetZoneMinutes": 901,
+        "targetZoneMinutes": 902,
         "zone1MEPs": 366,
         "zone2MEPs": 678,
-        "zone3MEPs": 969,
+        "zone3MEPs": 972,
         "zone4MEPs": 944,
         "zone5MEPs": 20,
         "avgEffort": 65,
@@ -1368,8 +1368,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 80264,
-      "female": 45158
+      "male": 80265,
+      "female": 45161
     },
     "active_users": {
       "male": 22,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "3648.4",
-      "female": "3473.7",
-      "total": "3583.5"
+      "female": "3473.9",
+      "total": "3583.6"
     }
   }
 }
