@@ -1089,6 +1089,37 @@
       },
       {
         "position": 36,
+        "nickname": "katy",
+        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
+        "meps": 1,
+        "moves": 1,
+        "calories": 5,
+        "totalMinutes": 19,
+        "zone0Minutes": 18,
+        "zone1Minutes": 1,
+        "zone2Minutes": 0,
+        "zone3Minutes": 0,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 0,
+        "zone1MEPs": 1,
+        "zone2MEPs": 0,
+        "zone3MEPs": 0,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 43,
+        "peakHR": 109,
+        "avgHR": 80,
+        "belt": 7424847,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 37,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -1119,7 +1150,7 @@
         "male": false
       },
       {
-        "position": 37,
+        "position": 38,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1150,7 +1181,7 @@
         "male": true
       },
       {
-        "position": 38,
+        "position": 39,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1181,7 +1212,7 @@
         "male": true
       },
       {
-        "position": 39,
+        "position": 40,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -1212,7 +1243,7 @@
         "male": false
       },
       {
-        "position": 40,
+        "position": 41,
         "nickname": "HabibO",
         "usrGUID": "067865b8-d0ec-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -1243,7 +1274,7 @@
         "male": true
       },
       {
-        "position": 41,
+        "position": 42,
         "nickname": "حسام ",
         "usrGUID": "bdad44e0-0964-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1272,37 +1303,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 42,
-        "nickname": "katy",
-        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 43,
@@ -1369,22 +1369,22 @@
     ],
     "total_meps_by_gender": {
       "male": 81574,
-      "female": 46101
+      "female": 46102
     },
     "active_users": {
       "male": 22,
-      "female": 13,
-      "total": 35
+      "female": 14,
+      "total": 36
     },
     "inactive_users": {
       "male": 6,
-      "female": 3,
-      "total": 9
+      "female": 2,
+      "total": 8
     },
     "meps_averages": {
       "male": "3707.9",
-      "female": "3546.2",
-      "total": "3647.9"
+      "female": "3293.0",
+      "total": "3546.6"
     }
   }
 }
