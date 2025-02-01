@@ -366,6 +366,62 @@
           "total_points": 3
         }
       ]
+    },
+    "2025": {
+      "top3_by_month": [
+        {
+          "month": "janvier",
+          "top3": [
+            {
+              "position": 1,
+              "guid": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
+              "meps": 11923,
+              "nickname": "H BOXING"
+            },
+            {
+              "position": 2,
+              "guid": "1a693e57-dca9-11ee-92c6-861db27673fb",
+              "meps": 11796,
+              "nickname": "Badr"
+            },
+            {
+              "position": 3,
+              "guid": "fb1fee6b-ca95-11ee-92c6-861db27673fb",
+              "meps": 10370,
+              "nickname": "mimitta"
+            }
+          ]
+        }
+      ],
+      "user_medal_rankings": [
+        {
+          "guid": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
+          "nickname": "H BOXING",
+          "gold": 1,
+          "silver": 0,
+          "bronze": 0,
+          "total_meps": 11923,
+          "total_points": 12
+        },
+        {
+          "guid": "1a693e57-dca9-11ee-92c6-861db27673fb",
+          "nickname": "Badr",
+          "gold": 0,
+          "silver": 1,
+          "bronze": 0,
+          "total_meps": 11796,
+          "total_points": 6
+        },
+        {
+          "guid": "fb1fee6b-ca95-11ee-92c6-861db27673fb",
+          "nickname": "mimitta",
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "total_meps": 10370,
+          "total_points": 3
+        }
+      ]
     }
   }
 }
