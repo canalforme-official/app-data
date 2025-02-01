@@ -316,25 +316,25 @@
         "position": 11,
         "nickname": "H BOXING",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 8,
+        "meps": 13,
         "moves": 1,
-        "calories": 57,
-        "totalMinutes": 83,
-        "zone0Minutes": 77,
+        "calories": 69,
+        "totalMinutes": 84,
+        "zone0Minutes": 76,
         "zone1Minutes": 5,
-        "zone2Minutes": 0,
-        "zone3Minutes": 1,
+        "zone2Minutes": 1,
+        "zone3Minutes": 2,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 1,
+        "targetZoneMinutes": 2,
         "zone1MEPs": 5,
-        "zone2MEPs": 0,
-        "zone3MEPs": 3,
+        "zone2MEPs": 2,
+        "zone3MEPs": 6,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 40,
+        "avgEffort": 41,
         "peakHR": 143,
-        "avgHR": 74,
+        "avgHR": 76,
         "belt": 7468338,
         "rank": 1,
         "status": "Iron",
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 854,
+      "male": 859,
       "female": 841
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 33
     },
     "meps_averages": {
-      "male": "142.3",
+      "male": "143.2",
       "female": "168.2",
-      "total": "154.1"
+      "total": "154.5"
     }
   },
   "previous": {
