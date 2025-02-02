@@ -314,6 +314,37 @@
       },
       {
         "position": 11,
+        "nickname": "Hatim",
+        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
+        "meps": 41,
+        "moves": 1,
+        "calories": 194,
+        "totalMinutes": 24,
+        "zone0Minutes": 10,
+        "zone1Minutes": 2,
+        "zone2Minutes": 3,
+        "zone3Minutes": 3,
+        "zone4Minutes": 4,
+        "zone5Minutes": 2,
+        "targetZoneMinutes": 11,
+        "zone1MEPs": 2,
+        "zone2MEPs": 6,
+        "zone3MEPs": 9,
+        "zone4MEPs": 16,
+        "zone5MEPs": 8,
+        "avgEffort": 62,
+        "peakHR": 175,
+        "avgHR": 116,
+        "belt": 7468334,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 12,
         "nickname": "H BOXING",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 40,
@@ -341,37 +372,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
-        "male": true
-      },
-      {
-        "position": 12,
-        "nickname": "Hatim",
-        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 22,
-        "moves": 1,
-        "calories": 126,
-        "totalMinutes": 18,
-        "zone0Minutes": 10,
-        "zone1Minutes": 2,
-        "zone2Minutes": 1,
-        "zone3Minutes": 2,
-        "zone4Minutes": 3,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 7,
-        "zone1MEPs": 2,
-        "zone2MEPs": 2,
-        "zone3MEPs": 6,
-        "zone4MEPs": 12,
-        "zone5MEPs": 0,
-        "avgEffort": 58,
-        "peakHR": 167,
-        "avgHR": 110,
-        "belt": 7468334,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
         "male": true
       },
       {
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 1354,
+      "male": 1373,
       "female": 1127
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 31
     },
     "meps_averages": {
-      "male": "193.4",
+      "male": "196.1",
       "female": "187.8",
-      "total": "190.8"
+      "total": "192.3"
     }
   },
   "previous": {
