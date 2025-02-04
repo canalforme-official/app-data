@@ -6,18 +6,18 @@
         "position": 1,
         "nickname": "YASSINEM",
         "usrGUID": "7076c5e1-e2e8-11ee-92c6-861db27673fb",
-        "meps": 1044,
+        "meps": 1045,
         "moves": 3,
-        "calories": 5260,
-        "totalMinutes": 489,
-        "zone0Minutes": 72,
-        "zone1Minutes": 119,
+        "calories": 5268,
+        "totalMinutes": 491,
+        "zone0Minutes": 73,
+        "zone1Minutes": 120,
         "zone2Minutes": 82,
         "zone3Minutes": 103,
         "zone4Minutes": 113,
         "zone5Minutes": 0,
         "targetZoneMinutes": 298,
-        "zone1MEPs": 119,
+        "zone1MEPs": 120,
         "zone2MEPs": 164,
         "zone3MEPs": 309,
         "zone4MEPs": 452,
@@ -66,6 +66,37 @@
       },
       {
         "position": 3,
+        "nickname": "H BOXING",
+        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
+        "meps": 987,
+        "moves": 5,
+        "calories": 4874,
+        "totalMinutes": 615,
+        "zone0Minutes": 241,
+        "zone1Minutes": 76,
+        "zone2Minutes": 83,
+        "zone3Minutes": 115,
+        "zone4Minutes": 86,
+        "zone5Minutes": 14,
+        "targetZoneMinutes": 299,
+        "zone1MEPs": 76,
+        "zone2MEPs": 166,
+        "zone3MEPs": 345,
+        "zone4MEPs": 344,
+        "zone5MEPs": 56,
+        "avgEffort": 59,
+        "peakHR": 185,
+        "avgHR": 109,
+        "belt": 7468338,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
+        "male": true
+      },
+      {
+        "position": 4,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
         "meps": 968,
@@ -96,7 +127,7 @@
         "male": true
       },
       {
-        "position": 4,
+        "position": 5,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 964,
@@ -127,7 +158,7 @@
         "male": true
       },
       {
-        "position": 5,
+        "position": 6,
         "nickname": "Badr",
         "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
         "meps": 872,
@@ -155,37 +186,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 6,
-        "nickname": "H BOXING",
-        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 864,
-        "moves": 5,
-        "calories": 4289,
-        "totalMinutes": 571,
-        "zone0Minutes": 240,
-        "zone1Minutes": 67,
-        "zone2Minutes": 78,
-        "zone3Minutes": 103,
-        "zone4Minutes": 69,
-        "zone5Minutes": 14,
-        "targetZoneMinutes": 264,
-        "zone1MEPs": 67,
-        "zone2MEPs": 156,
-        "zone3MEPs": 309,
-        "zone4MEPs": 276,
-        "zone5MEPs": 56,
-        "avgEffort": 58,
-        "peakHR": 185,
-        "avgHR": 107,
-        "belt": 7468338,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
         "male": true
       },
       {
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 7787,
+      "male": 7911,
       "female": 5730
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "458.1",
+      "male": "465.4",
       "female": "477.5",
-      "total": "466.1"
+      "total": "470.4"
     }
   },
   "previous": {
