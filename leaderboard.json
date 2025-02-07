@@ -779,6 +779,37 @@
       },
       {
         "position": 26,
+        "nickname": "Nabil ",
+        "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
+        "meps": 484,
+        "moves": 2,
+        "calories": 2359,
+        "totalMinutes": 249,
+        "zone0Minutes": 57,
+        "zone1Minutes": 53,
+        "zone2Minutes": 44,
+        "zone3Minutes": 37,
+        "zone4Minutes": 45,
+        "zone5Minutes": 13,
+        "targetZoneMinutes": 140,
+        "zone1MEPs": 53,
+        "zone2MEPs": 88,
+        "zone3MEPs": 111,
+        "zone4MEPs": 180,
+        "zone5MEPs": 52,
+        "avgEffort": 66,
+        "peakHR": 174,
+        "avgHR": 119,
+        "belt": 7457694,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 27,
         "nickname": "Mahmoud",
         "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
         "meps": 476,
@@ -801,37 +832,6 @@
         "peakHR": 172,
         "avgHR": 109,
         "belt": 7078576,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 27,
-        "nickname": "Nabil ",
-        "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 476,
-        "moves": 2,
-        "calories": 2310,
-        "totalMinutes": 245,
-        "zone0Minutes": 57,
-        "zone1Minutes": 53,
-        "zone2Minutes": 40,
-        "zone3Minutes": 37,
-        "zone4Minutes": 45,
-        "zone5Minutes": 13,
-        "targetZoneMinutes": 136,
-        "zone1MEPs": 53,
-        "zone2MEPs": 80,
-        "zone3MEPs": 111,
-        "zone4MEPs": 180,
-        "zone5MEPs": 52,
-        "avgEffort": 66,
-        "peakHR": 174,
-        "avgHR": 119,
-        "belt": 7457694,
         "rank": 6,
         "status": "Silver",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 19245,
+      "male": 19253,
       "female": 13230
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 10
     },
     "meps_averages": {
-      "male": "874.8",
+      "male": "875.1",
       "female": "1102.5",
-      "total": "955.1"
+      "total": "955.4"
     }
   },
   "previous": {
