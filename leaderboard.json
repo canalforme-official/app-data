@@ -192,18 +192,18 @@
         "position": 7,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 2218,
+        "meps": 2223,
         "moves": 10,
-        "calories": 10390,
-        "totalMinutes": 1177,
-        "zone0Minutes": 362,
-        "zone1Minutes": 191,
+        "calories": 10422,
+        "totalMinutes": 1184,
+        "zone0Minutes": 364,
+        "zone1Minutes": 196,
         "zone2Minutes": 181,
         "zone3Minutes": 107,
         "zone4Minutes": 327,
         "zone5Minutes": 9,
         "targetZoneMinutes": 623,
-        "zone1MEPs": 191,
+        "zone1MEPs": 196,
         "zone2MEPs": 362,
         "zone3MEPs": 321,
         "zone4MEPs": 1308,
@@ -595,25 +595,25 @@
         "position": 20,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 859,
+        "meps": 860,
         "moves": 4,
-        "calories": 4382,
+        "calories": 4383,
         "totalMinutes": 588,
         "zone0Minutes": 198,
         "zone1Minutes": 155,
-        "zone2Minutes": 86,
-        "zone3Minutes": 64,
+        "zone2Minutes": 85,
+        "zone3Minutes": 65,
         "zone4Minutes": 69,
         "zone5Minutes": 16,
         "targetZoneMinutes": 236,
         "zone1MEPs": 155,
-        "zone2MEPs": 172,
-        "zone3MEPs": 192,
+        "zone2MEPs": 170,
+        "zone3MEPs": 195,
         "zone4MEPs": 276,
         "zone5MEPs": 64,
         "avgEffort": 60,
         "peakHR": 177,
-        "avgHR": 107,
+        "avgHR": 108,
         "belt": 7457694,
         "rank": 6,
         "status": "Silver",
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 29626,
+      "male": 29632,
       "female": 19356
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 10
     },
     "meps_averages": {
-      "male": "1346.6",
+      "male": "1346.9",
       "female": "1613.0",
-      "total": "1440.6"
+      "total": "1440.8"
     }
   }
 }
