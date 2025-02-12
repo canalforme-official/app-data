@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "Mouni",
+        "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
+        "meps": 2959,
+        "moves": 9,
+        "calories": 8713,
+        "totalMinutes": 2097,
+        "zone0Minutes": 466,
+        "zone1Minutes": 765,
+        "zone2Minutes": 479,
+        "zone3Minutes": 312,
+        "zone4Minutes": 74,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 868,
+        "zone1MEPs": 765,
+        "zone2MEPs": 958,
+        "zone3MEPs": 936,
+        "zone4MEPs": 296,
+        "zone5MEPs": 4,
+        "avgEffort": 58,
+        "peakHR": 167,
+        "avgHR": 106,
+        "belt": 7424833,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 7,
         "nickname": "nouriii",
         "usrGUID": "da8436fe-1b55-11ef-b332-aaa3735da68b",
         "meps": 2786,
@@ -187,37 +218,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9a253880-cf5f-b3cf-65f0-fcf3c39451bb.png",
         "male": true
-      },
-      {
-        "position": 7,
-        "nickname": "Mouni",
-        "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
-        "meps": 2766,
-        "moves": 9,
-        "calories": 8103,
-        "totalMinutes": 1927,
-        "zone0Minutes": 427,
-        "zone1Minutes": 688,
-        "zone2Minutes": 433,
-        "zone3Minutes": 304,
-        "zone4Minutes": 74,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 812,
-        "zone1MEPs": 688,
-        "zone2MEPs": 866,
-        "zone3MEPs": 912,
-        "zone4MEPs": 296,
-        "zone5MEPs": 4,
-        "avgEffort": 58,
-        "peakHR": 167,
-        "avgHR": 106,
-        "belt": 7424833,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 8,
@@ -1369,7 +1369,7 @@
     ],
     "total_meps_by_gender": {
       "male": 35976,
-      "female": 24341
+      "female": 24534
     },
     "active_users": {
       "male": 22,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "1635.3",
-      "female": "2028.4",
-      "total": "1774.0"
+      "female": "2044.5",
+      "total": "1779.7"
     }
   }
 }
