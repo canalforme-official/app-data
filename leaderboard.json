@@ -37,19 +37,19 @@
         "position": 2,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 3943,
-        "moves": 18,
-        "calories": 26272,
-        "totalMinutes": 3514,
-        "zone0Minutes": 970,
-        "zone1Minutes": 1445,
-        "zone2Minutes": 861,
+        "meps": 3959,
+        "moves": 19,
+        "calories": 26386,
+        "totalMinutes": 3528,
+        "zone0Minutes": 973,
+        "zone1Minutes": 1451,
+        "zone2Minutes": 866,
         "zone3Minutes": 176,
         "zone4Minutes": 60,
         "zone5Minutes": 2,
-        "targetZoneMinutes": 1100,
-        "zone1MEPs": 1445,
-        "zone2MEPs": 1722,
+        "targetZoneMinutes": 1105,
+        "zone1MEPs": 1451,
+        "zone2MEPs": 1732,
         "zone3MEPs": 528,
         "zone4MEPs": 240,
         "zone5MEPs": 8,
@@ -686,6 +686,37 @@
       },
       {
         "position": 23,
+        "nickname": "karim",
+        "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
+        "meps": 995,
+        "moves": 7,
+        "calories": 4842,
+        "totalMinutes": 462,
+        "zone0Minutes": 39,
+        "zone1Minutes": 102,
+        "zone2Minutes": 151,
+        "zone3Minutes": 89,
+        "zone4Minutes": 71,
+        "zone5Minutes": 10,
+        "targetZoneMinutes": 320,
+        "zone1MEPs": 102,
+        "zone2MEPs": 302,
+        "zone3MEPs": 267,
+        "zone4MEPs": 284,
+        "zone5MEPs": 40,
+        "avgEffort": 66,
+        "peakHR": 178,
+        "avgHR": 121,
+        "belt": 7424837,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 24,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
         "meps": 953,
@@ -716,7 +747,7 @@
         "male": false
       },
       {
-        "position": 24,
+        "position": 25,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
         "meps": 877,
@@ -747,7 +778,7 @@
         "male": true
       },
       {
-        "position": 25,
+        "position": 26,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
         "meps": 866,
@@ -778,7 +809,7 @@
         "male": false
       },
       {
-        "position": 26,
+        "position": 27,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 834,
@@ -806,37 +837,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
-        "male": true
-      },
-      {
-        "position": 27,
-        "nickname": "karim",
-        "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
-        "meps": 822,
-        "moves": 6,
-        "calories": 3861,
-        "totalMinutes": 356,
-        "zone0Minutes": 35,
-        "zone1Minutes": 59,
-        "zone2Minutes": 103,
-        "zone3Minutes": 79,
-        "zone4Minutes": 70,
-        "zone5Minutes": 10,
-        "targetZoneMinutes": 261,
-        "zone1MEPs": 59,
-        "zone2MEPs": 206,
-        "zone3MEPs": 237,
-        "zone4MEPs": 280,
-        "zone5MEPs": 40,
-        "avgEffort": 69,
-        "peakHR": 178,
-        "avgHR": 124,
-        "belt": 7424837,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
         "male": true
       },
       {
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 34064,
+      "male": 34253,
       "female": 23386
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 10
     },
     "meps_averages": {
-      "male": "1548.4",
+      "male": "1557.0",
       "female": "1948.8",
-      "total": "1689.7"
+      "total": "1695.3"
     }
   }
 }
