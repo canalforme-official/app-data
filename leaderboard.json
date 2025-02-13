@@ -4,6 +4,37 @@
     "data": [
       {
         "position": 1,
+        "nickname": "Simo",
+        "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+        "meps": 4885,
+        "moves": 22,
+        "calories": 32612,
+        "totalMinutes": 4227,
+        "zone0Minutes": 1066,
+        "zone1Minutes": 1815,
+        "zone2Minutes": 1042,
+        "zone3Minutes": 230,
+        "zone4Minutes": 72,
+        "zone5Minutes": 2,
+        "targetZoneMinutes": 1348,
+        "zone1MEPs": 1815,
+        "zone2MEPs": 2084,
+        "zone3MEPs": 690,
+        "zone4MEPs": 288,
+        "zone5MEPs": 8,
+        "avgEffort": 56,
+        "peakHR": 181,
+        "avgHR": 106,
+        "belt": 7424840,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 2,
         "nickname": "mimitta",
         "usrGUID": "fb1fee6b-ca95-11ee-92c6-861db27673fb",
         "meps": 4883,
@@ -32,37 +63,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": false
-      },
-      {
-        "position": 2,
-        "nickname": "Simo",
-        "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 4679,
-        "moves": 21,
-        "calories": 31277,
-        "totalMinutes": 4090,
-        "zone0Minutes": 1057,
-        "zone1Minutes": 1742,
-        "zone2Minutes": 1006,
-        "zone3Minutes": 215,
-        "zone4Minutes": 68,
-        "zone5Minutes": 2,
-        "targetZoneMinutes": 1293,
-        "zone1MEPs": 1742,
-        "zone2MEPs": 2012,
-        "zone3MEPs": 645,
-        "zone4MEPs": 272,
-        "zone5MEPs": 8,
-        "avgEffort": 56,
-        "peakHR": 181,
-        "avgHR": 105,
-        "belt": 7424840,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 3,
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 40890,
+      "male": 41096,
       "female": 25972
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 10
     },
     "meps_averages": {
-      "male": "1858.6",
+      "male": "1868.0",
       "female": "2164.3",
-      "total": "1966.5"
+      "total": "1972.6"
     }
   }
 }
