@@ -1058,6 +1058,37 @@
       },
       {
         "position": 35,
+        "nickname": "sabrina",
+        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
+        "meps": 88,
+        "moves": 1,
+        "calories": 277,
+        "totalMinutes": 31,
+        "zone0Minutes": 0,
+        "zone1Minutes": 8,
+        "zone2Minutes": 5,
+        "zone3Minutes": 2,
+        "zone4Minutes": 5,
+        "zone5Minutes": 11,
+        "targetZoneMinutes": 23,
+        "zone1MEPs": 8,
+        "zone2MEPs": 10,
+        "zone3MEPs": 6,
+        "zone4MEPs": 20,
+        "zone5MEPs": 44,
+        "avgEffort": 75,
+        "peakHR": 174,
+        "avgHR": 139,
+        "belt": 7468336,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 36,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -1088,7 +1119,7 @@
         "male": false
       },
       {
-        "position": 36,
+        "position": 37,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1119,7 +1150,7 @@
         "male": true
       },
       {
-        "position": 37,
+        "position": 38,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1150,7 +1181,7 @@
         "male": true
       },
       {
-        "position": 38,
+        "position": 39,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -1181,7 +1212,7 @@
         "male": false
       },
       {
-        "position": 39,
+        "position": 40,
         "nickname": "HabibO",
         "usrGUID": "067865b8-d0ec-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -1212,7 +1243,7 @@
         "male": true
       },
       {
-        "position": 40,
+        "position": 41,
         "nickname": "حسام ",
         "usrGUID": "bdad44e0-0964-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1243,7 +1274,7 @@
         "male": true
       },
       {
-        "position": 41,
+        "position": 42,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -1269,37 +1300,6 @@
         "rank": 3,
         "status": "Bronze",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 42,
-        "nickname": "sabrina",
-        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1369,22 +1369,22 @@
     ],
     "total_meps_by_gender": {
       "male": 49680,
-      "female": 29835
+      "female": 29923
     },
     "active_users": {
       "male": 22,
-      "female": 12,
-      "total": 34
+      "female": 13,
+      "total": 35
     },
     "inactive_users": {
       "male": 6,
-      "female": 4,
-      "total": 10
+      "female": 3,
+      "total": 9
     },
     "meps_averages": {
       "male": "2258.2",
-      "female": "2486.3",
-      "total": "2338.7"
+      "female": "2301.8",
+      "total": "2274.4"
     }
   }
 }
