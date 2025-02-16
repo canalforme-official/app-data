@@ -1060,25 +1060,25 @@
         "position": 35,
         "nickname": "sabrina",
         "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
-        "meps": 92,
+        "meps": 108,
         "moves": 1,
-        "calories": 287,
-        "totalMinutes": 33,
+        "calories": 339,
+        "totalMinutes": 41,
         "zone0Minutes": 0,
         "zone1Minutes": 8,
-        "zone2Minutes": 7,
+        "zone2Minutes": 15,
         "zone3Minutes": 2,
         "zone4Minutes": 5,
         "zone5Minutes": 11,
-        "targetZoneMinutes": 25,
+        "targetZoneMinutes": 33,
         "zone1MEPs": 8,
-        "zone2MEPs": 14,
+        "zone2MEPs": 30,
         "zone3MEPs": 6,
         "zone4MEPs": 20,
         "zone5MEPs": 44,
-        "avgEffort": 74,
+        "avgEffort": 72,
         "peakHR": 174,
-        "avgHR": 138,
+        "avgHR": 134,
         "belt": 7468336,
         "rank": 0,
         "status": "No Status",
@@ -1369,7 +1369,7 @@
     ],
     "total_meps_by_gender": {
       "male": 49723,
-      "female": 29937
+      "female": 29953
     },
     "active_users": {
       "male": 22,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "2260.1",
-      "female": "2302.8",
-      "total": "2276.0"
+      "female": "2304.1",
+      "total": "2276.5"
     }
   }
 }
