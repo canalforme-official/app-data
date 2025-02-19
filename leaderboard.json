@@ -68,19 +68,19 @@
         "position": 3,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 6208,
+        "meps": 6215,
         "moves": 25,
-        "calories": 36507,
-        "totalMinutes": 5018,
+        "calories": 36562,
+        "totalMinutes": 5024,
         "zone0Minutes": 1894,
-        "zone1Minutes": 1396,
-        "zone2Minutes": 811,
+        "zone1Minutes": 1401,
+        "zone2Minutes": 812,
         "zone3Minutes": 478,
         "zone4Minutes": 336,
         "zone5Minutes": 103,
-        "targetZoneMinutes": 1718,
-        "zone1MEPs": 1396,
-        "zone2MEPs": 1622,
+        "targetZoneMinutes": 1719,
+        "zone1MEPs": 1401,
+        "zone2MEPs": 1624,
         "zone3MEPs": 1434,
         "zone4MEPs": 1344,
         "zone5MEPs": 412,
@@ -192,19 +192,19 @@
         "position": 7,
         "nickname": "Mouni",
         "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
-        "meps": 3517,
+        "meps": 3548,
         "moves": 10,
-        "calories": 10292,
-        "totalMinutes": 2393,
+        "calories": 10386,
+        "totalMinutes": 2412,
         "zone0Minutes": 495,
-        "zone1Minutes": 852,
-        "zone2Minutes": 575,
+        "zone1Minutes": 859,
+        "zone2Minutes": 587,
         "zone3Minutes": 369,
         "zone4Minutes": 101,
         "zone5Minutes": 1,
-        "targetZoneMinutes": 1047,
-        "zone1MEPs": 852,
-        "zone2MEPs": 1150,
+        "targetZoneMinutes": 1059,
+        "zone1MEPs": 859,
+        "zone2MEPs": 1174,
         "zone3MEPs": 1107,
         "zone4MEPs": 404,
         "zone5MEPs": 4,
@@ -1368,8 +1368,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 57794,
-      "female": 36220
+      "male": 57801,
+      "female": 36251
     },
     "active_users": {
       "male": 22,
@@ -1382,9 +1382,9 @@
       "total": 9
     },
     "meps_averages": {
-      "male": "2627.0",
-      "female": "2786.2",
-      "total": "2686.1"
+      "male": "2627.3",
+      "female": "2788.5",
+      "total": "2687.2"
     }
   }
 }
