@@ -409,21 +409,21 @@
         "position": 14,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
-        "meps": 3756,
+        "meps": 3755,
         "moves": 22,
-        "calories": 12784,
+        "calories": 12779,
         "totalMinutes": 2733,
         "zone0Minutes": 1073,
         "zone1Minutes": 559,
         "zone2Minutes": 399,
-        "zone3Minutes": 409,
-        "zone4Minutes": 141,
+        "zone3Minutes": 410,
+        "zone4Minutes": 140,
         "zone5Minutes": 152,
         "targetZoneMinutes": 1097,
         "zone1MEPs": 559,
         "zone2MEPs": 798,
-        "zone3MEPs": 1227,
-        "zone4MEPs": 564,
+        "zone3MEPs": 1230,
+        "zone4MEPs": 560,
         "zone5MEPs": 608,
         "avgEffort": 57,
         "peakHR": 191,
@@ -1369,7 +1369,7 @@
     ],
     "total_meps_by_gender": {
       "male": 80690,
-      "female": 50202
+      "female": 50201
     },
     "active_users": {
       "male": 22,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "3667.7",
-      "female": "3861.7",
-      "total": "3739.8"
+      "female": "3861.6",
+      "total": "3739.7"
     }
   }
 }
