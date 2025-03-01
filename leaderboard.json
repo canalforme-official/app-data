@@ -35,6 +35,37 @@
       },
       {
         "position": 2,
+        "nickname": "Simo",
+        "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+        "meps": 418,
+        "moves": 2,
+        "calories": 3161,
+        "totalMinutes": 639,
+        "zone0Minutes": 297,
+        "zone1Minutes": 274,
+        "zone2Minutes": 61,
+        "zone3Minutes": 6,
+        "zone4Minutes": 1,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 67,
+        "zone1MEPs": 274,
+        "zone2MEPs": 122,
+        "zone3MEPs": 18,
+        "zone4MEPs": 4,
+        "zone5MEPs": 0,
+        "avgEffort": 51,
+        "peakHR": 154,
+        "avgHR": 95,
+        "belt": 7424840,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 3,
         "nickname": "nouriii",
         "usrGUID": "da8436fe-1b55-11ef-b332-aaa3735da68b",
         "meps": 193,
@@ -65,7 +96,7 @@
         "male": true
       },
       {
-        "position": 3,
+        "position": 4,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 179,
@@ -96,7 +127,7 @@
         "male": true
       },
       {
-        "position": 4,
+        "position": 5,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 175,
@@ -127,7 +158,7 @@
         "male": true
       },
       {
-        "position": 5,
+        "position": 6,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 157,
@@ -158,7 +189,7 @@
         "male": true
       },
       {
-        "position": 6,
+        "position": 7,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 156,
@@ -189,7 +220,7 @@
         "male": false
       },
       {
-        "position": 7,
+        "position": 8,
         "nickname": "H BOXING",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 144,
@@ -220,7 +251,7 @@
         "male": true
       },
       {
-        "position": 8,
+        "position": 9,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 124,
@@ -251,7 +282,7 @@
         "male": true
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 91,
@@ -282,7 +313,7 @@
         "male": false
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
         "meps": 83,
@@ -308,37 +339,6 @@
         "rank": 6,
         "status": "Silver",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 11,
-        "nickname": "Simo",
-        "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 77,
-        "moves": 1,
-        "calories": 601,
-        "totalMinutes": 196,
-        "zone0Minutes": 128,
-        "zone1Minutes": 59,
-        "zone2Minutes": 9,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 9,
-        "zone1MEPs": 59,
-        "zone2MEPs": 18,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 47,
-        "peakHR": 123,
-        "avgHR": 89,
-        "belt": 7424840,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1337,7 +1337,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 1675,
+      "male": 2016,
       "female": 247
     },
     "active_users": {
@@ -1351,9 +1351,9 @@
       "total": 31
     },
     "meps_averages": {
-      "male": "167.5",
+      "male": "201.6",
       "female": "123.5",
-      "total": "160.2"
+      "total": "188.6"
     }
   },
   "previous": {
