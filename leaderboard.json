@@ -407,6 +407,37 @@
       },
       {
         "position": 14,
+        "nickname": "Dounia",
+        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
+        "meps": 274,
+        "moves": 2,
+        "calories": 929,
+        "totalMinutes": 164,
+        "zone0Minutes": 25,
+        "zone1Minutes": 38,
+        "zone2Minutes": 73,
+        "zone3Minutes": 22,
+        "zone4Minutes": 6,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 102,
+        "zone1MEPs": 38,
+        "zone2MEPs": 146,
+        "zone3MEPs": 66,
+        "zone4MEPs": 24,
+        "zone5MEPs": 0,
+        "avgEffort": 61,
+        "peakHR": 161,
+        "avgHR": 116,
+        "belt": 7424841,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 15,
         "nickname": "Mahmoud",
         "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
         "meps": 270,
@@ -437,7 +468,7 @@
         "male": true
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "H BOXING",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 262,
@@ -466,37 +497,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
         "male": true
-      },
-      {
-        "position": 16,
-        "nickname": "Dounia",
-        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 204,
-        "moves": 2,
-        "calories": 658,
-        "totalMinutes": 98,
-        "zone0Minutes": 6,
-        "zone1Minutes": 12,
-        "zone2Minutes": 54,
-        "zone3Minutes": 20,
-        "zone4Minutes": 6,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 79,
-        "zone1MEPs": 12,
-        "zone2MEPs": 108,
-        "zone3MEPs": 60,
-        "zone4MEPs": 24,
-        "zone5MEPs": 0,
-        "avgEffort": 65,
-        "peakHR": 161,
-        "avgHR": 123,
-        "belt": 7424841,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 17,
@@ -1338,7 +1338,7 @@
     ],
     "total_meps_by_gender": {
       "male": 5573,
-      "female": 2389
+      "female": 2459
     },
     "active_users": {
       "male": 16,
@@ -1352,8 +1352,8 @@
     },
     "meps_averages": {
       "male": "348.3",
-      "female": "298.6",
-      "total": "331.8"
+      "female": "307.4",
+      "total": "334.7"
     }
   },
   "previous": {
