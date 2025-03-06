@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "katy",
+        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
+        "meps": 836,
+        "moves": 8,
+        "calories": 2992,
+        "totalMinutes": 577,
+        "zone0Minutes": 200,
+        "zone1Minutes": 130,
+        "zone2Minutes": 94,
+        "zone3Minutes": 94,
+        "zone4Minutes": 40,
+        "zone5Minutes": 19,
+        "targetZoneMinutes": 248,
+        "zone1MEPs": 130,
+        "zone2MEPs": 188,
+        "zone3MEPs": 282,
+        "zone4MEPs": 160,
+        "zone5MEPs": 76,
+        "avgEffort": 59,
+        "peakHR": 176,
+        "avgHR": 108,
+        "belt": 7424847,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 7,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 827,
@@ -187,37 +218,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
         "male": true
-      },
-      {
-        "position": 7,
-        "nickname": "katy",
-        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 823,
-        "moves": 8,
-        "calories": 2954,
-        "totalMinutes": 572,
-        "zone0Minutes": 200,
-        "zone1Minutes": 130,
-        "zone2Minutes": 92,
-        "zone3Minutes": 91,
-        "zone4Minutes": 40,
-        "zone5Minutes": 19,
-        "targetZoneMinutes": 244,
-        "zone1MEPs": 130,
-        "zone2MEPs": 184,
-        "zone3MEPs": 273,
-        "zone4MEPs": 160,
-        "zone5MEPs": 76,
-        "avgEffort": 58,
-        "peakHR": 176,
-        "avgHR": 107,
-        "belt": 7424847,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 8,
@@ -1338,7 +1338,7 @@
     ],
     "total_meps_by_gender": {
       "male": 11957,
-      "female": 6761
+      "female": 6774
     },
     "active_users": {
       "male": 20,
@@ -1352,8 +1352,8 @@
     },
     "meps_averages": {
       "male": "597.9",
-      "female": "563.4",
-      "total": "584.9"
+      "female": "564.5",
+      "total": "585.3"
     }
   },
   "previous": {
