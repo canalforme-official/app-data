@@ -657,25 +657,25 @@
         "position": 22,
         "nickname": "dikra",
         "usrGUID": "4a650738-ab15-11ef-b127-dad563f0e7af",
-        "meps": 607,
+        "meps": 583,
         "moves": 2,
-        "calories": 2010,
+        "calories": 1945,
         "totalMinutes": 192,
-        "zone0Minutes": 3,
-        "zone1Minutes": 20,
-        "zone2Minutes": 26,
-        "zone3Minutes": 37,
-        "zone4Minutes": 34,
-        "zone5Minutes": 72,
-        "targetZoneMinutes": 162,
-        "zone1MEPs": 20,
-        "zone2MEPs": 52,
-        "zone3MEPs": 111,
-        "zone4MEPs": 136,
-        "zone5MEPs": 288,
-        "avgEffort": 79,
+        "zone0Minutes": 6,
+        "zone1Minutes": 25,
+        "zone2Minutes": 25,
+        "zone3Minutes": 36,
+        "zone4Minutes": 31,
+        "zone5Minutes": 69,
+        "targetZoneMinutes": 155,
+        "zone1MEPs": 25,
+        "zone2MEPs": 50,
+        "zone3MEPs": 108,
+        "zone4MEPs": 124,
+        "zone5MEPs": 276,
+        "avgEffort": 78,
         "peakHR": 203,
-        "avgHR": 153,
+        "avgHR": 151,
         "belt": 7468335,
         "rank": 3,
         "status": "Bronze",
@@ -1338,7 +1338,7 @@
     ],
     "total_meps_by_gender": {
       "male": 20037,
-      "female": 13033
+      "female": 13009
     },
     "active_users": {
       "male": 20,
@@ -1352,8 +1352,8 @@
     },
     "meps_averages": {
       "male": "1001.9",
-      "female": "1086.1",
-      "total": "1033.4"
+      "female": "1084.1",
+      "total": "1032.7"
     }
   }
 }
