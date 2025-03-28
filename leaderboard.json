@@ -6,18 +6,18 @@
         "position": 1,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 10286,
+        "meps": 10287,
         "moves": 54,
-        "calories": 71991,
-        "totalMinutes": 10372,
-        "zone0Minutes": 3197,
-        "zone1Minutes": 4635,
+        "calories": 72004,
+        "totalMinutes": 10376,
+        "zone0Minutes": 3200,
+        "zone1Minutes": 4636,
         "zone2Minutes": 2053,
         "zone3Minutes": 403,
         "zone4Minutes": 82,
         "zone5Minutes": 2,
         "targetZoneMinutes": 2534,
-        "zone1MEPs": 4635,
+        "zone1MEPs": 4636,
         "zone2MEPs": 4106,
         "zone3MEPs": 1209,
         "zone4MEPs": 328,
@@ -37,21 +37,21 @@
         "position": 2,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 8997,
+        "meps": 9011,
         "moves": 47,
-        "calories": 57750,
-        "totalMinutes": 7616,
+        "calories": 57812,
+        "totalMinutes": 7621,
         "zone0Minutes": 2838,
         "zone1Minutes": 2158,
-        "zone2Minutes": 1448,
-        "zone3Minutes": 745,
-        "zone4Minutes": 357,
+        "zone2Minutes": 1450,
+        "zone3Minutes": 747,
+        "zone4Minutes": 358,
         "zone5Minutes": 70,
-        "targetZoneMinutes": 2608,
+        "targetZoneMinutes": 2612,
         "zone1MEPs": 2158,
-        "zone2MEPs": 2896,
-        "zone3MEPs": 2235,
-        "zone4MEPs": 1428,
+        "zone2MEPs": 2900,
+        "zone3MEPs": 2241,
+        "zone4MEPs": 1432,
         "zone5MEPs": 280,
         "avgEffort": 56,
         "peakHR": 195,
@@ -1337,7 +1337,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 61689,
+      "male": 61704,
       "female": 37891
     },
     "active_users": {
@@ -1351,9 +1351,9 @@
       "total": 10
     },
     "meps_averages": {
-      "male": "2937.6",
+      "male": "2938.3",
       "female": "3157.6",
-      "total": "3017.6"
+      "total": "3018.0"
     }
   }
 }
