@@ -717,6 +717,37 @@
       },
       {
         "position": 24,
+        "nickname": "Hatim",
+        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
+        "meps": 47,
+        "moves": 1,
+        "calories": 295,
+        "totalMinutes": 136,
+        "zone0Minutes": 112,
+        "zone1Minutes": 9,
+        "zone2Minutes": 7,
+        "zone3Minutes": 8,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 15,
+        "zone1MEPs": 9,
+        "zone2MEPs": 14,
+        "zone3MEPs": 24,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 45,
+        "peakHR": 152,
+        "avgHR": 89,
+        "belt": 7468334,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 25,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -747,7 +778,7 @@
         "male": false
       },
       {
-        "position": 25,
+        "position": 26,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -778,7 +809,7 @@
         "male": true
       },
       {
-        "position": 26,
+        "position": 27,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 0,
@@ -809,7 +840,7 @@
         "male": true
       },
       {
-        "position": 27,
+        "position": 28,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -840,7 +871,7 @@
         "male": true
       },
       {
-        "position": 28,
+        "position": 29,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -869,37 +900,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": false
-      },
-      {
-        "position": 29,
-        "nickname": "Hatim",
-        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 30,
@@ -1337,23 +1337,23 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 6207,
+      "male": 6254,
       "female": 4100
     },
     "active_users": {
-      "male": 14,
+      "male": 15,
       "female": 9,
-      "total": 23
+      "total": 24
     },
     "inactive_users": {
-      "male": 14,
+      "male": 13,
       "female": 6,
-      "total": 20
+      "total": 19
     },
     "meps_averages": {
-      "male": "443.4",
+      "male": "416.9",
       "female": "455.6",
-      "total": "448.1"
+      "total": "431.4"
     }
   },
   "previous": {
