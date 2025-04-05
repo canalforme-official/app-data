@@ -66,6 +66,37 @@
       },
       {
         "position": 3,
+        "nickname": "bob",
+        "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
+        "meps": 805,
+        "moves": 3,
+        "calories": 3825,
+        "totalMinutes": 352,
+        "zone0Minutes": 46,
+        "zone1Minutes": 72,
+        "zone2Minutes": 69,
+        "zone3Minutes": 65,
+        "zone4Minutes": 95,
+        "zone5Minutes": 5,
+        "targetZoneMinutes": 233,
+        "zone1MEPs": 72,
+        "zone2MEPs": 138,
+        "zone3MEPs": 195,
+        "zone4MEPs": 380,
+        "zone5MEPs": 20,
+        "avgEffort": 68,
+        "peakHR": 169,
+        "avgHR": 125,
+        "belt": 7468337,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 4,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 797,
@@ -94,37 +125,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "male": false
-      },
-      {
-        "position": 4,
-        "nickname": "bob",
-        "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 785,
-        "moves": 3,
-        "calories": 3737,
-        "totalMinutes": 343,
-        "zone0Minutes": 45,
-        "zone1Minutes": 71,
-        "zone2Minutes": 67,
-        "zone3Minutes": 60,
-        "zone4Minutes": 95,
-        "zone5Minutes": 5,
-        "targetZoneMinutes": 227,
-        "zone1MEPs": 71,
-        "zone2MEPs": 134,
-        "zone3MEPs": 180,
-        "zone4MEPs": 380,
-        "zone5MEPs": 20,
-        "avgEffort": 68,
-        "peakHR": 169,
-        "avgHR": 125,
-        "belt": 7468337,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 5,
@@ -1337,7 +1337,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 8014,
+      "male": 8034,
       "female": 4677
     },
     "active_users": {
@@ -1351,9 +1351,9 @@
       "total": 18
     },
     "meps_averages": {
-      "male": "500.9",
+      "male": "502.1",
       "female": "519.7",
-      "total": "507.6"
+      "total": "508.4"
     }
   },
   "previous": {
