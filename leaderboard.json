@@ -872,6 +872,37 @@
       },
       {
         "position": 29,
+        "nickname": "Dounia",
+        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
+        "meps": 37,
+        "moves": 1,
+        "calories": 115,
+        "totalMinutes": 17,
+        "zone0Minutes": 2,
+        "zone1Minutes": 3,
+        "zone2Minutes": 3,
+        "zone3Minutes": 8,
+        "zone4Minutes": 1,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 12,
+        "zone1MEPs": 3,
+        "zone2MEPs": 6,
+        "zone3MEPs": 24,
+        "zone4MEPs": 4,
+        "zone5MEPs": 0,
+        "avgEffort": 66,
+        "peakHR": 150,
+        "avgHR": 124,
+        "belt": 7424841,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 30,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -902,7 +933,7 @@
         "male": false
       },
       {
-        "position": 30,
+        "position": 31,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -933,7 +964,7 @@
         "male": true
       },
       {
-        "position": 31,
+        "position": 32,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 0,
@@ -964,7 +995,7 @@
         "male": true
       },
       {
-        "position": 32,
+        "position": 33,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -995,7 +1026,7 @@
         "male": true
       },
       {
-        "position": 33,
+        "position": 34,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -1021,37 +1052,6 @@
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 34,
-        "nickname": "Dounia",
-        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1338,22 +1338,22 @@
     ],
     "total_meps_by_gender": {
       "male": 13670,
-      "female": 8481
+      "female": 8518
     },
     "active_users": {
       "male": 17,
-      "female": 11,
-      "total": 28
+      "female": 12,
+      "total": 29
     },
     "inactive_users": {
       "male": 11,
-      "female": 4,
-      "total": 15
+      "female": 3,
+      "total": 14
     },
     "meps_averages": {
       "male": "804.1",
-      "female": "771.0",
-      "total": "791.1"
+      "female": "709.8",
+      "total": "765.1"
     }
   }
 }
