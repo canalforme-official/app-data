@@ -190,6 +190,37 @@
       },
       {
         "position": 7,
+        "nickname": "dikra",
+        "usrGUID": "4a650738-ab15-11ef-b127-dad563f0e7af",
+        "meps": 952,
+        "moves": 4,
+        "calories": 3155,
+        "totalMinutes": 334,
+        "zone0Minutes": 8,
+        "zone1Minutes": 52,
+        "zone2Minutes": 67,
+        "zone3Minutes": 62,
+        "zone4Minutes": 57,
+        "zone5Minutes": 88,
+        "targetZoneMinutes": 273,
+        "zone1MEPs": 52,
+        "zone2MEPs": 134,
+        "zone3MEPs": 186,
+        "zone4MEPs": 228,
+        "zone5MEPs": 352,
+        "avgEffort": 74,
+        "peakHR": 194,
+        "avgHR": 144,
+        "belt": 7468335,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 8,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 817,
@@ -220,7 +251,7 @@
         "male": true
       },
       {
-        "position": 8,
+        "position": 9,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 797,
@@ -251,7 +282,7 @@
         "male": false
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 759,
@@ -282,7 +313,7 @@
         "male": true
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 719,
@@ -313,7 +344,7 @@
         "male": false
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
         "meps": 655,
@@ -344,7 +375,7 @@
         "male": false
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "Badr",
         "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
         "meps": 637,
@@ -375,7 +406,7 @@
         "male": true
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "Mouni",
         "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
         "meps": 627,
@@ -406,7 +437,7 @@
         "male": false
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
         "meps": 518,
@@ -435,37 +466,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/667b496e-0581-ac46-3a3b-9730e6d9e1b7.png",
         "male": true
-      },
-      {
-        "position": 15,
-        "nickname": "dikra",
-        "usrGUID": "4a650738-ab15-11ef-b127-dad563f0e7af",
-        "meps": 517,
-        "moves": 3,
-        "calories": 1700,
-        "totalMinutes": 183,
-        "zone0Minutes": 2,
-        "zone1Minutes": 27,
-        "zone2Minutes": 45,
-        "zone3Minutes": 36,
-        "zone4Minutes": 37,
-        "zone5Minutes": 36,
-        "targetZoneMinutes": 154,
-        "zone1MEPs": 27,
-        "zone2MEPs": 90,
-        "zone3MEPs": 108,
-        "zone4MEPs": 148,
-        "zone5MEPs": 144,
-        "avgEffort": 72,
-        "peakHR": 186,
-        "avgHR": 141,
-        "belt": 7468335,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 16,
@@ -1338,7 +1338,7 @@
     ],
     "total_meps_by_gender": {
       "male": 13591,
-      "female": 6858
+      "female": 7293
     },
     "active_users": {
       "male": 17,
@@ -1352,8 +1352,8 @@
     },
     "meps_averages": {
       "male": "799.5",
-      "female": "685.8",
-      "total": "757.4"
+      "female": "729.3",
+      "total": "773.5"
     }
   }
 }
