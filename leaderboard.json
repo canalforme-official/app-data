@@ -812,25 +812,25 @@
         "position": 27,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
-        "meps": 248,
+        "meps": 260,
         "moves": 1,
-        "calories": 1030,
-        "totalMinutes": 68,
+        "calories": 1074,
+        "totalMinutes": 72,
         "zone0Minutes": 0,
         "zone1Minutes": 0,
         "zone2Minutes": 9,
-        "zone3Minutes": 6,
+        "zone3Minutes": 10,
         "zone4Minutes": 50,
         "zone5Minutes": 3,
-        "targetZoneMinutes": 69,
+        "targetZoneMinutes": 72,
         "zone1MEPs": 0,
         "zone2MEPs": 18,
-        "zone3MEPs": 18,
+        "zone3MEPs": 30,
         "zone4MEPs": 200,
         "zone5MEPs": 12,
-        "avgEffort": 81,
+        "avgEffort": 80,
         "peakHR": 161,
-        "avgHR": 143,
+        "avgHR": 142,
         "belt": 7424838,
         "rank": 6,
         "status": "Silver",
@@ -1337,7 +1337,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 18260,
+      "male": 18272,
       "female": 11767
     },
     "active_users": {
@@ -1351,9 +1351,9 @@
       "total": 13
     },
     "meps_averages": {
-      "male": "1014.4",
+      "male": "1015.1",
       "female": "980.6",
-      "total": "1000.9"
+      "total": "1001.3"
     }
   }
 }
