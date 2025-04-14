@@ -564,19 +564,19 @@
         "position": 19,
         "nickname": "Mouni",
         "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
-        "meps": 1013,
+        "meps": 1023,
         "moves": 2,
-        "calories": 3046,
-        "totalMinutes": 461,
+        "calories": 3078,
+        "totalMinutes": 467,
         "zone0Minutes": 45,
-        "zone1Minutes": 107,
-        "zone2Minutes": 81,
+        "zone1Minutes": 109,
+        "zone2Minutes": 85,
         "zone3Minutes": 168,
         "zone4Minutes": 60,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 309,
-        "zone1MEPs": 107,
-        "zone2MEPs": 162,
+        "targetZoneMinutes": 313,
+        "zone1MEPs": 109,
+        "zone2MEPs": 170,
         "zone3MEPs": 504,
         "zone4MEPs": 240,
         "zone5MEPs": 0,
@@ -1338,7 +1338,7 @@
     ],
     "total_meps_by_gender": {
       "male": 30229,
-      "female": 17072
+      "female": 17082
     },
     "active_users": {
       "male": 19,
@@ -1352,8 +1352,8 @@
     },
     "meps_averages": {
       "male": "1591.0",
-      "female": "1313.2",
-      "total": "1478.2"
+      "female": "1314.0",
+      "total": "1478.5"
     }
   }
 }
