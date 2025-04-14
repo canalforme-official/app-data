@@ -68,19 +68,19 @@
         "position": 3,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 3103,
+        "meps": 3113,
         "moves": 14,
-        "calories": 14667,
-        "totalMinutes": 1943,
-        "zone0Minutes": 772,
-        "zone1Minutes": 300,
-        "zone2Minutes": 198,
+        "calories": 14742,
+        "totalMinutes": 1952,
+        "zone0Minutes": 773,
+        "zone1Minutes": 306,
+        "zone2Minutes": 200,
         "zone3Minutes": 285,
         "zone4Minutes": 378,
         "zone5Minutes": 10,
-        "targetZoneMinutes": 870,
-        "zone1MEPs": 300,
-        "zone2MEPs": 396,
+        "targetZoneMinutes": 872,
+        "zone1MEPs": 306,
+        "zone2MEPs": 400,
         "zone3MEPs": 855,
         "zone4MEPs": 1512,
         "zone5MEPs": 40,
@@ -130,20 +130,20 @@
         "position": 5,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 2911,
+        "meps": 2930,
         "moves": 12,
-        "calories": 18030,
-        "totalMinutes": 1772,
+        "calories": 18161,
+        "totalMinutes": 1780,
         "zone0Minutes": 345,
         "zone1Minutes": 519,
-        "zone2Minutes": 502,
-        "zone3Minutes": 236,
+        "zone2Minutes": 507,
+        "zone3Minutes": 239,
         "zone4Minutes": 141,
         "zone5Minutes": 29,
-        "targetZoneMinutes": 905,
+        "targetZoneMinutes": 914,
         "zone1MEPs": 519,
-        "zone2MEPs": 1004,
-        "zone3MEPs": 708,
+        "zone2MEPs": 1014,
+        "zone3MEPs": 717,
         "zone4MEPs": 564,
         "zone5MEPs": 116,
         "avgEffort": 60,
@@ -1337,7 +1337,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 31534,
+      "male": 31563,
       "female": 18876
     },
     "active_users": {
@@ -1351,9 +1351,9 @@
       "total": 11
     },
     "meps_averages": {
-      "male": "1659.7",
+      "male": "1661.2",
       "female": "1452.0",
-      "total": "1575.3"
+      "total": "1576.2"
     }
   }
 }
