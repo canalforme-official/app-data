@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-04-19T00:24:56.841Z",
+    "lastUpdated": "2025-04-19T00:36:03.097Z",
     "weekNumber": 16
   },
   "coachs": [
@@ -419,17 +419,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-rpm",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-cross-90x",
         "startTime": "19:30",
         "endTime": "20:00",
@@ -439,6 +428,17 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
       }
     ],
     "mardi": [
@@ -520,6 +520,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-cross-90x",
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-circuit-boxing",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -540,17 +551,6 @@
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-cross-90x",
-        "startTime": "17:30",
-        "endTime": "18:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -643,17 +643,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tone",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-cx-training",
         "startTime": "09:30",
         "endTime": "10:00",
@@ -663,6 +652,17 @@
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tone",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquadynamic",
@@ -765,17 +765,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodypump",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-trx",
         "startTime": "19:30",
         "endTime": "20:00",
@@ -785,6 +774,17 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-bodypump",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
       }
     ],
     "jeudi": [
@@ -855,17 +855,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-pilates",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-cx-training",
         "startTime": "17:30",
         "endTime": "18:00",
@@ -875,6 +864,17 @@
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-sprint",
