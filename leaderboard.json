@@ -223,19 +223,19 @@
         "position": 8,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
-        "meps": 3002,
+        "meps": 3007,
         "moves": 16,
-        "calories": 9638,
-        "totalMinutes": 1967,
+        "calories": 9656,
+        "totalMinutes": 1971,
         "zone0Minutes": 503,
-        "zone1Minutes": 597,
-        "zone2Minutes": 422,
+        "zone1Minutes": 600,
+        "zone2Minutes": 423,
         "zone3Minutes": 219,
         "zone4Minutes": 198,
         "zone5Minutes": 28,
-        "targetZoneMinutes": 863,
-        "zone1MEPs": 597,
-        "zone2MEPs": 844,
+        "targetZoneMinutes": 864,
+        "zone1MEPs": 600,
+        "zone2MEPs": 846,
         "zone3MEPs": 657,
         "zone4MEPs": 792,
         "zone5MEPs": 112,
@@ -1338,7 +1338,7 @@
     ],
     "total_meps_by_gender": {
       "male": 41247,
-      "female": 25210
+      "female": 25215
     },
     "active_users": {
       "male": 21,
@@ -1352,8 +1352,8 @@
     },
     "meps_averages": {
       "male": "1964.1",
-      "female": "1939.2",
-      "total": "1954.6"
+      "female": "1939.6",
+      "total": "1954.8"
     }
   }
 }
