@@ -779,6 +779,37 @@
       },
       {
         "position": 26,
+        "nickname": "YassineJ",
+        "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
+        "meps": 894,
+        "moves": 8,
+        "calories": 4045,
+        "totalMinutes": 639,
+        "zone0Minutes": 163,
+        "zone1Minutes": 212,
+        "zone2Minutes": 149,
+        "zone3Minutes": 76,
+        "zone4Minutes": 31,
+        "zone5Minutes": 8,
+        "targetZoneMinutes": 264,
+        "zone1MEPs": 212,
+        "zone2MEPs": 298,
+        "zone3MEPs": 228,
+        "zone4MEPs": 124,
+        "zone5MEPs": 32,
+        "avgEffort": 58,
+        "peakHR": 162,
+        "avgHR": 94,
+        "belt": 7457692,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 27,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
         "meps": 792,
@@ -809,7 +840,7 @@
         "male": false
       },
       {
-        "position": 27,
+        "position": 28,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 699,
@@ -840,7 +871,7 @@
         "male": true
       },
       {
-        "position": 28,
+        "position": 29,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 582,
@@ -871,7 +902,7 @@
         "male": false
       },
       {
-        "position": 29,
+        "position": 30,
         "nickname": "عثمان",
         "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
         "meps": 429,
@@ -894,37 +925,6 @@
         "peakHR": 195,
         "avgHR": 145,
         "belt": 7424848,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 30,
-        "nickname": "YassineJ",
-        "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
-        "meps": 384,
-        "moves": 4,
-        "calories": 1767,
-        "totalMinutes": 249,
-        "zone0Minutes": 40,
-        "zone1Minutes": 95,
-        "zone2Minutes": 73,
-        "zone3Minutes": 21,
-        "zone4Minutes": 13,
-        "zone5Minutes": 7,
-        "targetZoneMinutes": 114,
-        "zone1MEPs": 95,
-        "zone2MEPs": 146,
-        "zone3MEPs": 63,
-        "zone4MEPs": 52,
-        "zone5MEPs": 28,
-        "avgEffort": 60,
-        "peakHR": 162,
-        "avgHR": 97,
-        "belt": 7457692,
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
@@ -1337,7 +1337,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 41313,
+      "male": 41823,
       "female": 25219
     },
     "active_users": {
@@ -1351,9 +1351,9 @@
       "total": 9
     },
     "meps_averages": {
-      "male": "1967.3",
+      "male": "1991.6",
       "female": "1939.9",
-      "total": "1956.8"
+      "total": "1971.8"
     }
   }
 }
