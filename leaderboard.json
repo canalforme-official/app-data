@@ -936,19 +936,19 @@
         "position": 31,
         "nickname": "Safae",
         "usrGUID": "7412ef0e-1ef7-11f0-bac5-2608d79298e1",
-        "meps": 499,
+        "meps": 508,
         "moves": 4,
-        "calories": 2060,
-        "totalMinutes": 667,
+        "calories": 2107,
+        "totalMinutes": 675,
         "zone0Minutes": 278,
-        "zone1Minutes": 296,
-        "zone2Minutes": 77,
+        "zone1Minutes": 303,
+        "zone2Minutes": 78,
         "zone3Minutes": 15,
         "zone4Minutes": 1,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 92,
-        "zone1MEPs": 296,
-        "zone2MEPs": 154,
+        "targetZoneMinutes": 94,
+        "zone1MEPs": 303,
+        "zone2MEPs": 156,
         "zone3MEPs": 45,
         "zone4MEPs": 4,
         "zone5MEPs": 0,
@@ -1369,7 +1369,7 @@
     ],
     "total_meps_by_gender": {
       "male": 56881,
-      "female": 36956
+      "female": 36965
     },
     "active_users": {
       "male": 21,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "2708.6",
-      "female": "2639.7",
-      "total": "2681.1"
+      "female": "2640.4",
+      "total": "2681.3"
     }
   }
 }
