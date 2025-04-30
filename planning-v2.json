@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-04-29T23:24:43.385Z",
+    "lastUpdated": "2025-04-30T21:39:14.606Z",
     "weekNumber": 18
   },
   "coachs": [
@@ -790,35 +790,13 @@
     "jeudi": [
       {
         "coursId": "cours-sprint",
-        "startTime": "08:30",
-        "endTime": "09:00",
+        "startTime": "09:30",
+        "endTime": "10:00",
         "duration": 30,
         "coachIds": [
           "coach-hicham"
         ],
         "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-bodysculpt",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-adiba"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-grit-training",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-infinity",
         "type": "Mixte"
       },
       {
@@ -833,123 +811,23 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-stretching",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-adiba"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-tbc",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-cx-training",
-        "startTime": "17:30",
-        "endTime": "18:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-pilates",
+        "coursId": "cours-bodypump",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-maroua"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-sprint",
-        "startTime": "18:00",
-        "endTime": "18:30",
-        "duration": 30,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-grit-training",
-        "startTime": "18:30",
-        "endTime": "19:30",
+        "startTime": "17:30",
+        "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine",
           "coach-rabie"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-yoga",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rachid"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-bodypump",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-maroua"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-aquagym",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-piscine",
-        "type": "100% Hommes"
-      },
-      {
-        "coursId": "cours-cx-training",
-        "startTime": "19:30",
-        "endTime": "20:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-maroua"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-circuit-boxing",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
