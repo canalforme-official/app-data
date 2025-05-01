@@ -71,8 +71,8 @@
         "meps": 201,
         "moves": 1,
         "calories": 729,
-        "totalMinutes": 163,
-        "zone0Minutes": 34,
+        "totalMinutes": 164,
+        "zone0Minutes": 35,
         "zone1Minutes": 60,
         "zone2Minutes": 66,
         "zone3Minutes": 3,
@@ -86,7 +86,7 @@
         "zone5MEPs": 0,
         "avgEffort": 55,
         "peakHR": 144,
-        "avgHR": 105,
+        "avgHR": 104,
         "belt": 7424835,
         "rank": 6,
         "status": "Silver",
@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "Anas B",
+        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
+        "meps": 36,
+        "moves": 1,
+        "calories": 174,
+        "totalMinutes": 14,
+        "zone0Minutes": 3,
+        "zone1Minutes": 2,
+        "zone2Minutes": 0,
+        "zone3Minutes": 2,
+        "zone4Minutes": 5,
+        "zone5Minutes": 2,
+        "targetZoneMinutes": 9,
+        "zone1MEPs": 2,
+        "zone2MEPs": 0,
+        "zone3MEPs": 6,
+        "zone4MEPs": 20,
+        "zone5MEPs": 8,
+        "avgEffort": 73,
+        "peakHR": 194,
+        "avgHR": 137,
+        "belt": 7461311,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 7,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -189,7 +220,7 @@
         "male": false
       },
       {
-        "position": 7,
+        "position": 8,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -220,7 +251,7 @@
         "male": true
       },
       {
-        "position": 8,
+        "position": 9,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -251,7 +282,7 @@
         "male": true
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 0,
@@ -282,7 +313,7 @@
         "male": true
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -313,7 +344,7 @@
         "male": true
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -344,7 +375,7 @@
         "male": false
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -375,7 +406,7 @@
         "male": false
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 0,
@@ -401,37 +432,6 @@
         "rank": 3,
         "status": "Bronze",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 14,
-        "nickname": "Anas B",
-        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1368,23 +1368,23 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 109,
+      "male": 145,
       "female": 794
     },
     "active_users": {
-      "male": 1,
+      "male": 2,
       "female": 4,
-      "total": 5
+      "total": 6
     },
     "inactive_users": {
-      "male": 27,
+      "male": 26,
       "female": 12,
-      "total": 39
+      "total": 38
     },
     "meps_averages": {
-      "male": "109.0",
+      "male": "72.5",
       "female": "198.5",
-      "total": "180.6"
+      "total": "156.5"
     }
   },
   "previous": {
