@@ -469,6 +469,37 @@
       },
       {
         "position": 16,
+        "nickname": "Amoula L",
+        "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
+        "meps": 52,
+        "moves": 1,
+        "calories": 152,
+        "totalMinutes": 17,
+        "zone0Minutes": 3,
+        "zone1Minutes": 0,
+        "zone2Minutes": 0,
+        "zone3Minutes": 4,
+        "zone4Minutes": 7,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 15,
+        "zone1MEPs": 0,
+        "zone2MEPs": 0,
+        "zone3MEPs": 12,
+        "zone4MEPs": 28,
+        "zone5MEPs": 12,
+        "avgEffort": 75,
+        "peakHR": 180,
+        "avgHR": 143,
+        "belt": 7424839,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 17,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
         "meps": 17,
@@ -499,7 +530,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -530,7 +561,7 @@
         "male": false
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -561,7 +592,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -592,7 +623,7 @@
         "male": true
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 0,
@@ -623,7 +654,7 @@
         "male": true
       },
       {
-        "position": 21,
+        "position": 22,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -652,37 +683,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 22,
-        "nickname": "Amoula L",
-        "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 23,
@@ -1369,22 +1369,22 @@
     ],
     "total_meps_by_gender": {
       "male": 2805,
-      "female": 1283
+      "female": 1335
     },
     "active_users": {
       "male": 11,
-      "female": 5,
-      "total": 16
+      "female": 6,
+      "total": 17
     },
     "inactive_users": {
       "male": 17,
-      "female": 11,
-      "total": 28
+      "female": 10,
+      "total": 27
     },
     "meps_averages": {
       "male": "255.0",
-      "female": "256.6",
-      "total": "255.5"
+      "female": "222.5",
+      "total": "243.5"
     }
   },
   "previous": {
