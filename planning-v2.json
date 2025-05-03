@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-05-01T18:05:46.961Z",
+    "lastUpdated": "2025-05-03T00:01:44.702Z",
     "weekNumber": 18
   },
   "coachs": [
@@ -45,9 +45,9 @@
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png"
     },
     {
-      "id": "coach-rachid",
-      "name": "Rachid",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1e3529f7-c945-4c84-083a-57d17c5bbac8.png"
+      "id": "coach-sultan",
+      "name": "Sultan",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1fa7479c-73ff-3cb5-d49f-acd7871401eb.png"
     },
     {
       "id": "coach-youssef",
@@ -179,9 +179,9 @@
       "duration": 60
     },
     {
-      "id": "cours-yoga",
-      "name": "YOGA",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1c6336ea-e253-11e3-84d4-ed4d3bfbefe3.png",
+      "id": "cours-mobility",
+      "name": "MOBILITY",
+      "logo": "",
       "duration": 60
     },
     {
@@ -536,18 +536,18 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-sultan"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
       },
       {
-        "coursId": "cours-yoga",
+        "coursId": "cours-mobility",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-rachid"
+          "coach-nouredine"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -893,19 +893,18 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine",
           "coach-rabie"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
       },
       {
-        "coursId": "cours-yoga",
+        "coursId": "cours-mobility",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-rachid"
+          "coach-nouredine"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
