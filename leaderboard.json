@@ -376,6 +376,37 @@
       },
       {
         "position": 13,
+        "nickname": "Badr",
+        "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
+        "meps": 433,
+        "moves": 2,
+        "calories": 2377,
+        "totalMinutes": 291,
+        "zone0Minutes": 40,
+        "zone1Minutes": 132,
+        "zone2Minutes": 78,
+        "zone3Minutes": 19,
+        "zone4Minutes": 22,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 119,
+        "zone1MEPs": 132,
+        "zone2MEPs": 156,
+        "zone3MEPs": 57,
+        "zone4MEPs": 88,
+        "zone5MEPs": 0,
+        "avgEffort": 59,
+        "peakHR": 171,
+        "avgHR": 114,
+        "belt": 7424834,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 14,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 421,
@@ -401,37 +432,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 14,
-        "nickname": "Badr",
-        "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
-        "meps": 417,
-        "moves": 2,
-        "calories": 2296,
-        "totalMinutes": 283,
-        "zone0Minutes": 40,
-        "zone1Minutes": 132,
-        "zone2Minutes": 70,
-        "zone3Minutes": 19,
-        "zone4Minutes": 22,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 111,
-        "zone1MEPs": 132,
-        "zone2MEPs": 140,
-        "zone3MEPs": 57,
-        "zone4MEPs": 88,
-        "zone5MEPs": 0,
-        "avgEffort": 59,
-        "peakHR": 171,
-        "avgHR": 114,
-        "belt": 7424834,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 9491,
+      "male": 9507,
       "female": 5645
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 17
     },
     "meps_averages": {
-      "male": "558.3",
+      "male": "559.2",
       "female": "564.5",
-      "total": "560.6"
+      "total": "561.2"
     }
   },
   "previous": {
