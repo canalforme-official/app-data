@@ -102,8 +102,8 @@
         "meps": 2375,
         "moves": 12,
         "calories": 7063,
-        "totalMinutes": 1422,
-        "zone0Minutes": 467,
+        "totalMinutes": 1428,
+        "zone0Minutes": 473,
         "zone1Minutes": 298,
         "zone2Minutes": 168,
         "zone3Minutes": 215,
@@ -936,25 +936,25 @@
         "position": 31,
         "nickname": "عثمان",
         "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
-        "meps": 8,
+        "meps": 14,
         "moves": 1,
-        "calories": 59,
-        "totalMinutes": 15,
+        "calories": 103,
+        "totalMinutes": 20,
         "zone0Minutes": 7,
-        "zone1Minutes": 8,
-        "zone2Minutes": 0,
+        "zone1Minutes": 12,
+        "zone2Minutes": 1,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 8,
-        "zone2MEPs": 0,
+        "targetZoneMinutes": 1,
+        "zone1MEPs": 12,
+        "zone2MEPs": 2,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 49,
-        "peakHR": 110,
-        "avgHR": 96,
+        "avgEffort": 52,
+        "peakHR": 120,
+        "avgHR": 101,
         "belt": 7424848,
         "rank": 12,
         "status": "Gold",
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22580,
+      "male": 22586,
       "female": 15047
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 13
     },
     "meps_averages": {
-      "male": "1188.4",
+      "male": "1188.7",
       "female": "1253.9",
-      "total": "1213.8"
+      "total": "1214.0"
     }
   }
 }
