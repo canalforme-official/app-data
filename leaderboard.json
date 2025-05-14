@@ -624,6 +624,37 @@
       },
       {
         "position": 21,
+        "nickname": "حسام ",
+        "usrGUID": "bdad44e0-0964-11ef-92c6-861db27673fb",
+        "meps": 778,
+        "moves": 4,
+        "calories": 3544,
+        "totalMinutes": 289,
+        "zone0Minutes": 12,
+        "zone1Minutes": 40,
+        "zone2Minutes": 79,
+        "zone3Minutes": 52,
+        "zone4Minutes": 78,
+        "zone5Minutes": 28,
+        "targetZoneMinutes": 237,
+        "zone1MEPs": 40,
+        "zone2MEPs": 158,
+        "zone3MEPs": 156,
+        "zone4MEPs": 312,
+        "zone5MEPs": 112,
+        "avgEffort": 72,
+        "peakHR": 187,
+        "avgHR": 140,
+        "belt": 7461319,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 22,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 777,
@@ -654,7 +685,7 @@
         "male": true
       },
       {
-        "position": 22,
+        "position": 23,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 753,
@@ -683,37 +714,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "male": false
-      },
-      {
-        "position": 23,
-        "nickname": "حسام ",
-        "usrGUID": "bdad44e0-0964-11ef-92c6-861db27673fb",
-        "meps": 739,
-        "moves": 4,
-        "calories": 3381,
-        "totalMinutes": 279,
-        "zone0Minutes": 12,
-        "zone1Minutes": 40,
-        "zone2Minutes": 79,
-        "zone3Minutes": 51,
-        "zone4Minutes": 72,
-        "zone5Minutes": 25,
-        "targetZoneMinutes": 227,
-        "zone1MEPs": 40,
-        "zone2MEPs": 158,
-        "zone3MEPs": 153,
-        "zone4MEPs": 288,
-        "zone5MEPs": 100,
-        "avgEffort": 72,
-        "peakHR": 187,
-        "avgHR": 139,
-        "belt": 7461319,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 24,
@@ -1368,7 +1368,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 25602,
+      "male": 25641,
       "female": 16531
     },
     "active_users": {
@@ -1382,9 +1382,9 @@
       "total": 13
     },
     "meps_averages": {
-      "male": "1347.5",
+      "male": "1349.5",
       "female": "1377.6",
-      "total": "1359.1"
+      "total": "1360.4"
     }
   }
 }
