@@ -66,6 +66,37 @@
       },
       {
         "position": 3,
+        "nickname": "meriem N",
+        "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
+        "meps": 3174,
+        "moves": 14,
+        "calories": 10246,
+        "totalMinutes": 2159,
+        "zone0Minutes": 723,
+        "zone1Minutes": 480,
+        "zone2Minutes": 451,
+        "zone3Minutes": 228,
+        "zone4Minutes": 173,
+        "zone5Minutes": 104,
+        "targetZoneMinutes": 956,
+        "zone1MEPs": 480,
+        "zone2MEPs": 902,
+        "zone3MEPs": 684,
+        "zone4MEPs": 692,
+        "zone5MEPs": 416,
+        "avgEffort": 59,
+        "peakHR": 183,
+        "avgHR": 112,
+        "belt": 7424835,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 4,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 3108,
@@ -88,37 +119,6 @@
         "peakHR": 194,
         "avgHR": 110,
         "belt": 7424844,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 4,
-        "nickname": "meriem N",
-        "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 3034,
-        "moves": 15,
-        "calories": 9826,
-        "totalMinutes": 2108,
-        "zone0Minutes": 716,
-        "zone1Minutes": 479,
-        "zone2Minutes": 439,
-        "zone3Minutes": 219,
-        "zone4Minutes": 156,
-        "zone5Minutes": 99,
-        "targetZoneMinutes": 913,
-        "zone1MEPs": 479,
-        "zone2MEPs": 878,
-        "zone3MEPs": 657,
-        "zone4MEPs": 624,
-        "zone5MEPs": 396,
-        "avgEffort": 58,
-        "peakHR": 183,
-        "avgHR": 111,
-        "belt": 7424835,
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
@@ -1369,7 +1369,7 @@
     ],
     "total_meps_by_gender": {
       "male": 31721,
-      "female": 19199
+      "female": 19339
     },
     "active_users": {
       "male": 19,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "1669.5",
-      "female": "1599.9",
-      "total": "1642.6"
+      "female": "1611.6",
+      "total": "1647.1"
     }
   }
 }
