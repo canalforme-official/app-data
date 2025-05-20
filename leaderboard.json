@@ -9,8 +9,8 @@
         "meps": 6618,
         "moves": 40,
         "calories": 39143,
-        "totalMinutes": 6327,
-        "zone0Minutes": 3410,
+        "totalMinutes": 6332,
+        "zone0Minutes": 3415,
         "zone1Minutes": 741,
         "zone2Minutes": 1001,
         "zone3Minutes": 825,
@@ -24,7 +24,7 @@
         "zone5MEPs": 120,
         "avgEffort": 51,
         "peakHR": 196,
-        "avgHR": 102,
+        "avgHR": 101,
         "belt": 7468338,
         "rank": 6,
         "status": "Silver",
@@ -68,20 +68,20 @@
         "position": 3,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 3990,
+        "meps": 3999,
         "moves": 16,
-        "calories": 12730,
-        "totalMinutes": 2573,
+        "calories": 12765,
+        "totalMinutes": 2578,
         "zone0Minutes": 810,
-        "zone1Minutes": 556,
-        "zone2Minutes": 541,
-        "zone3Minutes": 312,
+        "zone1Minutes": 558,
+        "zone2Minutes": 543,
+        "zone3Minutes": 313,
         "zone4Minutes": 248,
         "zone5Minutes": 106,
-        "targetZoneMinutes": 1205,
-        "zone1MEPs": 556,
-        "zone2MEPs": 1082,
-        "zone3MEPs": 936,
+        "targetZoneMinutes": 1209,
+        "zone1MEPs": 558,
+        "zone2MEPs": 1086,
+        "zone3MEPs": 939,
         "zone4MEPs": 992,
         "zone5MEPs": 424,
         "avgEffort": 59,
@@ -1369,7 +1369,7 @@
     ],
     "total_meps_by_gender": {
       "male": 39032,
-      "female": 23884
+      "female": 23893
     },
     "active_users": {
       "male": 20,
@@ -1383,8 +1383,8 @@
     },
     "meps_averages": {
       "male": "1951.6",
-      "female": "1990.3",
-      "total": "1966.1"
+      "female": "1991.1",
+      "total": "1966.4"
     }
   }
 }
