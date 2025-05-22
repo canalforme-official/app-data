@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2025-05-16T10:52:46.152Z",
-    "weekNumber": 20
+    "lastUpdated": "2025-05-22T16:47:27.327Z",
+    "weekNumber": 21
   },
   "coachs": [
     {
@@ -817,6 +817,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-aquagym",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-piscine",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-pilates",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -1148,7 +1159,7 @@
         "endTime": "11:00",
         "duration": 30,
         "coachIds": [
-          "coach-rabie"
+          "coach-maroua"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
@@ -1159,7 +1170,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fayza"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -1170,7 +1181,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-rabie"
         ],
         "studioId": "studio-piscine",
         "type": "Mixte"
