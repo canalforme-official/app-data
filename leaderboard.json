@@ -9,8 +9,8 @@
         "meps": 8364,
         "moves": 56,
         "calories": 50430,
-        "totalMinutes": 9327,
-        "zone0Minutes": 5488,
+        "totalMinutes": 9332,
+        "zone0Minutes": 5493,
         "zone1Minutes": 1091,
         "zone2Minutes": 1366,
         "zone3Minutes": 987,
@@ -1029,25 +1029,25 @@
         "position": 34,
         "nickname": "Clay",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 83,
+        "meps": 100,
         "moves": 2,
-        "calories": 390,
-        "totalMinutes": 57,
+        "calories": 458,
+        "totalMinutes": 62,
         "zone0Minutes": 21,
         "zone1Minutes": 12,
         "zone2Minutes": 8,
-        "zone3Minutes": 9,
-        "zone4Minutes": 6,
+        "zone3Minutes": 12,
+        "zone4Minutes": 8,
         "zone5Minutes": 1,
-        "targetZoneMinutes": 24,
+        "targetZoneMinutes": 29,
         "zone1MEPs": 12,
         "zone2MEPs": 16,
-        "zone3MEPs": 27,
-        "zone4MEPs": 24,
+        "zone3MEPs": 36,
+        "zone4MEPs": 32,
         "zone5MEPs": 4,
-        "avgEffort": 55,
+        "avgEffort": 57,
         "peakHR": 160,
-        "avgHR": 97,
+        "avgHR": 101,
         "belt": 7461309,
         "rank": 0,
         "status": "No Status",
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 55216,
+      "male": 55233,
       "female": 34893
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 11
     },
     "meps_averages": {
-      "male": "2629.3",
+      "male": "2630.1",
       "female": "2684.1",
-      "total": "2650.3"
+      "total": "2650.8"
     }
   }
 }
