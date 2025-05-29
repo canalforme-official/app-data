@@ -9,8 +9,8 @@
         "meps": 8355,
         "moves": 56,
         "calories": 50360,
-        "totalMinutes": 9272,
-        "zone0Minutes": 5440,
+        "totalMinutes": 9277,
+        "zone0Minutes": 5445,
         "zone1Minutes": 1086,
         "zone2Minutes": 1364,
         "zone3Minutes": 987,
@@ -68,19 +68,19 @@
         "position": 3,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 6034,
+        "meps": 6039,
         "moves": 25,
-        "calories": 19328,
-        "totalMinutes": 4000,
+        "calories": 19354,
+        "totalMinutes": 4004,
         "zone0Minutes": 1296,
-        "zone1Minutes": 897,
-        "zone2Minutes": 782,
+        "zone1Minutes": 900,
+        "zone2Minutes": 783,
         "zone3Minutes": 527,
         "zone4Minutes": 353,
         "zone5Minutes": 145,
-        "targetZoneMinutes": 1805,
-        "zone1MEPs": 897,
-        "zone2MEPs": 1564,
+        "targetZoneMinutes": 1807,
+        "zone1MEPs": 900,
+        "zone2MEPs": 1566,
         "zone3MEPs": 1581,
         "zone4MEPs": 1412,
         "zone5MEPs": 580,
@@ -1400,7 +1400,7 @@
     ],
     "total_meps_by_gender": {
       "male": 55112,
-      "female": 34779
+      "female": 34784
     },
     "active_users": {
       "male": 21,
@@ -1414,8 +1414,8 @@
     },
     "meps_averages": {
       "male": "2624.4",
-      "female": "2675.3",
-      "total": "2643.9"
+      "female": "2675.7",
+      "total": "2644.0"
     }
   }
 }
