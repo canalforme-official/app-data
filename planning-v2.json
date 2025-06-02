@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2025-05-22T16:47:27.327Z",
-    "weekNumber": 21
+    "lastUpdated": "2025-06-02T11:47:28.745Z",
+    "weekNumber": 22
   },
   "coachs": [
     {
@@ -168,9 +168,9 @@
       "duration": 60
     },
     {
-      "id": "cours-circuit-boxing",
-      "name": "CIRCUIT BOXING",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
+      "id": "cours-grit-training",
+      "name": "GRIT TRAINING",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/df565816-3afb-aaee-ad7d-50e9e1d21642.png",
       "duration": 60
     },
     {
@@ -228,9 +228,9 @@
       "duration": 30
     },
     {
-      "id": "cours-grit-training",
-      "name": "GRIT TRAINING",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/df565816-3afb-aaee-ad7d-50e9e1d21642.png",
+      "id": "cours-circuit-boxing",
+      "name": "CIRCUIT BOXING",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
       "duration": 60
     },
     {
@@ -526,7 +526,7 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-circuit-boxing",
+        "coursId": "cours-grit-training",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
@@ -1100,8 +1100,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham",
-          "coach-rabie"
+          "coach-hicham"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
