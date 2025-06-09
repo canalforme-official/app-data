@@ -595,19 +595,19 @@
         "position": 20,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
-        "meps": 350,
+        "meps": 358,
         "moves": 5,
-        "calories": 1972,
-        "totalMinutes": 314,
+        "calories": 2011,
+        "totalMinutes": 318,
         "zone0Minutes": 90,
         "zone1Minutes": 130,
-        "zone2Minutes": 66,
+        "zone2Minutes": 70,
         "zone3Minutes": 24,
         "zone4Minutes": 4,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 94,
+        "targetZoneMinutes": 98,
         "zone1MEPs": 130,
-        "zone2MEPs": 132,
+        "zone2MEPs": 140,
         "zone3MEPs": 72,
         "zone4MEPs": 16,
         "zone5MEPs": 0,
@@ -629,8 +629,8 @@
         "meps": 320,
         "moves": 5,
         "calories": 1889,
-        "totalMinutes": 212,
-        "zone0Minutes": 27,
+        "totalMinutes": 216,
+        "zone0Minutes": 31,
         "zone1Minutes": 90,
         "zone2Minutes": 56,
         "zone3Minutes": 38,
@@ -644,7 +644,7 @@
         "zone5MEPs": 0,
         "avgEffort": 59,
         "peakHR": 147,
-        "avgHR": 108,
+        "avgHR": 107,
         "belt": 7461317,
         "rank": 3,
         "status": "Bronze",
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 10901,
+      "male": 10909,
       "female": 7519
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 19
     },
     "meps_averages": {
-      "male": "641.2",
+      "male": "641.7",
       "female": "835.4",
-      "total": "708.5"
+      "total": "708.8"
     }
   }
 }
