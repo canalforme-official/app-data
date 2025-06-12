@@ -626,25 +626,25 @@
         "position": 21,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 501,
+        "meps": 506,
         "moves": 5,
-        "calories": 2880,
-        "totalMinutes": 508,
-        "zone0Minutes": 228,
-        "zone1Minutes": 143,
-        "zone2Minutes": 88,
+        "calories": 2904,
+        "totalMinutes": 598,
+        "zone0Minutes": 314,
+        "zone1Minutes": 146,
+        "zone2Minutes": 89,
         "zone3Minutes": 14,
         "zone4Minutes": 31,
         "zone5Minutes": 4,
         "targetZoneMinutes": 138,
-        "zone1MEPs": 143,
-        "zone2MEPs": 176,
+        "zone1MEPs": 146,
+        "zone2MEPs": 178,
         "zone3MEPs": 42,
         "zone4MEPs": 124,
         "zone5MEPs": 16,
-        "avgEffort": 53,
+        "avgEffort": 51,
         "peakHR": 165,
-        "avgHR": 96,
+        "avgHR": 92,
         "belt": 7468337,
         "rank": 6,
         "status": "Silver",
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 16610,
+      "male": 16615,
       "female": 10782
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 16
     },
     "meps_averages": {
-      "male": "874.2",
+      "male": "874.5",
       "female": "1078.2",
-      "total": "944.6"
+      "total": "944.7"
     }
   }
 }
