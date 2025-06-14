@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "Nabil ",
+        "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
+        "meps": 1794,
+        "moves": 7,
+        "calories": 8666,
+        "totalMinutes": 1103,
+        "zone0Minutes": 372,
+        "zone1Minutes": 215,
+        "zone2Minutes": 173,
+        "zone3Minutes": 139,
+        "zone4Minutes": 165,
+        "zone5Minutes": 39,
+        "targetZoneMinutes": 515,
+        "zone1MEPs": 215,
+        "zone2MEPs": 346,
+        "zone3MEPs": 417,
+        "zone4MEPs": 660,
+        "zone5MEPs": 156,
+        "avgEffort": 60,
+        "peakHR": 174,
+        "avgHR": 107,
+        "belt": 7457694,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 7,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 1691,
@@ -187,37 +218,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": false
-      },
-      {
-        "position": 7,
-        "nickname": "Nabil ",
-        "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 1688,
-        "moves": 7,
-        "calories": 8054,
-        "totalMinutes": 969,
-        "zone0Minutes": 301,
-        "zone1Minutes": 173,
-        "zone2Minutes": 165,
-        "zone3Minutes": 135,
-        "zone4Minutes": 162,
-        "zone5Minutes": 33,
-        "targetZoneMinutes": 494,
-        "zone1MEPs": 173,
-        "zone2MEPs": 330,
-        "zone3MEPs": 405,
-        "zone4MEPs": 648,
-        "zone5MEPs": 132,
-        "avgEffort": 61,
-        "peakHR": 173,
-        "avgHR": 109,
-        "belt": 7457694,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 8,
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 19204,
+      "male": 19310,
       "female": 12379
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 16
     },
     "meps_averages": {
-      "male": "1010.7",
+      "male": "1016.3",
       "female": "1237.9",
-      "total": "1089.1"
+      "total": "1092.7"
     }
   }
 }
