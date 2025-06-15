@@ -376,6 +376,37 @@
       },
       {
         "position": 13,
+        "nickname": "Anas B",
+        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
+        "meps": 960,
+        "moves": 10,
+        "calories": 5364,
+        "totalMinutes": 861,
+        "zone0Minutes": 325,
+        "zone1Minutes": 299,
+        "zone2Minutes": 108,
+        "zone3Minutes": 71,
+        "zone4Minutes": 55,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 234,
+        "zone1MEPs": 299,
+        "zone2MEPs": 216,
+        "zone3MEPs": 213,
+        "zone4MEPs": 220,
+        "zone5MEPs": 12,
+        "avgEffort": 55,
+        "peakHR": 178,
+        "avgHR": 103,
+        "belt": 7461311,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 14,
         "nickname": "Le Toulo",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 943,
@@ -401,37 +432,6 @@
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 14,
-        "nickname": "Anas B",
-        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
-        "meps": 939,
-        "moves": 9,
-        "calories": 5212,
-        "totalMinutes": 770,
-        "zone0Minutes": 255,
-        "zone1Minutes": 278,
-        "zone2Minutes": 108,
-        "zone3Minutes": 71,
-        "zone4Minutes": 55,
-        "zone5Minutes": 3,
-        "targetZoneMinutes": 234,
-        "zone1MEPs": 278,
-        "zone2MEPs": 216,
-        "zone3MEPs": 213,
-        "zone4MEPs": 220,
-        "zone5MEPs": 12,
-        "avgEffort": 56,
-        "peakHR": 178,
-        "avgHR": 106,
-        "belt": 7461311,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 20846,
+      "male": 20867,
       "female": 12695
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "1097.2",
+      "male": "1098.3",
       "female": "1154.1",
-      "total": "1118.0"
+      "total": "1118.7"
     }
   }
 }
