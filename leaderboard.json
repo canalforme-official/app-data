@@ -164,8 +164,8 @@
         "meps": 2208,
         "moves": 9,
         "calories": 10591,
-        "totalMinutes": 1320,
-        "zone0Minutes": 432,
+        "totalMinutes": 1321,
+        "zone0Minutes": 433,
         "zone1Minutes": 247,
         "zone2Minutes": 212,
         "zone3Minutes": 179,
@@ -779,6 +779,37 @@
       },
       {
         "position": 26,
+        "nickname": "Nada",
+        "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
+        "meps": 339,
+        "moves": 4,
+        "calories": 1266,
+        "totalMinutes": 467,
+        "zone0Minutes": 267,
+        "zone1Minutes": 109,
+        "zone2Minutes": 59,
+        "zone3Minutes": 16,
+        "zone4Minutes": 13,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 90,
+        "zone1MEPs": 109,
+        "zone2MEPs": 118,
+        "zone3MEPs": 48,
+        "zone4MEPs": 52,
+        "zone5MEPs": 12,
+        "avgEffort": 50,
+        "peakHR": 186,
+        "avgHR": 97,
+        "belt": 7461316,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 27,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 336,
@@ -807,37 +838,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 27,
-        "nickname": "Nada",
-        "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
-        "meps": 334,
-        "moves": 4,
-        "calories": 1241,
-        "totalMinutes": 462,
-        "zone0Minutes": 267,
-        "zone1Minutes": 104,
-        "zone2Minutes": 59,
-        "zone3Minutes": 16,
-        "zone4Minutes": 13,
-        "zone5Minutes": 3,
-        "targetZoneMinutes": 90,
-        "zone1MEPs": 104,
-        "zone2MEPs": 118,
-        "zone3MEPs": 48,
-        "zone4MEPs": 52,
-        "zone5MEPs": 12,
-        "avgEffort": 50,
-        "peakHR": 186,
-        "avgHR": 97,
-        "belt": 7461316,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 28,
@@ -1400,7 +1400,7 @@
     ],
     "total_meps_by_gender": {
       "male": 24048,
-      "female": 14392
+      "female": 14397
     },
     "active_users": {
       "male": 19,
@@ -1414,8 +1414,8 @@
     },
     "meps_averages": {
       "male": "1265.7",
-      "female": "1199.3",
-      "total": "1240.0"
+      "female": "1199.8",
+      "total": "1240.2"
     }
   }
 }
