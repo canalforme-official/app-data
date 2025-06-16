@@ -781,19 +781,19 @@
         "position": 26,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
-        "meps": 310,
+        "meps": 317,
         "moves": 4,
-        "calories": 2737,
-        "totalMinutes": 280,
+        "calories": 2800,
+        "totalMinutes": 285,
         "zone0Minutes": 52,
-        "zone1Minutes": 149,
-        "zone2Minutes": 76,
+        "zone1Minutes": 152,
+        "zone2Minutes": 78,
         "zone3Minutes": 3,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 78,
-        "zone1MEPs": 149,
-        "zone2MEPs": 152,
+        "targetZoneMinutes": 80,
+        "zone1MEPs": 152,
+        "zone2MEPs": 156,
         "zone3MEPs": 9,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22389,
+      "male": 22396,
       "female": 13237
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "1178.4",
+      "male": "1178.7",
       "female": "1203.4",
-      "total": "1187.5"
+      "total": "1187.8"
     }
   }
 }
