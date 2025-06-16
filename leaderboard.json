@@ -471,19 +471,19 @@
         "position": 16,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
-        "meps": 930,
+        "meps": 980,
         "moves": 8,
-        "calories": 5950,
-        "totalMinutes": 1276,
+        "calories": 6344,
+        "totalMinutes": 1323,
         "zone0Minutes": 583,
-        "zone1Minutes": 506,
-        "zone2Minutes": 137,
+        "zone1Minutes": 550,
+        "zone2Minutes": 140,
         "zone3Minutes": 50,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 187,
-        "zone1MEPs": 506,
-        "zone2MEPs": 274,
+        "targetZoneMinutes": 190,
+        "zone1MEPs": 550,
+        "zone2MEPs": 280,
         "zone3MEPs": 150,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 24636,
+      "male": 24686,
       "female": 14759
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 14
     },
     "meps_averages": {
-      "male": "1296.6",
+      "male": "1299.3",
       "female": "1229.9",
-      "total": "1270.8"
+      "total": "1272.4"
     }
   }
 }
