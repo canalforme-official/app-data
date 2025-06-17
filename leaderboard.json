@@ -376,6 +376,37 @@
       },
       {
         "position": 13,
+        "nickname": "Anas B",
+        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
+        "meps": 1185,
+        "moves": 12,
+        "calories": 6643,
+        "totalMinutes": 989,
+        "zone0Minutes": 338,
+        "zone1Minutes": 367,
+        "zone2Minutes": 118,
+        "zone3Minutes": 82,
+        "zone4Minutes": 69,
+        "zone5Minutes": 15,
+        "targetZoneMinutes": 282,
+        "zone1MEPs": 367,
+        "zone2MEPs": 236,
+        "zone3MEPs": 246,
+        "zone4MEPs": 276,
+        "zone5MEPs": 60,
+        "avgEffort": 56,
+        "peakHR": 193,
+        "avgHR": 105,
+        "belt": 7461311,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 14,
         "nickname": "Le Toulo",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 1178,
@@ -401,37 +432,6 @@
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 14,
-        "nickname": "Anas B",
-        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
-        "meps": 1160,
-        "moves": 12,
-        "calories": 6523,
-        "totalMinutes": 979,
-        "zone0Minutes": 338,
-        "zone1Minutes": 367,
-        "zone2Minutes": 113,
-        "zone3Minutes": 77,
-        "zone4Minutes": 69,
-        "zone5Minutes": 15,
-        "targetZoneMinutes": 272,
-        "zone1MEPs": 367,
-        "zone2MEPs": 226,
-        "zone3MEPs": 231,
-        "zone4MEPs": 276,
-        "zone5MEPs": 60,
-        "avgEffort": 56,
-        "peakHR": 193,
-        "avgHR": 105,
-        "belt": 7461311,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 25607,
+      "male": 25632,
       "female": 14759
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 14
     },
     "meps_averages": {
-      "male": "1347.7",
+      "male": "1349.1",
       "female": "1229.9",
-      "total": "1302.1"
+      "total": "1302.9"
     }
   }
 }
