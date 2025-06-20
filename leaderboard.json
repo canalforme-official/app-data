@@ -39,7 +39,7 @@
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 5141,
         "moves": 52,
-        "calories": 31621,
+        "calories": 31622,
         "totalMinutes": 6103,
         "zone0Minutes": 3650,
         "zone1Minutes": 788,
@@ -254,19 +254,19 @@
         "position": 9,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 1681,
+        "meps": 1679,
         "moves": 15,
-        "calories": 5721,
+        "calories": 5720,
         "totalMinutes": 1390,
         "zone0Minutes": 479,
-        "zone1Minutes": 420,
-        "zone2Minutes": 258,
+        "zone1Minutes": 422,
+        "zone2Minutes": 256,
         "zone3Minutes": 187,
         "zone4Minutes": 46,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 491,
-        "zone1MEPs": 420,
-        "zone2MEPs": 516,
+        "targetZoneMinutes": 490,
+        "zone1MEPs": 422,
+        "zone2MEPs": 512,
         "zone3MEPs": 561,
         "zone4MEPs": 184,
         "zone5MEPs": 0,
@@ -1400,7 +1400,7 @@
     ],
     "total_meps_by_gender": {
       "male": 32208,
-      "female": 17667
+      "female": 17665
     },
     "active_users": {
       "male": 20,
@@ -1414,8 +1414,8 @@
     },
     "meps_averages": {
       "male": "1610.4",
-      "female": "1472.3",
-      "total": "1558.6"
+      "female": "1472.1",
+      "total": "1558.5"
     }
   }
 }
