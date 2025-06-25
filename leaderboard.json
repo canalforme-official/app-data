@@ -285,25 +285,25 @@
         "position": 10,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 2316,
+        "meps": 2321,
         "moves": 18,
-        "calories": 13021,
-        "totalMinutes": 2850,
-        "zone0Minutes": 1640,
-        "zone1Minutes": 589,
+        "calories": 13064,
+        "totalMinutes": 2960,
+        "zone0Minutes": 1745,
+        "zone1Minutes": 594,
         "zone2Minutes": 344,
         "zone3Minutes": 69,
         "zone4Minutes": 122,
         "zone5Minutes": 86,
         "targetZoneMinutes": 622,
-        "zone1MEPs": 589,
+        "zone1MEPs": 594,
         "zone2MEPs": 688,
         "zone3MEPs": 207,
         "zone4MEPs": 488,
         "zone5MEPs": 344,
         "avgEffort": 50,
         "peakHR": 185,
-        "avgHR": 91,
+        "avgHR": 90,
         "belt": 7468337,
         "rank": 6,
         "status": "Silver",
@@ -440,18 +440,18 @@
         "position": 15,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
-        "meps": 1842,
+        "meps": 1845,
         "moves": 14,
-        "calories": 9347,
-        "totalMinutes": 886,
-        "zone0Minutes": 169,
-        "zone1Minutes": 170,
+        "calories": 9371,
+        "totalMinutes": 890,
+        "zone0Minutes": 170,
+        "zone1Minutes": 173,
         "zone2Minutes": 167,
         "zone3Minutes": 182,
         "zone4Minutes": 162,
         "zone5Minutes": 36,
         "targetZoneMinutes": 550,
-        "zone1MEPs": 170,
+        "zone1MEPs": 173,
         "zone2MEPs": 334,
         "zone3MEPs": 546,
         "zone4MEPs": 648,
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 46193,
+      "male": 46201,
       "female": 21906
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 13
     },
     "meps_averages": {
-      "male": "2309.7",
+      "male": "2310.1",
       "female": "1825.5",
-      "total": "2128.1"
+      "total": "2128.3"
     }
   }
 }
