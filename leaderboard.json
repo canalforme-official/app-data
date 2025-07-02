@@ -4,6 +4,37 @@
     "data": [
       {
         "position": 1,
+        "nickname": "HICHAM",
+        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
+        "meps": 409,
+        "moves": 6,
+        "calories": 2752,
+        "totalMinutes": 589,
+        "zone0Minutes": 359,
+        "zone1Minutes": 97,
+        "zone2Minutes": 90,
+        "zone3Minutes": 40,
+        "zone4Minutes": 3,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 133,
+        "zone1MEPs": 97,
+        "zone2MEPs": 180,
+        "zone3MEPs": 120,
+        "zone4MEPs": 12,
+        "zone5MEPs": 0,
+        "avgEffort": 48,
+        "peakHR": 170,
+        "avgHR": 96,
+        "belt": 7468338,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
+        "male": true
+      },
+      {
+        "position": 2,
         "nickname": "Mouni",
         "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
         "meps": 359,
@@ -34,22 +65,22 @@
         "male": false
       },
       {
-        "position": 2,
+        "position": 3,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
-        "meps": 344,
+        "meps": 343,
         "moves": 2,
-        "calories": 2005,
+        "calories": 2004,
         "totalMinutes": 348,
         "zone0Minutes": 143,
-        "zone1Minutes": 116,
-        "zone2Minutes": 55,
+        "zone1Minutes": 117,
+        "zone2Minutes": 54,
         "zone3Minutes": 18,
         "zone4Minutes": 14,
         "zone5Minutes": 2,
         "targetZoneMinutes": 88,
-        "zone1MEPs": 116,
-        "zone2MEPs": 110,
+        "zone1MEPs": 117,
+        "zone2MEPs": 108,
         "zone3MEPs": 54,
         "zone4MEPs": 56,
         "zone5MEPs": 8,
@@ -65,7 +96,7 @@
         "male": true
       },
       {
-        "position": 3,
+        "position": 4,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 324,
@@ -96,7 +127,7 @@
         "male": false
       },
       {
-        "position": 4,
+        "position": 5,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
         "meps": 314,
@@ -124,37 +155,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 5,
-        "nickname": "HICHAM",
-        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 284,
-        "moves": 3,
-        "calories": 1927,
-        "totalMinutes": 440,
-        "zone0Minutes": 278,
-        "zone1Minutes": 76,
-        "zone2Minutes": 53,
-        "zone3Minutes": 30,
-        "zone4Minutes": 3,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 86,
-        "zone1MEPs": 76,
-        "zone2MEPs": 106,
-        "zone3MEPs": 90,
-        "zone4MEPs": 12,
-        "zone5MEPs": 0,
-        "avgEffort": 47,
-        "peakHR": 170,
-        "avgHR": 95,
-        "belt": 7468338,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
         "male": true
       },
       {
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 2584,
+      "male": 2708,
       "female": 994
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 28
     },
     "meps_averages": {
-      "male": "198.8",
+      "male": "208.3",
       "female": "248.5",
-      "total": "210.5"
+      "total": "217.8"
     }
   },
   "previous": {
