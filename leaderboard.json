@@ -595,19 +595,19 @@
         "position": 20,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
-        "meps": 13,
+        "meps": 19,
         "moves": 1,
-        "calories": 91,
-        "totalMinutes": 13,
+        "calories": 127,
+        "totalMinutes": 18,
         "zone0Minutes": 0,
-        "zone1Minutes": 13,
-        "zone2Minutes": 0,
+        "zone1Minutes": 17,
+        "zone2Minutes": 1,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 13,
-        "zone2MEPs": 0,
+        "targetZoneMinutes": 1,
+        "zone1MEPs": 17,
+        "zone2MEPs": 2,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 2957,
+      "male": 2963,
       "female": 1091
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "197.1",
+      "male": "197.5",
       "female": "218.2",
-      "total": "202.4"
+      "total": "202.7"
     }
   },
   "previous": {
