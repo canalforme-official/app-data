@@ -190,6 +190,37 @@
       },
       {
         "position": 7,
+        "nickname": "Hatim",
+        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
+        "meps": 465,
+        "moves": 4,
+        "calories": 3806,
+        "totalMinutes": 569,
+        "zone0Minutes": 190,
+        "zone1Minutes": 310,
+        "zone2Minutes": 57,
+        "zone3Minutes": 7,
+        "zone4Minutes": 5,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 69,
+        "zone1MEPs": 310,
+        "zone2MEPs": 114,
+        "zone3MEPs": 21,
+        "zone4MEPs": 20,
+        "zone5MEPs": 0,
+        "avgEffort": 52,
+        "peakHR": 169,
+        "avgHR": 103,
+        "belt": 7468334,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 8,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 464,
@@ -220,7 +251,7 @@
         "male": true
       },
       {
-        "position": 8,
+        "position": 9,
         "nickname": "Mouni",
         "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
         "meps": 408,
@@ -251,7 +282,7 @@
         "male": false
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 349,
@@ -282,7 +313,7 @@
         "male": false
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 343,
@@ -313,7 +344,7 @@
         "male": true
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 325,
@@ -344,7 +375,7 @@
         "male": true
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
         "meps": 298,
@@ -375,7 +406,7 @@
         "male": true
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "Badr",
         "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
         "meps": 277,
@@ -398,37 +429,6 @@
         "peakHR": 143,
         "avgHR": 108,
         "belt": 7424834,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 14,
-        "nickname": "Hatim",
-        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 251,
-        "moves": 3,
-        "calories": 1981,
-        "totalMinutes": 320,
-        "zone0Minutes": 126,
-        "zone1Minutes": 152,
-        "zone2Minutes": 32,
-        "zone3Minutes": 5,
-        "zone4Minutes": 5,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 42,
-        "zone1MEPs": 152,
-        "zone2MEPs": 64,
-        "zone3MEPs": 15,
-        "zone4MEPs": 20,
-        "zone5MEPs": 0,
-        "avgEffort": 52,
-        "peakHR": 169,
-        "avgHR": 101,
-        "belt": 7468334,
         "rank": 6,
         "status": "Silver",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
@@ -1399,7 +1399,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 5640,
+      "male": 5854,
       "female": 2207
     },
     "active_users": {
@@ -1413,9 +1413,9 @@
       "total": 21
     },
     "meps_averages": {
-      "male": "313.3",
+      "male": "325.2",
       "female": "367.8",
-      "total": "327.0"
+      "total": "335.9"
     }
   },
   "previous": {
