@@ -719,25 +719,25 @@
         "position": 24,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
-        "meps": 10,
+        "meps": 20,
         "moves": 1,
-        "calories": 38,
-        "totalMinutes": 20,
+        "calories": 71,
+        "totalMinutes": 23,
         "zone0Minutes": 12,
         "zone1Minutes": 6,
         "zone2Minutes": 2,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
+        "zone3Minutes": 2,
+        "zone4Minutes": 1,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 2,
+        "targetZoneMinutes": 5,
         "zone1MEPs": 6,
         "zone2MEPs": 4,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
+        "zone3MEPs": 6,
+        "zone4MEPs": 4,
         "zone5MEPs": 0,
-        "avgEffort": 47,
-        "peakHR": 131,
-        "avgHR": 92,
+        "avgEffort": 52,
+        "peakHR": 160,
+        "avgHR": 101,
         "belt": 7461312,
         "rank": 12,
         "status": "Gold",
@@ -1400,7 +1400,7 @@
     ],
     "total_meps_by_gender": {
       "male": 7916,
-      "female": 2946
+      "female": 2956
     },
     "active_users": {
       "male": 18,
@@ -1414,8 +1414,8 @@
     },
     "meps_averages": {
       "male": "439.8",
-      "female": "420.9",
-      "total": "434.5"
+      "female": "422.3",
+      "total": "434.9"
     }
   },
   "previous": {
