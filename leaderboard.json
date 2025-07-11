@@ -626,19 +626,19 @@
         "position": 21,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
-        "meps": 427,
-        "moves": 4,
-        "calories": 2645,
-        "totalMinutes": 296,
-        "zone0Minutes": 30,
-        "zone1Minutes": 130,
-        "zone2Minutes": 114,
+        "meps": 445,
+        "moves": 5,
+        "calories": 2750,
+        "totalMinutes": 310,
+        "zone0Minutes": 34,
+        "zone1Minutes": 132,
+        "zone2Minutes": 122,
         "zone3Minutes": 19,
         "zone4Minutes": 3,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 138,
-        "zone1MEPs": 130,
-        "zone2MEPs": 228,
+        "targetZoneMinutes": 146,
+        "zone1MEPs": 132,
+        "zone2MEPs": 244,
         "zone3MEPs": 57,
         "zone4MEPs": 12,
         "zone5MEPs": 0,
@@ -719,21 +719,21 @@
         "position": 24,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
-        "meps": 315,
+        "meps": 312,
         "moves": 7,
-        "calories": 1105,
+        "calories": 1107,
         "totalMinutes": 510,
         "zone0Minutes": 342,
-        "zone1Minutes": 80,
+        "zone1Minutes": 81,
         "zone2Minutes": 47,
         "zone3Minutes": 23,
-        "zone4Minutes": 17,
+        "zone4Minutes": 16,
         "zone5Minutes": 1,
-        "targetZoneMinutes": 87,
-        "zone1MEPs": 80,
+        "targetZoneMinutes": 88,
+        "zone1MEPs": 81,
         "zone2MEPs": 94,
         "zone3MEPs": 69,
-        "zone4MEPs": 68,
+        "zone4MEPs": 64,
         "zone5MEPs": 4,
         "avgEffort": 48,
         "peakHR": 179,
@@ -1399,8 +1399,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 21240,
-      "female": 7623
+      "male": 21258,
+      "female": 7620
     },
     "active_users": {
       "male": 18,
@@ -1413,9 +1413,9 @@
       "total": 18
     },
     "meps_averages": {
-      "male": "1180.0",
-      "female": "847.0",
-      "total": "1069.0"
+      "male": "1181.0",
+      "female": "846.7",
+      "total": "1069.6"
     }
   }
 }
