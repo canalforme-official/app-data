@@ -626,19 +626,19 @@
         "position": 21,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
-        "meps": 521,
+        "meps": 526,
         "moves": 5,
-        "calories": 3205,
-        "totalMinutes": 356,
+        "calories": 3220,
+        "totalMinutes": 358,
         "zone0Minutes": 35,
-        "zone1Minutes": 147,
-        "zone2Minutes": 151,
+        "zone1Minutes": 146,
+        "zone2Minutes": 154,
         "zone3Minutes": 20,
         "zone4Minutes": 3,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 176,
-        "zone1MEPs": 147,
-        "zone2MEPs": 302,
+        "targetZoneMinutes": 179,
+        "zone1MEPs": 146,
+        "zone2MEPs": 308,
         "zone3MEPs": 60,
         "zone4MEPs": 12,
         "zone5MEPs": 0,
@@ -841,6 +841,37 @@
       },
       {
         "position": 28,
+        "nickname": "AD26",
+        "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
+        "meps": 12,
+        "moves": 1,
+        "calories": 84,
+        "totalMinutes": 43,
+        "zone0Minutes": 35,
+        "zone1Minutes": 4,
+        "zone2Minutes": 4,
+        "zone3Minutes": 0,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 5,
+        "zone1MEPs": 4,
+        "zone2MEPs": 8,
+        "zone3MEPs": 0,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 41,
+        "peakHR": 137,
+        "avgHR": 82,
+        "belt": 7468332,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 29,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -871,7 +902,7 @@
         "male": false
       },
       {
-        "position": 29,
+        "position": 30,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -899,37 +930,6 @@
         "iconLink": "",
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
-        "male": true
-      },
-      {
-        "position": 30,
-        "nickname": "AD26",
-        "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
         "male": true
       },
       {
@@ -1399,23 +1399,23 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 21657,
+      "male": 21674,
       "female": 7840
     },
     "active_users": {
-      "male": 18,
+      "male": 19,
       "female": 9,
-      "total": 27
+      "total": 28
     },
     "inactive_users": {
-      "male": 11,
+      "male": 10,
       "female": 7,
-      "total": 18
+      "total": 17
     },
     "meps_averages": {
-      "male": "1203.2",
+      "male": "1140.7",
       "female": "871.1",
-      "total": "1092.5"
+      "total": "1054.1"
     }
   }
 }
