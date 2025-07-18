@@ -905,25 +905,25 @@
         "position": 30,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 15,
+        "meps": 18,
         "moves": 1,
-        "calories": 55,
-        "totalMinutes": 30,
-        "zone0Minutes": 19,
-        "zone1Minutes": 7,
+        "calories": 67,
+        "totalMinutes": 34,
+        "zone0Minutes": 20,
+        "zone1Minutes": 10,
         "zone2Minutes": 4,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
         "targetZoneMinutes": 4,
-        "zone1MEPs": 7,
+        "zone1MEPs": 10,
         "zone2MEPs": 8,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 50,
+        "avgEffort": 49,
         "peakHR": 115,
-        "avgHR": 93,
+        "avgHR": 92,
         "belt": 7461304,
         "rank": 0,
         "status": "No Status",
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 33355,
-      "female": 11773
+      "female": 11776
     },
     "active_users": {
       "male": 19,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "1755.5",
-      "female": "1070.3",
-      "total": "1504.3"
+      "female": "1070.5",
+      "total": "1504.4"
     }
   }
 }
