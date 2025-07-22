@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2025-07-21T23:29:39.644Z",
-    "weekNumber": 29
+    "lastUpdated": "2025-07-22T23:29:34.435Z",
+    "weekNumber": 30
   },
   "coachs": [
     {
@@ -757,17 +757,6 @@
     ],
     "vendredi": [
       {
-        "coursId": "cours-bodypump",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-grit-training",
         "startTime": "08:30",
         "endTime": "09:30",
@@ -810,6 +799,17 @@
         ],
         "studioId": "studio-piscine",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-abdos-xtrem",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-stretching",
