@@ -9,8 +9,8 @@
         "meps": 5656,
         "moves": 46,
         "calories": 35218,
-        "totalMinutes": 7478,
-        "zone0Minutes": 4708,
+        "totalMinutes": 7483,
+        "zone0Minutes": 4713,
         "zone1Minutes": 948,
         "zone2Minutes": 936,
         "zone3Minutes": 708,
@@ -438,6 +438,37 @@
       },
       {
         "position": 15,
+        "nickname": "Limouna",
+        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
+        "meps": 1343,
+        "moves": 5,
+        "calories": 4285,
+        "totalMinutes": 714,
+        "zone0Minutes": 93,
+        "zone1Minutes": 218,
+        "zone2Minutes": 174,
+        "zone3Minutes": 139,
+        "zone4Minutes": 57,
+        "zone5Minutes": 33,
+        "targetZoneMinutes": 403,
+        "zone1MEPs": 218,
+        "zone2MEPs": 348,
+        "zone3MEPs": 417,
+        "zone4MEPs": 228,
+        "zone5MEPs": 132,
+        "avgEffort": 63,
+        "peakHR": 180,
+        "avgHR": 117,
+        "belt": 7461304,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 16,
         "nickname": "Mouni",
         "usrGUID": "f0a2c49d-da0c-11ee-92c6-861db27673fb",
         "meps": 1328,
@@ -468,7 +499,7 @@
         "male": false
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 1312,
@@ -499,7 +530,7 @@
         "male": false
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 1253,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 1216,
@@ -561,7 +592,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 1202,
@@ -587,37 +618,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 20,
-        "nickname": "Limouna",
-        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 1175,
-        "moves": 4,
-        "calories": 3734,
-        "totalMinutes": 624,
-        "zone0Minutes": 89,
-        "zone1Minutes": 188,
-        "zone2Minutes": 141,
-        "zone3Minutes": 119,
-        "zone4Minutes": 54,
-        "zone5Minutes": 33,
-        "targetZoneMinutes": 348,
-        "zone1MEPs": 188,
-        "zone2MEPs": 282,
-        "zone3MEPs": 357,
-        "zone4MEPs": 216,
-        "zone5MEPs": 132,
-        "avgEffort": 63,
-        "peakHR": 180,
-        "avgHR": 117,
-        "belt": 7461304,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -843,21 +843,21 @@
         "position": 28,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
-        "meps": 540,
+        "meps": 552,
         "moves": 4,
-        "calories": 1776,
-        "totalMinutes": 377,
+        "calories": 1817,
+        "totalMinutes": 380,
         "zone0Minutes": 100,
         "zone1Minutes": 116,
         "zone2Minutes": 81,
         "zone3Minutes": 58,
-        "zone4Minutes": 22,
+        "zone4Minutes": 25,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 160,
+        "targetZoneMinutes": 164,
         "zone1MEPs": 116,
         "zone2MEPs": 162,
         "zone3MEPs": 174,
-        "zone4MEPs": 88,
+        "zone4MEPs": 100,
         "zone5MEPs": 0,
         "avgEffort": 58,
         "peakHR": 167,
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 41805,
-      "female": 14961
+      "female": 15141
     },
     "active_users": {
       "male": 19,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "2200.3",
-      "female": "1246.8",
-      "total": "1831.2"
+      "female": "1261.8",
+      "total": "1837.0"
     }
   }
 }
