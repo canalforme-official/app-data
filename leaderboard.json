@@ -378,25 +378,25 @@
         "position": 13,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 1849,
+        "meps": 1851,
         "moves": 11,
-        "calories": 8609,
-        "totalMinutes": 990,
-        "zone0Minutes": 205,
-        "zone1Minutes": 200,
+        "calories": 8619,
+        "totalMinutes": 994,
+        "zone0Minutes": 207,
+        "zone1Minutes": 202,
         "zone2Minutes": 256,
         "zone3Minutes": 179,
         "zone4Minutes": 126,
         "zone5Minutes": 24,
         "targetZoneMinutes": 586,
-        "zone1MEPs": 200,
+        "zone1MEPs": 202,
         "zone2MEPs": 512,
         "zone3MEPs": 537,
         "zone4MEPs": 504,
         "zone5MEPs": 96,
         "avgEffort": 63,
         "peakHR": 167,
-        "avgHR": 111,
+        "avgHR": 110,
         "belt": 7461309,
         "rank": 1,
         "status": "Iron",
@@ -722,8 +722,8 @@
         "meps": 1115,
         "moves": 7,
         "calories": 3794,
-        "totalMinutes": 708,
-        "zone0Minutes": 214,
+        "totalMinutes": 728,
+        "zone0Minutes": 234,
         "zone1Minutes": 167,
         "zone2Minutes": 120,
         "zone3Minutes": 120,
@@ -737,7 +737,7 @@
         "zone5MEPs": 28,
         "avgEffort": 60,
         "peakHR": 178,
-        "avgHR": 117,
+        "avgHR": 116,
         "belt": 7461312,
         "rank": 12,
         "status": "Gold",
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 51418,
+      "male": 51420,
       "female": 17889
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "2706.2",
+      "male": "2706.3",
       "female": "1490.8",
-      "total": "2235.7"
+      "total": "2235.8"
     }
   }
 }
