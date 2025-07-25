@@ -410,10 +410,10 @@
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
         "meps": 1796,
-        "moves": 7,
+        "moves": 8,
         "calories": 5678,
-        "totalMinutes": 908,
-        "zone0Minutes": 109,
+        "totalMinutes": 926,
+        "zone0Minutes": 127,
         "zone1Minutes": 258,
         "zone2Minutes": 228,
         "zone3Minutes": 170,
@@ -427,7 +427,7 @@
         "zone5MEPs": 228,
         "avgEffort": 64,
         "peakHR": 183,
-        "avgHR": 119,
+        "avgHR": 118,
         "belt": 7461304,
         "rank": 1,
         "status": "Iron",
@@ -471,19 +471,19 @@
         "position": 16,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
-        "meps": 1550,
+        "meps": 1553,
         "moves": 20,
-        "calories": 7931,
-        "totalMinutes": 1252,
+        "calories": 7945,
+        "totalMinutes": 1254,
         "zone0Minutes": 189,
-        "zone1Minutes": 691,
-        "zone2Minutes": 285,
+        "zone1Minutes": 692,
+        "zone2Minutes": 286,
         "zone3Minutes": 59,
         "zone4Minutes": 22,
         "zone5Minutes": 6,
-        "targetZoneMinutes": 372,
-        "zone1MEPs": 691,
-        "zone2MEPs": 570,
+        "targetZoneMinutes": 373,
+        "zone1MEPs": 692,
+        "zone2MEPs": 572,
         "zone3MEPs": 177,
         "zone4MEPs": 88,
         "zone5MEPs": 24,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 51928,
+      "male": 51931,
       "female": 18362
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "2733.1",
+      "male": "2733.2",
       "female": "1530.2",
-      "total": "2267.4"
+      "total": "2267.5"
     }
   }
 }
