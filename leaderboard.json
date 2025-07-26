@@ -254,19 +254,19 @@
         "position": 9,
         "nickname": "Badr",
         "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
-        "meps": 2383,
+        "meps": 2402,
         "moves": 21,
-        "calories": 13070,
-        "totalMinutes": 2062,
+        "calories": 13169,
+        "totalMinutes": 2072,
         "zone0Minutes": 638,
-        "zone1Minutes": 862,
-        "zone2Minutes": 261,
+        "zone1Minutes": 863,
+        "zone2Minutes": 270,
         "zone3Minutes": 205,
         "zone4Minutes": 76,
         "zone5Minutes": 20,
-        "targetZoneMinutes": 562,
-        "zone1MEPs": 862,
-        "zone2MEPs": 522,
+        "targetZoneMinutes": 572,
+        "zone1MEPs": 863,
+        "zone2MEPs": 540,
         "zone3MEPs": 615,
         "zone4MEPs": 304,
         "zone5MEPs": 80,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 53234,
+      "male": 53253,
       "female": 18680
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "2801.8",
+      "male": "2802.8",
       "female": "1556.7",
-      "total": "2319.8"
+      "total": "2320.4"
     }
   }
 }
