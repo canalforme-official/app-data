@@ -40,8 +40,8 @@
         "meps": 8540,
         "moves": 63,
         "calories": 51969,
-        "totalMinutes": 10368,
-        "zone0Minutes": 6372,
+        "totalMinutes": 10375,
+        "zone0Minutes": 6379,
         "zone1Minutes": 1284,
         "zone2Minutes": 1244,
         "zone3Minutes": 1104,
@@ -564,19 +564,19 @@
         "position": 19,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
-        "meps": 1394,
+        "meps": 1402,
         "moves": 14,
-        "calories": 8618,
-        "totalMinutes": 1031,
+        "calories": 8668,
+        "totalMinutes": 1036,
         "zone0Minutes": 160,
-        "zone1Minutes": 437,
-        "zone2Minutes": 361,
+        "zone1Minutes": 439,
+        "zone2Minutes": 364,
         "zone3Minutes": 57,
         "zone4Minutes": 15,
         "zone5Minutes": 1,
-        "targetZoneMinutes": 435,
-        "zone1MEPs": 437,
-        "zone2MEPs": 722,
+        "targetZoneMinutes": 438,
+        "zone1MEPs": 439,
+        "zone2MEPs": 728,
         "zone3MEPs": 171,
         "zone4MEPs": 60,
         "zone5MEPs": 4,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 53801,
+      "male": 53809,
       "female": 18680
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 15
     },
     "meps_averages": {
-      "male": "2831.6",
+      "male": "2832.1",
       "female": "1556.7",
-      "total": "2338.1"
+      "total": "2338.4"
     }
   }
 }
