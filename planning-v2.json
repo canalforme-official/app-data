@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-07-27T23:29:29.592Z",
+    "lastUpdated": "2025-07-28T23:29:32.696Z",
     "weekNumber": 30
   },
   "coachs": [
@@ -35,9 +35,9 @@
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png"
     },
     {
-      "id": "coach-youssef",
-      "name": "Youssef",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/667b496e-0581-ac46-3a3b-9730e6d9e1b7.png"
+      "id": "coach-adiba",
+      "name": "Adiba",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3e0fe5fd-1f51-a5f9-b5af-2dd80f6fe670.png"
     }
   ],
   "studios": [
@@ -202,12 +202,6 @@
     {
       "id": "cours-sprint",
       "name": "SPRINT",
-      "logo": "",
-      "duration": 30
-    },
-    {
-      "id": "cours-cx-training",
-      "name": "CX TRAINING",
       "logo": "",
       "duration": 30
     },
@@ -432,17 +426,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-rpm",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-mobility",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -577,6 +560,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-rpm",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-tabata",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -667,17 +661,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cx-training",
-        "startTime": "17:30",
-        "endTime": "18:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-tbc",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -689,10 +672,10 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-sprint",
-        "startTime": "18:00",
+        "coursId": "cours-rpm",
+        "startTime": "17:30",
         "endTime": "18:30",
-        "duration": 30,
+        "duration": 60,
         "coachIds": [
           "coach-rabie"
         ],
@@ -786,7 +769,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
