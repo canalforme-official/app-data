@@ -55,7 +55,7 @@
         "zone5MEPs": 44,
         "avgEffort": 50,
         "peakHR": 185,
-        "avgHR": 100,
+        "avgHR": 99,
         "belt": 7468338,
         "rank": 6,
         "status": "Silver",
@@ -68,18 +68,18 @@
         "position": 3,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 6385,
+        "meps": 6384,
         "moves": 36,
-        "calories": 46610,
-        "totalMinutes": 7058,
+        "calories": 46602,
+        "totalMinutes": 7057,
         "zone0Minutes": 2431,
-        "zone1Minutes": 3319,
+        "zone1Minutes": 3318,
         "zone2Minutes": 933,
         "zone3Minutes": 300,
         "zone4Minutes": 59,
         "zone5Minutes": 16,
         "targetZoneMinutes": 1311,
-        "zone1MEPs": 3319,
+        "zone1MEPs": 3318,
         "zone2MEPs": 1866,
         "zone3MEPs": 900,
         "zone4MEPs": 236,
@@ -130,21 +130,21 @@
         "position": 5,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 3797,
+        "meps": 3793,
         "moves": 16,
-        "calories": 18484,
-        "totalMinutes": 2204,
+        "calories": 18480,
+        "totalMinutes": 2203,
         "zone0Minutes": 619,
         "zone1Minutes": 513,
         "zone2Minutes": 359,
         "zone3Minutes": 286,
-        "zone4Minutes": 346,
+        "zone4Minutes": 345,
         "zone5Minutes": 81,
         "targetZoneMinutes": 1072,
         "zone1MEPs": 513,
         "zone2MEPs": 718,
         "zone3MEPs": 858,
-        "zone4MEPs": 1384,
+        "zone4MEPs": 1380,
         "zone5MEPs": 324,
         "avgEffort": 63,
         "peakHR": 175,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 61967,
+      "male": 61962,
       "female": 19322
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 14
     },
     "meps_averages": {
-      "male": "3098.3",
+      "male": "3098.1",
       "female": "1610.2",
-      "total": "2540.3"
+      "total": "2540.1"
     }
   }
 }
