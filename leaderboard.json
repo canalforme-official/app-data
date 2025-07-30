@@ -531,6 +531,37 @@
       },
       {
         "position": 18,
+        "nickname": "toufik",
+        "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
+        "meps": 1508,
+        "moves": 15,
+        "calories": 9332,
+        "totalMinutes": 1123,
+        "zone0Minutes": 177,
+        "zone1Minutes": 475,
+        "zone2Minutes": 396,
+        "zone3Minutes": 59,
+        "zone4Minutes": 15,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 472,
+        "zone1MEPs": 475,
+        "zone2MEPs": 792,
+        "zone3MEPs": 177,
+        "zone4MEPs": 60,
+        "zone5MEPs": 4,
+        "avgEffort": 57,
+        "peakHR": 164,
+        "avgHR": 104,
+        "belt": 7461317,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 19,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 1507,
@@ -559,37 +590,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": false
-      },
-      {
-        "position": 19,
-        "nickname": "toufik",
-        "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
-        "meps": 1500,
-        "moves": 15,
-        "calories": 9283,
-        "totalMinutes": 1113,
-        "zone0Minutes": 174,
-        "zone1Minutes": 469,
-        "zone2Minutes": 395,
-        "zone3Minutes": 59,
-        "zone4Minutes": 15,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 471,
-        "zone1MEPs": 469,
-        "zone2MEPs": 790,
-        "zone3MEPs": 177,
-        "zone4MEPs": 60,
-        "zone5MEPs": 4,
-        "avgEffort": 57,
-        "peakHR": 164,
-        "avgHR": 104,
-        "belt": 7461317,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 20,
@@ -722,8 +722,8 @@
         "meps": 1304,
         "moves": 27,
         "calories": 9359,
-        "totalMinutes": 2283,
-        "zone0Minutes": 1393,
+        "totalMinutes": 2288,
+        "zone0Minutes": 1398,
         "zone1Minutes": 576,
         "zone2Minutes": 223,
         "zone3Minutes": 82,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 63179,
+      "male": 63187,
       "female": 19669
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 14
     },
     "meps_averages": {
-      "male": "3158.9",
+      "male": "3159.3",
       "female": "1639.1",
-      "total": "2589.0"
+      "total": "2589.3"
     }
   }
 }
