@@ -998,25 +998,25 @@
         "position": 33,
         "nickname": "حسام ",
         "usrGUID": "bdad44e0-0964-11ef-92c6-861db27673fb",
-        "meps": 11,
+        "meps": 21,
         "moves": 1,
-        "calories": 73,
-        "totalMinutes": 10,
-        "zone0Minutes": 1,
-        "zone1Minutes": 7,
-        "zone2Minutes": 2,
+        "calories": 132,
+        "totalMinutes": 21,
+        "zone0Minutes": 4,
+        "zone1Minutes": 13,
+        "zone2Minutes": 4,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 2,
-        "zone1MEPs": 7,
-        "zone2MEPs": 4,
+        "targetZoneMinutes": 4,
+        "zone1MEPs": 13,
+        "zone2MEPs": 8,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
         "avgEffort": 54,
-        "peakHR": 122,
-        "avgHR": 106,
+        "peakHR": 130,
+        "avgHR": 105,
         "belt": 7461319,
         "rank": 1,
         "status": "Iron",
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 64948,
+      "male": 64958,
       "female": 19819
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 13
     },
     "meps_averages": {
-      "male": "3092.8",
+      "male": "3093.2",
       "female": "1651.6",
-      "total": "2568.7"
+      "total": "2569.0"
     }
   }
 }
