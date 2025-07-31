@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-07-31T10:43:41.507Z",
+    "lastUpdated": "2025-07-31T12:17:51.487Z",
     "weekNumber": 31
   },
   "coachs": [
@@ -40,9 +40,9 @@
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png"
     },
     {
-      "id": "coach-nouredine",
-      "name": "Nouredine",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9a253880-cf5f-b3cf-65f0-fcf3c39451bb.png"
+      "id": "coach-yassir",
+      "name": "Yassir",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/581f70f0-8885-04ed-d4a1-b3cc40b4813e.png"
     }
   ],
   "studios": [
@@ -264,7 +264,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -418,7 +418,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-yassir"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -477,7 +477,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -499,8 +499,8 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -543,8 +543,8 @@
         "coachIds": [
           "coach-hicham"
         ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
       }
     ],
     "jeudi": [
@@ -631,7 +631,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-yassir"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -664,7 +664,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-yassir"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
@@ -712,7 +712,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -765,7 +765,6 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine",
           "coach-hicham"
         ],
         "studioId": "studio-studio-rpm",
