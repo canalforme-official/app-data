@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "سفيان",
+        "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
+        "meps": 196,
+        "moves": 1,
+        "calories": 948,
+        "totalMinutes": 105,
+        "zone0Minutes": 25,
+        "zone1Minutes": 25,
+        "zone2Minutes": 17,
+        "zone3Minutes": 15,
+        "zone4Minutes": 13,
+        "zone5Minutes": 10,
+        "targetZoneMinutes": 54,
+        "zone1MEPs": 25,
+        "zone2MEPs": 34,
+        "zone3MEPs": 45,
+        "zone4MEPs": 52,
+        "zone5MEPs": 40,
+        "avgEffort": 64,
+        "peakHR": 171,
+        "avgHR": 112,
+        "belt": 7424845,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 7,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 192,
@@ -189,45 +220,14 @@
         "male": true
       },
       {
-        "position": 7,
-        "nickname": "سفيان",
-        "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
-        "meps": 188,
-        "moves": 1,
-        "calories": 912,
-        "totalMinutes": 99,
-        "zone0Minutes": 24,
-        "zone1Minutes": 23,
-        "zone2Minutes": 14,
-        "zone3Minutes": 15,
-        "zone4Minutes": 13,
-        "zone5Minutes": 10,
-        "targetZoneMinutes": 52,
-        "zone1MEPs": 23,
-        "zone2MEPs": 28,
-        "zone3MEPs": 45,
-        "zone4MEPs": 52,
-        "zone5MEPs": 40,
-        "avgEffort": 64,
-        "peakHR": 171,
-        "avgHR": 112,
-        "belt": 7424845,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
         "position": 8,
         "nickname": "HICHAM",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 155,
         "moves": 2,
         "calories": 1012,
-        "totalMinutes": 275,
-        "zone0Minutes": 191,
+        "totalMinutes": 280,
+        "zone0Minutes": 196,
         "zone1Minutes": 26,
         "zone2Minutes": 45,
         "zone3Minutes": 13,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 1892,
+      "male": 1900,
       "female": 816
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 34
     },
     "meps_averages": {
-      "male": "210.2",
+      "male": "211.1",
       "female": "272.0",
-      "total": "225.7"
+      "total": "226.3"
     }
   },
   "previous": {
