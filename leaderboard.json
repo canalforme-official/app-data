@@ -128,6 +128,37 @@
       },
       {
         "position": 5,
+        "nickname": "Limouna",
+        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
+        "meps": 400,
+        "moves": 2,
+        "calories": 1206,
+        "totalMinutes": 174,
+        "zone0Minutes": 18,
+        "zone1Minutes": 34,
+        "zone2Minutes": 26,
+        "zone3Minutes": 70,
+        "zone4Minutes": 21,
+        "zone5Minutes": 5,
+        "targetZoneMinutes": 122,
+        "zone1MEPs": 34,
+        "zone2MEPs": 52,
+        "zone3MEPs": 210,
+        "zone4MEPs": 84,
+        "zone5MEPs": 20,
+        "avgEffort": 68,
+        "peakHR": 169,
+        "avgHR": 127,
+        "belt": 7461304,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 6,
         "nickname": "HICHAM",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 392,
@@ -156,37 +187,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
         "male": true
-      },
-      {
-        "position": 6,
-        "nickname": "Limouna",
-        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 357,
-        "moves": 2,
-        "calories": 1092,
-        "totalMinutes": 163,
-        "zone0Minutes": 18,
-        "zone1Minutes": 34,
-        "zone2Minutes": 26,
-        "zone3Minutes": 69,
-        "zone4Minutes": 16,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 112,
-        "zone1MEPs": 34,
-        "zone2MEPs": 52,
-        "zone3MEPs": 207,
-        "zone4MEPs": 64,
-        "zone5MEPs": 0,
-        "avgEffort": 67,
-        "peakHR": 165,
-        "avgHR": 124,
-        "belt": 7461304,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 7,
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 2815,
-      "female": 925
+      "female": 968
     },
     "active_users": {
       "male": 11,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "255.9",
-      "female": "308.3",
-      "total": "267.1"
+      "female": "322.7",
+      "total": "270.2"
     }
   },
   "previous": {
