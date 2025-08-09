@@ -68,18 +68,18 @@
         "position": 3,
         "nickname": "HICHAM",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 1418,
+        "meps": 1417,
         "moves": 10,
-        "calories": 8715,
+        "calories": 8706,
         "totalMinutes": 1980,
-        "zone0Minutes": 1312,
-        "zone1Minutes": 194,
+        "zone0Minutes": 1313,
+        "zone1Minutes": 193,
         "zone2Minutes": 245,
         "zone3Minutes": 182,
         "zone4Minutes": 46,
         "zone5Minutes": 1,
         "targetZoneMinutes": 473,
-        "zone1MEPs": 194,
+        "zone1MEPs": 193,
         "zone2MEPs": 490,
         "zone3MEPs": 546,
         "zone4MEPs": 184,
@@ -161,19 +161,19 @@
         "position": 6,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
-        "meps": 1085,
+        "meps": 1083,
         "moves": 7,
-        "calories": 5395,
+        "calories": 5388,
         "totalMinutes": 724,
-        "zone0Minutes": 252,
+        "zone0Minutes": 253,
         "zone1Minutes": 140,
-        "zone2Minutes": 128,
+        "zone2Minutes": 127,
         "zone3Minutes": 127,
         "zone4Minutes": 56,
         "zone5Minutes": 21,
-        "targetZoneMinutes": 331,
+        "targetZoneMinutes": 330,
         "zone1MEPs": 140,
-        "zone2MEPs": 256,
+        "zone2MEPs": 254,
         "zone3MEPs": 381,
         "zone4MEPs": 224,
         "zone5MEPs": 84,
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 11408,
+      "male": 11405,
       "female": 4134
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 26
     },
     "meps_averages": {
-      "male": "814.9",
+      "male": "814.6",
       "female": "689.0",
-      "total": "777.1"
+      "total": "777.0"
     }
   }
 }
