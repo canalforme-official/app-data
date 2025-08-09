@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-08-08T23:29:33.699Z",
+    "lastUpdated": "2025-08-09T23:29:31.501Z",
     "weekNumber": 32
   },
   "coachs": [
@@ -28,16 +28,6 @@
       "id": "coach-hicham",
       "name": "Hicham",
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png"
-    },
-    {
-      "id": "coach-maroua",
-      "name": "Maroua",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/962a317f-4725-628a-3e1b-5548f497a604.png"
-    },
-    {
-      "id": "coach-zakaria",
-      "name": "Zakaria",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png"
     },
     {
       "id": "coach-yassir",
@@ -69,6 +59,12 @@
       "name": "Studio RPM",
       "imageUrl": "",
       "rang": 3
+    },
+    {
+      "id": "studio-piscine",
+      "name": "Piscine",
+      "imageUrl": "",
+      "rang": 4
     },
     {
       "id": "studio-plateau-100-femmes",
@@ -121,6 +117,12 @@
       "duration": 60
     },
     {
+      "id": "cours-abdos-xtrem",
+      "name": "ABDOS XTREM",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-mobility",
       "name": "MOBILITY",
       "logo": "",
@@ -141,12 +143,6 @@
     {
       "id": "cours-tone",
       "name": "TONE",
-      "logo": "",
-      "duration": 60
-    },
-    {
-      "id": "cours-abdos-xtrem",
-      "name": "ABDOS XTREM",
       "logo": "",
       "duration": 60
     },
@@ -324,15 +320,15 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-abdos-xtrem",
         "startTime": "17:30",
-        "endTime": "18:00",
-        "duration": 30,
+        "endTime": "18:30",
+        "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-youssef"
         ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-mobility",
@@ -342,8 +338,8 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodypump",
@@ -351,7 +347,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
@@ -362,7 +358,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fatima"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -390,17 +386,6 @@
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-tabata",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-maroua"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-tone",
@@ -459,24 +444,13 @@
       },
       {
         "coursId": "cours-rpm",
-        "startTime": "17:30",
-        "endTime": "18:30",
+        "startTime": "18:30",
+        "endTime": "19:30",
         "duration": 60,
         "coachIds": [
           "coach-adiba"
         ],
         "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-tabata",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-studio-1",
         "type": "Mixte"
       },
       {
@@ -553,7 +527,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fatima"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -570,23 +544,23 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-grit-training",
+        "coursId": "cours-tone",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fatima"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-rpm",
+        "coursId": "cours-grit-training",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -605,23 +579,12 @@
     ],
     "vendredi": [
       {
-        "coursId": "cours-grit-training",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-maroua"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-rpm",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -632,7 +595,7 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fatima"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -654,10 +617,10 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
+        "studioId": "studio-piscine",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-stretching",
@@ -691,6 +654,17 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
       }
     ],
     "samedi": [
