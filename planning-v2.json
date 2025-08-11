@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-08-10T23:29:33.070Z",
+    "lastUpdated": "2025-08-11T23:29:42.153Z",
     "weekNumber": 32
   },
   "coachs": [
@@ -59,12 +59,6 @@
       "name": "Studio RPM",
       "imageUrl": "",
       "rang": 3
-    },
-    {
-      "id": "studio-piscine",
-      "name": "Piscine",
-      "imageUrl": "",
-      "rang": 4
     },
     {
       "id": "studio-plateau-100-femmes",
@@ -619,8 +613,8 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-piscine",
-        "type": "100% Femmes"
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-stretching",
