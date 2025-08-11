@@ -471,19 +471,19 @@
         "position": 16,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
-        "meps": 487,
+        "meps": 492,
         "moves": 4,
-        "calories": 1733,
-        "totalMinutes": 363,
-        "zone0Minutes": 122,
-        "zone1Minutes": 90,
-        "zone2Minutes": 79,
+        "calories": 1751,
+        "totalMinutes": 373,
+        "zone0Minutes": 128,
+        "zone1Minutes": 93,
+        "zone2Minutes": 80,
         "zone3Minutes": 49,
         "zone4Minutes": 22,
         "zone5Minutes": 1,
-        "targetZoneMinutes": 152,
-        "zone1MEPs": 90,
-        "zone2MEPs": 158,
+        "targetZoneMinutes": 153,
+        "zone1MEPs": 93,
+        "zone2MEPs": 160,
         "zone3MEPs": 147,
         "zone4MEPs": 88,
         "zone5MEPs": 4,
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 13660,
-      "female": 4448
+      "female": 4453
     },
     "active_users": {
       "male": 15,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "910.7",
-      "female": "741.3",
-      "total": "862.3"
+      "female": "742.2",
+      "total": "862.5"
     }
   }
 }
