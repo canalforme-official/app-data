@@ -69,10 +69,10 @@
         "nickname": "HICHAM",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 1776,
-        "moves": 13,
+        "moves": 14,
         "calories": 10939,
-        "totalMinutes": 2411,
-        "zone0Minutes": 1571,
+        "totalMinutes": 2425,
+        "zone0Minutes": 1585,
         "zone1Minutes": 247,
         "zone2Minutes": 308,
         "zone3Minutes": 227,
@@ -84,7 +84,7 @@
         "zone3MEPs": 681,
         "zone4MEPs": 228,
         "zone5MEPs": 4,
-        "avgEffort": 48,
+        "avgEffort": 47,
         "peakHR": 188,
         "avgHR": 96,
         "belt": 7468338,
@@ -688,25 +688,25 @@
         "position": 23,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 177,
+        "meps": 179,
         "moves": 1,
-        "calories": 534,
-        "totalMinutes": 71,
+        "calories": 542,
+        "totalMinutes": 73,
         "zone0Minutes": 4,
-        "zone1Minutes": 9,
+        "zone1Minutes": 11,
         "zone2Minutes": 19,
         "zone3Minutes": 26,
         "zone4Minutes": 13,
         "zone5Minutes": 0,
         "targetZoneMinutes": 58,
-        "zone1MEPs": 9,
+        "zone1MEPs": 11,
         "zone2MEPs": 38,
         "zone3MEPs": 78,
         "zone4MEPs": 52,
         "zone5MEPs": 0,
-        "avgEffort": 69,
+        "avgEffort": 68,
         "peakHR": 165,
-        "avgHR": 130,
+        "avgHR": 129,
         "belt": 7424841,
         "rank": 12,
         "status": "Gold",
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 17602,
-      "female": 5034
+      "female": 5036
     },
     "active_users": {
       "male": 17,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "1035.4",
-      "female": "629.3",
-      "total": "905.4"
+      "female": "629.5",
+      "total": "905.5"
     }
   }
 }
