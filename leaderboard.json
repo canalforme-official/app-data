@@ -688,25 +688,25 @@
         "position": 23,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 143,
+        "meps": 152,
         "moves": 1,
-        "calories": 417,
-        "totalMinutes": 49,
-        "zone0Minutes": 0,
-        "zone1Minutes": 1,
-        "zone2Minutes": 15,
-        "zone3Minutes": 20,
+        "calories": 448,
+        "totalMinutes": 59,
+        "zone0Minutes": 4,
+        "zone1Minutes": 5,
+        "zone2Minutes": 16,
+        "zone3Minutes": 21,
         "zone4Minutes": 13,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 48,
-        "zone1MEPs": 1,
-        "zone2MEPs": 30,
-        "zone3MEPs": 60,
+        "targetZoneMinutes": 50,
+        "zone1MEPs": 5,
+        "zone2MEPs": 32,
+        "zone3MEPs": 63,
         "zone4MEPs": 52,
         "zone5MEPs": 0,
-        "avgEffort": 73,
+        "avgEffort": 70,
         "peakHR": 165,
-        "avgHR": 138,
+        "avgHR": 131,
         "belt": 7424841,
         "rank": 12,
         "status": "Gold",
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 17585,
-      "female": 5000
+      "female": 5009
     },
     "active_users": {
       "male": 17,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "1034.4",
-      "female": "625.0",
-      "total": "903.4"
+      "female": "626.1",
+      "total": "903.8"
     }
   }
 }
