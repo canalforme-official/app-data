@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-08-12T23:29:35.122Z",
+    "lastUpdated": "2025-08-13T19:17:07.817Z",
     "weekNumber": 33
   },
   "coachs": [
@@ -36,12 +36,6 @@
     }
   ],
   "studios": [
-    {
-      "id": "studio-",
-      "name": "",
-      "imageUrl": "",
-      "rang": 0
-    },
     {
       "id": "studio-studio-1",
       "name": "Studio 1",
@@ -153,22 +147,16 @@
       "duration": 60
     },
     {
-      "id": "cours-sprint",
-      "name": "SPRINT",
-      "logo": "",
-      "duration": 30
-    },
-    {
       "id": "cours-bodysculpt",
       "name": "BODYSCULPT",
       "logo": "",
       "duration": 60
     },
     {
-      "id": "cours-circuit-boxing",
-      "name": "CIRCUIT BOXING",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
-      "duration": 60
+      "id": "cours-sprint",
+      "name": "SPRINT",
+      "logo": "",
+      "duration": 30
     },
     {
       "id": "cours-gym-ball",
@@ -473,8 +461,8 @@
     "jeudi": [
       {
         "coursId": "cours-sprint",
-        "startTime": "08:30",
-        "endTime": "09:00",
+        "startTime": "09:30",
+        "endTime": "10:00",
         "duration": 30,
         "coachIds": [
           "coach-hicham"
@@ -484,28 +472,6 @@
       },
       {
         "coursId": "cours-bodysculpt",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-grit-training",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-stretching",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
@@ -516,34 +482,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tbc",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-mobility",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-yassir"
-        ],
-        "studioId": "studio-",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-tone",
-        "startTime": "18:30",
-        "endTime": "19:30",
+        "startTime": "17:30",
+        "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -557,17 +501,6 @@
           "coach-youssef"
         ],
         "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-circuit-boxing",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-yassir"
-        ],
-        "studioId": "studio-studio-infinity",
         "type": "Mixte"
       }
     ],
