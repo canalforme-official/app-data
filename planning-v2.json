@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-08-14T23:29:31.688Z",
+    "lastUpdated": "2025-08-15T21:23:54.658Z",
     "weekNumber": 33
   },
   "coachs": [
@@ -15,9 +15,9 @@
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/94b1c2fa-02ab-d158-6dd6-2823c6d3bab9.png"
     },
     {
-      "id": "coach-fayza",
-      "name": "Fayza",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png"
+      "id": "coach-yassir",
+      "name": "Yassir",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/581f70f0-8885-04ed-d4a1-b3cc40b4813e.png"
     },
     {
       "id": "coach-adiba",
@@ -25,17 +25,18 @@
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3e0fe5fd-1f51-a5f9-b5af-2dd80f6fe670.png"
     },
     {
-      "id": "coach-hicham",
-      "name": "Hicham",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png"
-    },
-    {
-      "id": "coach-yassir",
-      "name": "Yassir",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/581f70f0-8885-04ed-d4a1-b3cc40b4813e.png"
+      "id": "coach-rabie",
+      "name": "Rabie",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/61ceb6e2-97c6-3b65-9ca9-e2739a85a62c.png"
     }
   ],
   "studios": [
+    {
+      "id": "studio-",
+      "name": "",
+      "imageUrl": "",
+      "rang": 0
+    },
     {
       "id": "studio-studio-1",
       "name": "Studio 1",
@@ -53,6 +54,12 @@
       "name": "Studio RPM",
       "imageUrl": "",
       "rang": 3
+    },
+    {
+      "id": "studio-piscine",
+      "name": "Piscine",
+      "imageUrl": "",
+      "rang": 4
     },
     {
       "id": "studio-plateau-100-femmes",
@@ -81,9 +88,21 @@
       "duration": 60
     },
     {
-      "id": "cours-pilates",
-      "name": "PILATES",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4661eb52-3c8b-5ea9-2bf8-91bd841e6686.png",
+      "id": "cours-aquagym",
+      "name": "AQUAGYM",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-stretching",
+      "name": "STRETCHING",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-aquatonus",
+      "name": "AQUATONUS",
+      "logo": "",
       "duration": 60
     },
     {
@@ -99,9 +118,9 @@
       "duration": 60
     },
     {
-      "id": "cours-bodypump",
-      "name": "BODYPUMP",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
+      "id": "cours-pilates",
+      "name": "PILATES",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4661eb52-3c8b-5ea9-2bf8-91bd841e6686.png",
       "duration": 60
     },
     {
@@ -117,15 +136,15 @@
       "duration": 60
     },
     {
-      "id": "cours-tabata",
-      "name": "TABATA",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
+      "id": "cours-bodypump",
+      "name": "BODYPUMP",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
       "duration": 60
     },
     {
-      "id": "cours-stretching",
-      "name": "STRETCHING",
-      "logo": "",
+      "id": "cours-tabata",
+      "name": "TABATA",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
       "duration": 60
     },
     {
@@ -135,20 +154,20 @@
       "duration": 60
     },
     {
-      "id": "cours-gym-douce",
-      "name": "GYM DOUCE",
-      "logo": "",
+      "id": "cours-aquadynamic",
+      "name": "AQUADYNAMIC",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/967a6c0b-e378-ccf5-9115-c880c891fe3e.png",
       "duration": 60
+    },
+    {
+      "id": "cours-cx-training",
+      "name": "CX TRAINING",
+      "logo": "",
+      "duration": 30
     },
     {
       "id": "cours-circuit-training",
       "name": "CIRCUIT TRAINING",
-      "logo": "",
-      "duration": 60
-    },
-    {
-      "id": "cours-bodysculpt",
-      "name": "BODYSCULPT",
       "logo": "",
       "duration": 60
     },
@@ -159,9 +178,15 @@
       "duration": 30
     },
     {
-      "id": "cours-gym-ball",
-      "name": "GYM BALL",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/16d15478-b250-a4b5-d483-02ef7883ae6e.png",
+      "id": "cours-bodysculpt",
+      "name": "BODYSCULPT",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-circuit-boxing",
+      "name": "CIRCUIT BOXING",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
       "duration": 60
     }
   ],
@@ -201,26 +226,37 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-pilates",
+        "coursId": "cours-aquagym",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-piscine",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-pilates",
+        "coursId": "cours-stretching",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-yassir"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquatonus",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
+        ],
+        "studioId": "studio-piscine",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodycombat",
@@ -228,7 +264,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-adiba"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -239,7 +275,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -250,7 +286,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -269,14 +305,14 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodypump",
+        "coursId": "cours-aquagym",
         "startTime": "08:30",
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-piscine",
         "type": "Mixte"
       },
       {
@@ -285,7 +321,7 @@
         "endTime": "10:00",
         "duration": 30,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
@@ -296,7 +332,7 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -331,7 +367,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-studio-1",
         "type": "Mixte"
       },
       {
@@ -392,36 +428,36 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-gym-douce",
+        "coursId": "cours-aquagym",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tabata",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
+        "coursId": "cours-cx-training",
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "duration": 30,
         "coachIds": [
-          "coach-adiba"
+          "coach-youssef"
         ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
       },
       {
-        "coursId": "cours-stretching",
+        "coursId": "cours-aquadynamic",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-piscine",
         "type": "100% Femmes"
       },
       {
@@ -430,7 +466,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-adiba"
+          "coach-youssef"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -441,7 +477,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -452,7 +488,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -461,33 +497,77 @@
     "jeudi": [
       {
         "coursId": "cours-sprint",
-        "startTime": "09:30",
-        "endTime": "10:00",
+        "startTime": "08:30",
+        "endTime": "09:00",
         "duration": 30,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
       },
       {
         "coursId": "cours-bodysculpt",
-        "startTime": "09:30",
-        "endTime": "10:30",
+        "startTime": "08:30",
+        "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tone",
+        "coursId": "cours-cross-90x",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-stretching",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-tbc",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-adiba"
+          "coach-fatima"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-mobility",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-yassir"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tone",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -500,7 +580,18 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-circuit-boxing",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-yassir"
+        ],
+        "studioId": "studio-studio-infinity",
         "type": "Mixte"
       }
     ],
@@ -528,14 +619,14 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-gym-ball",
+        "coursId": "cours-aquagym",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-piscine",
         "type": "100% Femmes"
       },
       {
@@ -546,7 +637,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-studio-infinity",
         "type": "Mixte"
       },
       {
@@ -555,10 +646,21 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-yassir"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-studio-1",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
+        ],
+        "studioId": "studio-piscine",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodycombat",
@@ -566,7 +668,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -577,7 +679,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -588,7 +690,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-adiba"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -601,21 +703,21 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
       },
       {
-        "coursId": "cours-circuit-training",
+        "coursId": "cours-aquagym",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-rabie"
         ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
+        "studioId": "studio-piscine",
+        "type": "Mixte"
       }
     ],
     "dimanche": []
