@@ -750,25 +750,25 @@
         "position": 25,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
-        "meps": 122,
-        "moves": 1,
-        "calories": 344,
-        "totalMinutes": 43,
-        "zone0Minutes": 0,
-        "zone1Minutes": 3,
+        "meps": 161,
+        "moves": 2,
+        "calories": 445,
+        "totalMinutes": 55,
+        "zone0Minutes": 1,
+        "zone1Minutes": 4,
         "zone2Minutes": 10,
-        "zone3Minutes": 21,
-        "zone4Minutes": 9,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 41,
-        "zone1MEPs": 3,
+        "zone3Minutes": 23,
+        "zone4Minutes": 13,
+        "zone5Minutes": 4,
+        "targetZoneMinutes": 50,
+        "zone1MEPs": 4,
         "zone2MEPs": 20,
-        "zone3MEPs": 63,
-        "zone4MEPs": 36,
-        "zone5MEPs": 0,
-        "avgEffort": 72,
-        "peakHR": 167,
-        "avgHR": 135,
+        "zone3MEPs": 69,
+        "zone4MEPs": 52,
+        "zone5MEPs": 16,
+        "avgEffort": 74,
+        "peakHR": 175,
+        "avgHR": 138,
         "belt": 7468330,
         "rank": 0,
         "status": "No Status",
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 25183,
-      "female": 6340
+      "female": 6379
     },
     "active_users": {
       "male": 18,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": "1399.1",
-      "female": "792.5",
-      "total": "1212.4"
+      "female": "797.4",
+      "total": "1213.9"
     }
   }
 }
