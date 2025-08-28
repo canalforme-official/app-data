@@ -657,25 +657,25 @@
         "position": 22,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
-        "meps": 692,
+        "meps": 710,
         "moves": 6,
-        "calories": 3930,
-        "totalMinutes": 862,
+        "calories": 4009,
+        "totalMinutes": 867,
         "zone0Minutes": 465,
         "zone1Minutes": 212,
         "zone2Minutes": 103,
-        "zone3Minutes": 54,
-        "zone4Minutes": 28,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 184,
+        "zone3Minutes": 56,
+        "zone4Minutes": 30,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 189,
         "zone1MEPs": 212,
         "zone2MEPs": 206,
-        "zone3MEPs": 162,
-        "zone4MEPs": 112,
-        "zone5MEPs": 0,
-        "avgEffort": 50,
-        "peakHR": 159,
-        "avgHR": 92,
+        "zone3MEPs": 168,
+        "zone4MEPs": 120,
+        "zone5MEPs": 4,
+        "avgEffort": 51,
+        "peakHR": 170,
+        "avgHR": 93,
         "belt": 7424832,
         "rank": 12,
         "status": "Gold",
@@ -1430,7 +1430,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 32556,
+      "male": 32574,
       "female": 9543
     },
     "active_users": {
@@ -1444,9 +1444,9 @@
       "total": 16
     },
     "meps_averages": {
-      "male": "1808.7",
+      "male": "1809.7",
       "female": "795.3",
-      "total": "1403.3"
+      "total": "1403.9"
     }
   }
 }
