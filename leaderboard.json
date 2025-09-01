@@ -6,25 +6,25 @@
         "position": 1,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 1,
+        "meps": 10,
         "moves": 1,
-        "calories": 2,
-        "totalMinutes": 28,
-        "zone0Minutes": 27,
-        "zone1Minutes": 1,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
+        "calories": 42,
+        "totalMinutes": 36,
+        "zone0Minutes": 29,
+        "zone1Minutes": 5,
+        "zone2Minutes": 1,
+        "zone3Minutes": 1,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 1,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
+        "targetZoneMinutes": 3,
+        "zone1MEPs": 5,
+        "zone2MEPs": 2,
+        "zone3MEPs": 3,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 35,
-        "peakHR": 104,
-        "avgHR": 68,
+        "avgEffort": 40,
+        "peakHR": 147,
+        "avgHR": 77,
         "belt": 7424835,
         "rank": 12,
         "status": "Gold",
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 0,
-      "female": 1
+      "female": 10
     },
     "active_users": {
       "male": 0,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": 0,
-      "female": "1.0",
-      "total": "1.0"
+      "female": "10.0",
+      "total": "10.0"
     }
   },
   "previous": {
