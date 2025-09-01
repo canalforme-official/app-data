@@ -4,6 +4,37 @@
     "data": [
       {
         "position": 1,
+        "nickname": "katy",
+        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
+        "meps": 110,
+        "moves": 1,
+        "calories": 321,
+        "totalMinutes": 44,
+        "zone0Minutes": 14,
+        "zone1Minutes": 2,
+        "zone2Minutes": 0,
+        "zone3Minutes": 4,
+        "zone4Minutes": 24,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 28,
+        "zone1MEPs": 2,
+        "zone2MEPs": 0,
+        "zone3MEPs": 12,
+        "zone4MEPs": 96,
+        "zone5MEPs": 0,
+        "avgEffort": 66,
+        "peakHR": 158,
+        "avgHR": 120,
+        "belt": 7619943,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 2,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 74,
@@ -29,37 +60,6 @@
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 2,
-        "nickname": "katy",
-        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 70,
-        "moves": 1,
-        "calories": 207,
-        "totalMinutes": 34,
-        "zone0Minutes": 14,
-        "zone1Minutes": 2,
-        "zone2Minutes": 0,
-        "zone3Minutes": 4,
-        "zone4Minutes": 14,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 18,
-        "zone1MEPs": 2,
-        "zone2MEPs": 0,
-        "zone3MEPs": 12,
-        "zone4MEPs": 56,
-        "zone5MEPs": 0,
-        "avgEffort": 60,
-        "peakHR": 155,
-        "avgHR": 111,
-        "belt": 7619943,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1431,7 +1431,7 @@
     ],
     "total_meps_by_gender": {
       "male": 0,
-      "female": 180
+      "female": 220
     },
     "active_users": {
       "male": 0,
@@ -1445,8 +1445,8 @@
     },
     "meps_averages": {
       "male": 0,
-      "female": "60.0",
-      "total": "60.0"
+      "female": "73.3",
+      "total": "73.3"
     }
   },
   "previous": {
