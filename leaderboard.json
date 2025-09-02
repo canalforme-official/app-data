@@ -35,6 +35,37 @@
       },
       {
         "position": 2,
+        "nickname": "عثمان",
+        "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
+        "meps": 802,
+        "moves": 2,
+        "calories": 3898,
+        "totalMinutes": 264,
+        "zone0Minutes": 11,
+        "zone1Minutes": 23,
+        "zone2Minutes": 48,
+        "zone3Minutes": 45,
+        "zone4Minutes": 70,
+        "zone5Minutes": 67,
+        "targetZoneMinutes": 229,
+        "zone1MEPs": 23,
+        "zone2MEPs": 96,
+        "zone3MEPs": 135,
+        "zone4MEPs": 280,
+        "zone5MEPs": 268,
+        "avgEffort": 77,
+        "peakHR": 193,
+        "avgHR": 149,
+        "belt": 7424848,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 3,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 718,
@@ -65,7 +96,7 @@
         "male": false
       },
       {
-        "position": 3,
+        "position": 4,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 520,
@@ -96,22 +127,22 @@
         "male": true
       },
       {
-        "position": 4,
+        "position": 5,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
-        "meps": 422,
+        "meps": 424,
         "moves": 2,
-        "calories": 1331,
-        "totalMinutes": 350,
+        "calories": 1339,
+        "totalMinutes": 351,
         "zone0Minutes": 153,
         "zone1Minutes": 84,
-        "zone2Minutes": 39,
+        "zone2Minutes": 40,
         "zone3Minutes": 36,
         "zone4Minutes": 37,
         "zone5Minutes": 1,
-        "targetZoneMinutes": 113,
+        "targetZoneMinutes": 115,
         "zone1MEPs": 84,
-        "zone2MEPs": 78,
+        "zone2MEPs": 80,
         "zone3MEPs": 108,
         "zone4MEPs": 148,
         "zone5MEPs": 4,
@@ -125,37 +156,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": false
-      },
-      {
-        "position": 5,
-        "nickname": "عثمان",
-        "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
-        "meps": 410,
-        "moves": 1,
-        "calories": 1921,
-        "totalMinutes": 114,
-        "zone0Minutes": 0,
-        "zone1Minutes": 1,
-        "zone2Minutes": 12,
-        "zone3Minutes": 19,
-        "zone4Minutes": 38,
-        "zone5Minutes": 44,
-        "targetZoneMinutes": 112,
-        "zone1MEPs": 1,
-        "zone2MEPs": 24,
-        "zone3MEPs": 57,
-        "zone4MEPs": 152,
-        "zone5MEPs": 176,
-        "avgEffort": 84,
-        "peakHR": 193,
-        "avgHR": 163,
-        "belt": 7424848,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 6,
@@ -1461,8 +1461,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 3587,
-      "female": 2511
+      "male": 3979,
+      "female": 2513
     },
     "active_users": {
       "male": 13,
@@ -1475,9 +1475,9 @@
       "total": 26
     },
     "meps_averages": {
-      "male": "275.9",
-      "female": "313.9",
-      "total": "290.4"
+      "male": "306.1",
+      "female": "314.1",
+      "total": "309.1"
     }
   },
   "previous": {
