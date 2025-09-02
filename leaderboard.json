@@ -133,8 +133,8 @@
         "meps": 485,
         "moves": 2,
         "calories": 1531,
-        "totalMinutes": 386,
-        "zone0Minutes": 160,
+        "totalMinutes": 391,
+        "zone0Minutes": 165,
         "zone1Minutes": 92,
         "zone2Minutes": 49,
         "zone3Minutes": 45,
@@ -148,7 +148,7 @@
         "zone5MEPs": 4,
         "avgEffort": 55,
         "peakHR": 171,
-        "avgHR": 104,
+        "avgHR": 103,
         "belt": 7424849,
         "rank": 12,
         "status": "Gold",
@@ -283,6 +283,37 @@
       },
       {
         "position": 10,
+        "nickname": "lalaomin",
+        "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
+        "meps": 259,
+        "moves": 2,
+        "calories": 815,
+        "totalMinutes": 177,
+        "zone0Minutes": 40,
+        "zone1Minutes": 81,
+        "zone2Minutes": 17,
+        "zone3Minutes": 12,
+        "zone4Minutes": 27,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 57,
+        "zone1MEPs": 81,
+        "zone2MEPs": 34,
+        "zone3MEPs": 36,
+        "zone4MEPs": 108,
+        "zone5MEPs": 0,
+        "avgEffort": 59,
+        "peakHR": 168,
+        "avgHR": 111,
+        "belt": 7468330,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 11,
         "nickname": "nina",
         "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
         "meps": 259,
@@ -313,7 +344,7 @@
         "male": false
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 226,
@@ -344,7 +375,7 @@
         "male": true
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 215,
@@ -375,7 +406,7 @@
         "male": true
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 187,
@@ -406,7 +437,7 @@
         "male": true
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 166,
@@ -432,37 +463,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 15,
-        "nickname": "lalaomin",
-        "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
-        "meps": 165,
-        "moves": 2,
-        "calories": 536,
-        "totalMinutes": 119,
-        "zone0Minutes": 20,
-        "zone1Minutes": 64,
-        "zone2Minutes": 15,
-        "zone3Minutes": 9,
-        "zone4Minutes": 11,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 35,
-        "zone1MEPs": 64,
-        "zone2MEPs": 30,
-        "zone3MEPs": 27,
-        "zone4MEPs": 44,
-        "zone5MEPs": 0,
-        "avgEffort": 58,
-        "peakHR": 160,
-        "avgHR": 109,
-        "belt": 7468330,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 3991,
-      "female": 2576
+      "female": 2670
     },
     "active_users": {
       "male": 13,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "307.0",
-      "female": "322.0",
-      "total": "312.7"
+      "female": "333.8",
+      "total": "317.2"
     }
   },
   "previous": {
