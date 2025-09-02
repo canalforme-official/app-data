@@ -221,6 +221,37 @@
       },
       {
         "position": 8,
+        "nickname": "katy",
+        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
+        "meps": 263,
+        "moves": 3,
+        "calories": 841,
+        "totalMinutes": 131,
+        "zone0Minutes": 40,
+        "zone1Minutes": 12,
+        "zone2Minutes": 19,
+        "zone3Minutes": 27,
+        "zone4Minutes": 32,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 80,
+        "zone1MEPs": 12,
+        "zone2MEPs": 38,
+        "zone3MEPs": 81,
+        "zone4MEPs": 128,
+        "zone5MEPs": 4,
+        "avgEffort": 61,
+        "peakHR": 164,
+        "avgHR": 112,
+        "belt": 7619943,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 9,
         "nickname": "nina",
         "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
         "meps": 259,
@@ -246,37 +277,6 @@
         "rank": 1,
         "status": "Iron",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 9,
-        "nickname": "katy",
-        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 257,
-        "moves": 3,
-        "calories": 820,
-        "totalMinutes": 129,
-        "zone0Minutes": 40,
-        "zone1Minutes": 12,
-        "zone2Minutes": 19,
-        "zone3Minutes": 25,
-        "zone4Minutes": 32,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 77,
-        "zone1MEPs": 12,
-        "zone2MEPs": 38,
-        "zone3MEPs": 75,
-        "zone4MEPs": 128,
-        "zone5MEPs": 4,
-        "avgEffort": 61,
-        "peakHR": 164,
-        "avgHR": 112,
-        "belt": 7619943,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 2885,
-      "female": 1750
+      "female": 1756
     },
     "active_users": {
       "male": 13,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "221.9",
-      "female": "250.0",
-      "total": "231.8"
+      "female": "250.9",
+      "total": "232.1"
     }
   },
   "previous": {
