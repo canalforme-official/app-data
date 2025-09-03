@@ -407,6 +407,37 @@
       },
       {
         "position": 14,
+        "nickname": "Radouane",
+        "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
+        "meps": 218,
+        "moves": 2,
+        "calories": 1147,
+        "totalMinutes": 172,
+        "zone0Minutes": 50,
+        "zone1Minutes": 60,
+        "zone2Minutes": 34,
+        "zone3Minutes": 22,
+        "zone4Minutes": 6,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 63,
+        "zone1MEPs": 60,
+        "zone2MEPs": 68,
+        "zone3MEPs": 66,
+        "zone4MEPs": 24,
+        "zone5MEPs": 0,
+        "avgEffort": 57,
+        "peakHR": 160,
+        "avgHR": 104,
+        "belt": 7424831,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 15,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 215,
@@ -437,7 +468,7 @@
         "male": true
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 187,
@@ -468,7 +499,7 @@
         "male": true
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 166,
@@ -499,7 +530,7 @@
         "male": false
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
         "meps": 156,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 100,
@@ -561,7 +592,7 @@
         "male": false
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 100,
@@ -592,7 +623,7 @@
         "male": true
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 97,
@@ -618,37 +649,6 @@
         "rank": 6,
         "status": "Silver",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 21,
-        "nickname": "Radouane",
-        "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
-        "meps": 83,
-        "moves": 1,
-        "calories": 516,
-        "totalMinutes": 111,
-        "zone0Minutes": 47,
-        "zone1Minutes": 46,
-        "zone2Minutes": 17,
-        "zone3Minutes": 1,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 19,
-        "zone1MEPs": 46,
-        "zone2MEPs": 34,
-        "zone3MEPs": 3,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 52,
-        "peakHR": 133,
-        "avgHR": 95,
-        "belt": 7424831,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 4470,
+      "male": 4605,
       "female": 2673
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "319.3",
+      "male": "328.9",
       "female": "334.1",
-      "total": "324.7"
+      "total": "330.8"
     }
   },
   "previous": {
