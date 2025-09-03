@@ -376,6 +376,37 @@
       },
       {
         "position": 13,
+        "nickname": "Limouna",
+        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
+        "meps": 253,
+        "moves": 1,
+        "calories": 762,
+        "totalMinutes": 99,
+        "zone0Minutes": 1,
+        "zone1Minutes": 20,
+        "zone2Minutes": 25,
+        "zone3Minutes": 29,
+        "zone4Minutes": 17,
+        "zone5Minutes": 7,
+        "targetZoneMinutes": 78,
+        "zone1MEPs": 20,
+        "zone2MEPs": 50,
+        "zone3MEPs": 87,
+        "zone4MEPs": 68,
+        "zone5MEPs": 28,
+        "avgEffort": 70,
+        "peakHR": 179,
+        "avgHR": 130,
+        "belt": 7461304,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 14,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 231,
@@ -406,7 +437,7 @@
         "male": true
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 226,
@@ -437,7 +468,7 @@
         "male": true
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "karim",
         "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
         "meps": 220,
@@ -468,7 +499,7 @@
         "male": true
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 215,
@@ -499,7 +530,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 187,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 166,
@@ -561,7 +592,7 @@
         "male": false
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 100,
@@ -592,7 +623,7 @@
         "male": false
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 100,
@@ -621,37 +652,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 21,
-        "nickname": "Limouna",
-        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 99,
-        "moves": 1,
-        "calories": 312,
-        "totalMinutes": 47,
-        "zone0Minutes": 1,
-        "zone1Minutes": 19,
-        "zone2Minutes": 9,
-        "zone3Minutes": 10,
-        "zone4Minutes": 6,
-        "zone5Minutes": 2,
-        "targetZoneMinutes": 27,
-        "zone1MEPs": 19,
-        "zone2MEPs": 18,
-        "zone3MEPs": 30,
-        "zone4MEPs": 24,
-        "zone5MEPs": 8,
-        "avgEffort": 66,
-        "peakHR": 176,
-        "avgHR": 122,
-        "belt": 7461304,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 22,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 4836,
-      "female": 2865
+      "female": 3019
     },
     "active_users": {
       "male": 14,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "345.4",
-      "female": "286.5",
-      "total": "320.9"
+      "female": "301.9",
+      "total": "327.3"
     }
   },
   "previous": {
