@@ -469,6 +469,37 @@
       },
       {
         "position": 16,
+        "nickname": "yussi ",
+        "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
+        "meps": 247,
+        "moves": 1,
+        "calories": 794,
+        "totalMinutes": 112,
+        "zone0Minutes": 20,
+        "zone1Minutes": 15,
+        "zone2Minutes": 27,
+        "zone3Minutes": 22,
+        "zone4Minutes": 24,
+        "zone5Minutes": 4,
+        "targetZoneMinutes": 77,
+        "zone1MEPs": 15,
+        "zone2MEPs": 54,
+        "zone3MEPs": 66,
+        "zone4MEPs": 96,
+        "zone5MEPs": 16,
+        "avgEffort": 66,
+        "peakHR": 180,
+        "avgHR": 129,
+        "belt": 7461312,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 17,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 231,
@@ -499,7 +530,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "karim",
         "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
         "meps": 220,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 215,
@@ -561,7 +592,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 192,
@@ -592,7 +623,7 @@
         "male": false
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 187,
@@ -623,7 +654,7 @@
         "male": true
       },
       {
-        "position": 21,
+        "position": 22,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 166,
@@ -652,37 +683,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 22,
-        "nickname": "yussi ",
-        "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
-        "meps": 129,
-        "moves": 1,
-        "calories": 419,
-        "totalMinutes": 64,
-        "zone0Minutes": 17,
-        "zone1Minutes": 8,
-        "zone2Minutes": 13,
-        "zone3Minutes": 9,
-        "zone4Minutes": 13,
-        "zone5Minutes": 4,
-        "targetZoneMinutes": 39,
-        "zone1MEPs": 8,
-        "zone2MEPs": 26,
-        "zone3MEPs": 27,
-        "zone4MEPs": 52,
-        "zone5MEPs": 16,
-        "avgEffort": 65,
-        "peakHR": 180,
-        "avgHR": 126,
-        "belt": 7461312,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 23,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 4984,
-      "female": 3726
+      "female": 3844
     },
     "active_users": {
       "male": 14,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "356.0",
-      "female": "372.6",
-      "total": "362.9"
+      "female": "384.4",
+      "total": "367.8"
     }
   },
   "previous": {
