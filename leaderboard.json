@@ -128,6 +128,37 @@
       },
       {
         "position": 5,
+        "nickname": "katy",
+        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
+        "meps": 1125,
+        "moves": 9,
+        "calories": 3785,
+        "totalMinutes": 610,
+        "zone0Minutes": 163,
+        "zone1Minutes": 110,
+        "zone2Minutes": 106,
+        "zone3Minutes": 121,
+        "zone4Minutes": 102,
+        "zone5Minutes": 8,
+        "targetZoneMinutes": 336,
+        "zone1MEPs": 110,
+        "zone2MEPs": 212,
+        "zone3MEPs": 363,
+        "zone4MEPs": 408,
+        "zone5MEPs": 32,
+        "avgEffort": 61,
+        "peakHR": 170,
+        "avgHR": 113,
+        "belt": 7619943,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 6,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 1122,
@@ -156,37 +187,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 6,
-        "nickname": "katy",
-        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 1077,
-        "moves": 9,
-        "calories": 3630,
-        "totalMinutes": 592,
-        "zone0Minutes": 162,
-        "zone1Minutes": 108,
-        "zone2Minutes": 103,
-        "zone3Minutes": 113,
-        "zone4Minutes": 98,
-        "zone5Minutes": 8,
-        "targetZoneMinutes": 322,
-        "zone1MEPs": 108,
-        "zone2MEPs": 206,
-        "zone3MEPs": 339,
-        "zone4MEPs": 392,
-        "zone5MEPs": 32,
-        "avgEffort": 61,
-        "peakHR": 170,
-        "avgHR": 112,
-        "belt": 7619943,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 7,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 10860,
-      "female": 6346
+      "female": 6394
     },
     "active_users": {
       "male": 16,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "678.8",
-      "female": "634.6",
-      "total": "661.8"
+      "female": "639.4",
+      "total": "663.6"
     }
   }
 }
