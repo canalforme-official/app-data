@@ -719,25 +719,25 @@
         "position": 24,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
-        "meps": 217,
+        "meps": 223,
         "moves": 1,
-        "calories": 695,
-        "totalMinutes": 122,
-        "zone0Minutes": 28,
-        "zone1Minutes": 30,
+        "calories": 720,
+        "totalMinutes": 130,
+        "zone0Minutes": 30,
+        "zone1Minutes": 36,
         "zone2Minutes": 25,
         "zone3Minutes": 19,
         "zone4Minutes": 20,
         "zone5Minutes": 0,
         "targetZoneMinutes": 63,
-        "zone1MEPs": 30,
+        "zone1MEPs": 36,
         "zone2MEPs": 50,
         "zone3MEPs": 57,
         "zone4MEPs": 80,
         "zone5MEPs": 0,
-        "avgEffort": 62,
+        "avgEffort": 61,
         "peakHR": 169,
-        "avgHR": 117,
+        "avgHR": 116,
         "belt": 7468333,
         "rank": 3,
         "status": "Bronze",
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 10939,
-      "female": 6644
+      "female": 6650
     },
     "active_users": {
       "male": 16,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "683.7",
-      "female": "604.0",
-      "total": "651.2"
+      "female": "604.5",
+      "total": "651.4"
     }
   }
 }
