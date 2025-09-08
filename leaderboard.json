@@ -781,25 +781,25 @@
         "position": 26,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
-        "meps": 224,
+        "meps": 231,
         "moves": 1,
-        "calories": 1154,
-        "totalMinutes": 75,
+        "calories": 1200,
+        "totalMinutes": 79,
         "zone0Minutes": 0,
-        "zone1Minutes": 11,
-        "zone2Minutes": 16,
+        "zone1Minutes": 12,
+        "zone2Minutes": 19,
         "zone3Minutes": 11,
         "zone4Minutes": 21,
         "zone5Minutes": 16,
-        "targetZoneMinutes": 64,
-        "zone1MEPs": 11,
-        "zone2MEPs": 32,
+        "targetZoneMinutes": 67,
+        "zone1MEPs": 12,
+        "zone2MEPs": 38,
         "zone3MEPs": 33,
         "zone4MEPs": 84,
         "zone5MEPs": 64,
-        "avgEffort": 77,
+        "avgEffort": 76,
         "peakHR": 191,
-        "avgHR": 150,
+        "avgHR": 148,
         "belt": 7468332,
         "rank": 0,
         "status": "No Status",
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 12708,
+      "male": 12715,
       "female": 7630
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 18
     },
     "meps_averages": {
-      "male": "706.0",
+      "male": "706.4",
       "female": "693.6",
-      "total": "701.3"
+      "total": "701.6"
     }
   }
 }
