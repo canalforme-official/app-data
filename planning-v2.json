@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2025-09-08T23:29:32.470Z",
-    "weekNumber": 36
+    "lastUpdated": "2025-09-09T23:29:30.131Z",
+    "weekNumber": 37
   },
   "coachs": [
     {
@@ -208,12 +208,6 @@
       "name": "CIRCUIT TRAINING",
       "logo": "",
       "duration": 60
-    },
-    {
-      "id": "cours-cx-training",
-      "name": "CX TRAINING",
-      "logo": "",
-      "duration": 30
     },
     {
       "id": "cours-bodysculpt",
@@ -671,12 +665,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-cx-training",
+        "coursId": "cours-bodypump",
         "startTime": "19:30",
-        "endTime": "20:00",
-        "duration": 30,
+        "endTime": "20:30",
+        "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-hicham"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -964,23 +958,23 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-tabata",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-adiba"
-        ],
-        "studioId": "studio-plateau-100-femmes",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-danse-orientale",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
           "coach-fayza"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-tabata",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
