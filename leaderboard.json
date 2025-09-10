@@ -39,7 +39,7 @@
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 1957,
         "moves": 12,
-        "calories": 13731,
+        "calories": 13734,
         "totalMinutes": 1679,
         "zone0Minutes": 372,
         "zone1Minutes": 866,
@@ -595,18 +595,18 @@
         "position": 20,
         "nickname": "bob",
         "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 473,
+        "meps": 484,
         "moves": 3,
-        "calories": 2553,
-        "totalMinutes": 402,
-        "zone0Minutes": 169,
-        "zone1Minutes": 110,
+        "calories": 2643,
+        "totalMinutes": 419,
+        "zone0Minutes": 175,
+        "zone1Minutes": 121,
         "zone2Minutes": 53,
         "zone3Minutes": 23,
         "zone4Minutes": 34,
         "zone5Minutes": 13,
         "targetZoneMinutes": 121,
-        "zone1MEPs": 110,
+        "zone1MEPs": 121,
         "zone2MEPs": 106,
         "zone3MEPs": 69,
         "zone4MEPs": 136,
@@ -841,6 +841,37 @@
       },
       {
         "position": 28,
+        "nickname": "M’ZAKi ",
+        "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
+        "meps": 324,
+        "moves": 12,
+        "calories": 2192,
+        "totalMinutes": 499,
+        "zone0Minutes": 300,
+        "zone1Minutes": 116,
+        "zone2Minutes": 49,
+        "zone3Minutes": 26,
+        "zone4Minutes": 8,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 83,
+        "zone1MEPs": 116,
+        "zone2MEPs": 98,
+        "zone3MEPs": 78,
+        "zone4MEPs": 32,
+        "zone5MEPs": 0,
+        "avgEffort": 49,
+        "peakHR": 176,
+        "avgHR": 97,
+        "belt": 7461318,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
+        "male": true
+      },
+      {
+        "position": 29,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 249,
@@ -871,7 +902,7 @@
         "male": true
       },
       {
-        "position": 29,
+        "position": 30,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 239,
@@ -902,7 +933,7 @@
         "male": true
       },
       {
-        "position": 30,
+        "position": 31,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 237,
@@ -930,37 +961,6 @@
         "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 31,
-        "nickname": "M’ZAKi ",
-        "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
-        "meps": 187,
-        "moves": 3,
-        "calories": 1128,
-        "totalMinutes": 217,
-        "zone0Minutes": 125,
-        "zone1Minutes": 35,
-        "zone2Minutes": 27,
-        "zone3Minutes": 22,
-        "zone4Minutes": 8,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 57,
-        "zone1MEPs": 35,
-        "zone2MEPs": 54,
-        "zone3MEPs": 66,
-        "zone4MEPs": 32,
-        "zone5MEPs": 0,
-        "avgEffort": 51,
-        "peakHR": 176,
-        "avgHR": 101,
-        "belt": 7461318,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
         "male": true
       },
       {
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 17059,
+      "male": 17207,
       "female": 10322
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 16
     },
     "meps_averages": {
-      "male": "897.8",
+      "male": "905.6",
       "female": "860.2",
-      "total": "883.3"
+      "total": "888.0"
     }
   }
 }
