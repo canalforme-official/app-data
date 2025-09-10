@@ -624,6 +624,37 @@
       },
       {
         "position": 21,
+        "nickname": "nina",
+        "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
+        "meps": 589,
+        "moves": 3,
+        "calories": 1773,
+        "totalMinutes": 333,
+        "zone0Minutes": 93,
+        "zone1Minutes": 75,
+        "zone2Minutes": 38,
+        "zone3Minutes": 70,
+        "zone4Minutes": 56,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 166,
+        "zone1MEPs": 75,
+        "zone2MEPs": 76,
+        "zone3MEPs": 210,
+        "zone4MEPs": 224,
+        "zone5MEPs": 4,
+        "avgEffort": 61,
+        "peakHR": 165,
+        "avgHR": 113,
+        "belt": 7619942,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 22,
         "nickname": "meriem N",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 567,
@@ -654,7 +685,7 @@
         "male": false
       },
       {
-        "position": 22,
+        "position": 23,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 467,
@@ -685,7 +716,7 @@
         "male": false
       },
       {
-        "position": 23,
+        "position": 24,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 417,
@@ -716,7 +747,7 @@
         "male": true
       },
       {
-        "position": 24,
+        "position": 25,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 383,
@@ -747,7 +778,7 @@
         "male": true
       },
       {
-        "position": 25,
+        "position": 26,
         "nickname": "dikra",
         "usrGUID": "4a650738-ab15-11ef-b127-dad563f0e7af",
         "meps": 374,
@@ -773,37 +804,6 @@
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 26,
-        "nickname": "nina",
-        "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
-        "meps": 350,
-        "moves": 2,
-        "calories": 1114,
-        "totalMinutes": 219,
-        "zone0Minutes": 57,
-        "zone1Minutes": 62,
-        "zone2Minutes": 35,
-        "zone3Minutes": 42,
-        "zone4Minutes": 22,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 101,
-        "zone1MEPs": 62,
-        "zone2MEPs": 70,
-        "zone3MEPs": 126,
-        "zone4MEPs": 88,
-        "zone5MEPs": 4,
-        "avgEffort": 60,
-        "peakHR": 165,
-        "avgHR": 110,
-        "belt": 7619942,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 18412,
-      "female": 10526
+      "female": 10765
     },
     "active_users": {
       "male": 19,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "969.1",
-      "female": "877.2",
-      "total": "933.5"
+      "female": "897.1",
+      "total": "941.2"
     }
   }
 }
