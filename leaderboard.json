@@ -68,21 +68,21 @@
         "position": 3,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 2028,
+        "meps": 2056,
         "moves": 7,
-        "calories": 5800,
-        "totalMinutes": 863,
+        "calories": 5879,
+        "totalMinutes": 873,
         "zone0Minutes": 101,
         "zone1Minutes": 160,
-        "zone2Minutes": 164,
-        "zone3Minutes": 212,
-        "zone4Minutes": 204,
+        "zone2Minutes": 167,
+        "zone3Minutes": 218,
+        "zone4Minutes": 205,
         "zone5Minutes": 22,
-        "targetZoneMinutes": 602,
+        "targetZoneMinutes": 612,
         "zone1MEPs": 160,
-        "zone2MEPs": 328,
-        "zone3MEPs": 636,
-        "zone4MEPs": 816,
+        "zone2MEPs": 334,
+        "zone3MEPs": 654,
+        "zone4MEPs": 820,
         "zone5MEPs": 88,
         "avgEffort": 67,
         "peakHR": 177,
@@ -659,9 +659,9 @@
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 580,
         "moves": 6,
-        "calories": 2073,
-        "totalMinutes": 588,
-        "zone0Minutes": 231,
+        "calories": 2074,
+        "totalMinutes": 592,
+        "zone0Minutes": 235,
         "zone1Minutes": 190,
         "zone2Minutes": 115,
         "zone3Minutes": 48,
@@ -673,7 +673,7 @@
         "zone3MEPs": 144,
         "zone4MEPs": 16,
         "zone5MEPs": 0,
-        "avgEffort": 53,
+        "avgEffort": 52,
         "peakHR": 159,
         "avgHR": 100,
         "belt": 7424835,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 19600,
-      "female": 11222
+      "female": 11250
     },
     "active_users": {
       "male": 19,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1031.6",
-      "female": "935.2",
-      "total": "994.3"
+      "female": "937.5",
+      "total": "995.2"
     }
   }
 }
