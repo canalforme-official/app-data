@@ -471,22 +471,22 @@
         "position": 16,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 900,
+        "meps": 912,
         "moves": 4,
-        "calories": 3984,
-        "totalMinutes": 350,
+        "calories": 4035,
+        "totalMinutes": 356,
         "zone0Minutes": 4,
-        "zone1Minutes": 51,
-        "zone2Minutes": 106,
-        "zone3Minutes": 119,
+        "zone1Minutes": 54,
+        "zone2Minutes": 107,
+        "zone3Minutes": 120,
         "zone4Minutes": 64,
-        "zone5Minutes": 6,
-        "targetZoneMinutes": 294,
-        "zone1MEPs": 51,
-        "zone2MEPs": 212,
-        "zone3MEPs": 357,
+        "zone5Minutes": 7,
+        "targetZoneMinutes": 297,
+        "zone1MEPs": 54,
+        "zone2MEPs": 214,
+        "zone3MEPs": 360,
         "zone4MEPs": 256,
-        "zone5MEPs": 24,
+        "zone5MEPs": 28,
         "avgEffort": 70,
         "peakHR": 167,
         "avgHR": 122,
@@ -722,8 +722,8 @@
         "meps": 565,
         "moves": 8,
         "calories": 2941,
-        "totalMinutes": 620,
-        "zone0Minutes": 198,
+        "totalMinutes": 625,
+        "zone0Minutes": 203,
         "zone1Minutes": 312,
         "zone2Minutes": 85,
         "zone3Minutes": 17,
@@ -753,8 +753,8 @@
         "meps": 532,
         "moves": 6,
         "calories": 2039,
-        "totalMinutes": 743,
-        "zone0Minutes": 418,
+        "totalMinutes": 753,
+        "zone0Minutes": 428,
         "zone1Minutes": 186,
         "zone2Minutes": 86,
         "zone3Minutes": 38,
@@ -766,7 +766,7 @@
         "zone3MEPs": 114,
         "zone4MEPs": 60,
         "zone5MEPs": 0,
-        "avgEffort": 50,
+        "avgEffort": 49,
         "peakHR": 172,
         "avgHR": 97,
         "belt": 7461316,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22331,
+      "male": 22343,
       "female": 12270
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 16
     },
     "meps_averages": {
-      "male": "1175.3",
+      "male": "1175.9",
       "female": "1022.5",
-      "total": "1116.2"
+      "total": "1116.5"
     }
   }
 }
