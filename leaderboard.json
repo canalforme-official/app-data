@@ -500,6 +500,37 @@
       },
       {
         "position": 17,
+        "nickname": "bob",
+        "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
+        "meps": 910,
+        "moves": 5,
+        "calories": 4808,
+        "totalMinutes": 614,
+        "zone0Minutes": 190,
+        "zone1Minutes": 185,
+        "zone2Minutes": 90,
+        "zone3Minutes": 51,
+        "zone4Minutes": 69,
+        "zone5Minutes": 29,
+        "targetZoneMinutes": 236,
+        "zone1MEPs": 185,
+        "zone2MEPs": 180,
+        "zone3MEPs": 153,
+        "zone4MEPs": 276,
+        "zone5MEPs": 116,
+        "avgEffort": 58,
+        "peakHR": 175,
+        "avgHR": 106,
+        "belt": 7468337,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 18,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 826,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 791,
@@ -561,7 +592,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 705,
@@ -592,7 +623,7 @@
         "male": false
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 692,
@@ -618,37 +649,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 21,
-        "nickname": "bob",
-        "usrGUID": "ac7da6e0-c182-11ef-8ad5-9a5fa20e31d2",
-        "meps": 690,
-        "moves": 4,
-        "calories": 3774,
-        "totalMinutes": 537,
-        "zone0Minutes": 188,
-        "zone1Minutes": 164,
-        "zone2Minutes": 86,
-        "zone3Minutes": 42,
-        "zone4Minutes": 43,
-        "zone5Minutes": 14,
-        "targetZoneMinutes": 183,
-        "zone1MEPs": 164,
-        "zone2MEPs": 172,
-        "zone3MEPs": 126,
-        "zone4MEPs": 172,
-        "zone5MEPs": 56,
-        "avgEffort": 56,
-        "peakHR": 175,
-        "avgHR": 101,
-        "belt": 7468337,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
         "type": "Unknown",
         "coachLink": "",
         "male": true
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22573,
+      "male": 22793,
       "female": 12302
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 16
     },
     "meps_averages": {
-      "male": "1188.1",
+      "male": "1199.6",
       "female": "1025.2",
-      "total": "1125.0"
+      "total": "1132.1"
     }
   }
 }
