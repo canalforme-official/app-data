@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-09-15T23:29:33.073Z",
+    "lastUpdated": "2025-09-16T14:32:51.011Z",
     "weekNumber": 37
   },
   "coachs": [
@@ -191,12 +191,6 @@
       "duration": 60
     },
     {
-      "id": "cours-aquacombat",
-      "name": "AQUACOMBAT",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
-      "duration": 60
-    },
-    {
       "id": "cours-tabata",
       "name": "TABATA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
@@ -230,6 +224,12 @@
       "id": "cours-circuit-boxing",
       "name": "CIRCUIT BOXING",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-aquacombat",
+      "name": "AQUACOMBAT",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
       "duration": 60
     },
     {
@@ -588,6 +588,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-bodysculpt",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-gym-ball",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -626,29 +637,18 @@
         "endTime": "12:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-maroua"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-aquacombat",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-piscine",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-aquadynamic",
+        "coursId": "cours-aquagym",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-adiba"
+          "coach-fayza"
         ],
         "studioId": "studio-piscine",
         "type": "100% Femmes"
@@ -659,7 +659,8 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-youssef",
+          "coach-adiba"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
@@ -681,7 +682,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-adiba"
+          "coach-fayza"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -696,6 +697,17 @@
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquacombat",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
+        ],
+        "studioId": "studio-piscine",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodypump",
@@ -738,7 +750,18 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-adiba"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-circuit-training",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
@@ -755,12 +778,23 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-abdos-xtrem",
+        "coursId": "cours-bodyflow",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
           "coach-fayza"
+        ],
+        "studioId": "studio-plateau-100-femmes",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-stretching",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-adiba"
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
