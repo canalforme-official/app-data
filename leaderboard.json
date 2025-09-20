@@ -595,19 +595,19 @@
         "position": 20,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 1259,
+        "meps": 1262,
         "moves": 4,
-        "calories": 3808,
-        "totalMinutes": 505,
+        "calories": 3817,
+        "totalMinutes": 507,
         "zone0Minutes": 23,
-        "zone1Minutes": 99,
-        "zone2Minutes": 125,
+        "zone1Minutes": 100,
+        "zone2Minutes": 126,
         "zone3Minutes": 122,
         "zone4Minutes": 85,
         "zone5Minutes": 51,
-        "targetZoneMinutes": 381,
-        "zone1MEPs": 99,
-        "zone2MEPs": 250,
+        "targetZoneMinutes": 383,
+        "zone1MEPs": 100,
+        "zone2MEPs": 252,
         "zone3MEPs": 366,
         "zone4MEPs": 340,
         "zone5MEPs": 204,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 36089,
-      "female": 17956
+      "female": 17959
     },
     "active_users": {
       "male": 19,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1899.4",
-      "female": "1282.6",
-      "total": "1637.7"
+      "female": "1282.8",
+      "total": "1637.8"
     }
   }
 }
