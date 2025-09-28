@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-09-27T23:29:30.828Z",
+    "lastUpdated": "2025-09-28T23:29:29.131Z",
     "weekNumber": 39
   },
   "coachs": [
@@ -237,12 +237,6 @@
       "name": "PW-ATTACK",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/673c393e-1b54-a3c7-f414-254bf2cc1f97.png",
       "duration": 60
-    },
-    {
-      "id": "cours-grit-training",
-      "name": "GRIT TRAINING",
-      "logo": "",
-      "duration": 60
     }
   ],
   "planning": {
@@ -386,8 +380,8 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine",
-          "coach-rabie"
+          "coach-rabie",
+          "coach-yassir"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -409,8 +403,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham",
-          "coach-yassir"
+          "coach-hicham"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -501,7 +494,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-youssef"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
@@ -518,13 +511,23 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-cross-90x",
+        "startTime": "18:30",
+        "endTime": "19:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-nouredine"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-rpm",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef",
-          "coach-nouredine"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -800,6 +803,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-cx-training",
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "100% Hommes"
+      },
+      {
         "coursId": "cours-pilates",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -816,44 +830,10 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir",
-          "coach-nouredine"
+          "coach-yassir"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-grit-training",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-cx-training",
-        "startTime": "18:30",
-        "endTime": "19:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-aquagym",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-yassir"
-        ],
-        "studioId": "studio-piscine",
-        "type": "100% Hommes"
       },
       {
         "coursId": "cours-rpm",
@@ -865,6 +845,17 @@
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nouredine"
+        ],
+        "studioId": "studio-piscine",
+        "type": "100% Hommes"
       },
       {
         "coursId": "cours-tone",
