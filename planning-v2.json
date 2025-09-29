@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-09-29T17:09:25.022Z",
+    "lastUpdated": "2025-09-29T23:29:30.355Z",
     "weekNumber": 39
   },
   "coachs": [
@@ -779,6 +779,17 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-piscine",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-bodyflow",
