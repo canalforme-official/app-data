@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-09-30T23:29:30.926Z",
+    "lastUpdated": "2025-10-01T23:29:33.297Z",
     "weekNumber": 40
   },
   "coachs": [
@@ -201,6 +201,12 @@
       "name": "BODYFLOW",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a87cb7a0-ead3-7f0d-6302-ffb309d89bfc.png",
       "duration": 60
+    },
+    {
+      "id": "cours-bodycombat-xl",
+      "name": "BODYCOMBAT XL",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b4c3d38-2e33-c8da-97f4-8127efa5ba04.png",
+      "duration": 90
     },
     {
       "id": "cours-bodysculpt",
@@ -690,17 +696,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodycombat",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-aquacombat",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -710,6 +705,17 @@
         ],
         "studioId": "studio-piscine",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-bodycombat-xl",
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "duration": 90,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-cx-training",
