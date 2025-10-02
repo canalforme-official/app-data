@@ -407,6 +407,37 @@
       },
       {
         "position": 14,
+        "nickname": "M’ZAKi ",
+        "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
+        "meps": 54,
+        "moves": 1,
+        "calories": 363,
+        "totalMinutes": 31,
+        "zone0Minutes": 1,
+        "zone1Minutes": 12,
+        "zone2Minutes": 12,
+        "zone3Minutes": 6,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 19,
+        "zone1MEPs": 12,
+        "zone2MEPs": 24,
+        "zone3MEPs": 18,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 62,
+        "peakHR": 150,
+        "avgHR": 122,
+        "belt": 7461318,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
+        "male": true
+      },
+      {
+        "position": 15,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 51,
@@ -434,37 +465,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 15,
-        "nickname": "M’ZAKi ",
-        "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
-        "meps": 49,
-        "moves": 1,
-        "calories": 315,
-        "totalMinutes": 26,
-        "zone0Minutes": 0,
-        "zone1Minutes": 9,
-        "zone2Minutes": 11,
-        "zone3Minutes": 6,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 17,
-        "zone1MEPs": 9,
-        "zone2MEPs": 22,
-        "zone3MEPs": 18,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 63,
-        "peakHR": 150,
-        "avgHR": 124,
-        "belt": 7461318,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
         "male": true
       },
       {
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 2253,
+      "male": 2258,
       "female": 1033
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 29
     },
     "meps_averages": {
-      "male": "204.8",
+      "male": "205.3",
       "female": "147.6",
-      "total": "182.6"
+      "total": "182.8"
     }
   },
   "previous": {
