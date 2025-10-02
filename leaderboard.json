@@ -345,6 +345,37 @@
       },
       {
         "position": 12,
+        "nickname": "HICHAM",
+        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
+        "meps": 93,
+        "moves": 2,
+        "calories": 627,
+        "totalMinutes": 125,
+        "zone0Minutes": 70,
+        "zone1Minutes": 25,
+        "zone2Minutes": 23,
+        "zone3Minutes": 6,
+        "zone4Minutes": 1,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 30,
+        "zone1MEPs": 25,
+        "zone2MEPs": 46,
+        "zone3MEPs": 18,
+        "zone4MEPs": 4,
+        "zone5MEPs": 0,
+        "avgEffort": 49,
+        "peakHR": 161,
+        "avgHR": 98,
+        "belt": 7468338,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
+        "male": true
+      },
+      {
+        "position": 13,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
         "meps": 85,
@@ -372,37 +403,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 13,
-        "nickname": "HICHAM",
-        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 82,
-        "moves": 2,
-        "calories": 566,
-        "totalMinutes": 119,
-        "zone0Minutes": 70,
-        "zone1Minutes": 24,
-        "zone2Minutes": 18,
-        "zone3Minutes": 6,
-        "zone4Minutes": 1,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 25,
-        "zone1MEPs": 24,
-        "zone2MEPs": 36,
-        "zone3MEPs": 18,
-        "zone4MEPs": 4,
-        "zone5MEPs": 0,
-        "avgEffort": 48,
-        "peakHR": 161,
-        "avgHR": 97,
-        "belt": 7468338,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
         "male": true
       },
       {
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 2011,
+      "male": 2022,
       "female": 916
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 31
     },
     "meps_averages": {
-      "male": "201.1",
+      "male": "202.2",
       "female": "152.7",
-      "total": "182.9"
+      "total": "183.6"
     }
   },
   "previous": {
