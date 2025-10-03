@@ -533,19 +533,19 @@
         "position": 18,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
-        "meps": 72,
+        "meps": 71,
         "moves": 1,
         "calories": 230,
         "totalMinutes": 30,
         "zone0Minutes": 3,
-        "zone1Minutes": 5,
-        "zone2Minutes": 5,
+        "zone1Minutes": 6,
+        "zone2Minutes": 4,
         "zone3Minutes": 11,
         "zone4Minutes": 6,
         "zone5Minutes": 0,
         "targetZoneMinutes": 22,
-        "zone1MEPs": 5,
-        "zone2MEPs": 10,
+        "zone1MEPs": 6,
+        "zone2MEPs": 8,
         "zone3MEPs": 33,
         "zone4MEPs": 24,
         "zone5MEPs": 0,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 3136,
-      "female": 1738
+      "female": 1737
     },
     "active_users": {
       "male": 11,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "285.1",
-      "female": "173.8",
-      "total": "232.1"
+      "female": "173.7",
+      "total": "232.0"
     }
   },
   "previous": {
