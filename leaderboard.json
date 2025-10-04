@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "HICHAM",
+        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
+        "meps": 469,
+        "moves": 5,
+        "calories": 2871,
+        "totalMinutes": 514,
+        "zone0Minutes": 292,
+        "zone1Minutes": 77,
+        "zone2Minutes": 64,
+        "zone3Minutes": 60,
+        "zone4Minutes": 21,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 145,
+        "zone1MEPs": 77,
+        "zone2MEPs": 128,
+        "zone3MEPs": 180,
+        "zone4MEPs": 84,
+        "zone5MEPs": 0,
+        "avgEffort": 52,
+        "peakHR": 184,
+        "avgHR": 105,
+        "belt": 7468338,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
+        "male": true
+      },
+      {
+        "position": 7,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 467,
@@ -187,37 +218,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "male": false
-      },
-      {
-        "position": 7,
-        "nickname": "HICHAM",
-        "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 457,
-        "moves": 5,
-        "calories": 2805,
-        "totalMinutes": 509,
-        "zone0Minutes": 292,
-        "zone1Minutes": 76,
-        "zone2Minutes": 63,
-        "zone3Minutes": 57,
-        "zone4Minutes": 21,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 141,
-        "zone1MEPs": 76,
-        "zone2MEPs": 126,
-        "zone3MEPs": 171,
-        "zone4MEPs": 84,
-        "zone5MEPs": 0,
-        "avgEffort": 52,
-        "peakHR": 184,
-        "avgHR": 105,
-        "belt": 7468338,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png",
-        "male": true
       },
       {
         "position": 8,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 5164,
+      "male": 5176,
       "female": 2958
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "430.3",
+      "male": "431.3",
       "female": "295.8",
-      "total": "369.2"
+      "total": "369.7"
     }
   },
   "previous": {
