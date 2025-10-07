@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-06T23:29:31.321Z",
+    "lastUpdated": "2025-10-07T14:16:22.912Z",
     "weekNumber": 40
   },
   "coachs": [
@@ -853,12 +853,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-rpm",
+        "coursId": "cours-bodypump",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-rabie"
         ],
         "studioId": "studio-studio-rpm",
         "type": "Mixte"
@@ -933,17 +933,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-sprint",
-        "startTime": "09:30",
-        "endTime": "10:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-pilates",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -955,12 +944,23 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-rpm",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-cross-90x",
         "startTime": "10:00",
         "endTime": "10:30",
         "duration": 30,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
