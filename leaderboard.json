@@ -283,6 +283,37 @@
       },
       {
         "position": 10,
+        "nickname": "عثمان",
+        "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
+        "meps": 554,
+        "moves": 2,
+        "calories": 2783,
+        "totalMinutes": 277,
+        "zone0Minutes": 63,
+        "zone1Minutes": 45,
+        "zone2Minutes": 63,
+        "zone3Minutes": 41,
+        "zone4Minutes": 55,
+        "zone5Minutes": 10,
+        "targetZoneMinutes": 168,
+        "zone1MEPs": 45,
+        "zone2MEPs": 126,
+        "zone3MEPs": 123,
+        "zone4MEPs": 220,
+        "zone5MEPs": 40,
+        "avgEffort": 64,
+        "peakHR": 186,
+        "avgHR": 124,
+        "belt": 7424848,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 11,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 548,
@@ -313,7 +344,7 @@
         "male": false
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 509,
@@ -344,7 +375,7 @@
         "male": true
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
         "meps": 498,
@@ -375,7 +406,7 @@
         "male": true
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
         "meps": 466,
@@ -406,7 +437,7 @@
         "male": false
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 359,
@@ -437,7 +468,7 @@
         "male": true
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 353,
@@ -466,37 +497,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": false
-      },
-      {
-        "position": 16,
-        "nickname": "عثمان",
-        "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
-        "meps": 307,
-        "moves": 1,
-        "calories": 1498,
-        "totalMinutes": 132,
-        "zone0Minutes": 22,
-        "zone1Minutes": 22,
-        "zone2Minutes": 21,
-        "zone3Minutes": 25,
-        "zone4Minutes": 34,
-        "zone5Minutes": 8,
-        "targetZoneMinutes": 87,
-        "zone1MEPs": 22,
-        "zone2MEPs": 42,
-        "zone3MEPs": 75,
-        "zone4MEPs": 136,
-        "zone5MEPs": 32,
-        "avgEffort": 68,
-        "peakHR": 186,
-        "avgHR": 132,
-        "belt": 7424848,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
       },
       {
         "position": 17,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 8225,
+      "male": 8472,
       "female": 5441
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "632.7",
+      "male": "651.7",
       "female": "544.1",
-      "total": "594.2"
+      "total": "604.9"
     }
   },
   "previous": {
