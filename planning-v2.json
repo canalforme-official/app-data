@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-07T23:29:34.825Z",
+    "lastUpdated": "2025-10-08T23:29:31.294Z",
     "weekNumber": 41
   },
   "coachs": [
@@ -860,7 +860,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-studio-1",
         "type": "Mixte"
       },
       {
@@ -907,6 +907,17 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
       }
     ],
     "vendredi": [
