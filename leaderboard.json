@@ -655,6 +655,37 @@
       },
       {
         "position": 22,
+        "nickname": "sabrina",
+        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
+        "meps": 183,
+        "moves": 2,
+        "calories": 581,
+        "totalMinutes": 79,
+        "zone0Minutes": 0,
+        "zone1Minutes": 16,
+        "zone2Minutes": 27,
+        "zone3Minutes": 31,
+        "zone4Minutes": 5,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 63,
+        "zone1MEPs": 16,
+        "zone2MEPs": 54,
+        "zone3MEPs": 93,
+        "zone4MEPs": 20,
+        "zone5MEPs": 0,
+        "avgEffort": 66,
+        "peakHR": 165,
+        "avgHR": 122,
+        "belt": 7468336,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 23,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 171,
@@ -685,43 +716,12 @@
         "male": true
       },
       {
-        "position": 23,
-        "nickname": "sabrina",
-        "usrGUID": "cb989fb4-a1e6-11ef-8a4c-460f6ad7a245",
-        "meps": 167,
-        "moves": 2,
-        "calories": 524,
-        "totalMinutes": 73,
-        "zone0Minutes": 0,
-        "zone1Minutes": 16,
-        "zone2Minutes": 25,
-        "zone3Minutes": 27,
-        "zone4Minutes": 5,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 57,
-        "zone1MEPs": 16,
-        "zone2MEPs": 50,
-        "zone3MEPs": 81,
-        "zone4MEPs": 20,
-        "zone5MEPs": 0,
-        "avgEffort": 65,
-        "peakHR": 165,
-        "avgHR": 122,
-        "belt": 7468336,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
         "position": 24,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 143,
         "moves": 1,
-        "calories": 707,
+        "calories": 708,
         "totalMinutes": 48,
         "zone0Minutes": 4,
         "zone1Minutes": 6,
@@ -737,7 +737,7 @@
         "zone5MEPs": 48,
         "avgEffort": 76,
         "peakHR": 192,
-        "avgHR": 146,
+        "avgHR": 147,
         "belt": 7424840,
         "rank": 12,
         "status": "Gold",
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 11267,
-      "female": 6707
+      "female": 6723
     },
     "active_users": {
       "male": 14,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "804.8",
-      "female": "670.7",
-      "total": "748.9"
+      "female": "672.3",
+      "total": "749.6"
     }
   }
 }
