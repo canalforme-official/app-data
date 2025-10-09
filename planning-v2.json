@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-08T23:29:31.294Z",
+    "lastUpdated": "2025-10-09T23:29:31.666Z",
     "weekNumber": 41
   },
   "coachs": [
@@ -149,12 +149,6 @@
       "duration": 30
     },
     {
-      "id": "cours-circuit-training",
-      "name": "CIRCUIT TRAINING",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-tabata",
       "name": "TABATA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
@@ -200,6 +194,12 @@
       "id": "cours-bodyflow",
       "name": "BODYFLOW",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a87cb7a0-ead3-7f0d-6302-ffb309d89bfc.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-circuit-training",
+      "name": "CIRCUIT TRAINING",
+      "logo": "",
       "duration": 60
     },
     {
@@ -288,7 +288,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-1",
         "type": "100% Femmes"
       },
       {
@@ -417,14 +417,14 @@
     ],
     "mardi": [
       {
-        "coursId": "cours-circuit-training",
+        "coursId": "cours-rpm",
         "startTime": "08:30",
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-nihad"
+          "coach-fayza"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-rpm",
         "type": "100% Femmes"
       },
       {
@@ -460,6 +460,17 @@
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nihad"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-pilates",
@@ -614,7 +625,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-1",
         "type": "100% Femmes"
       },
       {
@@ -783,7 +794,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-1",
         "type": "100% Femmes"
       },
       {
@@ -805,7 +816,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-1",
         "type": "100% Femmes"
       },
       {
@@ -951,7 +962,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-1",
         "type": "100% Femmes"
       },
       {
