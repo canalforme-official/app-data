@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-10T23:29:30.169Z",
+    "lastUpdated": "2025-10-11T23:29:30.125Z",
     "weekNumber": 41
   },
   "coachs": [
@@ -203,22 +203,10 @@
       "duration": 60
     },
     {
-      "id": "cours-bodycombat-xl",
-      "name": "BODYCOMBAT XL",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b4c3d38-2e33-c8da-97f4-8127efa5ba04.png",
-      "duration": 90
-    },
-    {
       "id": "cours-bodysculpt",
       "name": "BODYSCULPT",
       "logo": "",
       "duration": 60
-    },
-    {
-      "id": "cours-sprint",
-      "name": "SPRINT",
-      "logo": "",
-      "duration": 30
     },
     {
       "id": "cours-tbc",
@@ -707,6 +695,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-bodycombat",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-aquacombat",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -716,17 +715,6 @@
         ],
         "studioId": "studio-piscine",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-bodycombat-xl",
-        "startTime": "18:30",
-        "endTime": "20:00",
-        "duration": 90,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-cx-training",
@@ -753,17 +741,6 @@
     ],
     "jeudi": [
       {
-        "coursId": "cours-sprint",
-        "startTime": "08:30",
-        "endTime": "09:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-bodysculpt",
         "startTime": "08:30",
         "endTime": "09:30",
@@ -773,6 +750,17 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-cross-90x",
