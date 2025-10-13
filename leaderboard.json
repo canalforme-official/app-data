@@ -407,6 +407,37 @@
       },
       {
         "position": 14,
+        "nickname": "Anas B",
+        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
+        "meps": 928,
+        "moves": 9,
+        "calories": 4745,
+        "totalMinutes": 703,
+        "zone0Minutes": 281,
+        "zone1Minutes": 199,
+        "zone2Minutes": 58,
+        "zone3Minutes": 47,
+        "zone4Minutes": 112,
+        "zone5Minutes": 6,
+        "targetZoneMinutes": 222,
+        "zone1MEPs": 199,
+        "zone2MEPs": 116,
+        "zone3MEPs": 141,
+        "zone4MEPs": 448,
+        "zone5MEPs": 24,
+        "avgEffort": 57,
+        "peakHR": 179,
+        "avgHR": 106,
+        "belt": 7461311,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 15,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 927,
@@ -437,45 +468,14 @@
         "male": false
       },
       {
-        "position": 15,
-        "nickname": "Anas B",
-        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
-        "meps": 920,
-        "moves": 9,
-        "calories": 4678,
-        "totalMinutes": 693,
-        "zone0Minutes": 279,
-        "zone1Minutes": 191,
-        "zone2Minutes": 58,
-        "zone3Minutes": 47,
-        "zone4Minutes": 112,
-        "zone5Minutes": 6,
-        "targetZoneMinutes": 222,
-        "zone1MEPs": 191,
-        "zone2MEPs": 116,
-        "zone3MEPs": 141,
-        "zone4MEPs": 448,
-        "zone5MEPs": 24,
-        "avgEffort": 57,
-        "peakHR": 179,
-        "avgHR": 107,
-        "belt": 7461311,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
         "position": 16,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
         "meps": 636,
         "moves": 8,
         "calories": 2214,
-        "totalMinutes": 672,
-        "zone0Minutes": 299,
+        "totalMinutes": 674,
+        "zone0Minutes": 301,
         "zone1Minutes": 188,
         "zone2Minutes": 122,
         "zone3Minutes": 48,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 16284,
+      "male": 16292,
       "female": 10327
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 22
     },
     "meps_averages": {
-      "male": "1085.6",
+      "male": "1086.1",
       "female": "1032.7",
-      "total": "1064.4"
+      "total": "1064.8"
     }
   }
 }
