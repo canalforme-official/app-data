@@ -159,6 +159,37 @@
       },
       {
         "position": 6,
+        "nickname": "sabra",
+        "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
+        "meps": 1545,
+        "moves": 7,
+        "calories": 5079,
+        "totalMinutes": 1658,
+        "zone0Minutes": 941,
+        "zone1Minutes": 272,
+        "zone2Minutes": 190,
+        "zone3Minutes": 127,
+        "zone4Minutes": 112,
+        "zone5Minutes": 16,
+        "targetZoneMinutes": 443,
+        "zone1MEPs": 272,
+        "zone2MEPs": 380,
+        "zone3MEPs": 381,
+        "zone4MEPs": 448,
+        "zone5MEPs": 64,
+        "avgEffort": 50,
+        "peakHR": 181,
+        "avgHR": 94,
+        "belt": 7468333,
+        "rank": 6,
+        "status": "Silver",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
+        "male": false
+      },
+      {
+        "position": 7,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 1543,
@@ -186,37 +217,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 7,
-        "nickname": "sabra",
-        "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
-        "meps": 1528,
-        "moves": 7,
-        "calories": 5037,
-        "totalMinutes": 1652,
-        "zone0Minutes": 941,
-        "zone1Minutes": 271,
-        "zone2Minutes": 190,
-        "zone3Minutes": 123,
-        "zone4Minutes": 111,
-        "zone5Minutes": 16,
-        "targetZoneMinutes": 438,
-        "zone1MEPs": 271,
-        "zone2MEPs": 380,
-        "zone3MEPs": 369,
-        "zone4MEPs": 444,
-        "zone5MEPs": 64,
-        "avgEffort": 49,
-        "peakHR": 181,
-        "avgHR": 94,
-        "belt": 7468333,
-        "rank": 6,
-        "status": "Silver",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/cc93b102-6716-a3a5-6da7-9d316c398900.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "male": false
       },
       {
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 17316,
-      "female": 10571
+      "female": 10588
     },
     "active_users": {
       "male": 15,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1154.4",
-      "female": "1057.1",
-      "total": "1115.5"
+      "female": "1058.8",
+      "total": "1116.2"
     }
   }
 }
