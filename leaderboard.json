@@ -843,21 +843,21 @@
         "position": 28,
         "nickname": "TOJI",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
-        "meps": 51,
+        "meps": 65,
         "moves": 1,
-        "calories": 122,
-        "totalMinutes": 15,
+        "calories": 154,
+        "totalMinutes": 19,
         "zone0Minutes": 0,
         "zone1Minutes": 0,
         "zone2Minutes": 1,
-        "zone3Minutes": 7,
-        "zone4Minutes": 7,
+        "zone3Minutes": 9,
+        "zone4Minutes": 9,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 15,
+        "targetZoneMinutes": 19,
         "zone1MEPs": 0,
         "zone2MEPs": 2,
-        "zone3MEPs": 21,
-        "zone4MEPs": 28,
+        "zone3MEPs": 27,
+        "zone4MEPs": 36,
         "zone5MEPs": 0,
         "avgEffort": 78,
         "peakHR": 118,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 19971,
+      "male": 19985,
       "female": 13070
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 19
     },
     "meps_averages": {
-      "male": "1248.2",
+      "male": "1249.1",
       "female": "1089.2",
-      "total": "1180.0"
+      "total": "1180.5"
     }
   }
 }
