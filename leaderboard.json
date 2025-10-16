@@ -841,6 +841,37 @@
       },
       {
         "position": 28,
+        "nickname": "TOJI",
+        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
+        "meps": 51,
+        "moves": 1,
+        "calories": 122,
+        "totalMinutes": 15,
+        "zone0Minutes": 0,
+        "zone1Minutes": 0,
+        "zone2Minutes": 1,
+        "zone3Minutes": 7,
+        "zone4Minutes": 7,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 15,
+        "zone1MEPs": 0,
+        "zone2MEPs": 2,
+        "zone3MEPs": 21,
+        "zone4MEPs": 28,
+        "zone5MEPs": 0,
+        "avgEffort": 78,
+        "peakHR": 118,
+        "avgHR": 103,
+        "belt": 7461313,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
+        "male": true
+      },
+      {
+        "position": 29,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -871,7 +902,7 @@
         "male": false
       },
       {
-        "position": 29,
+        "position": 30,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -899,37 +930,6 @@
         "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 30,
-        "nickname": "TOJI",
-        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
         "male": true
       },
       {
@@ -1461,23 +1461,23 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 19920,
+      "male": 19971,
       "female": 13070
     },
     "active_users": {
-      "male": 15,
+      "male": 16,
       "female": 12,
-      "total": 27
+      "total": 28
     },
     "inactive_users": {
-      "male": 15,
+      "male": 14,
       "female": 5,
-      "total": 20
+      "total": 19
     },
     "meps_averages": {
-      "male": "1328.0",
+      "male": "1248.2",
       "female": "1089.2",
-      "total": "1221.9"
+      "total": "1180.0"
     }
   }
 }
