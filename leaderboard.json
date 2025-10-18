@@ -843,25 +843,25 @@
         "position": 28,
         "nickname": "C.Abdel",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
-        "meps": 71,
-        "moves": 1,
-        "calories": 173,
-        "totalMinutes": 22,
+        "meps": 169,
+        "moves": 2,
+        "calories": 415,
+        "totalMinutes": 58,
         "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 3,
-        "zone3Minutes": 11,
-        "zone4Minutes": 8,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 22,
-        "zone1MEPs": 0,
-        "zone2MEPs": 6,
-        "zone3MEPs": 33,
-        "zone4MEPs": 32,
-        "zone5MEPs": 0,
-        "avgEffort": 76,
-        "peakHR": 118,
-        "avgHR": 101,
+        "zone1Minutes": 6,
+        "zone2Minutes": 9,
+        "zone3Minutes": 27,
+        "zone4Minutes": 15,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 52,
+        "zone1MEPs": 6,
+        "zone2MEPs": 18,
+        "zone3MEPs": 81,
+        "zone4MEPs": 60,
+        "zone5MEPs": 4,
+        "avgEffort": 74,
+        "peakHR": 125,
+        "avgHR": 98,
         "belt": 7461313,
         "rank": 0,
         "status": "No Status",
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22073,
+      "male": 22171,
       "female": 14588
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 19
     },
     "meps_averages": {
-      "male": "1379.6",
+      "male": "1385.7",
       "female": "1215.7",
-      "total": "1309.3"
+      "total": "1312.8"
     }
   }
 }
