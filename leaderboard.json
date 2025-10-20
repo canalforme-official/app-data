@@ -500,6 +500,37 @@
       },
       {
         "position": 17,
+        "nickname": "Dounia",
+        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
+        "meps": 841,
+        "moves": 11,
+        "calories": 2901,
+        "totalMinutes": 868,
+        "zone0Minutes": 390,
+        "zone1Minutes": 242,
+        "zone2Minutes": 137,
+        "zone3Minutes": 71,
+        "zone4Minutes": 28,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 235,
+        "zone1MEPs": 242,
+        "zone2MEPs": 274,
+        "zone3MEPs": 213,
+        "zone4MEPs": 112,
+        "zone5MEPs": 0,
+        "avgEffort": 53,
+        "peakHR": 207,
+        "avgHR": 101,
+        "belt": 7424841,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 18,
         "nickname": "C.Abdel",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 838,
@@ -528,37 +559,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
         "male": true
-      },
-      {
-        "position": 18,
-        "nickname": "Dounia",
-        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 838,
-        "moves": 10,
-        "calories": 2892,
-        "totalMinutes": 856,
-        "zone0Minutes": 381,
-        "zone1Minutes": 239,
-        "zone2Minutes": 137,
-        "zone3Minutes": 71,
-        "zone4Minutes": 28,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 235,
-        "zone1MEPs": 239,
-        "zone2MEPs": 274,
-        "zone3MEPs": 213,
-        "zone4MEPs": 112,
-        "zone5MEPs": 0,
-        "avgEffort": 54,
-        "peakHR": 207,
-        "avgHR": 101,
-        "belt": 7424841,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 19,
@@ -721,7 +721,7 @@
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 375,
         "moves": 3,
-        "calories": 1824,
+        "calories": 1823,
         "totalMinutes": 200,
         "zone0Minutes": 24,
         "zone1Minutes": 48,
@@ -814,9 +814,9 @@
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 299,
         "moves": 2,
-        "calories": 2119,
-        "totalMinutes": 398,
-        "zone0Minutes": 198,
+        "calories": 2120,
+        "totalMinutes": 400,
+        "zone0Minutes": 200,
         "zone1Minutes": 120,
         "zone2Minutes": 63,
         "zone3Minutes": 15,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 27663,
-      "female": 15972
+      "female": 15975
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1627.2",
-      "female": "1331.0",
-      "total": "1504.7"
+      "female": "1331.3",
+      "total": "1504.8"
     }
   }
 }
