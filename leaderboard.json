@@ -192,25 +192,25 @@
         "position": 7,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 2193,
+        "meps": 2231,
         "moves": 15,
-        "calories": 7734,
-        "totalMinutes": 1837,
+        "calories": 7850,
+        "totalMinutes": 1849,
         "zone0Minutes": 877,
         "zone1Minutes": 378,
-        "zone2Minutes": 167,
-        "zone3Minutes": 179,
-        "zone4Minutes": 192,
-        "zone5Minutes": 44,
-        "targetZoneMinutes": 582,
+        "zone2Minutes": 170,
+        "zone3Minutes": 183,
+        "zone4Minutes": 196,
+        "zone5Minutes": 45,
+        "targetZoneMinutes": 594,
         "zone1MEPs": 378,
-        "zone2MEPs": 334,
-        "zone3MEPs": 537,
-        "zone4MEPs": 768,
-        "zone5MEPs": 176,
-        "avgEffort": 54,
+        "zone2MEPs": 340,
+        "zone3MEPs": 549,
+        "zone4MEPs": 784,
+        "zone5MEPs": 180,
+        "avgEffort": 55,
         "peakHR": 187,
-        "avgHR": 100,
+        "avgHR": 101,
         "belt": 7619943,
         "rank": 1,
         "status": "Iron",
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 26479,
-      "female": 15329
+      "female": 15367
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1557.6",
-      "female": "1277.4",
-      "total": "1441.7"
+      "female": "1280.6",
+      "total": "1443.0"
     }
   }
 }
