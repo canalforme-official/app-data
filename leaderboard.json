@@ -40,8 +40,8 @@
         "meps": 3478,
         "moves": 32,
         "calories": 22004,
-        "totalMinutes": 4230,
-        "zone0Minutes": 2495,
+        "totalMinutes": 4235,
+        "zone0Minutes": 2500,
         "zone1Minutes": 611,
         "zone2Minutes": 607,
         "zone3Minutes": 415,
@@ -68,25 +68,25 @@
         "position": 3,
         "nickname": "nina",
         "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
-        "meps": 3396,
+        "meps": 3416,
         "moves": 18,
-        "calories": 9967,
-        "totalMinutes": 1894,
+        "calories": 10008,
+        "totalMinutes": 1901,
         "zone0Minutes": 567,
         "zone1Minutes": 419,
-        "zone2Minutes": 176,
-        "zone3Minutes": 303,
-        "zone4Minutes": 412,
+        "zone2Minutes": 179,
+        "zone3Minutes": 305,
+        "zone4Minutes": 414,
         "zone5Minutes": 17,
-        "targetZoneMinutes": 905,
+        "targetZoneMinutes": 910,
         "zone1MEPs": 419,
-        "zone2MEPs": 352,
-        "zone3MEPs": 909,
-        "zone4MEPs": 1648,
+        "zone2MEPs": 358,
+        "zone3MEPs": 915,
+        "zone4MEPs": 1656,
         "zone5MEPs": 68,
         "avgEffort": 62,
         "peakHR": 183,
-        "avgHR": 113,
+        "avgHR": 114,
         "belt": 7619942,
         "rank": 3,
         "status": "Bronze",
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 28980,
-      "female": 16167
+      "female": 16187
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1704.7",
-      "female": "1347.3",
-      "total": "1556.8"
+      "female": "1348.9",
+      "total": "1557.5"
     }
   }
 }
