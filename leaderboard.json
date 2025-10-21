@@ -40,8 +40,8 @@
         "meps": 3478,
         "moves": 32,
         "calories": 22004,
-        "totalMinutes": 4240,
-        "zone0Minutes": 2505,
+        "totalMinutes": 4245,
+        "zone0Minutes": 2510,
         "zone1Minutes": 611,
         "zone2Minutes": 607,
         "zone3Minutes": 415,
@@ -68,21 +68,21 @@
         "position": 3,
         "nickname": "nina",
         "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
-        "meps": 3432,
+        "meps": 3442,
         "moves": 18,
-        "calories": 10051,
-        "totalMinutes": 1906,
+        "calories": 10091,
+        "totalMinutes": 1910,
         "zone0Minutes": 567,
-        "zone1Minutes": 419,
-        "zone2Minutes": 180,
-        "zone3Minutes": 307,
-        "zone4Minutes": 416,
+        "zone1Minutes": 420,
+        "zone2Minutes": 181,
+        "zone3Minutes": 308,
+        "zone4Minutes": 417,
         "zone5Minutes": 17,
-        "targetZoneMinutes": 915,
-        "zone1MEPs": 419,
-        "zone2MEPs": 360,
-        "zone3MEPs": 921,
-        "zone4MEPs": 1664,
+        "targetZoneMinutes": 920,
+        "zone1MEPs": 420,
+        "zone2MEPs": 362,
+        "zone3MEPs": 924,
+        "zone4MEPs": 1668,
         "zone5MEPs": 68,
         "avgEffort": 62,
         "peakHR": 183,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 29002,
-      "female": 16203
+      "female": 16213
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1706.0",
-      "female": "1350.3",
-      "total": "1558.8"
+      "female": "1351.1",
+      "total": "1559.1"
     }
   }
 }
