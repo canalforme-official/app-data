@@ -39,9 +39,9 @@
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 3478,
         "moves": 32,
-        "calories": 22001,
-        "totalMinutes": 4201,
-        "zone0Minutes": 2466,
+        "calories": 22004,
+        "totalMinutes": 4205,
+        "zone0Minutes": 2470,
         "zone1Minutes": 611,
         "zone2Minutes": 607,
         "zone3Minutes": 415,
@@ -192,20 +192,20 @@
         "position": 7,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 2286,
+        "meps": 2295,
         "moves": 16,
-        "calories": 8052,
-        "totalMinutes": 1899,
-        "zone0Minutes": 900,
-        "zone1Minutes": 389,
-        "zone2Minutes": 178,
-        "zone3Minutes": 187,
+        "calories": 8080,
+        "totalMinutes": 1904,
+        "zone0Minutes": 901,
+        "zone1Minutes": 390,
+        "zone2Minutes": 179,
+        "zone3Minutes": 189,
         "zone4Minutes": 200,
         "zone5Minutes": 45,
-        "targetZoneMinutes": 610,
-        "zone1MEPs": 389,
-        "zone2MEPs": 356,
-        "zone3MEPs": 561,
+        "targetZoneMinutes": 612,
+        "zone1MEPs": 390,
+        "zone2MEPs": 358,
+        "zone3MEPs": 567,
         "zone4MEPs": 800,
         "zone5MEPs": 180,
         "avgEffort": 55,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 28956,
-      "female": 16124
+      "female": 16133
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1703.3",
-      "female": "1343.7",
-      "total": "1554.5"
+      "female": "1344.4",
+      "total": "1554.8"
     }
   }
 }
