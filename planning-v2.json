@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-24T09:34:24.662Z",
+    "lastUpdated": "2025-10-24T23:29:38.334Z",
     "weekNumber": 43
   },
   "coachs": [
@@ -149,6 +149,12 @@
       "duration": 30
     },
     {
+      "id": "cours-danse-orientale",
+      "name": "DANSE ORIENTALE",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
+      "duration": 60
+    },
+    {
       "id": "cours-tabata",
       "name": "TABATA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
@@ -159,12 +165,6 @@
       "name": "CX TRAINING",
       "logo": "",
       "duration": 30
-    },
-    {
-      "id": "cours-danse-orientale",
-      "name": "DANSE ORIENTALE",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
-      "duration": 60
     },
     {
       "id": "cours-gym-ball",
@@ -197,6 +197,12 @@
       "duration": 60
     },
     {
+      "id": "cours-gym-douce",
+      "name": "GYM DOUCE",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-circuit-training",
       "name": "CIRCUIT TRAINING",
       "logo": "",
@@ -207,6 +213,12 @@
       "name": "BODYSCULPT",
       "logo": "",
       "duration": 60
+    },
+    {
+      "id": "cours-sprint",
+      "name": "SPRINT",
+      "logo": "",
+      "duration": 30
     },
     {
       "id": "cours-tbc",
@@ -449,18 +461,18 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-pilates",
+        "coursId": "cours-danse-orientale",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-danse-orientale",
+        "coursId": "cours-pilates",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
@@ -594,7 +606,7 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-gym-ball",
+        "coursId": "cours-gym-douce",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
@@ -729,6 +741,17 @@
     ],
     "jeudi": [
       {
+        "coursId": "cours-sprint",
+        "startTime": "08:30",
+        "endTime": "09:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-rpm",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-bodysculpt",
         "startTime": "08:30",
         "endTime": "09:30",
@@ -738,17 +761,6 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-rpm",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-cross-90x",
@@ -1095,17 +1107,6 @@
           "coach-fayza"
         ],
         "studioId": "studio-studio-rpm",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-trx",
-        "startTime": "10:30",
-        "endTime": "11:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-studio-infinity",
         "type": "Mixte"
       },
       {
