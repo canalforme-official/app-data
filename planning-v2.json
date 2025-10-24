@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-23T23:29:52.401Z",
+    "lastUpdated": "2025-10-24T09:34:24.662Z",
     "weekNumber": 43
   },
   "coachs": [
@@ -594,6 +594,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-gym-ball",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-abdos-xtrem",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -804,7 +815,7 @@
           "coach-youssef"
         ],
         "studioId": "studio-studio-infinity",
-        "type": "100% Hommes"
+        "type": "Mixte"
       },
       {
         "coursId": "cours-pilates",
