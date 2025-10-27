@@ -39,7 +39,7 @@
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 5084,
         "moves": 22,
-        "calories": 34517,
+        "calories": 34520,
         "totalMinutes": 4000,
         "zone0Minutes": 817,
         "zone1Minutes": 1804,
@@ -55,7 +55,7 @@
         "zone5MEPs": 240,
         "avgEffort": 57,
         "peakHR": 192,
-        "avgHR": 109,
+        "avgHR": 110,
         "belt": 7424840,
         "rank": 12,
         "status": "Gold",
@@ -78,7 +78,7 @@
         "zone3Minutes": 610,
         "zone4Minutes": 110,
         "zone5Minutes": 2,
-        "targetZoneMinutes": 1659,
+        "targetZoneMinutes": 1660,
         "zone1MEPs": 862,
         "zone2MEPs": 1868,
         "zone3MEPs": 1830,
@@ -564,19 +564,19 @@
         "position": 19,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 905,
+        "meps": 955,
         "moves": 11,
-        "calories": 3165,
-        "totalMinutes": 964,
-        "zone0Minutes": 437,
-        "zone1Minutes": 277,
-        "zone2Minutes": 150,
+        "calories": 3354,
+        "totalMinutes": 1011,
+        "zone0Minutes": 449,
+        "zone1Minutes": 297,
+        "zone2Minutes": 165,
         "zone3Minutes": 72,
         "zone4Minutes": 28,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 250,
-        "zone1MEPs": 277,
-        "zone2MEPs": 300,
+        "targetZoneMinutes": 265,
+        "zone1MEPs": 297,
+        "zone2MEPs": 330,
         "zone3MEPs": 216,
         "zone4MEPs": 112,
         "zone5MEPs": 0,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 37916,
-      "female": 19781
+      "female": 19831
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2230.4",
-      "female": "1648.4",
-      "total": "1989.6"
+      "female": "1652.6",
+      "total": "1991.3"
     }
   }
 }
