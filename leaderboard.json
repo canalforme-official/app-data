@@ -531,6 +531,37 @@
       },
       {
         "position": 18,
+        "nickname": "Dounia",
+        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
+        "meps": 1310,
+        "moves": 13,
+        "calories": 4481,
+        "totalMinutes": 1221,
+        "zone0Minutes": 503,
+        "zone1Minutes": 341,
+        "zone2Minutes": 207,
+        "zone3Minutes": 125,
+        "zone4Minutes": 45,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 378,
+        "zone1MEPs": 341,
+        "zone2MEPs": 414,
+        "zone3MEPs": 375,
+        "zone4MEPs": 180,
+        "zone5MEPs": 0,
+        "avgEffort": 55,
+        "peakHR": 207,
+        "avgHR": 103,
+        "belt": 7424841,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 19,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 1306,
@@ -559,37 +590,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 19,
-        "nickname": "Dounia",
-        "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 1298,
-        "moves": 13,
-        "calories": 4438,
-        "totalMinutes": 1213,
-        "zone0Minutes": 500,
-        "zone1Minutes": 340,
-        "zone2Minutes": 206,
-        "zone3Minutes": 122,
-        "zone4Minutes": 45,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 374,
-        "zone1MEPs": 340,
-        "zone2MEPs": 412,
-        "zone3MEPs": 366,
-        "zone4MEPs": 180,
-        "zone5MEPs": 0,
-        "avgEffort": 55,
-        "peakHR": 207,
-        "avgHR": 103,
-        "belt": 7424841,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 20,
@@ -784,8 +784,8 @@
         "meps": 554,
         "moves": 8,
         "calories": 4169,
-        "totalMinutes": 1111,
-        "zone0Minutes": 696,
+        "totalMinutes": 1112,
+        "zone0Minutes": 697,
         "zone1Minutes": 301,
         "zone2Minutes": 91,
         "zone3Minutes": 21,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 41757,
-      "female": 21652
+      "female": 21664
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2456.3",
-      "female": "1804.3",
-      "total": "2186.5"
+      "female": "1805.3",
+      "total": "2186.9"
     }
   }
 }
