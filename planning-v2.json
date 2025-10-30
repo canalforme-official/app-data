@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-29T23:29:30.405Z",
+    "lastUpdated": "2025-10-30T23:29:32.425Z",
     "weekNumber": 44
   },
   "coachs": [
@@ -236,12 +236,6 @@
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
-      "duration": 60
-    },
-    {
-      "id": "cours-pw-attack",
-      "name": "PW-ATTACK",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/673c393e-1b54-a3c7-f414-254bf2cc1f97.png",
       "duration": 60
     }
   ],
@@ -764,13 +758,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-bodypump",
         "startTime": "09:00",
-        "endTime": "09:30",
-        "duration": 30,
+        "endTime": "10:00",
+        "duration": 60,
         "coachIds": [
-          "coach-hicham",
-          "coach-fayza"
+          "coach-hicham"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
@@ -1030,17 +1023,6 @@
         ],
         "studioId": "studio-piscine",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-pw-attack",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-trx",
