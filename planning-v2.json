@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-31T11:44:26.199Z",
+    "lastUpdated": "2025-10-31T23:29:30.609Z",
     "weekNumber": 44
   },
   "coachs": [
@@ -143,9 +143,9 @@
       "duration": 60
     },
     {
-      "id": "cours-cross-90x",
-      "name": "CROSS 90X",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
+      "id": "cours-gtx",
+      "name": "GTX",
+      "logo": "",
       "duration": 30
     },
     {
@@ -201,6 +201,12 @@
       "name": "BODYFLOW",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a87cb7a0-ead3-7f0d-6302-ffb309d89bfc.png",
       "duration": 60
+    },
+    {
+      "id": "cours-cross-90x",
+      "name": "CROSS 90X",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
+      "duration": 30
     },
     {
       "id": "cours-gym-douce",
@@ -369,7 +375,7 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-gtx",
         "startTime": "18:30",
         "endTime": "19:00",
         "duration": 30,
