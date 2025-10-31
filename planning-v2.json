@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-30T23:29:32.425Z",
+    "lastUpdated": "2025-10-31T11:43:20.662Z",
     "weekNumber": 44
   },
   "coachs": [
@@ -149,6 +149,12 @@
       "duration": 30
     },
     {
+      "id": "cours-circuit-training",
+      "name": "CIRCUIT TRAINING",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-danse-orientale",
       "name": "DANSE ORIENTALE",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
@@ -203,9 +209,9 @@
       "duration": 60
     },
     {
-      "id": "cours-circuit-training",
-      "name": "CIRCUIT TRAINING",
-      "logo": "",
+      "id": "cours-aquacombat",
+      "name": "AQUACOMBAT",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
       "duration": 60
     },
     {
@@ -233,10 +239,10 @@
       "duration": 60
     },
     {
-      "id": "cours-aquacombat",
-      "name": "AQUACOMBAT",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
-      "duration": 60
+      "id": "cours-bodycombat-xxl",
+      "name": "BODYCOMBAT XXL",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b4c3d38-2e33-c8da-97f4-8127efa5ba04.png",
+      "duration": 90
     }
   ],
   "planning": {
@@ -1025,6 +1031,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-bodycombat-xxl",
+        "startTime": "18:00",
+        "endTime": "19:30",
+        "duration": 90,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-trx",
         "startTime": "18:30",
         "endTime": "19:00",
@@ -1033,17 +1050,6 @@
           "coach-zakaria"
         ],
         "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-bodycombat",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-1",
         "type": "Mixte"
       },
       {
