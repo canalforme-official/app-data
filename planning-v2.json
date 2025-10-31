@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-31T11:43:20.662Z",
+    "lastUpdated": "2025-10-31T11:44:26.199Z",
     "weekNumber": 44
   },
   "coachs": [
@@ -239,8 +239,8 @@
       "duration": 60
     },
     {
-      "id": "cours-bodycombat-xxl",
-      "name": "BODYCOMBAT XXL",
+      "id": "cours-bodycombat-xl",
+      "name": "BODYCOMBAT XL",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b4c3d38-2e33-c8da-97f4-8127efa5ba04.png",
       "duration": 90
     }
@@ -1031,12 +1031,15 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodycombat-xxl",
+        "coursId": "cours-bodycombat-xl",
         "startTime": "18:00",
         "endTime": "19:30",
         "duration": 90,
         "coachIds": [
-          "coach-hicham"
+          "coach-hicham",
+          "coach-nouredine",
+          "coach-zakaria",
+          "coach-yassir"
         ],
         "studioId": "studio-studio-1",
         "type": "Mixte"
