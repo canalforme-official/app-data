@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-11-04T23:29:30.718Z",
+    "lastUpdated": "2025-11-05T11:42:51.351Z",
     "weekNumber": 45
   },
   "coachs": [
@@ -146,7 +146,7 @@
       "id": "cours-gtx",
       "name": "GTX",
       "logo": "",
-      "duration": 30
+      "duration": 60
     },
     {
       "id": "cours-circuit-training",
@@ -375,18 +375,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-gtx",
-        "startTime": "18:30",
-        "endTime": "19:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-fayza",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-bodycombat",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -408,6 +396,18 @@
         ],
         "studioId": "studio-plateau-100-femmes",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-gtx",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza",
+          "coach-zakaria"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-rpm",
