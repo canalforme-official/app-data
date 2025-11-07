@@ -593,6 +593,37 @@
       },
       {
         "position": 20,
+        "nickname": "C.Abdel",
+        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
+        "meps": 236,
+        "moves": 3,
+        "calories": 604,
+        "totalMinutes": 85,
+        "zone0Minutes": 1,
+        "zone1Minutes": 6,
+        "zone2Minutes": 23,
+        "zone3Minutes": 36,
+        "zone4Minutes": 17,
+        "zone5Minutes": 2,
+        "targetZoneMinutes": 79,
+        "zone1MEPs": 6,
+        "zone2MEPs": 46,
+        "zone3MEPs": 108,
+        "zone4MEPs": 68,
+        "zone5MEPs": 8,
+        "avgEffort": 72,
+        "peakHR": 126,
+        "avgHR": 96,
+        "belt": 7461313,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
+        "male": true
+      },
+      {
+        "position": 21,
         "nickname": "karim",
         "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
         "meps": 206,
@@ -620,37 +651,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 21,
-        "nickname": "C.Abdel",
-        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
-        "meps": 165,
-        "moves": 2,
-        "calories": 423,
-        "totalMinutes": 63,
-        "zone0Minutes": 1,
-        "zone1Minutes": 6,
-        "zone2Minutes": 19,
-        "zone3Minutes": 27,
-        "zone4Minutes": 10,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 57,
-        "zone1MEPs": 6,
-        "zone2MEPs": 38,
-        "zone3MEPs": 81,
-        "zone4MEPs": 40,
-        "zone5MEPs": 0,
-        "avgEffort": 70,
-        "peakHR": 120,
-        "avgHR": 93,
-        "belt": 7461313,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
         "male": true
       },
       {
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 7377,
+      "male": 7448,
       "female": 4288
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 22
     },
     "meps_averages": {
-      "male": "461.1",
+      "male": "465.5",
       "female": "476.4",
-      "total": "466.6"
+      "total": "469.4"
     }
   },
   "previous": {
