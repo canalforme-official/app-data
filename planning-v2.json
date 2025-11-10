@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-11-10T01:13:20.508Z",
+    "lastUpdated": "2025-11-10T23:29:32.010Z",
     "weekNumber": 45
   },
   "coachs": [
@@ -607,6 +607,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-trx",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-gym-douce",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -616,17 +627,6 @@
         ],
         "studioId": "studio-studio-1",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-abdos-xtrem",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-aquagym",
