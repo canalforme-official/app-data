@@ -533,20 +533,20 @@
         "position": 18,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
-        "meps": 544,
+        "meps": 571,
         "moves": 4,
-        "calories": 1823,
-        "totalMinutes": 388,
+        "calories": 1899,
+        "totalMinutes": 398,
         "zone0Minutes": 105,
         "zone1Minutes": 122,
-        "zone2Minutes": 82,
-        "zone3Minutes": 58,
+        "zone2Minutes": 85,
+        "zone3Minutes": 65,
         "zone4Minutes": 21,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 161,
+        "targetZoneMinutes": 170,
         "zone1MEPs": 122,
-        "zone2MEPs": 164,
-        "zone3MEPs": 174,
+        "zone2MEPs": 170,
+        "zone3MEPs": 195,
         "zone4MEPs": 84,
         "zone5MEPs": 0,
         "avgEffort": 58,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 14281,
-      "female": 8276
+      "female": 8303
     },
     "active_users": {
       "male": 16,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "892.6",
-      "female": "827.6",
-      "total": "867.6"
+      "female": "830.3",
+      "total": "868.6"
     }
   }
 }
