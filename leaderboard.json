@@ -717,6 +717,37 @@
       },
       {
         "position": 24,
+        "nickname": "Limouna",
+        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
+        "meps": 187,
+        "moves": 1,
+        "calories": 548,
+        "totalMinutes": 74,
+        "zone0Minutes": 1,
+        "zone1Minutes": 11,
+        "zone2Minutes": 25,
+        "zone3Minutes": 22,
+        "zone4Minutes": 14,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 61,
+        "zone1MEPs": 11,
+        "zone2MEPs": 50,
+        "zone3MEPs": 66,
+        "zone4MEPs": 56,
+        "zone5MEPs": 4,
+        "avgEffort": 70,
+        "peakHR": 171,
+        "avgHR": 129,
+        "belt": 7461304,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 25,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 172,
@@ -747,7 +778,7 @@
         "male": false
       },
       {
-        "position": 25,
+        "position": 26,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 163,
@@ -770,37 +801,6 @@
         "peakHR": 177,
         "avgHR": 92,
         "belt": 7461316,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 26,
-        "nickname": "Limouna",
-        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 158,
-        "moves": 1,
-        "calories": 471,
-        "totalMinutes": 64,
-        "zone0Minutes": 1,
-        "zone1Minutes": 11,
-        "zone2Minutes": 21,
-        "zone3Minutes": 19,
-        "zone4Minutes": 11,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 52,
-        "zone1MEPs": 11,
-        "zone2MEPs": 42,
-        "zone3MEPs": 57,
-        "zone4MEPs": 44,
-        "zone5MEPs": 4,
-        "avgEffort": 69,
-        "peakHR": 168,
-        "avgHR": 127,
-        "belt": 7461304,
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 14676,
-      "female": 8830
+      "female": 8859
     },
     "active_users": {
       "male": 16,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "917.3",
-      "female": "802.7",
-      "total": "870.6"
+      "female": "805.4",
+      "total": "871.7"
     }
   }
 }
