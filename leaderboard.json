@@ -99,22 +99,22 @@
         "position": 4,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 2040,
+        "meps": 2048,
         "moves": 12,
-        "calories": 7355,
-        "totalMinutes": 1428,
+        "calories": 7377,
+        "totalMinutes": 1430,
         "zone0Minutes": 488,
         "zone1Minutes": 378,
         "zone2Minutes": 216,
         "zone3Minutes": 154,
-        "zone4Minutes": 154,
-        "zone5Minutes": 38,
-        "targetZoneMinutes": 560,
+        "zone4Minutes": 155,
+        "zone5Minutes": 39,
+        "targetZoneMinutes": 562,
         "zone1MEPs": 378,
         "zone2MEPs": 432,
         "zone3MEPs": 462,
-        "zone4MEPs": 616,
-        "zone5MEPs": 152,
+        "zone4MEPs": 620,
+        "zone5MEPs": 156,
         "avgEffort": 58,
         "peakHR": 181,
         "avgHR": 106,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 17360,
-      "female": 10276
+      "female": 10284
     },
     "active_users": {
       "male": 16,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1085.0",
-      "female": "934.2",
-      "total": "1023.6"
+      "female": "934.9",
+      "total": "1023.9"
     }
   }
 }
