@@ -407,6 +407,37 @@
       },
       {
         "position": 14,
+        "nickname": "lalaomin",
+        "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
+        "meps": 1463,
+        "moves": 10,
+        "calories": 4586,
+        "totalMinutes": 851,
+        "zone0Minutes": 115,
+        "zone1Minutes": 296,
+        "zone2Minutes": 231,
+        "zone3Minutes": 131,
+        "zone4Minutes": 72,
+        "zone5Minutes": 6,
+        "targetZoneMinutes": 440,
+        "zone1MEPs": 296,
+        "zone2MEPs": 462,
+        "zone3MEPs": 393,
+        "zone4MEPs": 288,
+        "zone5MEPs": 24,
+        "avgEffort": 61,
+        "peakHR": 173,
+        "avgHR": 115,
+        "belt": 7468330,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 15,
         "nickname": "karim",
         "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
         "meps": 1422,
@@ -437,7 +468,7 @@
         "male": true
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 1388,
@@ -468,7 +499,7 @@
         "male": true
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
         "meps": 1297,
@@ -499,7 +530,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 1268,
@@ -530,7 +561,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
         "meps": 1264,
@@ -556,37 +587,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
-      },
-      {
-        "position": 19,
-        "nickname": "lalaomin",
-        "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
-        "meps": 1212,
-        "moves": 9,
-        "calories": 3880,
-        "totalMinutes": 754,
-        "zone0Minutes": 104,
-        "zone1Minutes": 287,
-        "zone2Minutes": 220,
-        "zone3Minutes": 87,
-        "zone4Minutes": 50,
-        "zone5Minutes": 6,
-        "targetZoneMinutes": 362,
-        "zone1MEPs": 287,
-        "zone2MEPs": 440,
-        "zone3MEPs": 261,
-        "zone4MEPs": 200,
-        "zone5MEPs": 24,
-        "avgEffort": 60,
-        "peakHR": 173,
-        "avgHR": 113,
-        "belt": 7468330,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "male": false
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 29979,
-      "female": 17074
+      "female": 17325
     },
     "active_users": {
       "male": 16,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "1873.7",
-      "female": "1422.8",
-      "total": "1680.5"
+      "female": "1443.8",
+      "total": "1689.4"
     }
   }
 }
