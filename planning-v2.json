@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-11-25T23:29:31.321Z",
+    "lastUpdated": "2025-11-26T23:29:30.657Z",
     "weekNumber": 48
   },
   "coachs": [
@@ -144,12 +144,6 @@
       "duration": 60
     },
     {
-      "id": "cours-circuit-training",
-      "name": "CIRCUIT TRAINING",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-danse-orientale",
       "name": "DANSE ORIENTALE",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
@@ -210,6 +204,12 @@
       "duration": 60
     },
     {
+      "id": "cours-circuit-training",
+      "name": "CIRCUIT TRAINING",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
@@ -254,14 +254,14 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-circuit-training",
+        "coursId": "cours-bodypump",
         "startTime": "08:30",
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-studio-1",
         "type": "100% Femmes"
       },
       {
@@ -889,7 +889,7 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-stretching",
+        "coursId": "cours-circuit-training",
         "startTime": "19:30",
         "endTime": "20:30",
         "duration": 60,
