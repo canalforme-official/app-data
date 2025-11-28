@@ -161,25 +161,25 @@
         "position": 6,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 4008,
+        "meps": 4047,
         "moves": 15,
-        "calories": 11801,
-        "totalMinutes": 1863,
+        "calories": 11900,
+        "totalMinutes": 1874,
         "zone0Minutes": 202,
         "zone1Minutes": 479,
-        "zone2Minutes": 416,
-        "zone3Minutes": 367,
-        "zone4Minutes": 328,
-        "zone5Minutes": 71,
-        "targetZoneMinutes": 1180,
+        "zone2Minutes": 418,
+        "zone3Minutes": 368,
+        "zone4Minutes": 332,
+        "zone5Minutes": 75,
+        "targetZoneMinutes": 1190,
         "zone1MEPs": 479,
-        "zone2MEPs": 832,
-        "zone3MEPs": 1101,
-        "zone4MEPs": 1312,
-        "zone5MEPs": 284,
+        "zone2MEPs": 836,
+        "zone3MEPs": 1104,
+        "zone4MEPs": 1328,
+        "zone5MEPs": 300,
         "avgEffort": 66,
         "peakHR": 184,
-        "avgHR": 124,
+        "avgHR": 125,
         "belt": 7424839,
         "rank": 12,
         "status": "Gold",
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 41627,
-      "female": 23582
+      "female": 23621
     },
     "active_users": {
       "male": 17,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2448.6",
-      "female": "1965.2",
-      "total": "2248.6"
+      "female": "1968.4",
+      "total": "2249.9"
     }
   }
 }
