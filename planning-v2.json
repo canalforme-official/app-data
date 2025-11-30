@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-11-29T23:29:30.075Z",
+    "lastUpdated": "2025-11-30T09:23:38.217Z",
     "weekNumber": 48
   },
   "coachs": [
@@ -196,6 +196,12 @@
       "name": "CROSS 90X",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
       "duration": 30
+    },
+    {
+      "id": "cours-gym-bton-",
+      "name": "GYM BÂTON ",
+      "logo": "",
+      "duration": 60
     },
     {
       "id": "cours-circuit-training",
@@ -603,6 +609,17 @@
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-gym-bton-",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquagym",
