@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-11-30T09:23:38.217Z",
+    "lastUpdated": "2025-11-30T16:19:56.726Z",
     "weekNumber": 48
   },
   "coachs": [
@@ -8,6 +8,11 @@
       "id": "coach-youssef",
       "name": "Youssef",
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/667b496e-0581-ac46-3a3b-9730e6d9e1b7.png"
+    },
+    {
+      "id": "coach-maroua",
+      "name": "Maroua",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/962a317f-4725-628a-3e1b-5548f497a604.png"
     },
     {
       "id": "coach-fatima",
@@ -18,11 +23,6 @@
       "id": "coach-zakaria",
       "name": "Zakaria",
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png"
-    },
-    {
-      "id": "coach-maroua",
-      "name": "Maroua",
-      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/962a317f-4725-628a-3e1b-5548f497a604.png"
     },
     {
       "id": "coach-fayza",
@@ -90,6 +90,18 @@
       "duration": 60
     },
     {
+      "id": "cours-bodypump-express",
+      "name": "BODYPUMP Express",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
+      "duration": 30
+    },
+    {
+      "id": "cours-cx-training",
+      "name": "CX TRAINING",
+      "logo": "",
+      "duration": 30
+    },
+    {
       "id": "cours-abdos-xtrem",
       "name": "ABDOS XTREM",
       "logo": "",
@@ -144,22 +156,16 @@
       "duration": 60
     },
     {
-      "id": "cours-danse-orientale",
-      "name": "DANSE ORIENTALE",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
-      "duration": 60
-    },
-    {
       "id": "cours-tabata",
       "name": "TABATA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
       "duration": 60
     },
     {
-      "id": "cours-cx-training",
-      "name": "CX TRAINING",
-      "logo": "",
-      "duration": 30
+      "id": "cours-danse-orientale",
+      "name": "DANSE ORIENTALE",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
+      "duration": 60
     },
     {
       "id": "cours-gym-ball",
@@ -180,6 +186,12 @@
       "duration": 60
     },
     {
+      "id": "cours-cross-90x",
+      "name": "CROSS 90X",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
+      "duration": 30
+    },
+    {
       "id": "cours-stretching",
       "name": "STRETCHING",
       "logo": "",
@@ -192,10 +204,10 @@
       "duration": 60
     },
     {
-      "id": "cours-cross-90x",
-      "name": "CROSS 90X",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
-      "duration": 30
+      "id": "cours-bodysculpt",
+      "name": "BODYSCULPT",
+      "logo": "",
+      "duration": 60
     },
     {
       "id": "cours-gym-bton-",
@@ -213,12 +225,6 @@
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
-      "duration": 60
-    },
-    {
-      "id": "cours-bodysculpt",
-      "name": "BODYSCULPT",
-      "logo": "",
       "duration": 60
     },
     {
@@ -243,6 +249,17 @@
   "planning": {
     "lundi": [
       {
+        "coursId": "cours-bodypump-express",
+        "startTime": "08:30",
+        "endTime": "09:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-studio-1",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-rpm",
         "startTime": "08:30",
         "endTime": "09:30",
@@ -254,10 +271,10 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-bodypump",
-        "startTime": "08:30",
+        "coursId": "cours-cx-training",
+        "startTime": "09:00",
         "endTime": "09:30",
-        "duration": 60,
+        "duration": 30,
         "coachIds": [
           "coach-maroua"
         ],
