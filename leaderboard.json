@@ -345,6 +345,37 @@
       },
       {
         "position": 12,
+        "nickname": "سفيان",
+        "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
+        "meps": 233,
+        "moves": 2,
+        "calories": 1147,
+        "totalMinutes": 119,
+        "zone0Minutes": 18,
+        "zone1Minutes": 32,
+        "zone2Minutes": 26,
+        "zone3Minutes": 23,
+        "zone4Minutes": 15,
+        "zone5Minutes": 5,
+        "targetZoneMinutes": 67,
+        "zone1MEPs": 32,
+        "zone2MEPs": 52,
+        "zone3MEPs": 69,
+        "zone4MEPs": 60,
+        "zone5MEPs": 20,
+        "avgEffort": 64,
+        "peakHR": 170,
+        "avgHR": 114,
+        "belt": 7619944,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 13,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 231,
@@ -375,7 +406,7 @@
         "male": true
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "Mahmoud",
         "usrGUID": "cefc6c50-ead5-11ee-92c6-861db27673fb",
         "meps": 203,
@@ -406,7 +437,7 @@
         "male": true
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "Dounia",
         "usrGUID": "38bd4fbe-cf4a-11ee-92c6-861db27673fb",
         "meps": 192,
@@ -437,7 +468,7 @@
         "male": false
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "Safae",
         "usrGUID": "7412ef0e-1ef7-11f0-bac5-2608d79298e1",
         "meps": 167,
@@ -468,7 +499,7 @@
         "male": false
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 148,
@@ -491,37 +522,6 @@
         "peakHR": 157,
         "avgHR": 97,
         "belt": 7424840,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 17,
-        "nickname": "سفيان",
-        "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
-        "meps": 146,
-        "moves": 1,
-        "calories": 753,
-        "totalMinutes": 84,
-        "zone0Minutes": 14,
-        "zone1Minutes": 27,
-        "zone2Minutes": 19,
-        "zone3Minutes": 15,
-        "zone4Minutes": 9,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 42,
-        "zone1MEPs": 27,
-        "zone2MEPs": 38,
-        "zone3MEPs": 45,
-        "zone4MEPs": 36,
-        "zone5MEPs": 0,
-        "avgEffort": 62,
-        "peakHR": 156,
-        "avgHR": 110,
-        "belt": 7619944,
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 4468,
+      "male": 4555,
       "female": 1737
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 28
     },
     "meps_averages": {
-      "male": "343.7",
+      "male": "350.4",
       "female": "289.5",
-      "total": "326.6"
+      "total": "331.2"
     }
   },
   "previous": {
