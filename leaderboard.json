@@ -68,18 +68,18 @@
         "position": 3,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 2105,
+        "meps": 2106,
         "moves": 10,
-        "calories": 15208,
-        "totalMinutes": 2143,
-        "zone0Minutes": 647,
-        "zone1Minutes": 1059,
+        "calories": 15216,
+        "totalMinutes": 2147,
+        "zone0Minutes": 650,
+        "zone1Minutes": 1060,
         "zone2Minutes": 302,
         "zone3Minutes": 98,
         "zone4Minutes": 37,
         "zone5Minutes": 0,
         "targetZoneMinutes": 439,
-        "zone1MEPs": 1059,
+        "zone1MEPs": 1060,
         "zone2MEPs": 604,
         "zone3MEPs": 294,
         "zone4MEPs": 148,
@@ -409,19 +409,19 @@
         "position": 14,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
-        "meps": 772,
+        "meps": 777,
         "moves": 6,
-        "calories": 3816,
-        "totalMinutes": 397,
-        "zone0Minutes": 89,
-        "zone1Minutes": 77,
-        "zone2Minutes": 70,
+        "calories": 3849,
+        "totalMinutes": 402,
+        "zone0Minutes": 91,
+        "zone1Minutes": 78,
+        "zone2Minutes": 72,
         "zone3Minutes": 89,
         "zone4Minutes": 41,
         "zone5Minutes": 31,
-        "targetZoneMinutes": 230,
-        "zone1MEPs": 77,
-        "zone2MEPs": 140,
+        "targetZoneMinutes": 232,
+        "zone1MEPs": 78,
+        "zone2MEPs": 144,
         "zone3MEPs": 267,
         "zone4MEPs": 164,
         "zone5MEPs": 124,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 16504,
+      "male": 16510,
       "female": 6170
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "1178.9",
+      "male": "1179.3",
       "female": "685.6",
-      "total": "985.8"
+      "total": "986.1"
     }
   }
 }
