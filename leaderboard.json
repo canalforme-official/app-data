@@ -37,18 +37,18 @@
         "position": 2,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
-        "meps": 2334,
+        "meps": 2336,
         "moves": 22,
-        "calories": 15505,
-        "totalMinutes": 2661,
+        "calories": 15516,
+        "totalMinutes": 2663,
         "zone0Minutes": 1280,
-        "zone1Minutes": 780,
+        "zone1Minutes": 782,
         "zone2Minutes": 335,
         "zone3Minutes": 180,
         "zone4Minutes": 79,
         "zone5Minutes": 7,
         "targetZoneMinutes": 602,
-        "zone1MEPs": 780,
+        "zone1MEPs": 782,
         "zone2MEPs": 670,
         "zone3MEPs": 540,
         "zone4MEPs": 316,
@@ -97,6 +97,37 @@
       },
       {
         "position": 4,
+        "nickname": "nina",
+        "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
+        "meps": 1530,
+        "moves": 7,
+        "calories": 4339,
+        "totalMinutes": 670,
+        "zone0Minutes": 138,
+        "zone1Minutes": 117,
+        "zone2Minutes": 70,
+        "zone3Minutes": 107,
+        "zone4Minutes": 220,
+        "zone5Minutes": 18,
+        "targetZoneMinutes": 412,
+        "zone1MEPs": 117,
+        "zone2MEPs": 140,
+        "zone3MEPs": 321,
+        "zone4MEPs": 880,
+        "zone5MEPs": 72,
+        "avgEffort": 67,
+        "peakHR": 180,
+        "avgHR": 122,
+        "belt": 7619942,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 5,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 1523,
@@ -127,7 +158,7 @@
         "male": true
       },
       {
-        "position": 5,
+        "position": 6,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 1522,
@@ -158,7 +189,7 @@
         "male": false
       },
       {
-        "position": 6,
+        "position": 7,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 1454,
@@ -187,37 +218,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 7,
-        "nickname": "nina",
-        "usrGUID": "ef8ec70f-d287-11ee-92c6-861db27673fb",
-        "meps": 1303,
-        "moves": 6,
-        "calories": 3708,
-        "totalMinutes": 590,
-        "zone0Minutes": 133,
-        "zone1Minutes": 108,
-        "zone2Minutes": 68,
-        "zone3Minutes": 65,
-        "zone4Minutes": 198,
-        "zone5Minutes": 18,
-        "targetZoneMinutes": 347,
-        "zone1MEPs": 108,
-        "zone2MEPs": 136,
-        "zone3MEPs": 195,
-        "zone4MEPs": 792,
-        "zone5MEPs": 72,
-        "avgEffort": 66,
-        "peakHR": 180,
-        "avgHR": 121,
-        "belt": 7619942,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 8,
@@ -1461,8 +1461,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 17692,
-      "female": 6552
+      "male": 17694,
+      "female": 6779
     },
     "active_users": {
       "male": 14,
@@ -1475,9 +1475,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "1263.7",
-      "female": "728.0",
-      "total": "1054.1"
+      "male": "1263.9",
+      "female": "753.2",
+      "total": "1064.0"
     }
   }
 }
