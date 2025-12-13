@@ -407,6 +407,37 @@
       },
       {
         "position": 14,
+        "nickname": "Radouane",
+        "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
+        "meps": 1002,
+        "moves": 7,
+        "calories": 5149,
+        "totalMinutes": 639,
+        "zone0Minutes": 99,
+        "zone1Minutes": 265,
+        "zone2Minutes": 141,
+        "zone3Minutes": 81,
+        "zone4Minutes": 50,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 277,
+        "zone1MEPs": 265,
+        "zone2MEPs": 282,
+        "zone3MEPs": 243,
+        "zone4MEPs": 200,
+        "zone5MEPs": 12,
+        "avgEffort": 60,
+        "peakHR": 178,
+        "avgHR": 109,
+        "belt": 7424831,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 15,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
         "meps": 1001,
@@ -434,37 +465,6 @@
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/667b496e-0581-ac46-3a3b-9730e6d9e1b7.png",
-        "male": true
-      },
-      {
-        "position": 15,
-        "nickname": "Radouane",
-        "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
-        "meps": 996,
-        "moves": 7,
-        "calories": 5112,
-        "totalMinutes": 634,
-        "zone0Minutes": 99,
-        "zone1Minutes": 261,
-        "zone2Minutes": 140,
-        "zone3Minutes": 81,
-        "zone4Minutes": 50,
-        "zone5Minutes": 3,
-        "targetZoneMinutes": 275,
-        "zone1MEPs": 261,
-        "zone2MEPs": 280,
-        "zone3MEPs": 243,
-        "zone4MEPs": 200,
-        "zone5MEPs": 12,
-        "avgEffort": 60,
-        "peakHR": 178,
-        "avgHR": 109,
-        "belt": 7424831,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
         "male": true
       },
       {
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22855,
+      "male": 22861,
       "female": 8794
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "1632.5",
+      "male": "1632.9",
       "female": "977.1",
-      "total": "1376.0"
+      "total": "1376.3"
     }
   }
 }
