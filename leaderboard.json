@@ -626,19 +626,19 @@
         "position": 21,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
-        "meps": 405,
+        "meps": 411,
         "moves": 2,
-        "calories": 1233,
-        "totalMinutes": 278,
+        "calories": 1261,
+        "totalMinutes": 283,
         "zone0Minutes": 137,
-        "zone1Minutes": 26,
-        "zone2Minutes": 25,
+        "zone1Minutes": 30,
+        "zone2Minutes": 26,
         "zone3Minutes": 31,
         "zone4Minutes": 53,
         "zone5Minutes": 6,
         "targetZoneMinutes": 116,
-        "zone1MEPs": 26,
-        "zone2MEPs": 50,
+        "zone1MEPs": 30,
+        "zone2MEPs": 52,
         "zone3MEPs": 93,
         "zone4MEPs": 212,
         "zone5MEPs": 24,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 32692,
-      "female": 12382
+      "female": 12388
     },
     "active_users": {
       "male": 15,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2179.5",
-      "female": "1375.8",
-      "total": "1878.1"
+      "female": "1376.4",
+      "total": "1878.3"
     }
   }
 }
