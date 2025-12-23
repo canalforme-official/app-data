@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-12-22T23:29:33.387Z",
+    "lastUpdated": "2025-12-23T16:50:55.234Z",
     "weekNumber": 51
   },
   "coachs": [
@@ -683,6 +683,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-cx-training",
+        "startTime": "18:30",
+        "endTime": "19:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-tabata",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -705,17 +716,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodycombat",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-studio-1",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-aquacombat",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -727,14 +727,14 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cx-training",
+        "coursId": "cours-bodycombat",
         "startTime": "19:30",
-        "endTime": "20:00",
-        "duration": 30,
+        "endTime": "20:30",
+        "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-hicham"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-studio-1",
         "type": "Mixte"
       },
       {
