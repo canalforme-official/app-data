@@ -409,19 +409,19 @@
         "position": 14,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
-        "meps": 1479,
+        "meps": 1518,
         "moves": 10,
-        "calories": 8665,
-        "totalMinutes": 1377,
+        "calories": 8928,
+        "totalMinutes": 1405,
         "zone0Minutes": 492,
-        "zone1Minutes": 477,
-        "zone2Minutes": 258,
+        "zone1Minutes": 494,
+        "zone2Minutes": 269,
         "zone3Minutes": 114,
         "zone4Minutes": 30,
         "zone5Minutes": 6,
-        "targetZoneMinutes": 409,
-        "zone1MEPs": 477,
-        "zone2MEPs": 516,
+        "targetZoneMinutes": 420,
+        "zone1MEPs": 494,
+        "zone2MEPs": 538,
         "zone3MEPs": 342,
         "zone4MEPs": 120,
         "zone5MEPs": 24,
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 36800,
+      "male": 36839,
       "female": 15175
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 22
     },
     "meps_averages": {
-      "male": "2453.3",
+      "male": "2455.9",
       "female": "1517.5",
-      "total": "2079.0"
+      "total": "2080.6"
     }
   }
 }
