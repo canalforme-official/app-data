@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-12-23T23:29:29.544Z",
+    "lastUpdated": "2025-12-24T18:36:35.911Z",
     "weekNumber": 52
   },
   "coachs": [
@@ -236,6 +236,12 @@
     {
       "id": "cours-tbc",
       "name": "T.B.C.",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-grit-training",
+      "name": "GRIT TRAINING",
       "logo": "",
       "duration": 60
     },
@@ -504,14 +510,14 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodypump",
+        "coursId": "cours-rpm",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-rabie"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-studio-rpm",
         "type": "Mixte"
       },
       {
@@ -537,14 +543,14 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-rpm",
+        "coursId": "cours-bodypump",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-youssef"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-studio-1",
         "type": "Mixte"
       },
       {
@@ -861,14 +867,14 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-bodypump",
+        "coursId": "cours-grit-training",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-studio-infinity",
         "type": "Mixte"
       },
       {
