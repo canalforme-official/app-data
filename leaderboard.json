@@ -8,7 +8,7 @@
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 8760,
         "moves": 62,
-        "calories": 56044,
+        "calories": 56047,
         "totalMinutes": 9951,
         "zone0Minutes": 5466,
         "zone1Minutes": 1644,
@@ -99,21 +99,21 @@
         "position": 4,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 3717,
-        "moves": 14,
-        "calories": 11092,
-        "totalMinutes": 1730,
+        "meps": 3750,
+        "moves": 15,
+        "calories": 11189,
+        "totalMinutes": 1742,
         "zone0Minutes": 164,
-        "zone1Minutes": 442,
-        "zone2Minutes": 456,
-        "zone3Minutes": 309,
-        "zone4Minutes": 276,
+        "zone1Minutes": 443,
+        "zone2Minutes": 461,
+        "zone3Minutes": 311,
+        "zone4Minutes": 280,
         "zone5Minutes": 83,
-        "targetZoneMinutes": 1127,
-        "zone1MEPs": 442,
-        "zone2MEPs": 912,
-        "zone3MEPs": 927,
-        "zone4MEPs": 1104,
+        "targetZoneMinutes": 1139,
+        "zone1MEPs": 443,
+        "zone2MEPs": 922,
+        "zone3MEPs": 933,
+        "zone4MEPs": 1120,
         "zone5MEPs": 332,
         "avgEffort": 66,
         "peakHR": 185,
@@ -163,7 +163,7 @@
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 3600,
         "moves": 16,
-        "calories": 19074,
+        "calories": 19079,
         "totalMinutes": 3853,
         "zone0Minutes": 1994,
         "zone1Minutes": 902,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 43872,
-      "female": 18274
+      "female": 18307
     },
     "active_users": {
       "male": 15,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2924.8",
-      "female": "1827.4",
-      "total": "2485.8"
+      "female": "1830.7",
+      "total": "2487.2"
     }
   }
 }
