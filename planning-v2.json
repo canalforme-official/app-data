@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2025-12-29T23:29:30.251Z",
-    "weekNumber": 52
+    "lastUpdated": "2025-12-30T23:29:32.616Z",
+    "weekNumber": 53
   },
   "coachs": [
     {
@@ -689,23 +689,13 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-cx-training",
-        "startTime": "18:30",
-        "endTime": "19:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-tabata",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-zakaria",
+          "coach-youssef"
         ],
         "studioId": "studio-studio-infinity",
         "type": "Mixte"
