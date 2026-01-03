@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-01-03T21:51:00.021Z",
+    "lastUpdated": "2026-01-03T21:55:06.943Z",
     "weekNumber": 1
   },
   "coachs": [
@@ -52,12 +52,6 @@
   ],
   "studios": [
     {
-      "id": "studio-plateau-100-femmes",
-      "name": "Plateau 100% femmes",
-      "imageUrl": "",
-      "rang": 0
-    },
-    {
       "id": "studio-studio-1",
       "name": "Studio 1",
       "imageUrl": "",
@@ -80,6 +74,12 @@
       "name": "Piscine",
       "imageUrl": "",
       "rang": 4
+    },
+    {
+      "id": "studio-100-femmes",
+      "name": "100% femmes",
+      "imageUrl": "",
+      "rang": 6
     }
   ],
   "cours": [
@@ -262,7 +262,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -284,7 +284,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -405,7 +405,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -484,7 +484,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -495,7 +495,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -506,7 +506,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -528,7 +528,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -561,7 +561,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -583,7 +583,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -618,7 +618,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -662,7 +662,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -708,7 +708,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -741,7 +741,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       }
     ],
@@ -765,7 +765,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -820,7 +820,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -842,7 +842,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -886,7 +886,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -908,7 +908,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -943,7 +943,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
@@ -1065,7 +1065,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-plateau-100-femmes",
+        "studioId": "studio-100-femmes",
         "type": "100% Femmes"
       },
       {
