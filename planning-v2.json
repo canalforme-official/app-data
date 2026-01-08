@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-01-07T23:29:29.526Z",
+    "lastUpdated": "2026-01-08T23:29:30.817Z",
     "weekNumber": 2
   },
   "coachs": [
@@ -1046,15 +1046,14 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-bodycombat",
+        "coursId": "cours-rpm",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham",
-          "coach-yassir"
+          "coach-youssef"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-studio-rpm",
         "type": "Mixte"
       },
       {
@@ -1067,17 +1066,6 @@
         ],
         "studioId": "studio-100-femmes",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-rpm",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-studio-rpm",
-        "type": "Mixte"
       }
     ],
     "samedi": [
