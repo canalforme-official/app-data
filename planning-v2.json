@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-01-10T12:17:02.473Z",
+    "lastUpdated": "2026-01-10T15:37:20.870Z",
     "weekNumber": 2
   },
   "coachs": [
@@ -57,32 +57,32 @@
   ],
   "studios": [
     {
-      "id": "studio-studio-1",
-      "name": "Studio 1",
+      "id": "studio-atlas",
+      "name": "ATLAS",
       "imageUrl": "",
       "rang": 1
     },
     {
-      "id": "studio-studio-infinity",
-      "name": "Studio Infinity",
+      "id": "studio-infinity",
+      "name": "INFINITY",
       "imageUrl": "",
       "rang": 2
     },
     {
-      "id": "studio-studio-rpm",
-      "name": "Studio RPM",
+      "id": "studio-spin",
+      "name": "SPIN",
       "imageUrl": "",
       "rang": 3
     },
     {
-      "id": "studio-piscine",
-      "name": "Piscine",
+      "id": "studio-aqua",
+      "name": "AQUA",
       "imageUrl": "",
       "rang": 4
     },
     {
-      "id": "studio-100-femmes",
-      "name": "100% femmes",
+      "id": "studio-hergym",
+      "name": "HERGYM",
       "imageUrl": "",
       "rang": 6
     }
@@ -261,7 +261,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -272,7 +272,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -283,7 +283,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -294,7 +294,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -305,7 +305,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "100% Femmes"
       },
       {
@@ -316,7 +316,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -327,7 +327,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -338,7 +338,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -349,7 +349,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -360,7 +360,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -371,7 +371,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       },
       {
@@ -382,7 +382,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -393,7 +393,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       },
       {
@@ -404,7 +404,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -415,7 +415,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -426,7 +426,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -437,7 +437,7 @@
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       }
     ],
@@ -450,7 +450,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "Mixte"
       },
       {
@@ -461,7 +461,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -472,7 +472,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -483,7 +483,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -494,7 +494,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -505,7 +505,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -516,7 +516,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -527,7 +527,7 @@
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       },
       {
@@ -538,7 +538,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -549,7 +549,7 @@
         "coachIds": [
           "coach-yassir"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Hommes"
       },
       {
@@ -560,7 +560,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -571,7 +571,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -582,7 +582,7 @@
         "coachIds": [
           "coach-yassir"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       }
     ],
@@ -595,7 +595,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "100% Femmes"
       },
       {
@@ -606,7 +606,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -617,7 +617,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -628,7 +628,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -639,7 +639,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -650,7 +650,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       }
     ],
@@ -663,7 +663,7 @@
         "coachIds": [
           "coach-hicham"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -674,7 +674,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -685,7 +685,7 @@
         "coachIds": [
           "coach-hicham"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -696,7 +696,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "100% Femmes"
       },
       {
@@ -707,7 +707,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "Mixte"
       },
       {
@@ -718,7 +718,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "100% Femmes"
       },
       {
@@ -729,7 +729,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -740,7 +740,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -751,7 +751,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -762,7 +762,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -773,7 +773,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Hommes"
       },
       {
@@ -784,7 +784,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -795,7 +795,7 @@
         "coachIds": [
           "coach-yassir"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -806,7 +806,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -817,7 +817,7 @@
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       }
     ],
@@ -830,7 +830,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       },
       {
@@ -841,7 +841,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -852,7 +852,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -863,7 +863,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "100% Femmes"
       },
       {
@@ -874,7 +874,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -885,7 +885,7 @@
         "coachIds": [
           "coach-fatima"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -896,7 +896,7 @@
         "coachIds": [
           "coach-maroua"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -907,7 +907,7 @@
         "coachIds": [
           "coach-nihad"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -919,7 +919,7 @@
           "coach-nihad",
           "coach-yassir"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -930,7 +930,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -941,7 +941,7 @@
         "coachIds": [
           "coach-zakaria"
         ],
-        "studioId": "studio-studio-infinity",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -952,7 +952,7 @@
         "coachIds": [
           "coach-youssef"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -963,7 +963,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-100-femmes",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
@@ -974,7 +974,7 @@
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-studio-1",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       }
     ],
@@ -987,7 +987,7 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-studio-rpm",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -998,7 +998,7 @@
         "coachIds": [
           "coach-rabie"
         ],
-        "studioId": "studio-piscine",
+        "studioId": "studio-aqua",
         "type": "Mixte"
       }
     ],
