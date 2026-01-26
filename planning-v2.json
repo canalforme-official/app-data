@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-01-25T23:29:30.688Z",
+    "lastUpdated": "2026-01-26T12:08:35.468Z",
     "weekNumber": 4
   },
   "coachs": [
@@ -38,6 +38,11 @@
       "id": "coach-rabie",
       "name": "Rabie",
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/61ceb6e2-97c6-3b65-9ca9-e2739a85a62c.png"
+    },
+    {
+      "id": "coach-hicham",
+      "name": "Hicham",
+      "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95d53251-b842-28f9-2054-b503a08ce4a8.png"
     },
     {
       "id": "coach-nouredine",
@@ -437,7 +442,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-hicham"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -472,9 +477,20 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-hicham"
         ],
         "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -684,7 +700,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-hicham"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -753,7 +769,7 @@
         "endTime": "09:00",
         "duration": 30,
         "coachIds": [
-          "coach-fayza"
+          "coach-hicham"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -775,7 +791,7 @@
         "endTime": "09:30",
         "duration": 30,
         "coachIds": [
-          "coach-fayza"
+          "coach-hicham"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1053,7 +1069,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir"
+          "coach-hicham"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
