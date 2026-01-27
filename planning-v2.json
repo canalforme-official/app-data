@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-01-26T23:29:35.681Z",
+    "lastUpdated": "2026-01-27T21:09:58.198Z",
     "weekNumber": 4
   },
   "coachs": [
@@ -260,12 +260,6 @@
       "id": "cours-body-step",
       "name": "BODY STEP",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4ab877f5-e935-e5d3-f8f6-d4d132051ecc.png",
-      "duration": 60
-    },
-    {
-      "id": "cours-power-yoga",
-      "name": "POWER YOGA",
-      "logo": "",
       "duration": 60
     }
   ],
@@ -751,14 +745,14 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-power-yoga",
+        "coursId": "cours-pilates",
         "startTime": "19:30",
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-infinity",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       }
     ],
@@ -1024,8 +1018,8 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-nihad",
-          "coach-yassir"
+          "coach-yassir",
+          "coach-youssef"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1091,9 +1085,9 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-nihad"
         ],
-        "studioId": "studio-atlas",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       }
     ],
