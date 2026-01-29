@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-01-28T23:29:39.328Z",
+    "lastUpdated": "2026-01-29T23:29:30.493Z",
     "weekNumber": 5
   },
   "coachs": [
@@ -229,6 +229,12 @@
     {
       "id": "cours-circuit-training",
       "name": "CIRCUIT TRAINING",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-gym-douce",
+      "name": "GYM DOUCE",
       "logo": "",
       "duration": 60
     },
@@ -734,7 +740,7 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-pilates",
+        "coursId": "cours-gym-douce",
         "startTime": "19:30",
         "endTime": "20:30",
         "duration": 60,
