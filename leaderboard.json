@@ -40,8 +40,8 @@
         "meps": 1008,
         "moves": 4,
         "calories": 3170,
-        "totalMinutes": 575,
-        "zone0Minutes": 128,
+        "totalMinutes": 580,
+        "zone0Minutes": 133,
         "zone1Minutes": 127,
         "zone2Minutes": 138,
         "zone3Minutes": 123,
@@ -55,7 +55,7 @@
         "zone5MEPs": 16,
         "avgEffort": 61,
         "peakHR": 180,
-        "avgHR": 116,
+        "avgHR": 115,
         "belt": 7424835,
         "rank": 1,
         "status": "Iron",
@@ -223,21 +223,21 @@
         "position": 8,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 633,
+        "meps": 659,
         "moves": 3,
-        "calories": 1891,
-        "totalMinutes": 292,
+        "calories": 1965,
+        "totalMinutes": 303,
         "zone0Minutes": 12,
         "zone1Minutes": 70,
-        "zone2Minutes": 102,
-        "zone3Minutes": 73,
-        "zone4Minutes": 29,
+        "zone2Minutes": 110,
+        "zone3Minutes": 75,
+        "zone4Minutes": 30,
         "zone5Minutes": 6,
-        "targetZoneMinutes": 210,
+        "targetZoneMinutes": 221,
         "zone1MEPs": 70,
-        "zone2MEPs": 204,
-        "zone3MEPs": 219,
-        "zone4MEPs": 116,
+        "zone2MEPs": 220,
+        "zone3MEPs": 225,
+        "zone4MEPs": 120,
         "zone5MEPs": 24,
         "avgEffort": 66,
         "peakHR": 181,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 6534,
-      "female": 3117
+      "female": 3143
     },
     "active_users": {
       "male": 12,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "544.5",
-      "female": "445.3",
-      "total": "507.9"
+      "female": "449.0",
+      "total": "509.3"
     }
   },
   "previous": {
