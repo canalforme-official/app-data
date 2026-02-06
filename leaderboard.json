@@ -252,6 +252,37 @@
       },
       {
         "position": 9,
+        "nickname": "Anas B",
+        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
+        "meps": 454,
+        "moves": 4,
+        "calories": 2455,
+        "totalMinutes": 396,
+        "zone0Minutes": 155,
+        "zone1Minutes": 143,
+        "zone2Minutes": 22,
+        "zone3Minutes": 37,
+        "zone4Minutes": 38,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 98,
+        "zone1MEPs": 143,
+        "zone2MEPs": 44,
+        "zone3MEPs": 111,
+        "zone4MEPs": 152,
+        "zone5MEPs": 4,
+        "avgEffort": 55,
+        "peakHR": 177,
+        "avgHR": 104,
+        "belt": 7457691,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": true
+      },
+      {
+        "position": 10,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 445,
@@ -282,7 +313,7 @@
         "male": true
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 423,
@@ -313,7 +344,7 @@
         "male": true
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 418,
@@ -344,7 +375,7 @@
         "male": true
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "karim",
         "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
         "meps": 366,
@@ -367,37 +398,6 @@
         "peakHR": 156,
         "avgHR": 110,
         "belt": 7424837,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": true
-      },
-      {
-        "position": 13,
-        "nickname": "Anas B",
-        "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
-        "meps": 358,
-        "moves": 4,
-        "calories": 1951,
-        "totalMinutes": 324,
-        "zone0Minutes": 129,
-        "zone1Minutes": 121,
-        "zone2Minutes": 18,
-        "zone3Minutes": 23,
-        "zone4Minutes": 32,
-        "zone5Minutes": 1,
-        "targetZoneMinutes": 74,
-        "zone1MEPs": 121,
-        "zone2MEPs": 36,
-        "zone3MEPs": 69,
-        "zone4MEPs": 128,
-        "zone5MEPs": 4,
-        "avgEffort": 55,
-        "peakHR": 177,
-        "avgHR": 103,
-        "belt": 7457691,
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
@@ -1461,7 +1461,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 7187,
+      "male": 7283,
       "female": 3559
     },
     "active_users": {
@@ -1475,9 +1475,9 @@
       "total": 27
     },
     "meps_averages": {
-      "male": "552.8",
+      "male": "560.2",
       "female": "508.4",
-      "total": "537.3"
+      "total": "542.1"
     }
   },
   "previous": {
