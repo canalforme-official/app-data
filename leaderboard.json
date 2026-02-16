@@ -378,18 +378,18 @@
         "position": 13,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
-        "meps": 999,
+        "meps": 1001,
         "moves": 7,
-        "calories": 4907,
-        "totalMinutes": 583,
-        "zone0Minutes": 92,
-        "zone1Minutes": 190,
+        "calories": 4925,
+        "totalMinutes": 587,
+        "zone0Minutes": 94,
+        "zone1Minutes": 192,
         "zone2Minutes": 145,
         "zone3Minutes": 105,
         "zone4Minutes": 47,
         "zone5Minutes": 4,
         "targetZoneMinutes": 300,
-        "zone1MEPs": 190,
+        "zone1MEPs": 192,
         "zone2MEPs": 290,
         "zone3MEPs": 315,
         "zone4MEPs": 188,
@@ -1492,7 +1492,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22303,
+      "male": 22305,
       "female": 10929
     },
     "active_users": {
@@ -1506,9 +1506,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "1715.6",
+      "male": "1715.8",
       "female": "1092.9",
-      "total": "1444.9"
+      "total": "1445.0"
     }
   }
 }
