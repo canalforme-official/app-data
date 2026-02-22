@@ -68,21 +68,21 @@
         "position": 3,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 4829,
+        "meps": 4869,
         "moves": 23,
-        "calories": 15656,
-        "totalMinutes": 3190,
+        "calories": 15768,
+        "totalMinutes": 3200,
         "zone0Minutes": 862,
         "zone1Minutes": 870,
         "zone2Minutes": 687,
         "zone3Minutes": 499,
-        "zone4Minutes": 265,
+        "zone4Minutes": 275,
         "zone5Minutes": 7,
-        "targetZoneMinutes": 1454,
+        "targetZoneMinutes": 1464,
         "zone1MEPs": 870,
         "zone2MEPs": 1374,
         "zone3MEPs": 1497,
-        "zone4MEPs": 1060,
+        "zone4MEPs": 1100,
         "zone5MEPs": 28,
         "avgEffort": 58,
         "peakHR": 180,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 30970,
-      "female": 16844
+      "female": 16884
     },
     "active_users": {
       "male": 14,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2212.1",
-      "female": "1684.4",
-      "total": "1992.3"
+      "female": "1688.4",
+      "total": "1993.9"
     }
   }
 }
