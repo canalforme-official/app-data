@@ -40,8 +40,8 @@
         "meps": 6077,
         "moves": 27,
         "calories": 43632,
-        "totalMinutes": 6004,
-        "zone0Minutes": 1784,
+        "totalMinutes": 6010,
+        "zone0Minutes": 1790,
         "zone1Minutes": 2733,
         "zone2Minutes": 1173,
         "zone3Minutes": 258,
@@ -55,7 +55,7 @@
         "zone5MEPs": 4,
         "avgEffort": 54,
         "peakHR": 175,
-        "avgHR": 104,
+        "avgHR": 103,
         "belt": 7424840,
         "rank": 24,
         "status": "Platinum",
@@ -68,21 +68,21 @@
         "position": 3,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 5620,
-        "moves": 27,
-        "calories": 18233,
-        "totalMinutes": 3669,
-        "zone0Minutes": 971,
-        "zone1Minutes": 1008,
-        "zone2Minutes": 782,
-        "zone3Minutes": 584,
-        "zone4Minutes": 311,
+        "meps": 5841,
+        "moves": 28,
+        "calories": 18912,
+        "totalMinutes": 3791,
+        "zone0Minutes": 992,
+        "zone1Minutes": 1036,
+        "zone2Minutes": 827,
+        "zone3Minutes": 593,
+        "zone4Minutes": 330,
         "zone5Minutes": 13,
-        "targetZoneMinutes": 1686,
-        "zone1MEPs": 1008,
-        "zone2MEPs": 1564,
-        "zone3MEPs": 1752,
-        "zone4MEPs": 1244,
+        "targetZoneMinutes": 1759,
+        "zone1MEPs": 1036,
+        "zone2MEPs": 1654,
+        "zone3MEPs": 1779,
+        "zone4MEPs": 1320,
         "zone5MEPs": 52,
         "avgEffort": 58,
         "peakHR": 180,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 36666,
-      "female": 20079
+      "female": 20300
     },
     "active_users": {
       "male": 14,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "2619.0",
-      "female": "2007.9",
-      "total": "2364.4"
+      "female": "2030.0",
+      "total": "2373.6"
     }
   }
 }
