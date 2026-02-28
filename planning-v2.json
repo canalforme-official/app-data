@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-28T14:37:21.175Z",
+    "lastUpdated": "2026-02-28T14:41:05.477Z",
     "weekNumber": 9,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1385,7 +1385,7 @@
         "endTime": "15:00",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1585,7 +1585,7 @@
         "endTime": "17:00",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-nihad"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1640,7 +1640,7 @@
         "endTime": "23:00",
         "duration": 60,
         "coachIds": [
-          "coach-nihad"
+          "coach-hajar"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1675,7 +1675,7 @@
         "endTime": "16:00",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-nihad"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1787,7 +1787,7 @@
         "endTime": "15:00",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fatima"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1905,6 +1905,17 @@
       }
     ],
     "samedi": [
+      {
+        "coursId": "cours-stretching",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-hajar"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
       {
         "coursId": "cours-trx",
         "startTime": "15:30",
