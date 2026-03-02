@@ -190,6 +190,37 @@
       },
       {
         "position": 7,
+        "nickname": "Limouna",
+        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
+        "meps": 207,
+        "moves": 2,
+        "calories": 732,
+        "totalMinutes": 174,
+        "zone0Minutes": 40,
+        "zone1Minutes": 75,
+        "zone2Minutes": 45,
+        "zone3Minutes": 14,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 58,
+        "zone1MEPs": 75,
+        "zone2MEPs": 90,
+        "zone3MEPs": 42,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 55,
+        "peakHR": 145,
+        "avgHR": 103,
+        "belt": 7461304,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "male": false
+      },
+      {
+        "position": 8,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
         "meps": 201,
@@ -220,7 +251,7 @@
         "male": false
       },
       {
-        "position": 8,
+        "position": 9,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
         "meps": 197,
@@ -249,37 +280,6 @@
         "type": "Unknown",
         "coachLink": "",
         "male": true
-      },
-      {
-        "position": 9,
-        "nickname": "Limouna",
-        "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 194,
-        "moves": 2,
-        "calories": 687,
-        "totalMinutes": 167,
-        "zone0Minutes": 42,
-        "zone1Minutes": 70,
-        "zone2Minutes": 41,
-        "zone3Minutes": 14,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 54,
-        "zone1MEPs": 70,
-        "zone2MEPs": 82,
-        "zone3MEPs": 42,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 56,
-        "peakHR": 145,
-        "avgHR": 104,
-        "belt": 7461304,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "male": false
       },
       {
         "position": 10,
@@ -1462,7 +1462,7 @@
     ],
     "total_meps_by_gender": {
       "male": 2045,
-      "female": 991
+      "female": 1004
     },
     "active_users": {
       "male": 10,
@@ -1476,8 +1476,8 @@
     },
     "meps_averages": {
       "male": "204.5",
-      "female": "198.2",
-      "total": "202.4"
+      "female": "200.8",
+      "total": "203.3"
     }
   },
   "previous": {
