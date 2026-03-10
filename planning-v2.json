@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-09T00:29:29.891Z",
+    "lastUpdated": "2026-03-10T00:29:52.615Z",
     "weekNumber": 10,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -10,14 +10,77 @@
         "end": "2026-03-19",
         "type": "ramadan",
         "name": "Ramadan 1447 / 2026",
-        "planning": "ramadan"
+        "planning": "manuelle"
       },
       {
         "start": "2026-05-01",
         "end": "2026-05-01",
         "type": "férié",
         "name": "Fête du Travail",
-        "planning": "regulier"
+        "planning": "auto"
+      },
+      {
+        "start": "2026-01-01",
+        "end": "2026-01-01",
+        "type": "férié",
+        "name": "Nouvel An",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-01-11",
+        "end": "2026-01-11",
+        "type": "férié",
+        "name": "Anniversaire du Manifeste de l’Indépendance",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-01-14",
+        "end": "2026-01-14",
+        "type": "férié",
+        "name": "Nouvel An Amazigh",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-07-30",
+        "end": "2026-07-30",
+        "type": "férié",
+        "name": "Fête du Trône",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-08-14",
+        "end": "2026-08-14",
+        "type": "férié",
+        "name": "Anniversaire de la Récupération de Oued Eddahab",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-08-20",
+        "end": "2026-08-20",
+        "type": "férié",
+        "name": "Révolution du Roi et du Peuple",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-08-21",
+        "end": "2026-08-21",
+        "type": "férié",
+        "name": "Fête de la Jeunesse",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-11-06",
+        "end": "2026-11-06",
+        "type": "férié",
+        "name": "Anniversaire de la Marche Verte",
+        "planning": "auto"
+      },
+      {
+        "start": "2026-11-18",
+        "end": "2026-11-18",
+        "type": "férié",
+        "name": "Fête de l’Indépendance",
+        "planning": "auto"
       }
     ]
   },
@@ -1267,23 +1330,13 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-trx",
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-pilates",
         "startTime": "15:30",
         "endTime": "16:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-nouredine",
+          "coach-zakaria"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1300,6 +1353,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-trx",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 30,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-bodypump",
         "startTime": "16:30",
         "endTime": "17:30",
@@ -1308,17 +1372,6 @@
           "coach-hicham"
         ],
         "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-abdos-xtrem",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1591,17 +1644,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-sprint",
-        "startTime": "16:30",
-        "endTime": "17:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-bodycombat",
         "startTime": "16:30",
         "endTime": "17:30",
@@ -1610,6 +1652,17 @@
           "coach-rabie"
         ],
         "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-body-step",
+        "startTime": "16:30",
+        "endTime": "17:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-yassir"
+        ],
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1624,7 +1677,7 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-zumba",
+        "coursId": "cours-stretching",
         "startTime": "22:00",
         "endTime": "23:00",
         "duration": 60,
@@ -1815,9 +1868,9 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-trx",
+        "coursId": "cours-cross-90x",
         "startTime": "15:30",
-        "endTime": "16:00",
+        "endTime": "17:00",
         "duration": 30,
         "coachIds": [
           "coach-zakaria"
@@ -1837,9 +1890,9 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-trx",
         "startTime": "16:30",
-        "endTime": "17:00",
+        "endTime": "16:00",
         "duration": 30,
         "coachIds": [
           "coach-zakaria"
@@ -1900,7 +1953,7 @@
         "endTime": "16:00",
         "duration": 60,
         "coachIds": [
-          "coach-hajar"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
