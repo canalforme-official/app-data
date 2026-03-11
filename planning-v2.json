@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-11T00:31:08.204Z",
+    "lastUpdated": "2026-03-11T13:02:44.805Z",
     "weekNumber": 10,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1633,11 +1633,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-trx",
+        "coursId": "cours-body-step",
         "startTime": "16:30",
         "endTime": "17:00",
-        "duration": 30,
+        "duration": 60,
         "coachIds": [
+          "coach-yassir",
           "coach-zakaria"
         ],
         "studioId": "studio-infinity",
@@ -1655,11 +1656,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-body-step",
-        "startTime": "16:30",
-        "endTime": "17:00",
-        "duration": 60,
+        "coursId": "cours-trx",
+        "startTime": "17:00",
+        "endTime": "17:30",
+        "duration": 30,
         "coachIds": [
+          "coach-zakaria",
           "coach-yassir"
         ],
         "studioId": "studio-infinity",
