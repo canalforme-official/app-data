@@ -595,25 +595,25 @@
         "position": 20,
         "nickname": "Nada",
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
-        "meps": 26,
-        "moves": 3,
-        "calories": 123,
-        "totalMinutes": 33,
-        "zone0Minutes": 10,
-        "zone1Minutes": 20,
-        "zone2Minutes": 3,
+        "meps": 30,
+        "moves": 4,
+        "calories": 137,
+        "totalMinutes": 38,
+        "zone0Minutes": 12,
+        "zone1Minutes": 22,
+        "zone2Minutes": 4,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 3,
-        "zone1MEPs": 20,
-        "zone2MEPs": 6,
+        "targetZoneMinutes": 4,
+        "zone1MEPs": 22,
+        "zone2MEPs": 8,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 51,
+        "avgEffort": 50,
         "peakHR": 159,
-        "avgHR": 100,
+        "avgHR": 99,
         "belt": 7457693,
         "rank": 1,
         "status": "Iron",
@@ -1493,7 +1493,7 @@
     ],
     "total_meps_by_gender": {
       "male": 18774,
-      "female": 7213
+      "female": 7217
     },
     "active_users": {
       "male": 13,
@@ -1507,8 +1507,8 @@
     },
     "meps_averages": {
       "male": "1444.2",
-      "female": "1030.4",
-      "total": "1299.3"
+      "female": "1031.0",
+      "total": "1299.5"
     }
   }
 }
