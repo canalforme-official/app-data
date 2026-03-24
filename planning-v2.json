@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-24T14:14:25.234Z",
+    "lastUpdated": "2026-03-24T14:21:40.517Z",
     "weekNumber": 12,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -18,10 +18,58 @@
         "planning": "regulier"
       },
       {
+        "start": "2026-02-19",
+        "end": "2026-03-19",
+        "type": "ramadan",
+        "name": "Ramadan 1447 / 2026",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "religieuse",
+        "daysCount": "",
+        "planningKey": "ramadan",
+        "planningAffiche": "Ramadan",
+        "planning": "ramadan"
+      },
+      {
         "start": "2026-05-01",
         "end": "2026-05-01",
         "type": "férié",
         "name": "Fête du Travail",
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-01-01",
+        "end": "2026-01-01",
+        "type": "férié",
+        "name": "Nouvel An",
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-01-11",
+        "end": "2026-01-11",
+        "type": "férié",
+        "name": "Anniversaire du Manifeste de l’Indépendance",
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-01-14",
+        "end": "2026-01-14",
+        "type": "férié",
+        "name": "Nouvel An Amazigh 2976 / 2026",
         "inputMode": "auto",
         "fixedOrVariable": "nationale",
         "daysCount": 1,
@@ -78,28 +126,16 @@
         "planning": "ferie"
       },
       {
-        "start": "2026-11-06",
-        "end": "2026-11-06",
+        "start": "2026-03-20",
+        "end": "2026-03-20",
         "type": "férié",
-        "name": "Anniversaire de la Marche Verte",
-        "inputMode": "auto",
-        "fixedOrVariable": "nationale",
-        "daysCount": 1,
-        "planningKey": "ferie",
-        "planningAffiche": "Jours fériés",
-        "planning": "ferie"
-      },
-      {
-        "start": "2026-11-18",
-        "end": "2026-11-18",
-        "type": "férié",
-        "name": "Fête de l’Indépendance",
-        "inputMode": "auto",
-        "fixedOrVariable": "nationale",
-        "daysCount": 1,
-        "planningKey": "ferie",
-        "planningAffiche": "Jours fériés",
-        "planning": "ferie"
+        "name": "Aïd Al Fitr",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "religieuse",
+        "daysCount": 2,
+        "planningKey": "ferme",
+        "planningAffiche": "Fermé",
+        "planning": "ferme"
       }
     ],
     "horaires": {
