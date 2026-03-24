@@ -1,88 +1,136 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-23T23:29:32.065Z",
+    "lastUpdated": "2026-03-24T12:38:42.933Z",
     "weekNumber": 12,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
     "periods": [
       {
-        "start": "2026-02-19",
-        "end": "2026-03-19",
-        "type": "ramadan",
-        "name": "Ramadan 1447 / 2026",
-        "planning": "manuelle"
+        "start": "2026-01-01",
+        "end": "2026-12-31",
+        "type": "planning",
+        "name": "Planning Annuel",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "",
+        "daysCount": "",
+        "planningKey": "regulier",
+        "planningAffiche": "Planning",
+        "planning": "regulier"
       },
       {
         "start": "2026-05-01",
         "end": "2026-05-01",
         "type": "férié",
         "name": "Fête du Travail",
-        "planning": "auto"
-      },
-      {
-        "start": "2026-01-01",
-        "end": "2026-01-01",
-        "type": "férié",
-        "name": "Nouvel An",
-        "planning": "auto"
-      },
-      {
-        "start": "2026-01-11",
-        "end": "2026-01-11",
-        "type": "férié",
-        "name": "Anniversaire du Manifeste de l’Indépendance",
-        "planning": "auto"
-      },
-      {
-        "start": "2026-01-14",
-        "end": "2026-01-14",
-        "type": "férié",
-        "name": "Nouvel An Amazigh 2976 / 2026",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       },
       {
         "start": "2026-07-30",
         "end": "2026-07-30",
         "type": "férié",
         "name": "Fête du Trône",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       },
       {
         "start": "2026-08-14",
         "end": "2026-08-14",
         "type": "férié",
         "name": "Anniversaire de la Récupération de Oued Eddahab",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       },
       {
         "start": "2026-08-20",
         "end": "2026-08-20",
         "type": "férié",
         "name": "Révolution du Roi et du Peuple",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       },
       {
         "start": "2026-08-21",
         "end": "2026-08-21",
         "type": "férié",
         "name": "Fête de la Jeunesse",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       },
       {
         "start": "2026-11-06",
         "end": "2026-11-06",
         "type": "férié",
         "name": "Anniversaire de la Marche Verte",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       },
       {
         "start": "2026-11-18",
         "end": "2026-11-18",
         "type": "férié",
         "name": "Fête de l’Indépendance",
-        "planning": "auto"
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       }
-    ]
+    ],
+    "horaires": {
+      "regulier": {
+        "planningLabel": "Planning",
+        "open1Label": "",
+        "open1": "07:00",
+        "close1": "22:00",
+        "open2Label": "",
+        "open2": "",
+        "close2": ""
+      },
+      "ramadan": {
+        "planningLabel": "Ramadan",
+        "open1Label": "Avant-ftour",
+        "open1": "12:00",
+        "close1": "18:00",
+        "open2Label": "Après-ftour",
+        "open2": "20:30",
+        "close2": "00:00"
+      },
+      "ferie": {
+        "planningLabel": "Jours fériés",
+        "open1Label": "",
+        "open1": "09:00",
+        "close1": "21:00",
+        "open2Label": "",
+        "open2": "",
+        "close2": ""
+      }
+    }
   },
   "coachs": [
     {
@@ -955,7 +1003,7 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-zoubir"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
@@ -1257,6 +1305,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
+          "coach-zakaria",
           "coach-rabie"
         ],
         "studioId": "studio-aqua",
@@ -1949,5 +1998,6 @@
       }
     ],
     "dimanche": []
-  }
+  },
+  "planningFerieByDate": {}
 }
