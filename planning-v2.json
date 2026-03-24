@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-24T14:21:40.517Z",
+    "lastUpdated": "2026-03-24T19:22:18.079Z",
     "weekNumber": 12,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -136,6 +136,18 @@
         "planningKey": "ferme",
         "planningAffiche": "Fermé",
         "planning": "ferme"
+      },
+      {
+        "start": "2026-03-21",
+        "end": "2026-03-21",
+        "type": "férié",
+        "name": "Aïd Al Fitr",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "religieuse",
+        "daysCount": 2,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       }
     ],
     "horaires": {
@@ -1459,7 +1471,7 @@
       {
         "coursId": "cours-trx",
         "startTime": "16:30",
-        "endTime": "17:30",
+        "endTime": "17:00",
         "duration": 30,
         "coachIds": [
           "coach-zakaria"
@@ -1717,7 +1729,7 @@
       {
         "coursId": "cours-body-step",
         "startTime": "16:30",
-        "endTime": "17:00",
+        "endTime": "17:30",
         "duration": 60,
         "coachIds": [
           "coach-yassir",
@@ -1920,7 +1932,7 @@
       {
         "coursId": "cours-cross-90x",
         "startTime": "15:30",
-        "endTime": "17:00",
+        "endTime": "16:00",
         "duration": 30,
         "coachIds": [
           "coach-zakaria"
@@ -1942,7 +1954,7 @@
       {
         "coursId": "cours-trx",
         "startTime": "16:30",
-        "endTime": "16:00",
+        "endTime": "17:00",
         "duration": 30,
         "coachIds": [
           "coach-zakaria"
@@ -2055,5 +2067,30 @@
     ],
     "dimanche": []
   },
-  "planningFerieByDate": {}
+  "planningFerieByDate": {
+    "2026-03-21": [
+      {
+        "coursId": "cours-rpm",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      }
+    ]
+  }
 }
