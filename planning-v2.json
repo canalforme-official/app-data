@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-25T13:16:03.120Z",
+    "lastUpdated": "2026-03-25T20:15:19.487Z",
     "weekNumber": 12,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -153,30 +153,186 @@
     "horaires": {
       "regulier": {
         "planningLabel": "Planning Régulier",
-        "open1Label": "",
-        "open1": "07:00",
-        "close1": "22:00",
-        "open2Label": "",
-        "open2": "",
-        "close2": ""
+        "byDay": {
+          "lundi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "mardi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "mercredi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "jeudi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "vendredi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "samedi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "21:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "dimanche": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "13:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          }
+        }
       },
       "ramadan": {
         "planningLabel": "Ramadan",
-        "open1Label": "Avant-ftour",
-        "open1": "12:00",
-        "close1": "18:00",
-        "open2Label": "Après-ftour",
-        "open2": "20:30",
-        "close2": "00:00"
+        "byDay": {
+          "lundi": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "Après-ftour",
+            "open2": "20:30",
+            "close2": "00:00"
+          },
+          "mardi": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "Après-ftour",
+            "open2": "20:30",
+            "close2": "00:00"
+          },
+          "mercredi": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "Après-ftour",
+            "open2": "20:30",
+            "close2": "00:00"
+          },
+          "jeudi": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "Après-ftour",
+            "open2": "20:30",
+            "close2": "00:00"
+          },
+          "vendredi": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "Après-ftour",
+            "open2": "20:30",
+            "close2": "00:00"
+          },
+          "samedi": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "Après-ftour",
+            "open2": "20:30",
+            "close2": "00:00"
+          },
+          "dimanche": {
+            "open1Label": "Avant-ftour",
+            "open1": "12:00",
+            "close1": "18:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          }
+        }
       },
       "ferie": {
         "planningLabel": "Jours fériés",
-        "open1Label": "",
-        "open1": "09:00",
-        "close1": "21:00",
-        "open2Label": "",
-        "open2": "",
-        "close2": ""
+        "byDay": {
+          "lundi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "19:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "mardi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "19:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "mercredi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "19:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "jeudi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "19:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "vendredi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "19:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "samedi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "19:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "dimanche": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "13:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          }
+        }
       }
     }
   },
