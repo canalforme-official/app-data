@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-25T23:29:31.949Z",
+    "lastUpdated": "2026-03-26T23:29:32.571Z",
     "weekNumber": 13,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -15,6 +15,18 @@
         "daysCount": "",
         "planningKey": "regulier",
         "planningAffiche": "Planning Régulier",
+        "planning": "regulier"
+      },
+      {
+        "start": "2026-08-01",
+        "end": "2026-08-31",
+        "type": "été",
+        "name": "Planning été 2026",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "",
+        "daysCount": "",
+        "planningKey": "regulier",
+        "planningAffiche": "Planning été",
         "planning": "regulier"
       },
       {
@@ -618,12 +630,6 @@
       "duration": 60
     },
     {
-      "id": "cours-gym-baton-",
-      "name": "GYM BATON ",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
@@ -1052,17 +1058,6 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-gym-baton-",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-atlas",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquagym",
@@ -1569,6 +1564,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-abdos-xtrem",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zoubir"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-aquagym",
         "startTime": "15:00",
         "endTime": "16:00",
@@ -1589,17 +1595,6 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-abdos-xtrem",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-zoubir"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-pilates",
@@ -1670,7 +1665,7 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-gym-baton-",
+        "coursId": "cours-gym-baton",
         "startTime": "22:00",
         "endTime": "23:00",
         "duration": 60,
@@ -1705,17 +1700,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tbc",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nihad"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-mobility",
         "startTime": "15:00",
         "endTime": "16:00",
@@ -1725,6 +1709,17 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tbc",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-nihad"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-cross-90x",
@@ -1771,17 +1766,6 @@
         "type": "100% Hommes"
       },
       {
-        "coursId": "cours-tabata",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-rpm",
         "startTime": "16:30",
         "endTime": "17:30",
@@ -1790,6 +1774,17 @@
           "coach-youssef"
         ],
         "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tabata",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1839,17 +1834,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-aquagym",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-aqua",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-abdos-xtrem",
         "startTime": "15:00",
         "endTime": "16:00",
@@ -1859,6 +1843,17 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-cross-90x",
@@ -2053,6 +2048,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-abdos-xtrem",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zoubir"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-aquagym",
         "startTime": "15:00",
         "endTime": "16:00",
@@ -2073,17 +2079,6 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-abdos-xtrem",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-zoubir"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-cross-90x",
@@ -2119,6 +2114,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-bodycombat",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-rpm",
         "startTime": "16:30",
         "endTime": "17:30",
@@ -2128,17 +2134,6 @@
           "coach-youssef"
         ],
         "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-bodycombat",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-atlas",
         "type": "Mixte"
       },
       {
@@ -2199,17 +2194,6 @@
         "type": "100% Hommes"
       },
       {
-        "coursId": "cours-pilates",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-circuit-boxing",
         "startTime": "16:30",
         "endTime": "17:30",
@@ -2219,6 +2203,17 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       }
     ],
     "dimanche": []
