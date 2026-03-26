@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-26T23:29:32.571Z",
+    "lastUpdated": "2026-03-26T23:47:26.331Z",
     "weekNumber": 13,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -25,9 +25,9 @@
         "inputMode": "manuelle",
         "fixedOrVariable": "",
         "daysCount": "",
-        "planningKey": "regulier",
+        "planningKey": "ete",
         "planningAffiche": "Planning été",
-        "planning": "regulier"
+        "planning": "ete"
       },
       {
         "start": "2026-02-19",
@@ -2216,6 +2216,15 @@
         "type": "100% Femmes"
       }
     ],
+    "dimanche": []
+  },
+  "planningEte": {
+    "lundi": [],
+    "mardi": [],
+    "mercredi": [],
+    "jeudi": [],
+    "vendredi": [],
+    "samedi": [],
     "dimanche": []
   },
   "planningFerieByDate": {
