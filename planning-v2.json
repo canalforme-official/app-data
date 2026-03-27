@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-26T23:47:26.331Z",
+    "lastUpdated": "2026-03-27T19:18:03.054Z",
     "weekNumber": 13,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -345,6 +345,67 @@
             "close2": ""
           }
         }
+      },
+      "ete": {
+        "planningLabel": "été",
+        "byDay": {
+          "lundi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "mardi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "mercredi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "jeudi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "vendredi": {
+            "open1Label": "",
+            "open1": "07:00",
+            "close1": "22:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "samedi": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "21:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          },
+          "dimanche": {
+            "open1Label": "",
+            "open1": "09:00",
+            "close1": "13:00",
+            "open2Label": "",
+            "open2": "",
+            "close2": ""
+          }
+        }
       }
     }
   },
@@ -582,12 +643,6 @@
       "duration": 60
     },
     {
-      "id": "cours-tabata",
-      "name": "TABATA",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
-      "duration": 60
-    },
-    {
       "id": "cours-danse-orientale",
       "name": "DANSE ORIENTALE",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
@@ -609,6 +664,12 @@
       "id": "cours-tone",
       "name": "TONE",
       "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-tabata",
+      "name": "TABATA",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
       "duration": 60
     },
     {
@@ -878,17 +939,6 @@
           "coach-zakaria"
         ],
         "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-tabata",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1396,8 +1446,8 @@
       },
       {
         "coursId": "cours-aquagym",
-        "startTime": "11:00",
-        "endTime": "12:00",
+        "startTime": "10:30",
+        "endTime": "11:30",
         "duration": 60,
         "coachIds": [
           "coach-fatima"
@@ -1524,8 +1574,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-rabie"
+          "coach-zakaria"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
