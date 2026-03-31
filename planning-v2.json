@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-30T23:29:34.008Z",
+    "lastUpdated": "2026-03-31T23:29:35.997Z",
     "weekNumber": 13,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -691,6 +691,12 @@
       "duration": 60
     },
     {
+      "id": "cours-gym-baton",
+      "name": "GYM BATON",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
@@ -1024,7 +1030,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-hajar"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1058,7 +1064,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-hajar"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1108,6 +1114,17 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-gym-baton",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-atlas",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquagym",
