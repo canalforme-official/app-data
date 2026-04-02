@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-02T15:35:03.203Z",
+    "lastUpdated": "2026-04-02T23:29:31.329Z",
     "weekNumber": 14,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -625,16 +625,16 @@
   ],
   "cours": [
     {
-      "id": "cours-rpm",
-      "name": "RPM",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ff50bd1b-72e1-0fc6-29f3-78c598f5e04b.png",
-      "duration": 60
-    },
-    {
       "id": "cours-bodypump-express",
       "name": "BODYPUMP Express",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
       "duration": 30
+    },
+    {
+      "id": "cours-rpm",
+      "name": "RPM",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ff50bd1b-72e1-0fc6-29f3-78c598f5e04b.png",
+      "duration": 60
     },
     {
       "id": "cours-cx-training",
@@ -655,16 +655,16 @@
       "duration": 60
     },
     {
-      "id": "cours-trx",
-      "name": "TRX",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3b075865-7e46-9ddc-a864-56dd7ddbe33c.png",
-      "duration": 30
-    },
-    {
       "id": "cours-aquagym",
       "name": "AQUAGYM",
       "logo": "",
       "duration": 60
+    },
+    {
+      "id": "cours-trx",
+      "name": "TRX",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3b075865-7e46-9ddc-a864-56dd7ddbe33c.png",
+      "duration": 30
     },
     {
       "id": "cours-aquatonus",
@@ -685,15 +685,15 @@
       "duration": 60
     },
     {
-      "id": "cours-zumba",
-      "name": "ZUMBA",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b07471b-f0df-ce9a-96f5-4cb6d5c9e16e.png",
-      "duration": 60
-    },
-    {
       "id": "cours-gtx",
       "name": "GTX",
       "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-zumba",
+      "name": "ZUMBA",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b07471b-f0df-ce9a-96f5-4cb6d5c9e16e.png",
       "duration": 60
     },
     {
@@ -721,20 +721,14 @@
       "duration": 60
     },
     {
-      "id": "cours-tone",
-      "name": "TONE",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-tabata",
       "name": "TABATA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
       "duration": 60
     },
     {
-      "id": "cours-stretching",
-      "name": "STRETCHING",
+      "id": "cours-tone",
+      "name": "TONE",
       "logo": "",
       "duration": 60
     },
@@ -742,6 +736,12 @@
       "id": "cours-bodyflow",
       "name": "BODYFLOW",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a87cb7a0-ead3-7f0d-6302-ffb309d89bfc.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-stretching",
+      "name": "STRETCHING",
+      "logo": "",
       "duration": 60
     },
     {
@@ -951,6 +951,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-gtx",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-zumba",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -962,12 +973,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-gtx",
-        "startTime": "18:30",
-        "endTime": "19:30",
+        "coursId": "cours-circuit-boxing",
+        "startTime": "19:30",
+        "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-nouredine"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -981,17 +992,6 @@
           "coach-hicham"
         ],
         "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-circuit-boxing",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine"
-        ],
-        "studioId": "studio-infinity",
         "type": "Mixte"
       }
     ],
@@ -1052,17 +1052,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-rpm",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-mobility",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -1085,15 +1074,15 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-tone",
-        "startTime": "18:30",
-        "endTime": "19:30",
+        "coursId": "cours-rpm",
+        "startTime": "17:30",
+        "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-hajar"
+          "coach-rabie"
         ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
+        "studioId": "studio-spin",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-aquagym",
@@ -1119,9 +1108,9 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-stretching",
-        "startTime": "19:30",
-        "endTime": "20:30",
+        "coursId": "cours-tone",
+        "startTime": "18:30",
+        "endTime": "19:30",
         "duration": 60,
         "coachIds": [
           "coach-hajar"
@@ -1139,6 +1128,17 @@
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-stretching",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hajar"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       }
     ],
     "mercredi": [
@@ -1231,6 +1231,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-aquacombat",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nihad"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-bodypump",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1243,17 +1254,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-aquacombat",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nihad"
-        ],
-        "studioId": "studio-aqua",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-circuit-training",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1263,6 +1263,17 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-bodycombat",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-gym-douce",
@@ -1284,17 +1295,6 @@
           "coach-nouredine"
         ],
         "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-bodycombat",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-hicham"
-        ],
-        "studioId": "studio-atlas",
         "type": "Mixte"
       }
     ],
@@ -1333,17 +1333,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-zumba",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nihad"
-        ],
-        "studioId": "studio-atlas",
-        "type": "100% Femmes"
-      },
-      {
         "coursId": "cours-aquagym",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -1353,6 +1342,17 @@
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-zumba",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nihad"
+        ],
+        "studioId": "studio-atlas",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodyflow",
@@ -1399,15 +1399,15 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-grit-training",
+        "coursId": "cours-abdos-xtrem",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-maroua"
         ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquagym",
@@ -1421,15 +1421,26 @@
         "type": "100% Hommes"
       },
       {
-        "coursId": "cours-abdos-xtrem",
+        "coursId": "cours-grit-training",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-rabie"
         ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-bodyflow",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nouredine"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-circuit-boxing",
@@ -1452,17 +1463,6 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-bodyflow",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine"
-        ],
-        "studioId": "studio-atlas",
-        "type": "Mixte"
       }
     ],
     "vendredi": [
@@ -1611,17 +1611,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-rpm",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine"
-        ],
-        "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-pilates",
         "startTime": "19:30",
         "endTime": "20:30",
@@ -1630,6 +1619,17 @@
           "coach-nihad"
         ],
         "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nouredine"
+        ],
+        "studioId": "studio-spin",
         "type": "Mixte"
       }
     ],
