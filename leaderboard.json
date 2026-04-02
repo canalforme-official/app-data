@@ -422,25 +422,25 @@
         "position": 14,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 1,
+        "meps": 9,
         "moves": 1,
-        "calories": 2,
-        "totalMinutes": 35,
-        "zone0Minutes": 34,
+        "calories": 27,
+        "totalMinutes": 45,
+        "zone0Minutes": 41,
         "zone1Minutes": 1,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
+        "zone2Minutes": 1,
+        "zone3Minutes": 2,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
+        "targetZoneMinutes": 3,
         "zone1MEPs": 1,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
+        "zone2MEPs": 2,
+        "zone3MEPs": 6,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 39,
-        "peakHR": 95,
-        "avgHR": 74,
+        "avgEffort": 40,
+        "peakHR": 143,
+        "avgHR": 77,
         "belt": 7424835,
         "rank": 3,
         "status": "Bronze",
@@ -1605,7 +1605,7 @@
     ],
     "total_meps_by_gender": {
       "male": 2479,
-      "female": 529
+      "female": 537
     },
     "active_users": {
       "male": 10,
@@ -1619,8 +1619,8 @@
     },
     "meps_averages": {
       "male": "247.9",
-      "female": "132.3",
-      "total": "214.9"
+      "female": "134.3",
+      "total": "215.4"
     }
   },
   "previous": {
