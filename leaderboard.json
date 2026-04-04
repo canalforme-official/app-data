@@ -6,21 +6,21 @@
         "position": 1,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
-        "meps": 1122,
+        "meps": 1136,
         "moves": 3,
-        "calories": 5921,
-        "totalMinutes": 706,
+        "calories": 5995,
+        "totalMinutes": 710,
         "zone0Minutes": 183,
         "zone1Minutes": 228,
         "zone2Minutes": 91,
-        "zone3Minutes": 104,
-        "zone4Minutes": 55,
+        "zone3Minutes": 106,
+        "zone4Minutes": 57,
         "zone5Minutes": 45,
-        "targetZoneMinutes": 292,
+        "targetZoneMinutes": 297,
         "zone1MEPs": 228,
         "zone2MEPs": 182,
-        "zone3MEPs": 312,
-        "zone4MEPs": 220,
+        "zone3MEPs": 318,
+        "zone4MEPs": 228,
         "zone5MEPs": 180,
         "avgEffort": 61,
         "peakHR": 184,
@@ -548,6 +548,38 @@
       },
       {
         "position": 18,
+        "nickname": "Badr",
+        "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
+        "meps": 40,
+        "moves": 1,
+        "calories": 172,
+        "totalMinutes": 15,
+        "zone0Minutes": 1,
+        "zone1Minutes": 1,
+        "zone2Minutes": 4,
+        "zone3Minutes": 5,
+        "zone4Minutes": 3,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 13,
+        "zone1MEPs": 1,
+        "zone2MEPs": 8,
+        "zone3MEPs": 15,
+        "zone4MEPs": 12,
+        "zone5MEPs": 4,
+        "avgEffort": 72,
+        "peakHR": 177,
+        "avgHR": 141,
+        "belt": 7065891,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 19,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 32,
@@ -579,7 +611,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 9,
@@ -611,7 +643,7 @@
         "male": false
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -643,7 +675,7 @@
         "male": false
       },
       {
-        "position": 21,
+        "position": 22,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -675,7 +707,7 @@
         "male": true
       },
       {
-        "position": 22,
+        "position": 23,
         "nickname": "C.Abdel",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -707,7 +739,7 @@
         "male": true
       },
       {
-        "position": 23,
+        "position": 24,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 0,
@@ -739,7 +771,7 @@
         "male": true
       },
       {
-        "position": 24,
+        "position": 25,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -771,7 +803,7 @@
         "male": true
       },
       {
-        "position": 25,
+        "position": 26,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
         "meps": 0,
@@ -803,7 +835,7 @@
         "male": false
       },
       {
-        "position": 26,
+        "position": 27,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 0,
@@ -829,38 +861,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 27,
-        "nickname": "Badr",
-        "usrGUID": "1a693e57-dca9-11ee-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1604,23 +1604,23 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 4920,
+      "male": 4974,
       "female": 2529
     },
     "active_users": {
-      "male": 12,
+      "male": 13,
       "female": 7,
-      "total": 19
+      "total": 20
     },
     "inactive_users": {
-      "male": 20,
+      "male": 19,
       "female": 11,
-      "total": 31
+      "total": 30
     },
     "meps_averages": {
-      "male": "410.0",
+      "male": "382.6",
       "female": "361.3",
-      "total": "392.1"
+      "total": "375.1"
     }
   },
   "previous": {
