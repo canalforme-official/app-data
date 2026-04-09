@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-08T23:29:32.265Z",
+    "lastUpdated": "2026-04-09T23:29:36.773Z",
     "weekNumber": 15,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -670,9 +670,9 @@
       "duration": 60
     },
     {
-      "id": "cours-trx",
-      "name": "TRX",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3b075865-7e46-9ddc-a864-56dd7ddbe33c.png",
+      "id": "cours-cross-90x",
+      "name": "CROSS 90X",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
       "duration": 30
     },
     {
@@ -766,6 +766,12 @@
       "duration": 60
     },
     {
+      "id": "cours-trx",
+      "name": "TRX",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3b075865-7e46-9ddc-a864-56dd7ddbe33c.png",
+      "duration": 30
+    },
+    {
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
@@ -787,12 +793,6 @@
       "id": "cours-sprint",
       "name": "SPRINT",
       "logo": "",
-      "duration": 30
-    },
-    {
-      "id": "cours-cross-90x",
-      "name": "CROSS 90X",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
       "duration": 30
     },
     {
@@ -872,12 +872,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-trx",
+        "coursId": "cours-cross-90x",
         "startTime": "10:30",
         "endTime": "11:00",
         "duration": 30,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
