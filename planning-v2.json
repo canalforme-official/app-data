@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-10T13:37:02.356Z",
+    "lastUpdated": "2026-04-10T23:29:31.751Z",
     "weekNumber": 15,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -694,21 +694,9 @@
       "duration": 60
     },
     {
-      "id": "cours-gtx",
-      "name": "GTX",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-zumba",
       "name": "ZUMBA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b07471b-f0df-ce9a-96f5-4cb6d5c9e16e.png",
-      "duration": 60
-    },
-    {
-      "id": "cours-circuit-boxing",
-      "name": "CIRCUIT BOXING",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
       "duration": 60
     },
     {
@@ -805,6 +793,12 @@
       "id": "cours-grit-training",
       "name": "GRIT TRAINING",
       "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-circuit-boxing",
+      "name": "CIRCUIT BOXING",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
       "duration": 60
     },
     {
@@ -960,17 +954,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-gtx",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-zumba",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -980,17 +963,6 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-circuit-boxing",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-rpm",
