@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-12T19:52:09.414Z",
+    "lastUpdated": "2026-04-12T20:42:35.282Z",
     "weekNumber": 15,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -564,8 +564,8 @@
       "bigPngCaricature": ""
     },
     {
-      "id": "coach-yassir",
-      "name": "Yassir",
+      "id": "coach-yasser",
+      "name": "Yasser",
       "imageUrl": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/581f70f0-8885-04ed-d4a1-b3cc40b4813e.png",
       "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/595c0745-bd76-2d63-7b17-63a2311e6146.png",
       "nomCaricature": "",
@@ -1071,7 +1071,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir",
+          "coach-yasser",
           "coach-youssef"
         ],
         "studioId": "studio-aqua",
@@ -1105,7 +1105,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir"
+          "coach-yasser"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1429,7 +1429,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1541,7 +1541,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir",
+          "coach-yasser",
           "coach-youssef"
         ],
         "studioId": "studio-infinity",
@@ -1765,7 +1765,7 @@
         "endTime": "23:00",
         "duration": 60,
         "coachIds": [
-          "coach-yassir",
+          "coach-yasser",
           "coach-youssef"
         ],
         "studioId": "studio-atlas",
@@ -1900,7 +1900,7 @@
         "endTime": "22:30",
         "duration": 30,
         "coachIds": [
-          "coach-yassir"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1911,7 +1911,7 @@
         "endTime": "23:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1990,7 +1990,7 @@
         "endTime": "17:30",
         "duration": 60,
         "coachIds": [
-          "coach-yassir",
+          "coach-yasser",
           "coach-zakaria"
         ],
         "studioId": "studio-infinity",
@@ -2360,5 +2360,97 @@
       }
     ]
   },
-  "planningEventsByDate": {}
+  "planningEventsByDate": {
+    "2026-04-15": [
+      {
+        "idBloc": "evt-1776024421088-nf5z",
+        "label": "Lancement des nouveaux concepts LesMills",
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "studios": [
+          "ATLAS"
+        ],
+        "courses": [
+          {
+            "coursId": "cours-body-step",
+            "startTime": "18:30",
+            "endTime": "19:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-yasser",
+              "coach-youssef"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-bodyjam",
+            "startTime": "19:30",
+            "endTime": "20:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-yasser",
+              "coach-nihad"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          }
+        ]
+      }
+    ],
+    "2026-04-13": [
+      {
+        "idBloc": "evt-1776023939884-ddzd",
+        "label": "Relancement LesMills",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "studios": [
+          "ATLAS",
+          "INFINITY"
+        ],
+        "courses": [
+          {
+            "coursId": "cours-bodypump",
+            "startTime": "17:30",
+            "endTime": "18:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-zakaria",
+              "coach-rabie",
+              "coach-youssef"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-bodycombat",
+            "startTime": "18:30",
+            "endTime": "19:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-rabie",
+              "coach-zakaria",
+              "coach-yasser"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-rpm",
+            "startTime": "19:30",
+            "endTime": "20:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-zakaria",
+              "coach-rabie",
+              "coach-nouredine",
+              "coach-fayza"
+            ],
+            "studioId": "studio-spin",
+            "type": "Mixte"
+          }
+        ]
+      }
+    ]
+  }
 }
