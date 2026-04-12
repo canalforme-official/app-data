@@ -676,6 +676,38 @@
       },
       {
         "position": 22,
+        "nickname": "lalaomin",
+        "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
+        "meps": 40,
+        "moves": 1,
+        "calories": 141,
+        "totalMinutes": 29,
+        "zone0Minutes": 1,
+        "zone1Minutes": 21,
+        "zone2Minutes": 3,
+        "zone3Minutes": 3,
+        "zone4Minutes": 1,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 7,
+        "zone1MEPs": 21,
+        "zone2MEPs": 6,
+        "zone3MEPs": 9,
+        "zone4MEPs": 4,
+        "zone5MEPs": 0,
+        "avgEffort": 58,
+        "peakHR": 156,
+        "avgHR": 109,
+        "belt": 7468330,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 23,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 9,
@@ -707,7 +739,7 @@
         "male": false
       },
       {
-        "position": 23,
+        "position": 24,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -739,7 +771,7 @@
         "male": false
       },
       {
-        "position": 24,
+        "position": 25,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -771,7 +803,7 @@
         "male": true
       },
       {
-        "position": 25,
+        "position": 26,
         "nickname": "C.Abdel",
         "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -803,7 +835,7 @@
         "male": true
       },
       {
-        "position": 26,
+        "position": 27,
         "nickname": "AD26",
         "usrGUID": "cc3ca7ca-324d-11ef-90fc-36cf470dfcf8",
         "meps": 0,
@@ -835,7 +867,7 @@
         "male": true
       },
       {
-        "position": 27,
+        "position": 28,
         "nickname": "Adnane",
         "usrGUID": "9e12783a-0261-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -865,38 +897,6 @@
         "coachLink": "",
         "pngCaricature": "",
         "male": true
-      },
-      {
-        "position": 28,
-        "nickname": "lalaomin",
-        "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": false
       },
       {
         "position": 29,
@@ -1605,22 +1605,22 @@
     ],
     "total_meps_by_gender": {
       "male": 15482,
-      "female": 7975
+      "female": 8015
     },
     "active_users": {
       "male": 15,
-      "female": 7,
-      "total": 22
+      "female": 8,
+      "total": 23
     },
     "inactive_users": {
       "male": 17,
-      "female": 11,
-      "total": 28
+      "female": 10,
+      "total": 27
     },
     "meps_averages": {
       "male": "1032.1",
-      "female": "1139.3",
-      "total": "1066.2"
+      "female": "1001.9",
+      "total": "1021.6"
     }
   }
 }
