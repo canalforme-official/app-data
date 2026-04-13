@@ -486,20 +486,20 @@
         "position": 16,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 626,
+        "meps": 635,
         "moves": 4,
-        "calories": 2891,
-        "totalMinutes": 286,
+        "calories": 2942,
+        "totalMinutes": 291,
         "zone0Minutes": 21,
-        "zone1Minutes": 67,
-        "zone2Minutes": 83,
-        "zone3Minutes": 67,
+        "zone1Minutes": 69,
+        "zone2Minutes": 85,
+        "zone3Minutes": 68,
         "zone4Minutes": 44,
         "zone5Minutes": 4,
-        "targetZoneMinutes": 200,
-        "zone1MEPs": 67,
-        "zone2MEPs": 166,
-        "zone3MEPs": 201,
+        "targetZoneMinutes": 204,
+        "zone1MEPs": 69,
+        "zone2MEPs": 170,
+        "zone3MEPs": 204,
         "zone4MEPs": 176,
         "zone5MEPs": 16,
         "avgEffort": 67,
@@ -774,19 +774,19 @@
         "position": 25,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 70,
+        "meps": 78,
         "moves": 2,
-        "calories": 238,
-        "totalMinutes": 40,
+        "calories": 263,
+        "totalMinutes": 44,
         "zone0Minutes": 3,
         "zone1Minutes": 9,
-        "zone2Minutes": 23,
+        "zone2Minutes": 27,
         "zone3Minutes": 5,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 28,
+        "targetZoneMinutes": 32,
         "zone1MEPs": 9,
-        "zone2MEPs": 46,
+        "zone2MEPs": 54,
         "zone3MEPs": 15,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
@@ -1604,8 +1604,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 18810,
-      "female": 9969
+      "male": 18819,
+      "female": 9977
     },
     "active_users": {
       "male": 16,
@@ -1618,9 +1618,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "1175.6",
-      "female": "996.9",
-      "total": "1106.9"
+      "male": "1176.2",
+      "female": "997.7",
+      "total": "1107.5"
     }
   }
 }
