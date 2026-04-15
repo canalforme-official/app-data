@@ -4,6 +4,38 @@
     "data": [
       {
         "position": 1,
+        "nickname": "Simo",
+        "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+        "meps": 4670,
+        "moves": 18,
+        "calories": 33771,
+        "totalMinutes": 4654,
+        "zone0Minutes": 1385,
+        "zone1Minutes": 2140,
+        "zone2Minutes": 882,
+        "zone3Minutes": 222,
+        "zone4Minutes": 25,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 1125,
+        "zone1MEPs": 2140,
+        "zone2MEPs": 1764,
+        "zone3MEPs": 666,
+        "zone4MEPs": 100,
+        "zone5MEPs": 0,
+        "avgEffort": 54,
+        "peakHR": 175,
+        "avgHR": 104,
+        "belt": 7424840,
+        "rank": 24,
+        "status": "Platinum",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 2,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
         "meps": 4668,
@@ -29,38 +61,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 2,
-        "nickname": "Simo",
-        "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 4665,
-        "moves": 18,
-        "calories": 33743,
-        "totalMinutes": 4650,
-        "zone0Minutes": 1385,
-        "zone1Minutes": 2137,
-        "zone2Minutes": 881,
-        "zone3Minutes": 222,
-        "zone4Minutes": 25,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 1125,
-        "zone1MEPs": 2137,
-        "zone2MEPs": 1762,
-        "zone3MEPs": 666,
-        "zone4MEPs": 100,
-        "zone5MEPs": 0,
-        "avgEffort": 54,
-        "peakHR": 175,
-        "avgHR": 104,
-        "belt": 7424840,
-        "rank": 24,
-        "status": "Platinum",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1604,7 +1604,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 22898,
+      "male": 22903,
       "female": 12591
     },
     "active_users": {
@@ -1618,9 +1618,9 @@
       "total": 23
     },
     "meps_averages": {
-      "male": "1431.1",
+      "male": "1431.4",
       "female": "1144.6",
-      "total": "1314.4"
+      "total": "1314.6"
     }
   }
 }
