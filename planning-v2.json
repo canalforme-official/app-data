@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-16T23:29:30.223Z",
+    "lastUpdated": "2026-04-17T23:29:31.022Z",
     "weekNumber": 16,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -652,12 +652,6 @@
       "duration": 30
     },
     {
-      "id": "cours-abdos-xtrem",
-      "name": "ABDOS XTREM",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-pilates",
       "name": "PILATES",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4661eb52-3c8b-5ea9-2bf8-91bd841e6686.png",
@@ -670,9 +664,9 @@
       "duration": 60
     },
     {
-      "id": "cours-cross-90x",
-      "name": "CROSS 90X",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
+      "id": "cours-trx",
+      "name": "TRX",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3b075865-7e46-9ddc-a864-56dd7ddbe33c.png",
       "duration": 30
     },
     {
@@ -754,12 +748,6 @@
       "duration": 60
     },
     {
-      "id": "cours-trx",
-      "name": "TRX",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3b075865-7e46-9ddc-a864-56dd7ddbe33c.png",
-      "duration": 30
-    },
-    {
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
@@ -784,8 +772,20 @@
       "duration": 30
     },
     {
+      "id": "cours-cross-90x",
+      "name": "CROSS 90X",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2fdbd91d-7871-fa09-30fe-c9f617ac8fb6.png",
+      "duration": 30
+    },
+    {
       "id": "cours-tbc",
       "name": "T.B.C.",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-abdos-xtrem",
+      "name": "ABDOS XTREM",
       "logo": "",
       "duration": 60
     },
@@ -850,17 +850,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-abdos-xtrem",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-pilates",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -872,12 +861,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-trx",
         "startTime": "10:30",
         "endTime": "11:00",
         "duration": 30,
         "coachIds": [
-          "coach-youssef"
+          "coach-zakaria"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
