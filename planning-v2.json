@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-17T23:29:31.022Z",
+    "lastUpdated": "2026-04-18T23:29:36.938Z",
     "weekNumber": 16,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -760,6 +760,12 @@
       "duration": 60
     },
     {
+      "id": "cours-bodyjam",
+      "name": "BODYJAM",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/888bf643-e278-5d74-1d9b-c8a6590f926e.png",
+      "duration": 60
+    },
+    {
       "id": "cours-gym-douce",
       "name": "GYM DOUCE",
       "logo": "",
@@ -805,12 +811,6 @@
       "id": "cours-body-step",
       "name": "BODY STEP",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ceb4a4f3-6c79-c541-ffbe-66233afd3c84.png",
-      "duration": 60
-    },
-    {
-      "id": "cours-bodyjam",
-      "name": "BODYJAM",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/888bf643-e278-5d74-1d9b-c8a6590f926e.png",
       "duration": 60
     }
   ],
@@ -965,7 +965,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-zakaria"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -1044,7 +1044,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-youssef"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1066,8 +1066,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser",
-          "coach-youssef"
+          "coach-zoubir"
         ],
         "studioId": "studio-aqua",
         "type": "100% Hommes"
@@ -1241,12 +1240,13 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodycombat",
+        "coursId": "cours-bodyjam",
         "startTime": "19:30",
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-yasser",
+          "coach-nihad"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
