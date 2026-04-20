@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-19T23:29:36.835Z",
+    "lastUpdated": "2026-04-20T10:25:29.754Z",
     "weekNumber": 16,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -688,9 +688,27 @@
       "duration": 60
     },
     {
+      "id": "cours-bodyflow",
+      "name": "BODYFLOW",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a87cb7a0-ead3-7f0d-6302-ffb309d89bfc.png",
+      "duration": 60
+    },
+    {
       "id": "cours-zumba",
       "name": "ZUMBA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b07471b-f0df-ce9a-96f5-4cb6d5c9e16e.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-tbc",
+      "name": "T.B.C.",
+      "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-tabata",
+      "name": "TABATA",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
       "duration": 60
     },
     {
@@ -712,21 +730,15 @@
       "duration": 60
     },
     {
-      "id": "cours-tabata",
-      "name": "TABATA",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
-      "duration": 60
-    },
-    {
       "id": "cours-tone",
       "name": "TONE",
       "logo": "",
       "duration": 60
     },
     {
-      "id": "cours-bodyflow",
-      "name": "BODYFLOW",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a87cb7a0-ead3-7f0d-6302-ffb309d89bfc.png",
+      "id": "cours-circuit-boxing",
+      "name": "CIRCUIT BOXING",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
       "duration": 60
     },
     {
@@ -784,12 +796,6 @@
       "duration": 30
     },
     {
-      "id": "cours-tbc",
-      "name": "T.B.C.",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-abdos-xtrem",
       "name": "ABDOS XTREM",
       "logo": "",
@@ -799,12 +805,6 @@
       "id": "cours-grit-training",
       "name": "GRIT TRAINING",
       "logo": "",
-      "duration": 60
-    },
-    {
-      "id": "cours-circuit-boxing",
-      "name": "CIRCUIT BOXING",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1120a300-7c53-5dc3-94aa-b43356b37d06.png",
       "duration": 60
     },
     {
@@ -949,6 +949,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-bodyflow",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nouredine"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-zumba",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -984,7 +995,7 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-rpm",
+        "coursId": "cours-tbc",
         "startTime": "08:30",
         "endTime": "09:30",
         "duration": 60,
@@ -992,6 +1003,17 @@
           "coach-fayza"
         ],
         "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tabata",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1102,6 +1124,17 @@
           "coach-yasser"
         ],
         "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-circuit-boxing",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nouredine"
+        ],
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
