@@ -646,20 +646,20 @@
         "position": 21,
         "nickname": "hl",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 402,
+        "meps": 410,
         "moves": 6,
-        "calories": 2815,
-        "totalMinutes": 584,
-        "zone0Minutes": 340,
+        "calories": 2855,
+        "totalMinutes": 589,
+        "zone0Minutes": 342,
         "zone1Minutes": 121,
-        "zone2Minutes": 91,
-        "zone3Minutes": 29,
+        "zone2Minutes": 92,
+        "zone3Minutes": 31,
         "zone4Minutes": 3,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 122,
+        "targetZoneMinutes": 125,
         "zone1MEPs": 121,
-        "zone2MEPs": 182,
-        "zone3MEPs": 87,
+        "zone2MEPs": 184,
+        "zone3MEPs": 93,
         "zone4MEPs": 12,
         "zone5MEPs": 0,
         "avgEffort": 48,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 31034,
+      "male": 31042,
       "female": 15005
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 23
     },
     "meps_averages": {
-      "male": "1825.5",
+      "male": "1826.0",
       "female": "1364.1",
-      "total": "1644.3"
+      "total": "1644.5"
     }
   }
 }
