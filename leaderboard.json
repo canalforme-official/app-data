@@ -648,9 +648,9 @@
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 402,
         "moves": 6,
-        "calories": 2813,
-        "totalMinutes": 569,
-        "zone0Minutes": 325,
+        "calories": 2815,
+        "totalMinutes": 574,
+        "zone0Minutes": 330,
         "zone1Minutes": 121,
         "zone2Minutes": 91,
         "zone3Minutes": 29,
@@ -664,7 +664,7 @@
         "zone5MEPs": 0,
         "avgEffort": 48,
         "peakHR": 177,
-        "avgHR": 97,
+        "avgHR": 96,
         "belt": 7468338,
         "rank": 12,
         "status": "Gold",
@@ -1444,6 +1444,38 @@
       },
       {
         "position": 46,
+        "nickname": "SihamB",
+        "usrGUID": "62034008-b4bd-4805-af39-095ef237413f",
+        "meps": 0,
+        "moves": 0,
+        "calories": 0,
+        "totalMinutes": 0,
+        "zone0Minutes": 0,
+        "zone1Minutes": 0,
+        "zone2Minutes": 0,
+        "zone3Minutes": 0,
+        "zone4Minutes": 0,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 0,
+        "zone1MEPs": 0,
+        "zone2MEPs": 0,
+        "zone3MEPs": 0,
+        "zone4MEPs": 0,
+        "zone5MEPs": 0,
+        "avgEffort": 0,
+        "peakHR": 0,
+        "avgHR": 0,
+        "belt": 0,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 47,
         "nickname": "toufik",
         "usrGUID": "050c8372-04a2-11ef-92c6-861db27673fb",
         "meps": 0,
@@ -1475,7 +1507,7 @@
         "male": true
       },
       {
-        "position": 47,
+        "position": 48,
         "nickname": "Vb",
         "usrGUID": "81c169f2-d733-11ef-847b-0ec4e0dd23cb",
         "meps": 0,
@@ -1507,7 +1539,7 @@
         "male": true
       },
       {
-        "position": 48,
+        "position": 49,
         "nickname": "waad95",
         "usrGUID": "b18eac6c-2298-11ef-8287-026a9adc4167",
         "meps": 0,
@@ -1539,7 +1571,7 @@
         "male": true
       },
       {
-        "position": 49,
+        "position": 50,
         "nickname": "YASSINEM",
         "usrGUID": "7076c5e1-e2e8-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -1571,7 +1603,7 @@
         "male": true
       },
       {
-        "position": 50,
+        "position": 51,
         "nickname": "MUZAN ",
         "usrGUID": "575591aa-22b3-11ef-988e-564c4040fb0d",
         "meps": 0,
@@ -1614,8 +1646,8 @@
     },
     "inactive_users": {
       "male": 15,
-      "female": 7,
-      "total": 22
+      "female": 8,
+      "total": 23
     },
     "meps_averages": {
       "male": "1825.5",
