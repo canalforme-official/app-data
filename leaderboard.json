@@ -516,6 +516,38 @@
       },
       {
         "position": 17,
+        "nickname": "Marcus",
+        "usrGUID": "7b30ba8e-9547-49de-aea1-cef32dba529c",
+        "meps": 766,
+        "moves": 7,
+        "calories": 4139,
+        "totalMinutes": 386,
+        "zone0Minutes": 60,
+        "zone1Minutes": 119,
+        "zone2Minutes": 63,
+        "zone3Minutes": 55,
+        "zone4Minutes": 72,
+        "zone5Minutes": 17,
+        "targetZoneMinutes": 207,
+        "zone1MEPs": 119,
+        "zone2MEPs": 126,
+        "zone3MEPs": 165,
+        "zone4MEPs": 288,
+        "zone5MEPs": 68,
+        "avgEffort": 64,
+        "peakHR": 187,
+        "avgHR": 128,
+        "belt": 7424833,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 18,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 761,
@@ -547,44 +579,12 @@
         "male": false
       },
       {
-        "position": 18,
-        "nickname": "Marcus",
-        "usrGUID": "7b30ba8e-9547-49de-aea1-cef32dba529c",
-        "meps": 754,
-        "moves": 7,
-        "calories": 4067,
-        "totalMinutes": 382,
-        "zone0Minutes": 60,
-        "zone1Minutes": 119,
-        "zone2Minutes": 62,
-        "zone3Minutes": 53,
-        "zone4Minutes": 71,
-        "zone5Minutes": 17,
-        "targetZoneMinutes": 202,
-        "zone1MEPs": 119,
-        "zone2MEPs": 124,
-        "zone3MEPs": 159,
-        "zone4MEPs": 284,
-        "zone5MEPs": 68,
-        "avgEffort": 64,
-        "peakHR": 187,
-        "avgHR": 128,
-        "belt": 7424833,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
         "position": 19,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 711,
         "moves": 4,
-        "calories": 4515,
+        "calories": 4517,
         "totalMinutes": 439,
         "zone0Minutes": 67,
         "zone1Minutes": 154,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 31837,
+      "male": 31849,
       "female": 15506
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 23
     },
     "meps_averages": {
-      "male": "1872.8",
+      "male": "1873.5",
       "female": "1409.6",
-      "total": "1690.8"
+      "total": "1691.3"
     }
   }
 }
