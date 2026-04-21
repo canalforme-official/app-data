@@ -548,13 +548,45 @@
       },
       {
         "position": 18,
+        "nickname": "Marcus",
+        "usrGUID": "7b30ba8e-9547-49de-aea1-cef32dba529c",
+        "meps": 719,
+        "moves": 7,
+        "calories": 3894,
+        "totalMinutes": 372,
+        "zone0Minutes": 60,
+        "zone1Minutes": 119,
+        "zone2Minutes": 61,
+        "zone3Minutes": 50,
+        "zone4Minutes": 68,
+        "zone5Minutes": 14,
+        "targetZoneMinutes": 192,
+        "zone1MEPs": 119,
+        "zone2MEPs": 122,
+        "zone3MEPs": 150,
+        "zone4MEPs": 272,
+        "zone5MEPs": 56,
+        "avgEffort": 64,
+        "peakHR": 187,
+        "avgHR": 127,
+        "belt": 7424833,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 19,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 711,
         "moves": 4,
         "calories": 4515,
-        "totalMinutes": 429,
-        "zone0Minutes": 57,
+        "totalMinutes": 435,
+        "zone0Minutes": 63,
         "zone1Minutes": 154,
         "zone2Minutes": 120,
         "zone3Minutes": 75,
@@ -576,38 +608,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
         "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/e415f6d2-274c-192c-0f18-54d2afb4da11.png",
-        "male": true
-      },
-      {
-        "position": 19,
-        "nickname": "Marcus",
-        "usrGUID": "7b30ba8e-9547-49de-aea1-cef32dba529c",
-        "meps": 704,
-        "moves": 7,
-        "calories": 3809,
-        "totalMinutes": 368,
-        "zone0Minutes": 60,
-        "zone1Minutes": 119,
-        "zone2Minutes": 61,
-        "zone3Minutes": 49,
-        "zone4Minutes": 67,
-        "zone5Minutes": 12,
-        "targetZoneMinutes": 187,
-        "zone1MEPs": 119,
-        "zone2MEPs": 122,
-        "zone3MEPs": 147,
-        "zone4MEPs": 268,
-        "zone5MEPs": 48,
-        "avgEffort": 63,
-        "peakHR": 187,
-        "avgHR": 127,
-        "belt": 7424833,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
         "male": true
       },
       {
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 31761,
+      "male": 31776,
       "female": 15506
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 23
     },
     "meps_averages": {
-      "male": "1868.3",
+      "male": "1869.2",
       "female": "1409.6",
-      "total": "1688.1"
+      "total": "1688.6"
     }
   }
 }
