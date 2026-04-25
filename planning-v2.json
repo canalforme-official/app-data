@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-24T23:29:32.487Z",
+    "lastUpdated": "2026-04-25T23:29:30.539Z",
     "weekNumber": 17,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -652,6 +652,12 @@
       "duration": 30
     },
     {
+      "id": "cours-abdos-xtrem",
+      "name": "ABDOS XTREM",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-pilates",
       "name": "PILATES",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4661eb52-3c8b-5ea9-2bf8-91bd841e6686.png",
@@ -796,12 +802,6 @@
       "duration": 30
     },
     {
-      "id": "cours-abdos-xtrem",
-      "name": "ABDOS XTREM",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-grit-training",
       "name": "GRIT TRAINING",
       "logo": "",
@@ -848,6 +848,17 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-abdos-xtrem",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-pilates",
@@ -1121,7 +1132,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-nouredine"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1132,7 +1143,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1457,7 +1468,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-yassir"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1569,7 +1580,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser",
+          "coach-yassir",
           "coach-youssef"
         ],
         "studioId": "studio-infinity",
@@ -1660,7 +1671,8 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-zakaria",
+          "coach-rabie"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
@@ -2385,6 +2397,74 @@
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
+      }
+    ],
+    "2026-05-01": [
+      {
+        "coursId": "cours-bodypump-express",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-circuit-training",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-body-step",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-yasser"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
       }
     ]
   },
