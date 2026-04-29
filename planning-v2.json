@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-28T23:29:30.383Z",
-    "weekNumber": 17,
+    "lastUpdated": "2026-04-29T23:29:41.837Z",
+    "weekNumber": 18,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
     "periods": [
@@ -784,12 +784,6 @@
       "duration": 60
     },
     {
-      "id": "cours-gym-douce",
-      "name": "GYM DOUCE",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-sprint",
       "name": "SPRINT",
       "logo": "",
@@ -811,6 +805,12 @@
       "id": "cours-body-step",
       "name": "BODY STEP",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ceb4a4f3-6c79-c541-ffbe-66233afd3c84.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-gym-douce",
+      "name": "GYM DOUCE",
+      "logo": "",
       "duration": 60
     }
   ],
@@ -1294,17 +1294,6 @@
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-gym-douce",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nihad"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-pilates",
