@@ -6,25 +6,25 @@
         "position": 1,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 1,
+        "meps": 4,
         "moves": 1,
-        "calories": 5,
-        "totalMinutes": 11,
-        "zone0Minutes": 10,
-        "zone1Minutes": 1,
+        "calories": 17,
+        "totalMinutes": 21,
+        "zone0Minutes": 17,
+        "zone1Minutes": 4,
         "zone2Minutes": 0,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
         "targetZoneMinutes": 0,
-        "zone1MEPs": 1,
+        "zone1MEPs": 4,
         "zone2MEPs": 0,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 42,
+        "avgEffort": 41,
         "peakHR": 101,
-        "avgHR": 78,
+        "avgHR": 77,
         "belt": 7619943,
         "rank": 6,
         "status": "Silver",
@@ -1637,7 +1637,7 @@
     ],
     "total_meps_by_gender": {
       "male": 0,
-      "female": 1
+      "female": 4
     },
     "active_users": {
       "male": 0,
@@ -1651,8 +1651,8 @@
     },
     "meps_averages": {
       "male": 0,
-      "female": "1.0",
-      "total": "1.0"
+      "female": "4.0",
+      "total": "4.0"
     }
   },
   "previous": {
@@ -1886,18 +1886,18 @@
         "position": 8,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 4045,
-        "moves": 22,
-        "calories": 14314,
-        "totalMinutes": 3163,
-        "zone0Minutes": 1414,
-        "zone1Minutes": 677,
+        "meps": 4046,
+        "moves": 23,
+        "calories": 14317,
+        "totalMinutes": 3196,
+        "zone0Minutes": 1446,
+        "zone1Minutes": 678,
         "zone2Minutes": 326,
         "zone3Minutes": 268,
         "zone4Minutes": 367,
         "zone5Minutes": 111,
         "targetZoneMinutes": 1064,
-        "zone1MEPs": 677,
+        "zone1MEPs": 678,
         "zone2MEPs": 652,
         "zone3MEPs": 804,
         "zone4MEPs": 1468,
@@ -1981,7 +1981,7 @@
     ],
     "total_meps_by_gender": {
       "male": 50933,
-      "female": 24389
+      "female": 24390
     },
     "active_users": {
       "male": 19,
@@ -1995,7 +1995,7 @@
     },
     "meps_averages": {
       "male": "2680.7",
-      "female": "1876.1",
+      "female": "1876.2",
       "total": "2353.8"
     }
   }
