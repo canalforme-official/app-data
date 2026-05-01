@@ -791,26 +791,49 @@
               "nickname": "hl"
             }
           ]
+        },
+        {
+          "month": "avril",
+          "top3": [
+            {
+              "position": 1,
+              "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+              "meps": 8308,
+              "nickname": "Simo"
+            },
+            {
+              "position": 2,
+              "guid": "4e9b092f-d0da-11ee-92c6-861db27673fb",
+              "meps": 7248,
+              "nickname": "Simohmed"
+            },
+            {
+              "position": 3,
+              "guid": "944a4162-d0a0-11ee-92c6-861db27673fb",
+              "meps": 5322,
+              "nickname": "Kami"
+            }
+          ]
         }
       ],
       "user_medal_rankings": [
         {
+          "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+          "nickname": "Simo",
+          "gold": 2,
+          "silver": 0,
+          "bronze": 1,
+          "total_meps": 26121,
+          "total_points": 27
+        },
+        {
           "guid": "4e9b092f-d0da-11ee-92c6-861db27673fb",
           "nickname": "Simohmed",
           "gold": 1,
-          "silver": 1,
+          "silver": 2,
           "bronze": 0,
-          "total_meps": 17439,
-          "total_points": 18
-        },
-        {
-          "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-          "nickname": "Simo",
-          "gold": 1,
-          "silver": 0,
-          "bronze": 1,
-          "total_meps": 17813,
-          "total_points": 15
+          "total_meps": 24687,
+          "total_points": 24
         },
         {
           "guid": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
@@ -846,6 +869,15 @@
           "silver": 0,
           "bronze": 1,
           "total_meps": 5950,
+          "total_points": 3
+        },
+        {
+          "guid": "944a4162-d0a0-11ee-92c6-861db27673fb",
+          "nickname": "Kami",
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "total_meps": 5322,
           "total_points": 3
         },
         {
