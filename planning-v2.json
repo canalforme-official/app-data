@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-05T23:29:31.136Z",
-    "weekNumber": 18,
+    "lastUpdated": "2026-05-06T23:29:32.621Z",
+    "weekNumber": 19,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
     "periods": [
@@ -1240,6 +1240,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-aquacombat",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nihad"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-aquagym",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -1272,17 +1283,6 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-aquacombat",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nihad"
-        ],
-        "studioId": "studio-aqua",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodyjam",
