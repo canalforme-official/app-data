@@ -70,18 +70,18 @@
         "position": 3,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 1378,
+        "meps": 1379,
         "moves": 7,
-        "calories": 10150,
-        "totalMinutes": 1278,
-        "zone0Minutes": 298,
-        "zone1Minutes": 684,
+        "calories": 10161,
+        "totalMinutes": 1283,
+        "zone0Minutes": 302,
+        "zone1Minutes": 685,
         "zone2Minutes": 216,
         "zone3Minutes": 58,
         "zone4Minutes": 22,
         "zone5Minutes": 0,
         "targetZoneMinutes": 295,
-        "zone1MEPs": 684,
+        "zone1MEPs": 685,
         "zone2MEPs": 432,
         "zone3MEPs": 174,
         "zone4MEPs": 88,
@@ -742,25 +742,25 @@
         "position": 24,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 4,
+        "meps": 5,
         "moves": 1,
-        "calories": 12,
-        "totalMinutes": 35,
-        "zone0Minutes": 32,
-        "zone1Minutes": 2,
+        "calories": 19,
+        "totalMinutes": 40,
+        "zone0Minutes": 36,
+        "zone1Minutes": 3,
         "zone2Minutes": 1,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
         "targetZoneMinutes": 1,
-        "zone1MEPs": 2,
+        "zone1MEPs": 3,
         "zone2MEPs": 2,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 40,
+        "avgEffort": 42,
         "peakHR": 123,
-        "avgHR": 77,
+        "avgHR": 80,
         "belt": 7424835,
         "rank": 1,
         "status": "Iron",
@@ -1636,8 +1636,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 9954,
-      "female": 5402
+      "male": 9955,
+      "female": 5403
     },
     "active_users": {
       "male": 15,
@@ -1650,9 +1650,9 @@
       "total": 27
     },
     "meps_averages": {
-      "male": "663.6",
-      "female": "600.2",
-      "total": "639.8"
+      "male": "663.7",
+      "female": "600.3",
+      "total": "639.9"
     }
   }
 }
