@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-08T23:29:31.869Z",
+    "lastUpdated": "2026-05-09T23:29:40.851Z",
     "weekNumber": 19,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -130,6 +130,18 @@
         "end": "2026-08-21",
         "type": "férié",
         "name": "Fête de la Jeunesse",
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-11-06",
+        "end": "2026-11-06",
+        "type": "férié",
+        "name": "Anniversaire de la Marche Verte",
         "inputMode": "auto",
         "fixedOrVariable": "nationale",
         "daysCount": 1,
