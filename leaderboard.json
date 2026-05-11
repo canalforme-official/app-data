@@ -646,19 +646,19 @@
         "position": 21,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 179,
+        "meps": 190,
         "moves": 2,
-        "calories": 903,
-        "totalMinutes": 95,
+        "calories": 951,
+        "totalMinutes": 101,
         "zone0Minutes": 1,
-        "zone1Minutes": 32,
-        "zone2Minutes": 45,
+        "zone1Minutes": 33,
+        "zone2Minutes": 50,
         "zone3Minutes": 11,
         "zone4Minutes": 6,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 62,
-        "zone1MEPs": 32,
-        "zone2MEPs": 90,
+        "targetZoneMinutes": 67,
+        "zone1MEPs": 33,
+        "zone2MEPs": 100,
         "zone3MEPs": 33,
         "zone4MEPs": 24,
         "zone5MEPs": 0,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 14706,
+      "male": 14717,
       "female": 7725
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "865.1",
+      "male": "865.7",
       "female": "858.3",
-      "total": "862.7"
+      "total": "863.2"
     }
   }
 }
