@@ -614,23 +614,23 @@
         "position": 20,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 255,
+        "meps": 262,
         "moves": 2,
-        "calories": 1333,
-        "totalMinutes": 146,
+        "calories": 1367,
+        "totalMinutes": 149,
         "zone0Minutes": 2,
         "zone1Minutes": 58,
-        "zone2Minutes": 67,
-        "zone3Minutes": 13,
+        "zone2Minutes": 69,
+        "zone3Minutes": 14,
         "zone4Minutes": 6,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 86,
+        "targetZoneMinutes": 89,
         "zone1MEPs": 58,
-        "zone2MEPs": 134,
-        "zone3MEPs": 39,
+        "zone2MEPs": 138,
+        "zone3MEPs": 42,
         "zone4MEPs": 24,
         "zone5MEPs": 0,
-        "avgEffort": 61,
+        "avgEffort": 62,
         "peakHR": 152,
         "avgHR": 107,
         "belt": 7461309,
@@ -646,18 +646,18 @@
         "position": 21,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
-        "meps": 220,
+        "meps": 223,
         "moves": 4,
-        "calories": 1074,
-        "totalMinutes": 180,
+        "calories": 1090,
+        "totalMinutes": 183,
         "zone0Minutes": 20,
-        "zone1Minutes": 112,
+        "zone1Minutes": 115,
         "zone2Minutes": 38,
         "zone3Minutes": 8,
         "zone4Minutes": 2,
         "zone5Minutes": 0,
         "targetZoneMinutes": 47,
-        "zone1MEPs": 112,
+        "zone1MEPs": 115,
         "zone2MEPs": 76,
         "zone3MEPs": 24,
         "zone4MEPs": 8,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 14795,
+      "male": 14805,
       "female": 7725
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "870.3",
+      "male": "870.9",
       "female": "858.3",
-      "total": "866.2"
+      "total": "866.5"
     }
   }
 }
