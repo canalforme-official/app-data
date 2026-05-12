@@ -263,10 +263,10 @@
         "nickname": "hl",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 1110,
-        "moves": 15,
+        "moves": 16,
         "calories": 7579,
-        "totalMinutes": 1626,
-        "zone0Minutes": 980,
+        "totalMinutes": 1670,
+        "zone0Minutes": 1024,
         "zone1Minutes": 323,
         "zone2Minutes": 201,
         "zone3Minutes": 103,
@@ -278,9 +278,9 @@
         "zone3MEPs": 309,
         "zone4MEPs": 76,
         "zone5MEPs": 0,
-        "avgEffort": 49,
+        "avgEffort": 48,
         "peakHR": 174,
-        "avgHR": 97,
+        "avgHR": 96,
         "belt": 7468338,
         "rank": 12,
         "status": "Gold",
@@ -582,25 +582,25 @@
         "position": 19,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
-        "meps": 372,
-        "moves": 3,
-        "calories": 2194,
-        "totalMinutes": 299,
-        "zone0Minutes": 123,
-        "zone1Minutes": 66,
+        "meps": 379,
+        "moves": 4,
+        "calories": 2255,
+        "totalMinutes": 331,
+        "zone0Minutes": 148,
+        "zone1Minutes": 73,
         "zone2Minutes": 43,
         "zone3Minutes": 48,
         "zone4Minutes": 18,
         "zone5Minutes": 1,
         "targetZoneMinutes": 109,
-        "zone1MEPs": 66,
+        "zone1MEPs": 73,
         "zone2MEPs": 86,
         "zone3MEPs": 144,
         "zone4MEPs": 72,
         "zone5MEPs": 4,
         "avgEffort": 54,
         "peakHR": 179,
-        "avgHR": 107,
+        "avgHR": 106,
         "belt": 7461318,
         "rank": 24,
         "status": "Platinum",
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 15431,
+      "male": 15438,
       "female": 8474
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "907.7",
+      "male": "908.1",
       "female": "941.6",
-      "total": "919.4"
+      "total": "919.7"
     }
   }
 }
