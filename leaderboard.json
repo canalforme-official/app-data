@@ -390,25 +390,25 @@
         "position": 13,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 854,
+        "meps": 859,
         "moves": 5,
-        "calories": 2511,
-        "totalMinutes": 505,
-        "zone0Minutes": 135,
-        "zone1Minutes": 104,
+        "calories": 2533,
+        "totalMinutes": 515,
+        "zone0Minutes": 140,
+        "zone1Minutes": 109,
         "zone2Minutes": 103,
         "zone3Minutes": 108,
         "zone4Minutes": 52,
         "zone5Minutes": 3,
         "targetZoneMinutes": 265,
-        "zone1MEPs": 104,
+        "zone1MEPs": 109,
         "zone2MEPs": 206,
         "zone3MEPs": 324,
         "zone4MEPs": 208,
         "zone5MEPs": 12,
         "avgEffort": 60,
         "peakHR": 176,
-        "avgHR": 114,
+        "avgHR": 113,
         "belt": 7424839,
         "rank": 24,
         "status": "Platinum",
@@ -804,6 +804,38 @@
       },
       {
         "position": 26,
+        "nickname": "C.Abdel",
+        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
+        "meps": 59,
+        "moves": 1,
+        "calories": 142,
+        "totalMinutes": 20,
+        "zone0Minutes": 0,
+        "zone1Minutes": 0,
+        "zone2Minutes": 3,
+        "zone3Minutes": 15,
+        "zone4Minutes": 2,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 20,
+        "zone1MEPs": 0,
+        "zone2MEPs": 6,
+        "zone3MEPs": 45,
+        "zone4MEPs": 8,
+        "zone5MEPs": 0,
+        "avgEffort": 73,
+        "peakHR": 111,
+        "avgHR": 97,
+        "belt": 7461313,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 27,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 54,
@@ -835,7 +867,7 @@
         "male": true
       },
       {
-        "position": 27,
+        "position": 28,
         "nickname": "Marcus",
         "usrGUID": "7b30ba8e-9547-49de-aea1-cef32dba529c",
         "meps": 45,
@@ -867,7 +899,7 @@
         "male": true
       },
       {
-        "position": 28,
+        "position": 29,
         "nickname": "A",
         "usrGUID": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
         "meps": 0,
@@ -899,7 +931,7 @@
         "male": false
       },
       {
-        "position": 29,
+        "position": 30,
         "nickname": "Jad",
         "usrGUID": "aa9e0a67-dfd4-11ee-92c6-861db27673fb",
         "meps": 0,
@@ -927,38 +959,6 @@
         "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 30,
-        "nickname": "C.Abdel",
-        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
-        "meps": 0,
-        "moves": 0,
-        "calories": 0,
-        "totalMinutes": 0,
-        "zone0Minutes": 0,
-        "zone1Minutes": 0,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
-        "zone4Minutes": 0,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 0,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
-        "zone4MEPs": 0,
-        "zone5MEPs": 0,
-        "avgEffort": 0,
-        "peakHR": 0,
-        "avgHR": 0,
-        "belt": 0,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
         "pngCaricature": "",
         "male": true
       },
@@ -1636,23 +1636,23 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 17567,
-      "female": 9716
+      "male": 17626,
+      "female": 9721
     },
     "active_users": {
-      "male": 17,
+      "male": 18,
       "female": 10,
-      "total": 27
+      "total": 28
     },
     "inactive_users": {
-      "male": 15,
+      "male": 14,
       "female": 9,
-      "total": 24
+      "total": 23
     },
     "meps_averages": {
-      "male": "1033.4",
-      "female": "971.6",
-      "total": "1010.5"
+      "male": "979.2",
+      "female": "972.1",
+      "total": "976.7"
     }
   }
 }
