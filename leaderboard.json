@@ -356,6 +356,38 @@
       },
       {
         "position": 12,
+        "nickname": "Amoula L",
+        "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
+        "meps": 886,
+        "moves": 5,
+        "calories": 2621,
+        "totalMinutes": 535,
+        "zone0Minutes": 143,
+        "zone1Minutes": 118,
+        "zone2Minutes": 109,
+        "zone3Minutes": 110,
+        "zone4Minutes": 52,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 273,
+        "zone1MEPs": 118,
+        "zone2MEPs": 218,
+        "zone3MEPs": 330,
+        "zone4MEPs": 208,
+        "zone5MEPs": 12,
+        "avgEffort": 60,
+        "peakHR": 176,
+        "avgHR": 113,
+        "belt": 7424839,
+        "rank": 24,
+        "status": "Platinum",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 13,
         "nickname": "SihamB",
         "usrGUID": "62034008-b4bd-4805-af39-095ef237413f",
         "meps": 875,
@@ -381,38 +413,6 @@
         "rank": 0,
         "status": "No Status",
         "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": false
-      },
-      {
-        "position": 13,
-        "nickname": "Amoula L",
-        "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
-        "meps": 865,
-        "moves": 5,
-        "calories": 2557,
-        "totalMinutes": 524,
-        "zone0Minutes": 143,
-        "zone1Minutes": 115,
-        "zone2Minutes": 103,
-        "zone3Minutes": 108,
-        "zone4Minutes": 52,
-        "zone5Minutes": 3,
-        "targetZoneMinutes": 265,
-        "zone1MEPs": 115,
-        "zone2MEPs": 206,
-        "zone3MEPs": 324,
-        "zone4MEPs": 208,
-        "zone5MEPs": 12,
-        "avgEffort": 60,
-        "peakHR": 176,
-        "avgHR": 113,
-        "belt": 7424839,
-        "rank": 24,
-        "status": "Platinum",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1637,7 +1637,7 @@
     ],
     "total_meps_by_gender": {
       "male": 17655,
-      "female": 9727
+      "female": 9748
     },
     "active_users": {
       "male": 18,
@@ -1651,8 +1651,8 @@
     },
     "meps_averages": {
       "male": "980.8",
-      "female": "972.7",
-      "total": "977.9"
+      "female": "974.8",
+      "total": "978.7"
     }
   }
 }
