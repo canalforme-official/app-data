@@ -360,7 +360,7 @@
         "usrGUID": "51d20542-f90b-11ee-92c6-861db27673fb",
         "meps": 1010,
         "moves": 13,
-        "calories": 3869,
+        "calories": 3870,
         "totalMinutes": 933,
         "zone0Minutes": 340,
         "zone1Minutes": 327,
@@ -550,20 +550,20 @@
         "position": 18,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
-        "meps": 646,
+        "meps": 657,
         "moves": 6,
-        "calories": 3337,
-        "totalMinutes": 562,
+        "calories": 3393,
+        "totalMinutes": 567,
         "zone0Minutes": 252,
         "zone1Minutes": 105,
-        "zone2Minutes": 105,
-        "zone3Minutes": 69,
+        "zone2Minutes": 109,
+        "zone3Minutes": 70,
         "zone4Minutes": 26,
         "zone5Minutes": 5,
-        "targetZoneMinutes": 205,
+        "targetZoneMinutes": 210,
         "zone1MEPs": 105,
-        "zone2MEPs": 210,
-        "zone3MEPs": 207,
+        "zone2MEPs": 218,
+        "zone3MEPs": 210,
         "zone4MEPs": 104,
         "zone5MEPs": 20,
         "avgEffort": 55,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 20161,
+      "male": 20172,
       "female": 11716
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 22
     },
     "meps_averages": {
-      "male": "1120.1",
+      "male": "1120.7",
       "female": "1065.1",
-      "total": "1099.2"
+      "total": "1099.6"
     }
   }
 }
