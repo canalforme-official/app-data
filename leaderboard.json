@@ -134,19 +134,19 @@
         "position": 5,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 2670,
+        "meps": 2681,
         "moves": 10,
-        "calories": 13578,
-        "totalMinutes": 2068,
+        "calories": 13633,
+        "totalMinutes": 2074,
         "zone0Minutes": 821,
-        "zone1Minutes": 492,
-        "zone2Minutes": 310,
+        "zone1Minutes": 493,
+        "zone2Minutes": 315,
         "zone3Minutes": 222,
         "zone4Minutes": 195,
         "zone5Minutes": 28,
-        "targetZoneMinutes": 755,
-        "zone1MEPs": 492,
-        "zone2MEPs": 620,
+        "targetZoneMinutes": 760,
+        "zone1MEPs": 493,
+        "zone2MEPs": 630,
         "zone3MEPs": 666,
         "zone4MEPs": 780,
         "zone5MEPs": 112,
@@ -169,8 +169,8 @@
         "meps": 2385,
         "moves": 17,
         "calories": 12762,
-        "totalMinutes": 1769,
-        "zone0Minutes": 565,
+        "totalMinutes": 1774,
+        "zone0Minutes": 570,
         "zone1Minutes": 451,
         "zone2Minutes": 414,
         "zone3Minutes": 250,
@@ -484,6 +484,38 @@
       },
       {
         "position": 16,
+        "nickname": "sabra",
+        "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
+        "meps": 808,
+        "moves": 4,
+        "calories": 2471,
+        "totalMinutes": 599,
+        "zone0Minutes": 295,
+        "zone1Minutes": 67,
+        "zone2Minutes": 64,
+        "zone3Minutes": 79,
+        "zone4Minutes": 85,
+        "zone5Minutes": 9,
+        "targetZoneMinutes": 235,
+        "zone1MEPs": 67,
+        "zone2MEPs": 128,
+        "zone3MEPs": 237,
+        "zone4MEPs": 340,
+        "zone5MEPs": 36,
+        "avgEffort": 55,
+        "peakHR": 180,
+        "avgHR": 106,
+        "belt": 7468333,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
+        "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
+        "male": false
+      },
+      {
+        "position": 17,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 728,
@@ -515,7 +547,7 @@
         "male": false
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 727,
@@ -547,7 +579,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "عثمان",
         "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
         "meps": 669,
@@ -577,38 +609,6 @@
         "coachLink": "",
         "pngCaricature": "",
         "male": true
-      },
-      {
-        "position": 19,
-        "nickname": "sabra",
-        "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
-        "meps": 601,
-        "moves": 3,
-        "calories": 1760,
-        "totalMinutes": 365,
-        "zone0Minutes": 162,
-        "zone1Minutes": 25,
-        "zone2Minutes": 38,
-        "zone3Minutes": 60,
-        "zone4Minutes": 75,
-        "zone5Minutes": 5,
-        "targetZoneMinutes": 176,
-        "zone1MEPs": 25,
-        "zone2MEPs": 76,
-        "zone3MEPs": 180,
-        "zone4MEPs": 300,
-        "zone5MEPs": 20,
-        "avgEffort": 57,
-        "peakHR": 176,
-        "avgHR": 109,
-        "belt": 7468333,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
-        "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
-        "male": false
       },
       {
         "position": 20,
@@ -1636,8 +1636,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 23031,
-      "female": 14536
+      "male": 23042,
+      "female": 14743
     },
     "active_users": {
       "male": 18,
@@ -1650,9 +1650,9 @@
       "total": 22
     },
     "meps_averages": {
-      "male": "1279.5",
-      "female": "1321.5",
-      "total": "1295.4"
+      "male": "1280.1",
+      "female": "1340.3",
+      "total": "1302.9"
     }
   }
 }
