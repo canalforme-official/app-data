@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-20T23:29:37.656Z",
+    "lastUpdated": "2026-05-21T23:29:31.290Z",
     "weekNumber": 21,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -142,6 +142,18 @@
         "end": "2026-11-06",
         "type": "férié",
         "name": "Anniversaire de la Marche Verte",
+        "inputMode": "auto",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-11-18",
+        "end": "2026-11-18",
+        "type": "férié",
+        "name": "Fête de l’Indépendance",
         "inputMode": "auto",
         "fixedOrVariable": "nationale",
         "daysCount": 1,
