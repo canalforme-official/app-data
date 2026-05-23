@@ -934,19 +934,19 @@
         "position": 30,
         "nickname": "lalaomin",
         "usrGUID": "7eea042c-21c2-11ef-a623-026a9adc4167",
-        "meps": 16,
+        "meps": 26,
         "moves": 1,
-        "calories": 52,
-        "totalMinutes": 10,
+        "calories": 83,
+        "totalMinutes": 16,
         "zone0Minutes": 0,
-        "zone1Minutes": 4,
-        "zone2Minutes": 6,
+        "zone1Minutes": 6,
+        "zone2Minutes": 10,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 6,
-        "zone1MEPs": 4,
-        "zone2MEPs": 12,
+        "targetZoneMinutes": 10,
+        "zone1MEPs": 6,
+        "zone2MEPs": 20,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
@@ -1637,7 +1637,7 @@
     ],
     "total_meps_by_gender": {
       "male": 35935,
-      "female": 23127
+      "female": 23137
     },
     "active_users": {
       "male": 18,
@@ -1651,8 +1651,8 @@
     },
     "meps_averages": {
       "male": "1996.4",
-      "female": "1927.3",
-      "total": "1968.7"
+      "female": "1928.1",
+      "total": "1969.1"
     }
   }
 }
