@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-23T17:14:39.545Z",
+    "lastUpdated": "2026-05-23T18:28:33.670Z",
     "weekNumber": 21,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -454,6 +454,18 @@
             "close2": ""
           }
         }
+      }
+    },
+    "horairesExceptionnelsByDate": {
+      "2026-05-26": {
+        "name": "Veille Aïd Al Adha",
+        "open1Label": "",
+        "open1": "07:00",
+        "close1": "19:00",
+        "open2Label": "",
+        "open2": "",
+        "close2": "",
+        "filterCoursesAfterClose": true
       }
     }
   },
