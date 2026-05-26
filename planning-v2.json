@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-25T23:29:31.855Z",
+    "lastUpdated": "2026-05-26T23:29:35.182Z",
     "weekNumber": 21,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -778,9 +778,9 @@
       "duration": 60
     },
     {
-      "id": "cours-gym-ball",
-      "name": "GYM BALL",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/16d15478-b250-a4b5-d483-02ef7883ae6e.png",
+      "id": "cours-gym-baton",
+      "name": "GYM BATON",
+      "logo": "",
       "duration": 60
     },
     {
@@ -810,12 +810,6 @@
     {
       "id": "cours-bodysculpt",
       "name": "BODYSCULPT",
-      "logo": "",
-      "duration": 60
-    },
-    {
-      "id": "cours-gym-baton",
-      "name": "GYM BATON",
       "logo": "",
       "duration": 60
     },
@@ -865,6 +859,12 @@
       "id": "cours-gym-douce",
       "name": "GYM DOUCE",
       "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-gym-ball",
+      "name": "GYM BALL",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/16d15478-b250-a4b5-d483-02ef7883ae6e.png",
       "duration": 60
     }
   ],
@@ -1105,12 +1105,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-gym-ball",
+        "coursId": "cours-gym-baton",
         "startTime": "16:30",
         "endTime": "17:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1121,7 +1121,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
