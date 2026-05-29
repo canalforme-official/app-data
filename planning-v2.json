@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-29T10:35:50.749Z",
+    "lastUpdated": "2026-05-29T23:29:32.414Z",
     "weekNumber": 22,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -712,12 +712,6 @@
       "duration": 30
     },
     {
-      "id": "cours-abdos-xtrem",
-      "name": "ABDOS XTREM",
-      "logo": "",
-      "duration": 60
-    },
-    {
       "id": "cours-pilates",
       "name": "PILATES",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4661eb52-3c8b-5ea9-2bf8-91bd841e6686.png",
@@ -760,12 +754,6 @@
       "duration": 60
     },
     {
-      "id": "cours-zumba",
-      "name": "ZUMBA",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b07471b-f0df-ce9a-96f5-4cb6d5c9e16e.png",
-      "duration": 60
-    },
-    {
       "id": "cours-tbc",
       "name": "T.B.C.",
       "logo": "",
@@ -775,6 +763,12 @@
       "id": "cours-tabata",
       "name": "TABATA",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ea26300c-2647-1d8b-728a-8f57585d04e2.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-danse-orientale",
+      "name": "DANSE ORIENTALE",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0c4d5dcd-124f-11d8-969c-db8aa2565f45.png",
       "duration": 60
     },
     {
@@ -814,6 +808,12 @@
       "duration": 60
     },
     {
+      "id": "cours-abdos-xtrem",
+      "name": "ABDOS XTREM",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-aquacombat",
       "name": "AQUACOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b53c2161-5a90-0d02-9d0a-9f38cc044351.png",
@@ -844,21 +844,33 @@
       "duration": 30
     },
     {
+      "id": "cours-zumba",
+      "name": "ZUMBA",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/6b07471b-f0df-ce9a-96f5-4cb6d5c9e16e.png",
+      "duration": 60
+    },
+    {
       "id": "cours-grit-training",
       "name": "GRIT TRAINING",
       "logo": "",
       "duration": 60
     },
     {
-      "id": "cours-gym-douce",
-      "name": "GYM DOUCE",
+      "id": "cours-aquastretching",
+      "name": "AQUASTRETCHING",
       "logo": "",
-      "duration": 60
+      "duration": 30
     },
     {
       "id": "cours-body-step",
       "name": "BODY STEP",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ceb4a4f3-6c79-c541-ffbe-66233afd3c84.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-gym-douce",
+      "name": "GYM DOUCE",
+      "logo": "",
       "duration": 60
     },
     {
@@ -902,17 +914,6 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-abdos-xtrem",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-pilates",
@@ -1003,6 +1004,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-aquatonus",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nihad"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-bodycombat",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1024,17 +1036,6 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-zumba",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nihad"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -1066,7 +1067,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1094,12 +1095,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-zumba",
+        "coursId": "cours-danse-orientale",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-nihad"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1110,7 +1111,7 @@
         "endTime": "17:30",
         "duration": 60,
         "coachIds": [
-          "coach-ouidiane"
+          "coach-fatima"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1121,7 +1122,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-ouidiane"
+          "coach-fatima"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1570,7 +1571,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1620,6 +1621,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-aquatonus",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-aquagym",
         "startTime": "16:30",
         "endTime": "17:30",
@@ -1631,15 +1643,38 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-aquastretching",
         "startTime": "17:30",
-        "endTime": "18:30",
+        "endTime": "18:00",
         "duration": 30,
         "coachIds": [
-          "coach-zoubir"
+          "coach-nihad"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-body-step",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef",
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-danse-orientale",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-trx",
@@ -1653,12 +1688,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-aquagym",
+        "coursId": "cours-aquatonus",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-nihad"
+          "coach-fayza"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
