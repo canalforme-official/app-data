@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-28T23:29:37.176Z",
+    "lastUpdated": "2026-05-29T10:35:50.749Z",
     "weekNumber": 22,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -850,15 +850,15 @@
       "duration": 60
     },
     {
-      "id": "cours-body-step",
-      "name": "BODY STEP",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ceb4a4f3-6c79-c541-ffbe-66233afd3c84.png",
-      "duration": 60
-    },
-    {
       "id": "cours-gym-douce",
       "name": "GYM DOUCE",
       "logo": "",
+      "duration": 60
+    },
+    {
+      "id": "cours-body-step",
+      "name": "BODY STEP",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ceb4a4f3-6c79-c541-ffbe-66233afd3c84.png",
       "duration": 60
     },
     {
@@ -1631,13 +1631,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-body-step",
+        "coursId": "cours-cross-90x",
         "startTime": "17:30",
         "endTime": "18:30",
-        "duration": 60,
+        "duration": 30,
         "coachIds": [
-          "coach-youssef",
-          "coach-yasser"
+          "coach-zoubir"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
