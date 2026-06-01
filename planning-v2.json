@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-05-31T23:29:35.392Z",
+    "lastUpdated": "2026-06-01T23:29:33.615Z",
     "weekNumber": 22,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -742,6 +742,12 @@
       "duration": 60
     },
     {
+      "id": "cours-mobility",
+      "name": "MOBILITY",
+      "logo": "",
+      "duration": 60
+    },
+    {
       "id": "cours-bodycombat",
       "name": "BODYCOMBAT",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/49a510bd-f59c-9539-5067-1654cb39612f.png",
@@ -774,12 +780,6 @@
     {
       "id": "cours-gym-baton",
       "name": "GYM BATON",
-      "logo": "",
-      "duration": 60
-    },
-    {
-      "id": "cours-mobility",
-      "name": "MOBILITY",
       "logo": "",
       "duration": 60
     },
@@ -993,6 +993,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-mobility",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-pilates",
         "startTime": "17:30",
         "endTime": "18:30",
@@ -1000,8 +1011,8 @@
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquatonus",
@@ -1333,7 +1344,6 @@
         "endTime": "19:00",
         "duration": 30,
         "coachIds": [
-          "coach-youssef",
           "coach-hicham"
         ],
         "studioId": "studio-infinity",
@@ -1368,7 +1378,6 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
           "coach-youssef"
         ],
         "studioId": "studio-atlas",
