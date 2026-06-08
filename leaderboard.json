@@ -38,18 +38,18 @@
         "position": 2,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 1761,
+        "meps": 1766,
         "moves": 6,
-        "calories": 9105,
-        "totalMinutes": 1358,
-        "zone0Minutes": 507,
-        "zone1Minutes": 364,
+        "calories": 9138,
+        "totalMinutes": 1368,
+        "zone0Minutes": 512,
+        "zone1Minutes": 369,
         "zone2Minutes": 199,
         "zone3Minutes": 153,
         "zone4Minutes": 122,
         "zone5Minutes": 13,
         "targetZoneMinutes": 490,
-        "zone1MEPs": 364,
+        "zone1MEPs": 369,
         "zone2MEPs": 398,
         "zone3MEPs": 459,
         "zone4MEPs": 488,
@@ -420,6 +420,38 @@
       },
       {
         "position": 14,
+        "nickname": "عثمان",
+        "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
+        "meps": 675,
+        "moves": 3,
+        "calories": 3479,
+        "totalMinutes": 326,
+        "zone0Minutes": 80,
+        "zone1Minutes": 54,
+        "zone2Minutes": 48,
+        "zone3Minutes": 51,
+        "zone4Minutes": 52,
+        "zone5Minutes": 41,
+        "targetZoneMinutes": 191,
+        "zone1MEPs": 54,
+        "zone2MEPs": 96,
+        "zone3MEPs": 153,
+        "zone4MEPs": 208,
+        "zone5MEPs": 164,
+        "avgEffort": 66,
+        "peakHR": 189,
+        "avgHR": 127,
+        "belt": 7424848,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 15,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 654,
@@ -451,7 +483,7 @@
         "male": false
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
         "meps": 601,
@@ -483,7 +515,7 @@
         "male": false
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 532,
@@ -515,7 +547,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
         "meps": 497,
@@ -547,7 +579,7 @@
         "male": false
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 495,
@@ -579,7 +611,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "M’ZAKi ",
         "usrGUID": "5972b161-0f8f-11ef-92c6-861db27673fb",
         "meps": 411,
@@ -608,38 +640,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/4e931efb-7514-c772-73b4-649eb0e90d1c.png",
         "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/e415f6d2-274c-192c-0f18-54d2afb4da11.png",
-        "male": true
-      },
-      {
-        "position": 20,
-        "nickname": "عثمان",
-        "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
-        "meps": 372,
-        "moves": 2,
-        "calories": 1956,
-        "totalMinutes": 221,
-        "zone0Minutes": 74,
-        "zone1Minutes": 45,
-        "zone2Minutes": 27,
-        "zone3Minutes": 27,
-        "zone4Minutes": 30,
-        "zone5Minutes": 18,
-        "targetZoneMinutes": 101,
-        "zone1MEPs": 45,
-        "zone2MEPs": 54,
-        "zone3MEPs": 81,
-        "zone4MEPs": 120,
-        "zone5MEPs": 72,
-        "avgEffort": 61,
-        "peakHR": 186,
-        "avgHR": 119,
-        "belt": 7424848,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
         "male": true
       },
       {
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 13328,
+      "male": 13636,
       "female": 7916
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 26
     },
     "meps_averages": {
-      "male": "888.5",
+      "male": "909.1",
       "female": "791.6",
-      "total": "849.8"
+      "total": "862.1"
     }
   }
 }
