@@ -68,6 +68,38 @@
       },
       {
         "position": 3,
+        "nickname": "HoudaK",
+        "usrGUID": "65a9503d-4383-4b2e-98f6-944adcf4c092",
+        "meps": 2755,
+        "moves": 10,
+        "calories": 8259,
+        "totalMinutes": 1792,
+        "zone0Minutes": 528,
+        "zone1Minutes": 475,
+        "zone2Minutes": 335,
+        "zone3Minutes": 206,
+        "zone4Minutes": 193,
+        "zone5Minutes": 55,
+        "targetZoneMinutes": 787,
+        "zone1MEPs": 475,
+        "zone2MEPs": 670,
+        "zone3MEPs": 618,
+        "zone4MEPs": 772,
+        "zone5MEPs": 220,
+        "avgEffort": 61,
+        "peakHR": 181,
+        "avgHR": 112,
+        "belt": 7461301,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 4,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 2746,
@@ -99,46 +131,14 @@
         "male": true
       },
       {
-        "position": 4,
-        "nickname": "HoudaK",
-        "usrGUID": "65a9503d-4383-4b2e-98f6-944adcf4c092",
-        "meps": 2742,
-        "moves": 10,
-        "calories": 8222,
-        "totalMinutes": 1787,
-        "zone0Minutes": 528,
-        "zone1Minutes": 475,
-        "zone2Minutes": 332,
-        "zone3Minutes": 205,
-        "zone4Minutes": 192,
-        "zone5Minutes": 55,
-        "targetZoneMinutes": 782,
-        "zone1MEPs": 475,
-        "zone2MEPs": 664,
-        "zone3MEPs": 615,
-        "zone4MEPs": 768,
-        "zone5MEPs": 220,
-        "avgEffort": 61,
-        "peakHR": 181,
-        "avgHR": 112,
-        "belt": 7461301,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": false
-      },
-      {
         "position": 5,
         "nickname": "hl",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
         "meps": 2460,
         "moves": 22,
         "calories": 15631,
-        "totalMinutes": 2855,
-        "zone0Minutes": 1618,
+        "totalMinutes": 2859,
+        "zone0Minutes": 1622,
         "zone1Minutes": 464,
         "zone2Minutes": 390,
         "zone3Minutes": 316,
@@ -1637,7 +1637,7 @@
     ],
     "total_meps_by_gender": {
       "male": 20870,
-      "female": 11922
+      "female": 11935
     },
     "active_users": {
       "male": 15,
@@ -1651,8 +1651,8 @@
     },
     "meps_averages": {
       "male": "1391.3",
-      "female": "1192.2",
-      "total": "1311.7"
+      "female": "1193.5",
+      "total": "1312.2"
     }
   }
 }
