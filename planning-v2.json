@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-06-14T23:29:32.561Z",
+    "lastUpdated": "2026-06-15T21:32:21.038Z",
     "weekNumber": 24,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -208,6 +208,18 @@
         "planningKey": "ferme",
         "planningAffiche": "Fermé",
         "planning": "ferme"
+      },
+      {
+        "start": "2026-06-16",
+        "end": "2026-06-16",
+        "type": "férié",
+        "name": "1er Moharram",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "religieuse",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       }
     ],
     "horaires": {
@@ -694,22 +706,16 @@
   ],
   "cours": [
     {
-      "id": "cours-bodypump-express",
-      "name": "BODYPUMP Express",
-      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
-      "duration": 30
+      "id": "cours-circuit-training",
+      "name": "CIRCUIT TRAINING",
+      "logo": "",
+      "duration": 60
     },
     {
       "id": "cours-rpm",
       "name": "RPM",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/ff50bd1b-72e1-0fc6-29f3-78c598f5e04b.png",
       "duration": 60
-    },
-    {
-      "id": "cours-cx-training",
-      "name": "CX TRAINING",
-      "logo": "",
-      "duration": 30
     },
     {
       "id": "cours-pilates",
@@ -826,10 +832,10 @@
       "duration": 60
     },
     {
-      "id": "cours-circuit-training",
-      "name": "CIRCUIT TRAINING",
+      "id": "cours-cx-training",
+      "name": "CX TRAINING",
       "logo": "",
-      "duration": 60
+      "duration": 30
     },
     {
       "id": "cours-sprint",
@@ -883,10 +889,10 @@
   "planning": {
     "lundi": [
       {
-        "coursId": "cours-bodypump-express",
+        "coursId": "cours-circuit-training",
         "startTime": "08:30",
-        "endTime": "09:00",
-        "duration": 30,
+        "endTime": "09:30",
+        "duration": 60,
         "coachIds": [
           "coach-ouidiane"
         ],
@@ -903,17 +909,6 @@
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-cx-training",
-        "startTime": "09:00",
-        "endTime": "09:30",
-        "duration": 30,
-        "coachIds": [
-          "coach-ouidiane"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-pilates",
@@ -2542,6 +2537,96 @@
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
+      }
+    ],
+    "2026-06-16": [
+      {
+        "coursId": "cours-pilates",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-tabata",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-danse-orientale",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-gym-baton",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-mobility",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-rpm",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-yasser"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
       }
     ]
   },
