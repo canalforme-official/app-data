@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-06-15T21:32:21.038Z",
+    "lastUpdated": "2026-06-15T21:49:19.718Z",
     "weekNumber": 24,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -210,8 +210,8 @@
         "planning": "ferme"
       },
       {
-        "start": "2026-06-16",
-        "end": "2026-06-16",
+        "start": "2026-06-17",
+        "end": "2026-06-17",
         "type": "férié",
         "name": "1er Moharram",
         "inputMode": "manuelle",
@@ -2539,27 +2539,27 @@
         "type": "100% Femmes"
       }
     ],
-    "2026-06-16": [
+    "2026-06-17": [
       {
-        "coursId": "cours-pilates",
+        "coursId": "cours-gym-baton",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-fatima"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tabata",
+        "coursId": "cours-bodycombat",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-rabie"
         ],
-        "studioId": "studio-infinity",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       },
       {
@@ -2568,40 +2568,18 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-danse-orientale",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
+          "coach-fatima"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-gym-baton",
+        "coursId": "cours-pilates",
         "startTime": "16:30",
         "endTime": "17:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-mobility",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2612,7 +2590,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-hicham"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -2623,10 +2601,10 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-fayza"
         ],
         "studioId": "studio-aqua",
-        "type": "Mixte"
+        "type": "100% Femmes"
       }
     ]
   },
