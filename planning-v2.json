@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-06-24T23:29:46.267Z",
+    "lastUpdated": "2026-06-25T09:48:22.642Z",
     "weekNumber": 26,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -883,6 +883,12 @@
       "id": "cours-gym-ball",
       "name": "GYM BALL",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/16d15478-b250-a4b5-d483-02ef7883ae6e.png",
+      "duration": 60
+    },
+    {
+      "id": "cours-lesmills-yoga",
+      "name": "LesMills Yoga",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95df3bcc-0659-f450-1f4c-36f795f9a691.png",
       "duration": 60
     }
   ],
@@ -2696,6 +2702,32 @@
               "coach-fayza"
             ],
             "studioId": "studio-spin",
+            "type": "Mixte"
+          }
+        ]
+      }
+    ],
+    "2026-06-26": [
+      {
+        "idBloc": "evt-1782380013314-m7hl",
+        "label": "Lancement Yoga",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "studios": [
+          "ATLAS"
+        ],
+        "courses": [
+          {
+            "coursId": "cours-lesmills-yoga",
+            "startTime": "18:30",
+            "endTime": "19:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-yasser",
+              "coach-youssef",
+              "coach-nouredine"
+            ],
+            "studioId": "studio-atlas",
             "type": "Mixte"
           }
         ]
