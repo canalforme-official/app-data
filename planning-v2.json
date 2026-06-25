@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-06-25T11:14:45.749Z",
+    "lastUpdated": "2026-06-25T11:20:00.620Z",
     "weekNumber": 26,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -890,6 +890,12 @@
       "name": "LesMills Yoga",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/95df3bcc-0659-f450-1f4c-36f795f9a691.png",
       "duration": 60
+    },
+    {
+      "id": "cours-bodypump-express",
+      "name": "BODYPUMP Express",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
+      "duration": 30
     }
   ],
   "planning": {
@@ -2729,6 +2735,60 @@
               "coach-nouredine"
             ],
             "studioId": "studio-atlas",
+            "type": "Mixte"
+          }
+        ]
+      }
+    ],
+    "2026-06-29": [
+      {
+        "idBloc": "evt-1782386179734-6gq0",
+        "label": "It's SummerTime",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "studios": [
+          "ATLAS",
+          "INFINITY",
+          "SPIN"
+        ],
+        "courses": [
+          {
+            "coursId": "cours-bodypump-express",
+            "startTime": "17:30",
+            "endTime": "18:00",
+            "duration": 30,
+            "coachIds": [
+              "coach-zakaria",
+              "coach-youssef",
+              "coach-rabie"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-bodycombat",
+            "startTime": "18:30",
+            "endTime": "19:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-rabie",
+              "coach-yasser",
+              "coach-hicham"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-rpm",
+            "startTime": "19:30",
+            "endTime": "20:30",
+            "duration": 60,
+            "coachIds": [
+              "coach-zakaria",
+              "coach-hicham",
+              "coach-nouredine"
+            ],
+            "studioId": "studio-spin",
             "type": "Mixte"
           }
         ]
