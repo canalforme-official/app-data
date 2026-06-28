@@ -388,6 +388,38 @@
       },
       {
         "position": 13,
+        "nickname": "Xsar",
+        "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
+        "meps": 1926,
+        "moves": 13,
+        "calories": 11491,
+        "totalMinutes": 1681,
+        "zone0Minutes": 466,
+        "zone1Minutes": 691,
+        "zone2Minutes": 370,
+        "zone3Minutes": 121,
+        "zone4Minutes": 30,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 525,
+        "zone1MEPs": 691,
+        "zone2MEPs": 740,
+        "zone3MEPs": 363,
+        "zone4MEPs": 120,
+        "zone5MEPs": 12,
+        "avgEffort": 55,
+        "peakHR": 173,
+        "avgHR": 101,
+        "belt": 7424832,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 14,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
         "meps": 1701,
@@ -419,7 +451,7 @@
         "male": false
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
         "meps": 1646,
@@ -451,7 +483,7 @@
         "male": false
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
         "meps": 1645,
@@ -483,7 +515,7 @@
         "male": true
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 1610,
@@ -509,38 +541,6 @@
         "rank": 24,
         "status": "Platinum",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 17,
-        "nickname": "Xsar",
-        "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
-        "meps": 1602,
-        "moves": 11,
-        "calories": 9674,
-        "totalMinutes": 1449,
-        "zone0Minutes": 417,
-        "zone1Minutes": 610,
-        "zone2Minutes": 301,
-        "zone3Minutes": 94,
-        "zone4Minutes": 25,
-        "zone5Minutes": 2,
-        "targetZoneMinutes": 423,
-        "zone1MEPs": 610,
-        "zone2MEPs": 602,
-        "zone3MEPs": 282,
-        "zone4MEPs": 100,
-        "zone5MEPs": 8,
-        "avgEffort": 55,
-        "peakHR": 167,
-        "avgHR": 100,
-        "belt": 7424832,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 39263,
+      "male": 39587,
       "female": 27235
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "2617.5",
+      "male": "2639.1",
       "female": "2475.9",
-      "total": "2557.6"
+      "total": "2570.1"
     }
   }
 }
