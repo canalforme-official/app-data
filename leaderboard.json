@@ -9,8 +9,8 @@
         "meps": 6522,
         "moves": 39,
         "calories": 22791,
-        "totalMinutes": 3652,
-        "zone0Minutes": 645,
+        "totalMinutes": 3662,
+        "zone0Minutes": 655,
         "zone1Minutes": 958,
         "zone2Minutes": 891,
         "zone3Minutes": 850,
@@ -166,19 +166,19 @@
         "position": 6,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
-        "meps": 4240,
+        "meps": 4258,
         "moves": 32,
-        "calories": 24270,
-        "totalMinutes": 3640,
+        "calories": 24383,
+        "totalMinutes": 3653,
         "zone0Minutes": 1187,
-        "zone1Minutes": 1095,
-        "zone2Minutes": 982,
+        "zone1Minutes": 1103,
+        "zone2Minutes": 987,
         "zone3Minutes": 323,
         "zone4Minutes": 53,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 1357,
-        "zone1MEPs": 1095,
-        "zone2MEPs": 1964,
+        "targetZoneMinutes": 1362,
+        "zone1MEPs": 1103,
+        "zone2MEPs": 1974,
         "zone3MEPs": 969,
         "zone4MEPs": 212,
         "zone5MEPs": 0,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 40072,
+      "male": 40090,
       "female": 27936
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 25
     },
     "meps_averages": {
-      "male": "2671.5",
+      "male": "2672.7",
       "female": "2539.6",
-      "total": "2615.7"
+      "total": "2616.4"
     }
   }
 }
