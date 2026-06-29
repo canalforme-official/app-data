@@ -484,6 +484,38 @@
       },
       {
         "position": 16,
+        "nickname": "Hatim",
+        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
+        "meps": 1865,
+        "moves": 15,
+        "calories": 15273,
+        "totalMinutes": 2803,
+        "zone0Minutes": 1285,
+        "zone1Minutes": 1250,
+        "zone2Minutes": 210,
+        "zone3Minutes": 37,
+        "zone4Minutes": 17,
+        "zone5Minutes": 4,
+        "targetZoneMinutes": 266,
+        "zone1MEPs": 1250,
+        "zone2MEPs": 420,
+        "zone3MEPs": 111,
+        "zone4MEPs": 68,
+        "zone5MEPs": 16,
+        "avgEffort": 50,
+        "peakHR": 187,
+        "avgHR": 98,
+        "belt": 7468334,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 17,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 1675,
@@ -515,7 +547,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
         "meps": 1646,
@@ -547,7 +579,7 @@
         "male": false
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
         "meps": 1645,
@@ -579,7 +611,7 @@
         "male": true
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "عثمان",
         "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
         "meps": 1339,
@@ -611,7 +643,7 @@
         "male": true
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "YassineJ",
         "usrGUID": "937ec70d-b387-11ee-92c6-861db27673fb",
         "meps": 1325,
@@ -643,7 +675,7 @@
         "male": true
       },
       {
-        "position": 21,
+        "position": 22,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 1285,
@@ -675,7 +707,7 @@
         "male": true
       },
       {
-        "position": 22,
+        "position": 23,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 1060,
@@ -705,38 +737,6 @@
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
         "male": false
-      },
-      {
-        "position": 23,
-        "nickname": "Hatim",
-        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 1046,
-        "moves": 12,
-        "calories": 8560,
-        "totalMinutes": 1738,
-        "zone0Minutes": 878,
-        "zone1Minutes": 733,
-        "zone2Minutes": 86,
-        "zone3Minutes": 23,
-        "zone4Minutes": 14,
-        "zone5Minutes": 4,
-        "targetZoneMinutes": 125,
-        "zone1MEPs": 733,
-        "zone2MEPs": 172,
-        "zone3MEPs": 69,
-        "zone4MEPs": 56,
-        "zone5MEPs": 16,
-        "avgEffort": 50,
-        "peakHR": 187,
-        "avgHR": 97,
-        "belt": 7468334,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
       },
       {
         "position": 24,
@@ -1636,7 +1636,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 45012,
+      "male": 45831,
       "female": 29756
     },
     "active_users": {
@@ -1650,9 +1650,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "2813.3",
+      "male": "2864.4",
       "female": "2705.1",
-      "total": "2769.2"
+      "total": "2799.5"
     }
   }
 }
