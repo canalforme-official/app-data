@@ -870,25 +870,25 @@
         "position": 28,
         "nickname": "OussamaO",
         "usrGUID": "99215234-1020-425c-a123-16e9ed11b0fd",
-        "meps": 3,
+        "meps": 13,
         "moves": 1,
-        "calories": 15,
-        "totalMinutes": 6,
+        "calories": 60,
+        "totalMinutes": 11,
         "zone0Minutes": 3,
         "zone1Minutes": 3,
-        "zone2Minutes": 0,
+        "zone2Minutes": 5,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
+        "targetZoneMinutes": 5,
         "zone1MEPs": 3,
-        "zone2MEPs": 0,
+        "zone2MEPs": 10,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 47,
-        "peakHR": 94,
-        "avgHR": 84,
+        "avgEffort": 49,
+        "peakHR": 109,
+        "avgHR": 86,
         "belt": 7461303,
         "rank": 0,
         "status": "No Status",
@@ -1668,7 +1668,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 45967,
+      "male": 45977,
       "female": 29941
     },
     "active_users": {
@@ -1682,9 +1682,9 @@
       "total": 24
     },
     "meps_averages": {
-      "male": "2703.9",
+      "male": "2704.5",
       "female": "2721.9",
-      "total": "2711.0"
+      "total": "2711.4"
     }
   }
 }
