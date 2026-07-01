@@ -837,17 +837,40 @@
               "nickname": "Hatim"
             }
           ]
+        },
+        {
+          "month": "juin",
+          "top3": [
+            {
+              "position": 1,
+              "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+              "meps": 6791,
+              "nickname": "Simo"
+            },
+            {
+              "position": 2,
+              "guid": "944a4162-d0a0-11ee-92c6-861db27673fb",
+              "meps": 6707,
+              "nickname": "Kami"
+            },
+            {
+              "position": 3,
+              "guid": "65a9503d-4383-4b2e-98f6-944adcf4c092",
+              "meps": 5853,
+              "nickname": "HoudaK"
+            }
+          ]
         }
       ],
       "user_medal_rankings": [
         {
           "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
           "nickname": "Simo",
-          "gold": 3,
+          "gold": 4,
           "silver": 0,
           "bronze": 1,
-          "total_meps": 32656,
-          "total_points": 39
+          "total_meps": 39447,
+          "total_points": 51
         },
         {
           "guid": "4e9b092f-d0da-11ee-92c6-861db27673fb",
@@ -859,6 +882,15 @@
           "total_points": 24
         },
         {
+          "guid": "944a4162-d0a0-11ee-92c6-861db27673fb",
+          "nickname": "Kami",
+          "gold": 0,
+          "silver": 2,
+          "bronze": 1,
+          "total_meps": 18221,
+          "total_points": 15
+        },
+        {
           "guid": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
           "nickname": "A",
           "gold": 1,
@@ -866,15 +898,6 @@
           "bronze": 0,
           "total_meps": 0,
           "total_points": 12
-        },
-        {
-          "guid": "944a4162-d0a0-11ee-92c6-861db27673fb",
-          "nickname": "Kami",
-          "gold": 0,
-          "silver": 1,
-          "bronze": 1,
-          "total_meps": 11514,
-          "total_points": 9
         },
         {
           "guid": "5961f783-d0f3-11ee-92c6-861db27673fb",
@@ -910,6 +933,15 @@
           "silver": 0,
           "bronze": 1,
           "total_meps": 5940,
+          "total_points": 3
+        },
+        {
+          "guid": "65a9503d-4383-4b2e-98f6-944adcf4c092",
+          "nickname": "HoudaK",
+          "gold": 0,
+          "silver": 0,
+          "bronze": 1,
+          "total_meps": 5853,
           "total_points": 3
         },
         {
