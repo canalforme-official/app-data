@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-07-02T11:54:27.739Z",
+    "lastUpdated": "2026-07-02T12:32:25.349Z",
     "weekNumber": 27,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -884,6 +884,30 @@
       "name": "BODYPUMP Express",
       "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/2410f9cf-1503-708c-fee5-4fad20e4edc2.png",
       "duration": 30
+    },
+    {
+      "id": "cours-jumping",
+      "name": "Jumping",
+      "logo": "",
+      "duration": 0
+    },
+    {
+      "id": "cours-animation-mondial",
+      "name": "Animation Mondial",
+      "logo": "",
+      "duration": 0
+    },
+    {
+      "id": "cours-bodycombat-express",
+      "name": "BODYCOMBAT Express",
+      "logo": "",
+      "duration": 0
+    },
+    {
+      "id": "cours-rpm-express",
+      "name": "RPM Express",
+      "logo": "",
+      "duration": 0
     }
   ],
   "planning": {
@@ -2779,6 +2803,90 @@
               "coach-zakaria",
               "coach-hicham",
               "coach-nouredine"
+            ],
+            "studioId": "studio-spin",
+            "type": "Mixte"
+          }
+        ]
+      }
+    ],
+    "2026-07-03": [
+      {
+        "idBloc": "evt-1782994564810-wofx",
+        "label": "Animation Mondial 2026",
+        "eventTheme": "maroc",
+        "startTime": "17:30",
+        "endTime": "20:30",
+        "studios": [
+          "ATLAS",
+          "INFINITY",
+          "SPIN"
+        ],
+        "courses": [
+          {
+            "coursId": "cours-jumping",
+            "startTime": "18:00",
+            "endTime": "18:30",
+            "duration": 0,
+            "coachIds": [
+              "coach-hicham",
+              "coach-nouredine",
+              "coach-rabie",
+              "coach-yasser",
+              "coach-youssef",
+              "coach-zakaria",
+              "coach-zoubir"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-bodycombat-express",
+            "startTime": "18:30",
+            "endTime": "19:00",
+            "duration": 0,
+            "coachIds": [
+              "coach-hicham",
+              "coach-nouredine",
+              "coach-rabie",
+              "coach-yasser",
+              "coach-youssef",
+              "coach-zakaria",
+              "coach-zoubir"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-animation-mondial",
+            "startTime": "19:00",
+            "endTime": "19:30",
+            "duration": 0,
+            "coachIds": [
+              "coach-hicham",
+              "coach-nouredine",
+              "coach-rabie",
+              "coach-yasser",
+              "coach-youssef",
+              "coach-zakaria",
+              "coach-zoubir"
+            ],
+            "studioId": "studio-atlas",
+            "type": "Mixte"
+          },
+          {
+            "coursId": "cours-rpm-express",
+            "startTime": "19:30",
+            "endTime": "20:00",
+            "duration": 0,
+            "coachIds": [
+              "coach-hicham",
+              "coach-nouredine",
+              "coach-rabie",
+              "coach-yasser",
+              "coach-youssef",
+              "coach-zakaria",
+              "coach-zoubir"
             ],
             "studioId": "studio-spin",
             "type": "Mixte"
