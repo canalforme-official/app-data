@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-07-05T23:29:32.687Z",
+    "lastUpdated": "2026-07-06T23:29:32.135Z",
     "weekNumber": 27,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -860,6 +860,12 @@
       "duration": 60
     },
     {
+      "id": "cours-yoga",
+      "name": "YOGA",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/1c6336ea-e253-11e3-84d4-ed4d3bfbefe3.png",
+      "duration": 60
+    },
+    {
       "id": "cours-aquastretching",
       "name": "AQUASTRETCHING",
       "logo": "",
@@ -1027,7 +1033,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-zoubir"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1525,6 +1531,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-grit-training",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-abdos-xtrem",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1547,23 +1564,14 @@
         "type": "100% Hommes"
       },
       {
-        "coursId": "cours-grit-training",
+        "coursId": "cours-yoga",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-bodyflow",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-yasser"
+          "coach-youssef",
+          "coach-yasser",
+          "coach-nouredine"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
