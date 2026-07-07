@@ -356,6 +356,38 @@
       },
       {
         "position": 12,
+        "nickname": "karim",
+        "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
+        "meps": 394,
+        "moves": 2,
+        "calories": 2116,
+        "totalMinutes": 250,
+        "zone0Minutes": 38,
+        "zone1Minutes": 86,
+        "zone2Minutes": 81,
+        "zone3Minutes": 34,
+        "zone4Minutes": 11,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 127,
+        "zone1MEPs": 86,
+        "zone2MEPs": 162,
+        "zone3MEPs": 102,
+        "zone4MEPs": 44,
+        "zone5MEPs": 0,
+        "avgEffort": 60,
+        "peakHR": 165,
+        "avgHR": 108,
+        "belt": 7424837,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 13,
         "nickname": "Anas B",
         "usrGUID": "532f85a6-ec4e-11ee-92c6-861db27673fb",
         "meps": 353,
@@ -387,7 +419,7 @@
         "male": true
       },
       {
-        "position": 13,
+        "position": 14,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 352,
@@ -419,7 +451,7 @@
         "male": false
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 348,
@@ -451,7 +483,7 @@
         "male": false
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 331,
@@ -483,7 +515,7 @@
         "male": true
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 326,
@@ -515,7 +547,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 319,
@@ -547,7 +579,7 @@
         "male": false
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 212,
@@ -577,38 +609,6 @@
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
         "male": false
-      },
-      {
-        "position": 19,
-        "nickname": "karim",
-        "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
-        "meps": 211,
-        "moves": 1,
-        "calories": 1003,
-        "totalMinutes": 97,
-        "zone0Minutes": 9,
-        "zone1Minutes": 15,
-        "zone2Minutes": 34,
-        "zone3Minutes": 28,
-        "zone4Minutes": 11,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 73,
-        "zone1MEPs": 15,
-        "zone2MEPs": 68,
-        "zone3MEPs": 84,
-        "zone4MEPs": 44,
-        "zone5MEPs": 0,
-        "avgEffort": 66,
-        "peakHR": 165,
-        "avgHR": 118,
-        "belt": 7424837,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
       },
       {
         "position": 20,
@@ -1700,7 +1700,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 6381,
+      "male": 6564,
       "female": 4206
     },
     "active_users": {
@@ -1714,9 +1714,9 @@
       "total": 32
     },
     "meps_averages": {
-      "male": "531.8",
+      "male": "547.0",
       "female": "467.3",
-      "total": "504.1"
+      "total": "512.9"
     }
   },
   "previous": {
