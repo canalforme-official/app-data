@@ -198,19 +198,19 @@
         "position": 7,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 1228,
-        "moves": 11,
-        "calories": 9136,
-        "totalMinutes": 1736,
-        "zone0Minutes": 828,
-        "zone1Minutes": 644,
-        "zone2Minutes": 211,
+        "meps": 1265,
+        "moves": 12,
+        "calories": 9448,
+        "totalMinutes": 1814,
+        "zone0Minutes": 873,
+        "zone1Minutes": 673,
+        "zone2Minutes": 215,
         "zone3Minutes": 50,
         "zone4Minutes": 3,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 263,
-        "zone1MEPs": 644,
-        "zone2MEPs": 422,
+        "targetZoneMinutes": 267,
+        "zone1MEPs": 673,
+        "zone2MEPs": 430,
         "zone3MEPs": 150,
         "zone4MEPs": 12,
         "zone5MEPs": 0,
@@ -516,6 +516,38 @@
       },
       {
         "position": 17,
+        "nickname": "Hatim",
+        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
+        "meps": 600,
+        "moves": 7,
+        "calories": 5115,
+        "totalMinutes": 1453,
+        "zone0Minutes": 926,
+        "zone1Minutes": 462,
+        "zone2Minutes": 58,
+        "zone3Minutes": 6,
+        "zone4Minutes": 1,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 63,
+        "zone1MEPs": 462,
+        "zone2MEPs": 116,
+        "zone3MEPs": 18,
+        "zone4MEPs": 4,
+        "zone5MEPs": 0,
+        "avgEffort": 47,
+        "peakHR": 159,
+        "avgHR": 93,
+        "belt": 7468334,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 18,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 563,
@@ -547,7 +579,7 @@
         "male": false
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
         "meps": 494,
@@ -579,7 +611,7 @@
         "male": false
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 474,
@@ -611,7 +643,7 @@
         "male": false
       },
       {
-        "position": 20,
+        "position": 21,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 426,
@@ -641,38 +673,6 @@
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
         "male": false
-      },
-      {
-        "position": 21,
-        "nickname": "Hatim",
-        "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
-        "meps": 225,
-        "moves": 6,
-        "calories": 1955,
-        "totalMinutes": 686,
-        "zone0Minutes": 481,
-        "zone1Minutes": 189,
-        "zone2Minutes": 13,
-        "zone3Minutes": 2,
-        "zone4Minutes": 1,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 16,
-        "zone1MEPs": 189,
-        "zone2MEPs": 26,
-        "zone3MEPs": 6,
-        "zone4MEPs": 4,
-        "zone5MEPs": 0,
-        "avgEffort": 46,
-        "peakHR": 159,
-        "avgHR": 91,
-        "belt": 7468334,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
       },
       {
         "position": 22,
@@ -1700,7 +1700,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 14020,
+      "male": 14432,
       "female": 7561
     },
     "active_users": {
@@ -1714,9 +1714,9 @@
       "total": 31
     },
     "meps_averages": {
-      "male": "1078.5",
+      "male": "1110.2",
       "female": "840.1",
-      "total": "981.0"
+      "total": "999.7"
     }
   }
 }
