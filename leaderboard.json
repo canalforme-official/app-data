@@ -548,6 +548,38 @@
       },
       {
         "position": 18,
+        "nickname": "Majda ",
+        "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
+        "meps": 476,
+        "moves": 4,
+        "calories": 1643,
+        "totalMinutes": 425,
+        "zone0Minutes": 138,
+        "zone1Minutes": 148,
+        "zone2Minutes": 93,
+        "zone3Minutes": 42,
+        "zone4Minutes": 4,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 138,
+        "zone1MEPs": 148,
+        "zone2MEPs": 186,
+        "zone3MEPs": 126,
+        "zone4MEPs": 16,
+        "zone5MEPs": 0,
+        "avgEffort": 54,
+        "peakHR": 153,
+        "avgHR": 102,
+        "belt": 7424849,
+        "rank": 0,
+        "status": "No Status",
+        "iconLink": "",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 19,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 474,
@@ -573,38 +605,6 @@
         "rank": 3,
         "status": "Bronze",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": false
-      },
-      {
-        "position": 19,
-        "nickname": "Majda ",
-        "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
-        "meps": 471,
-        "moves": 4,
-        "calories": 1625,
-        "totalMinutes": 414,
-        "zone0Minutes": 132,
-        "zone1Minutes": 143,
-        "zone2Minutes": 93,
-        "zone3Minutes": 42,
-        "zone4Minutes": 4,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 138,
-        "zone1MEPs": 143,
-        "zone2MEPs": 186,
-        "zone3MEPs": 126,
-        "zone4MEPs": 16,
-        "zone5MEPs": 0,
-        "avgEffort": 54,
-        "peakHR": 153,
-        "avgHR": 102,
-        "belt": 7424849,
-        "rank": 0,
-        "status": "No Status",
-        "iconLink": "",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1701,7 +1701,7 @@
     ],
     "total_meps_by_gender": {
       "male": 13981,
-      "female": 7469
+      "female": 7474
     },
     "active_users": {
       "male": 13,
@@ -1715,8 +1715,8 @@
     },
     "meps_averages": {
       "male": "1075.5",
-      "female": "829.9",
-      "total": "975.0"
+      "female": "830.4",
+      "total": "975.2"
     }
   }
 }
