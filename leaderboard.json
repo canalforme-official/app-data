@@ -484,6 +484,38 @@
       },
       {
         "position": 16,
+        "nickname": "MED ALI",
+        "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
+        "meps": 1450,
+        "moves": 7,
+        "calories": 6496,
+        "totalMinutes": 579,
+        "zone0Minutes": 8,
+        "zone1Minutes": 91,
+        "zone2Minutes": 198,
+        "zone3Minutes": 165,
+        "zone4Minutes": 96,
+        "zone5Minutes": 21,
+        "targetZoneMinutes": 481,
+        "zone1MEPs": 91,
+        "zone2MEPs": 396,
+        "zone3MEPs": 495,
+        "zone4MEPs": 384,
+        "zone5MEPs": 84,
+        "avgEffort": 69,
+        "peakHR": 166,
+        "avgHR": 121,
+        "belt": 7461309,
+        "rank": 1,
+        "status": "Iron",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 17,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 1411,
@@ -515,7 +547,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 1380,
@@ -547,7 +579,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Kami ",
         "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
         "meps": 1379,
@@ -579,7 +611,7 @@
         "male": false
       },
       {
-        "position": 19,
+        "position": 20,
         "nickname": "Xsar",
         "usrGUID": "d2924c14-d557-11ee-92c6-861db27673fb",
         "meps": 1363,
@@ -605,38 +637,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 20,
-        "nickname": "MED ALI",
-        "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 1333,
-        "moves": 6,
-        "calories": 6014,
-        "totalMinutes": 547,
-        "zone0Minutes": 8,
-        "zone1Minutes": 91,
-        "zone2Minutes": 198,
-        "zone3Minutes": 154,
-        "zone4Minutes": 78,
-        "zone5Minutes": 18,
-        "targetZoneMinutes": 448,
-        "zone1MEPs": 91,
-        "zone2MEPs": 396,
-        "zone3MEPs": 462,
-        "zone4MEPs": 312,
-        "zone5MEPs": 72,
-        "avgEffort": 69,
-        "peakHR": 166,
-        "avgHR": 119,
-        "belt": 7461309,
-        "rank": 1,
-        "status": "Iron",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/97749204-22bb-f1bd-ba88-051b95c6dca5.png",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1732,7 +1732,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 35195,
+      "male": 35312,
       "female": 17457
     },
     "active_users": {
@@ -1746,9 +1746,9 @@
       "total": 29
     },
     "meps_averages": {
-      "male": "2199.7",
+      "male": "2207.0",
       "female": "1939.7",
-      "total": "2106.1"
+      "total": "2110.8"
     }
   }
 }
