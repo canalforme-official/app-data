@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-07-24T22:59:00.370Z",
+    "lastUpdated": "2026-07-25T22:58:59.937Z",
     "weekNumber": 30,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1209,7 +1209,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-yasser"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1220,7 +1220,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-youssef"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1372,23 +1372,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodypump",
+        "coursId": "cours-circuit-training",
         "startTime": "19:30",
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
           "coach-youssef"
-        ],
-        "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-pilates",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1657,7 +1646,6 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef",
           "coach-yasser"
         ],
         "studioId": "studio-infinity",
@@ -1713,7 +1701,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouredine"
+          "coach-youssef"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
