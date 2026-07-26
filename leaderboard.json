@@ -388,6 +388,38 @@
       },
       {
         "position": 13,
+        "nickname": "Kami ",
+        "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
+        "meps": 1747,
+        "moves": 10,
+        "calories": 6009,
+        "totalMinutes": 944,
+        "zone0Minutes": 158,
+        "zone1Minutes": 195,
+        "zone2Minutes": 270,
+        "zone3Minutes": 272,
+        "zone4Minutes": 44,
+        "zone5Minutes": 5,
+        "targetZoneMinutes": 587,
+        "zone1MEPs": 195,
+        "zone2MEPs": 540,
+        "zone3MEPs": 816,
+        "zone4MEPs": 176,
+        "zone5MEPs": 20,
+        "avgEffort": 62,
+        "peakHR": 181,
+        "avgHR": 120,
+        "belt": 7424844,
+        "rank": 3,
+        "status": "Bronze",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 14,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 1660,
@@ -419,7 +451,7 @@
         "male": false
       },
       {
-        "position": 14,
+        "position": 15,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 1649,
@@ -451,7 +483,7 @@
         "male": false
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
         "meps": 1453,
@@ -483,7 +515,7 @@
         "male": false
       },
       {
-        "position": 16,
+        "position": 17,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 1450,
@@ -515,7 +547,7 @@
         "male": true
       },
       {
-        "position": 17,
+        "position": 18,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 1441,
@@ -547,7 +579,7 @@
         "male": true
       },
       {
-        "position": 18,
+        "position": 19,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 1380,
@@ -577,38 +609,6 @@
         "coachLink": "",
         "pngCaricature": "",
         "male": true
-      },
-      {
-        "position": 19,
-        "nickname": "Kami ",
-        "usrGUID": "944a4162-d0a0-11ee-92c6-861db27673fb",
-        "meps": 1379,
-        "moves": 9,
-        "calories": 4813,
-        "totalMinutes": 782,
-        "zone0Minutes": 137,
-        "zone1Minutes": 164,
-        "zone2Minutes": 261,
-        "zone3Minutes": 187,
-        "zone4Minutes": 29,
-        "zone5Minutes": 4,
-        "targetZoneMinutes": 478,
-        "zone1MEPs": 164,
-        "zone2MEPs": 522,
-        "zone3MEPs": 561,
-        "zone4MEPs": 116,
-        "zone5MEPs": 16,
-        "avgEffort": 61,
-        "peakHR": 181,
-        "avgHR": 118,
-        "belt": 7424844,
-        "rank": 3,
-        "status": "Bronze",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/b7982c4d-7007-2abd-c73e-3e5f521f61ea.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": false
       },
       {
         "position": 20,
@@ -1733,7 +1733,7 @@
     ],
     "total_meps_by_gender": {
       "male": 35617,
-      "female": 17457
+      "female": 17825
     },
     "active_users": {
       "male": 16,
@@ -1747,8 +1747,8 @@
     },
     "meps_averages": {
       "male": "2226.1",
-      "female": "1939.7",
-      "total": "2123.0"
+      "female": "1980.6",
+      "total": "2137.7"
     }
   }
 }
