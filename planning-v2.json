@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-07-27T22:58:56.191Z",
+    "lastUpdated": "2026-07-28T22:58:57.394Z",
     "weekNumber": 30,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -2586,6 +2586,63 @@
           "coach-fayza"
         ],
         "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      }
+    ],
+    "2026-07-30": [
+      {
+        "coursId": "cours-sprint",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-gym-douce",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-abdos-xtrem",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-hicham"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-gtx",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       }
     ]
