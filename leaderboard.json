@@ -262,25 +262,25 @@
         "position": 9,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 111,
+        "meps": 120,
         "moves": 1,
-        "calories": 367,
-        "totalMinutes": 65,
-        "zone0Minutes": 8,
-        "zone1Minutes": 22,
+        "calories": 410,
+        "totalMinutes": 87,
+        "zone0Minutes": 21,
+        "zone1Minutes": 31,
         "zone2Minutes": 19,
         "zone3Minutes": 13,
         "zone4Minutes": 3,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 34,
-        "zone1MEPs": 22,
+        "targetZoneMinutes": 35,
+        "zone1MEPs": 31,
         "zone2MEPs": 38,
         "zone3MEPs": 39,
         "zone4MEPs": 12,
         "zone5MEPs": 0,
-        "avgEffort": 61,
+        "avgEffort": 58,
         "peakHR": 156,
-        "avgHR": 117,
+        "avgHR": 110,
         "belt": 7424835,
         "rank": 3,
         "status": "Bronze",
@@ -1733,7 +1733,7 @@
     ],
     "total_meps_by_gender": {
       "male": 1342,
-      "female": 608
+      "female": 617
     },
     "active_users": {
       "male": 6,
@@ -1747,8 +1747,8 @@
     },
     "meps_averages": {
       "male": "223.7",
-      "female": "202.7",
-      "total": "216.7"
+      "female": "205.7",
+      "total": "217.7"
     }
   },
   "previous": {
@@ -2014,21 +2014,21 @@
         "position": 9,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
-        "meps": 3430,
+        "meps": 3448,
         "moves": 19,
-        "calories": 11893,
-        "totalMinutes": 2602,
+        "calories": 11942,
+        "totalMinutes": 2609,
         "zone0Minutes": 668,
         "zone1Minutes": 894,
-        "zone2Minutes": 676,
-        "zone3Minutes": 272,
-        "zone4Minutes": 86,
+        "zone2Minutes": 680,
+        "zone3Minutes": 274,
+        "zone4Minutes": 87,
         "zone5Minutes": 6,
-        "targetZoneMinutes": 1039,
+        "targetZoneMinutes": 1046,
         "zone1MEPs": 894,
-        "zone2MEPs": 1352,
-        "zone3MEPs": 816,
-        "zone4MEPs": 344,
+        "zone2MEPs": 1360,
+        "zone3MEPs": 822,
+        "zone4MEPs": 348,
         "zone5MEPs": 24,
         "avgEffort": 57,
         "peakHR": 185,
@@ -2077,7 +2077,7 @@
     ],
     "total_meps_by_gender": {
       "male": 46022,
-      "female": 22563
+      "female": 22581
     },
     "active_users": {
       "male": 16,
@@ -2091,8 +2091,8 @@
     },
     "meps_averages": {
       "male": "2876.4",
-      "female": "2507.0",
-      "total": "2743.4"
+      "female": "2509.0",
+      "total": "2744.1"
     }
   }
 }
