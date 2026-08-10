@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-09T22:58:56.835Z",
+    "lastUpdated": "2026-08-10T22:58:58.071Z",
     "weekNumber": 32,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -3209,6 +3209,41 @@
         "duration": 60,
         "coachIds": [
           "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      }
+    ],
+    "2026-08-20": [
+      {
+        "coursId": "cours-tone",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-lesmills-yoga",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
