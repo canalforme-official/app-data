@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-10T22:58:58.071Z",
+    "lastUpdated": "2026-08-11T20:17:42.523Z",
     "weekNumber": 32,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -2450,7 +2450,7 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2461,7 +2461,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -2584,7 +2584,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2617,7 +2617,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2652,7 +2652,7 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2674,7 +2674,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-arnold",
         "type": "100% Femmes"
@@ -2808,7 +2808,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2830,7 +2830,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2898,7 +2898,7 @@
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -2909,7 +2909,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
+          "coach-ouidiane"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -3214,7 +3214,64 @@
         "type": "100% Femmes"
       }
     ],
+    "2026-08-21": [
+      {
+        "coursId": "cours-sprint",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-circuit-training",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tbc",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      }
+    ],
     "2026-08-20": [
+      {
+        "coursId": "cours-sprint",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
       {
         "coursId": "cours-tone",
         "startTime": "09:30",
@@ -3227,23 +3284,80 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-lesmills-yoga",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-pilates",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
           "coach-ouidiane"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-circuit-training",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      }
+    ],
+    "2026-08-14": [
+      {
+        "coursId": "cours-sprint",
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-pilates",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-cross-90x",
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tbc",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
