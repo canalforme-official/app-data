@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-11T22:58:55.709Z",
+    "lastUpdated": "2026-08-12T22:58:56.688Z",
     "weekNumber": 32,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -2972,25 +2972,25 @@
     ],
     "samedi": [
       {
-        "coursId": "cours-rpm",
+        "coursId": "cours-cross-90x",
         "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
+        "endTime": "10:00",
+        "duration": 30,
         "coachIds": [
-          "coach-rabie"
+          "coach-zoubir"
         ],
-        "studioId": "studio-spin",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
-        "coursId": "cours-aquagym",
+        "coursId": "cours-abdos-xtrem",
         "startTime": "10:30",
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
           "coach-zoubir"
         ],
-        "studioId": "studio-aqua",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       }
     ],
@@ -3313,7 +3313,7 @@
         "endTime": "10:00",
         "duration": 30,
         "coachIds": [
-          "coach-rabie"
+          "coach-youssef"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -3346,7 +3346,7 @@
         "endTime": "18:00",
         "duration": 30,
         "coachIds": [
-          "coach-youssef"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
