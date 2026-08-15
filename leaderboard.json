@@ -70,20 +70,20 @@
         "position": 3,
         "nickname": "hl",
         "usrGUID": "ab7d8b06-bd5f-11ef-afe4-8ad907efd8ae",
-        "meps": 2762,
+        "meps": 2774,
         "moves": 26,
-        "calories": 17419,
-        "totalMinutes": 3223,
+        "calories": 17486,
+        "totalMinutes": 3228,
         "zone0Minutes": 1832,
         "zone1Minutes": 510,
-        "zone2Minutes": 434,
-        "zone3Minutes": 404,
+        "zone2Minutes": 437,
+        "zone3Minutes": 406,
         "zone4Minutes": 43,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 875,
+        "targetZoneMinutes": 879,
         "zone1MEPs": 510,
-        "zone2MEPs": 868,
-        "zone3MEPs": 1212,
+        "zone2MEPs": 874,
+        "zone3MEPs": 1218,
         "zone4MEPs": 172,
         "zone5MEPs": 0,
         "avgEffort": 50,
@@ -134,19 +134,19 @@
         "position": 5,
         "nickname": "Limouna",
         "usrGUID": "11e57c20-63f8-11f0-8603-2635a5d58295",
-        "meps": 2353,
+        "meps": 2358,
         "moves": 14,
-        "calories": 7501,
-        "totalMinutes": 1540,
+        "calories": 7521,
+        "totalMinutes": 1544,
         "zone0Minutes": 175,
-        "zone1Minutes": 645,
-        "zone2Minutes": 509,
+        "zone1Minutes": 648,
+        "zone2Minutes": 510,
         "zone3Minutes": 154,
         "zone4Minutes": 42,
         "zone5Minutes": 15,
-        "targetZoneMinutes": 718,
-        "zone1MEPs": 645,
-        "zone2MEPs": 1018,
+        "targetZoneMinutes": 719,
+        "zone1MEPs": 648,
+        "zone2MEPs": 1020,
         "zone3MEPs": 462,
         "zone4MEPs": 168,
         "zone5MEPs": 60,
@@ -1732,8 +1732,8 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 21470,
-      "female": 9110
+      "male": 21482,
+      "female": 9115
     },
     "active_users": {
       "male": 12,
@@ -1746,9 +1746,9 @@
       "total": 34
     },
     "meps_averages": {
-      "male": "1789.2",
-      "female": "1138.8",
-      "total": "1529.0"
+      "male": "1790.2",
+      "female": "1139.4",
+      "total": "1529.8"
     }
   }
 }
