@@ -196,6 +196,38 @@
       },
       {
         "position": 7,
+        "nickname": "Radouane",
+        "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
+        "meps": 1697,
+        "moves": 10,
+        "calories": 8189,
+        "totalMinutes": 860,
+        "zone0Minutes": 71,
+        "zone1Minutes": 179,
+        "zone2Minutes": 369,
+        "zone3Minutes": 184,
+        "zone4Minutes": 54,
+        "zone5Minutes": 3,
+        "targetZoneMinutes": 608,
+        "zone1MEPs": 179,
+        "zone2MEPs": 738,
+        "zone3MEPs": 552,
+        "zone4MEPs": 216,
+        "zone5MEPs": 12,
+        "avgEffort": 64,
+        "peakHR": 168,
+        "avgHR": 115,
+        "belt": 7424831,
+        "rank": 24,
+        "status": "Platinum",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 8,
         "nickname": "HoudaK",
         "usrGUID": "65a9503d-4383-4b2e-98f6-944adcf4c092",
         "meps": 1696,
@@ -227,7 +259,7 @@
         "male": false
       },
       {
-        "position": 8,
+        "position": 9,
         "nickname": "Simohmed",
         "usrGUID": "4e9b092f-d0da-11ee-92c6-861db27673fb",
         "meps": 1685,
@@ -259,7 +291,7 @@
         "male": true
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "katy",
         "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
         "meps": 1674,
@@ -291,7 +323,7 @@
         "male": false
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 1561,
@@ -317,38 +349,6 @@
         "rank": 12,
         "status": "Gold",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 11,
-        "nickname": "Radouane",
-        "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
-        "meps": 1555,
-        "moves": 9,
-        "calories": 7526,
-        "totalMinutes": 796,
-        "zone0Minutes": 70,
-        "zone1Minutes": 168,
-        "zone2Minutes": 340,
-        "zone3Minutes": 165,
-        "zone4Minutes": 50,
-        "zone5Minutes": 3,
-        "targetZoneMinutes": 557,
-        "zone1MEPs": 168,
-        "zone2MEPs": 680,
-        "zone3MEPs": 495,
-        "zone4MEPs": 200,
-        "zone5MEPs": 12,
-        "avgEffort": 64,
-        "peakHR": 168,
-        "avgHR": 115,
-        "belt": 7424831,
-        "rank": 24,
-        "status": "Platinum",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1732,7 +1732,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 28922,
+      "male": 29064,
       "female": 10751
     },
     "active_users": {
@@ -1746,9 +1746,9 @@
       "total": 33
     },
     "meps_averages": {
-      "male": "2224.8",
+      "male": "2235.7",
       "female": "1343.9",
-      "total": "1889.2"
+      "total": "1896.0"
     }
   }
 }
