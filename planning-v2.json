@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-22T10:30:05.825Z",
+    "lastUpdated": "2026-08-22T19:33:25.610Z",
     "weekNumber": 34,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -193,9 +193,9 @@
         "inputMode": "manuelle",
         "fixedOrVariable": "religieuse",
         "daysCount": 1,
-        "planningKey": "ferie",
-        "planningAffiche": "Jours fériés",
-        "planning": "ferie"
+        "planningKey": "ferme",
+        "planningAffiche": "Fermé",
+        "planning": "ferme"
       }
     ],
     "horaires": {
@@ -3377,6 +3377,52 @@
         "duration": 60,
         "coachIds": [
           "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      }
+    ],
+    "2026-08-25": [
+      {
+        "coursId": "cours-pilates",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-tabata",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zoubir"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-bodypump",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-tone",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
