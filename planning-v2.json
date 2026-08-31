@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-31T09:18:03.184Z",
+    "lastUpdated": "2026-08-31T09:50:22.248Z",
     "weekNumber": 35,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1286,10 +1286,10 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-trx",
+        "coursId": "cours-tabata",
         "startTime": "10:00",
-        "endTime": "10:30",
-        "duration": 30,
+        "endTime": "11:00",
+        "duration": 60,
         "coachIds": [
           "coach-zakaria"
         ],
@@ -1379,7 +1379,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-nouredine"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1390,7 +1390,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1403,7 +1403,8 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-rabie"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1502,7 +1503,6 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-nihad",
           "coach-yasser"
         ],
         "studioId": "studio-atlas",
@@ -1531,7 +1531,7 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-bodyflow",
+        "coursId": "cours-pilates",
         "startTime": "19:30",
         "endTime": "20:30",
         "duration": 60,
@@ -1591,17 +1591,6 @@
         "coursId": "cours-danse-orientale",
         "startTime": "09:30",
         "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-atlas",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-bodyflow",
-        "startTime": "10:30",
-        "endTime": "11:30",
         "duration": 60,
         "coachIds": [
           "coach-fayza"
@@ -1706,7 +1695,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-zakaria"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1723,12 +1712,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-sprint",
+        "coursId": "cours-trx",
         "startTime": "09:30",
         "endTime": "10:00",
         "duration": 30,
         "coachIds": [
-          "coach-rabie"
+          "coach-zakaria"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -1789,17 +1778,6 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-trx",
-        "startTime": "18:30",
-        "endTime": "19:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-aquatonus",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1852,7 +1830,7 @@
         "duration": 60,
         "coachIds": [
           "coach-zakaria",
-          "coach-rabie"
+          "coach-zoubir"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
