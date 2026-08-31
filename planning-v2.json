@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-30T22:58:52.817Z",
+    "lastUpdated": "2026-08-31T09:18:03.184Z",
     "weekNumber": 35,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -19,7 +19,7 @@
       },
       {
         "start": "2026-08-01",
-        "end": "2026-08-31",
+        "end": "2026-08-30",
         "type": "été",
         "name": "Planning été 2026",
         "inputMode": "manuelle",
@@ -1130,6 +1130,17 @@
   "planning": {
     "lundi": [
       {
+        "coursId": "cours-pilates",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-atlas",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-rpm",
         "startTime": "08:30",
         "endTime": "09:30",
@@ -1141,20 +1152,20 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-pilates",
+        "coursId": "cours-cross-90x",
         "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
+        "endTime": "10:00",
+        "duration": 30,
         "coachIds": [
-          "coach-ouidiane"
+          "coach-zakaria"
         ],
-        "studioId": "studio-atlas",
-        "type": "100% Femmes"
+        "studioId": "studio-infinity",
+        "type": "Mixte"
       },
       {
-        "coursId": "cours-stretching",
-        "startTime": "10:30",
-        "endTime": "11:30",
+        "coursId": "cours-gym-baton",
+        "startTime": "09:30",
+        "endTime": "10:30",
         "duration": 60,
         "coachIds": [
           "coach-fatima"
@@ -1163,12 +1174,34 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-bodycombat",
+        "coursId": "cours-aquagym",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquadynamic",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-bodypump",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-rabie"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1185,6 +1218,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-bodycombat",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-yasser"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-lesmills-yoga",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1192,7 +1236,7 @@
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-atlas",
+        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1242,7 +1286,7 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-trx",
         "startTime": "10:00",
         "endTime": "10:30",
         "duration": 30,
