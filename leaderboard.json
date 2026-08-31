@@ -612,6 +612,38 @@
       },
       {
         "position": 20,
+        "nickname": "sabra",
+        "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
+        "meps": 502,
+        "moves": 3,
+        "calories": 1509,
+        "totalMinutes": 256,
+        "zone0Minutes": 77,
+        "zone1Minutes": 33,
+        "zone2Minutes": 37,
+        "zone3Minutes": 41,
+        "zone4Minutes": 59,
+        "zone5Minutes": 9,
+        "targetZoneMinutes": 144,
+        "zone1MEPs": 33,
+        "zone2MEPs": 74,
+        "zone3MEPs": 123,
+        "zone4MEPs": 236,
+        "zone5MEPs": 36,
+        "avgEffort": 63,
+        "peakHR": 178,
+        "avgHR": 121,
+        "belt": 7468333,
+        "rank": 0,
+        "status": "Copper",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a2f4001a-b143-c0ae-9803-3d69aad8e674.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
+        "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
+        "male": false
+      },
+      {
+        "position": 21,
         "nickname": "Amoula L",
         "usrGUID": "60dd19b0-d7ae-11ee-92c6-861db27673fb",
         "meps": 473,
@@ -643,7 +675,7 @@
         "male": false
       },
       {
-        "position": 21,
+        "position": 22,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
         "meps": 403,
@@ -673,38 +705,6 @@
         "coachLink": "",
         "pngCaricature": "",
         "male": true
-      },
-      {
-        "position": 22,
-        "nickname": "sabra",
-        "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
-        "meps": 219,
-        "moves": 1,
-        "calories": 669,
-        "totalMinutes": 128,
-        "zone0Minutes": 47,
-        "zone1Minutes": 22,
-        "zone2Minutes": 12,
-        "zone3Minutes": 15,
-        "zone4Minutes": 25,
-        "zone5Minutes": 7,
-        "targetZoneMinutes": 59,
-        "zone1MEPs": 22,
-        "zone2MEPs": 24,
-        "zone3MEPs": 45,
-        "zone4MEPs": 100,
-        "zone5MEPs": 28,
-        "avgEffort": 61,
-        "peakHR": 178,
-        "avgHR": 117,
-        "belt": 7468333,
-        "rank": 0,
-        "status": "Copper",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a2f4001a-b143-c0ae-9803-3d69aad8e674.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
-        "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
-        "male": false
       },
       {
         "position": 23,
@@ -1733,7 +1733,7 @@
     ],
     "total_meps_by_gender": {
       "male": 40641,
-      "female": 13729
+      "female": 14012
     },
     "active_users": {
       "male": 14,
@@ -1747,8 +1747,8 @@
     },
     "meps_averages": {
       "male": "2902.9",
-      "female": "1716.1",
-      "total": "2471.4"
+      "female": "1751.5",
+      "total": "2484.2"
     }
   }
 }
