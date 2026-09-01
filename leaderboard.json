@@ -232,7 +232,7 @@
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 77,
         "moves": 1,
-        "calories": 243,
+        "calories": 245,
         "totalMinutes": 32,
         "zone0Minutes": 0,
         "zone1Minutes": 4,
@@ -248,7 +248,7 @@
         "zone5MEPs": 0,
         "avgEffort": 69,
         "peakHR": 162,
-        "avgHR": 132,
+        "avgHR": 131,
         "belt": 7468333,
         "rank": 0,
         "status": "Copper",
@@ -262,25 +262,25 @@
         "position": 9,
         "nickname": "MED ALI",
         "usrGUID": "b4161f7e-3b29-11f0-81fc-72b6bcbd58c1",
-        "meps": 27,
+        "meps": 36,
         "moves": 1,
-        "calories": 204,
-        "totalMinutes": 34,
+        "calories": 251,
+        "totalMinutes": 40,
         "zone0Minutes": 7,
-        "zone1Minutes": 27,
-        "zone2Minutes": 0,
-        "zone3Minutes": 0,
+        "zone1Minutes": 31,
+        "zone2Minutes": 1,
+        "zone3Minutes": 1,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
-        "targetZoneMinutes": 0,
-        "zone1MEPs": 27,
-        "zone2MEPs": 0,
-        "zone3MEPs": 0,
+        "targetZoneMinutes": 2,
+        "zone1MEPs": 31,
+        "zone2MEPs": 2,
+        "zone3MEPs": 3,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 49,
-        "peakHR": 102,
-        "avgHR": 86,
+        "avgEffort": 51,
+        "peakHR": 121,
+        "avgHR": 89,
         "belt": 7461309,
         "rank": 1,
         "status": "Iron",
@@ -1732,7 +1732,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 1102,
+      "male": 1111,
       "female": 341
     },
     "active_users": {
@@ -1746,9 +1746,9 @@
       "total": 45
     },
     "meps_averages": {
-      "male": "183.7",
+      "male": "185.2",
       "female": "113.7",
-      "total": "160.3"
+      "total": "161.3"
     }
   },
   "previous": {
