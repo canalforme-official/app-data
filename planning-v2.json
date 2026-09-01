@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-08-31T22:58:56.223Z",
+    "lastUpdated": "2026-09-01T22:58:52.960Z",
     "weekNumber": 35,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1695,7 +1695,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-rabie"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1712,12 +1712,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-trx",
+        "coursId": "cours-sprint",
         "startTime": "09:30",
         "endTime": "10:00",
         "duration": 30,
         "coachIds": [
-          "coach-zakaria"
+          "coach-rabie"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -1776,6 +1776,17 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-trx",
+        "startTime": "18:30",
+        "endTime": "19:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-aquatonus",
