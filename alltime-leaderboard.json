@@ -883,6 +883,29 @@
               "nickname": "Nabil"
             }
           ]
+        },
+        {
+          "month": "août",
+          "top3": [
+            {
+              "position": 1,
+              "guid": "99215234-1020-425c-a123-16e9ed11b0fd",
+              "meps": 6423,
+              "nickname": "Oussama"
+            },
+            {
+              "position": 2,
+              "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
+              "meps": 6415,
+              "nickname": "Simo"
+            },
+            {
+              "position": 3,
+              "guid": "1e6178fb-2351-4793-9194-dc7792ad36a4",
+              "meps": 5332,
+              "nickname": "MohamedB"
+            }
+          ]
         }
       ],
       "user_medal_rankings": [
@@ -890,10 +913,10 @@
           "guid": "a0231c90-c9d5-11ee-92c6-861db27673fb",
           "nickname": "Simo",
           "gold": 4,
-          "silver": 0,
+          "silver": 1,
           "bronze": 1,
-          "total_meps": 39447,
-          "total_points": 51
+          "total_meps": 45862,
+          "total_points": 57
         },
         {
           "guid": "4e9b092f-d0da-11ee-92c6-861db27673fb",
@@ -902,6 +925,15 @@
           "silver": 2,
           "bronze": 0,
           "total_meps": 24687,
+          "total_points": 24
+        },
+        {
+          "guid": "99215234-1020-425c-a123-16e9ed11b0fd",
+          "nickname": "Oussama",
+          "gold": 2,
+          "silver": 0,
+          "bronze": 0,
+          "total_meps": 13756,
           "total_points": 24
         },
         {
@@ -914,15 +946,6 @@
           "total_points": 15
         },
         {
-          "guid": "99215234-1020-425c-a123-16e9ed11b0fd",
-          "nickname": "Oussama",
-          "gold": 1,
-          "silver": 0,
-          "bronze": 0,
-          "total_meps": 7333,
-          "total_points": 12
-        },
-        {
           "guid": "7b4312e8-d732-11ef-b8ef-0ec4e0dd23cb",
           "nickname": "A",
           "gold": 1,
@@ -932,21 +955,21 @@
           "total_points": 12
         },
         {
+          "guid": "1e6178fb-2351-4793-9194-dc7792ad36a4",
+          "nickname": "MohamedB",
+          "gold": 0,
+          "silver": 1,
+          "bronze": 1,
+          "total_meps": 10099,
+          "total_points": 9
+        },
+        {
           "guid": "5961f783-d0f3-11ee-92c6-861db27673fb",
           "nickname": "may",
           "gold": 0,
           "silver": 1,
           "bronze": 0,
           "total_meps": 6819,
-          "total_points": 6
-        },
-        {
-          "guid": "1e6178fb-2351-4793-9194-dc7792ad36a4",
-          "nickname": "MohamedB",
-          "gold": 0,
-          "silver": 1,
-          "bronze": 0,
-          "total_meps": 4767,
           "total_points": 6
         },
         {
