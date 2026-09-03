@@ -105,8 +105,8 @@
         "meps": 404,
         "moves": 4,
         "calories": 1378,
-        "totalMinutes": 353,
-        "zone0Minutes": 73,
+        "totalMinutes": 356,
+        "zone0Minutes": 76,
         "zone1Minutes": 169,
         "zone2Minutes": 98,
         "zone3Minutes": 13,
@@ -228,6 +228,38 @@
       },
       {
         "position": 8,
+        "nickname": "katy",
+        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
+        "meps": 300,
+        "moves": 2,
+        "calories": 1242,
+        "totalMinutes": 372,
+        "zone0Minutes": 192,
+        "zone1Minutes": 99,
+        "zone2Minutes": 51,
+        "zone3Minutes": 21,
+        "zone4Minutes": 8,
+        "zone5Minutes": 1,
+        "targetZoneMinutes": 80,
+        "zone1MEPs": 99,
+        "zone2MEPs": 102,
+        "zone3MEPs": 63,
+        "zone4MEPs": 32,
+        "zone5MEPs": 4,
+        "avgEffort": 51,
+        "peakHR": 168,
+        "avgHR": 95,
+        "belt": 7619943,
+        "rank": 12,
+        "status": "Gold",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": false
+      },
+      {
+        "position": 9,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 257,
@@ -259,7 +291,7 @@
         "male": false
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
         "meps": 235,
@@ -291,7 +323,7 @@
         "male": true
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 235,
@@ -323,7 +355,7 @@
         "male": true
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 221,
@@ -355,7 +387,7 @@
         "male": true
       },
       {
-        "position": 12,
+        "position": 13,
         "nickname": "sabra",
         "usrGUID": "dd1bb3d2-6a2f-11ef-b68a-0e29ae1b4089",
         "meps": 212,
@@ -384,38 +416,6 @@
         "type": "Coach",
         "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/3a11b343-4516-c9db-7e5c-a9fc370f6471.png",
         "pngCaricature": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08eb8564-6db7-46df-8d65-37efc5c594c3.png",
-        "male": false
-      },
-      {
-        "position": 13,
-        "nickname": "katy",
-        "usrGUID": "9584808f-cce7-11ee-92c6-861db27673fb",
-        "meps": 107,
-        "moves": 1,
-        "calories": 479,
-        "totalMinutes": 153,
-        "zone0Minutes": 76,
-        "zone1Minutes": 54,
-        "zone2Minutes": 17,
-        "zone3Minutes": 5,
-        "zone4Minutes": 1,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 23,
-        "zone1MEPs": 54,
-        "zone2MEPs": 34,
-        "zone3MEPs": 15,
-        "zone4MEPs": 4,
-        "zone5MEPs": 0,
-        "avgEffort": 50,
-        "peakHR": 155,
-        "avgHR": 93,
-        "belt": 7619943,
-        "rank": 12,
-        "status": "Gold",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/9ecbf90a-0bbf-b4be-9228-91006beffa17.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
         "male": false
       },
       {
@@ -1733,7 +1733,7 @@
     ],
     "total_meps_by_gender": {
       "male": 2855,
-      "female": 1484
+      "female": 1677
     },
     "active_users": {
       "male": 9,
@@ -1747,8 +1747,8 @@
     },
     "meps_averages": {
       "male": "317.2",
-      "female": "247.3",
-      "total": "289.3"
+      "female": "279.5",
+      "total": "302.1"
     }
   },
   "previous": {
