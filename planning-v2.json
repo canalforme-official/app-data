@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-05T22:58:54.203Z",
+    "lastUpdated": "2026-09-06T09:48:11.117Z",
     "weekNumber": 36,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1157,7 +1157,7 @@
         "endTime": "10:00",
         "duration": 30,
         "coachIds": [
-          "coach-zakaria"
+          "coach-youssef"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1219,6 +1219,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-aquagym",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-bodycombat",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1239,17 +1250,6 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-stretching",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -1287,10 +1287,10 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-tabata",
+        "coursId": "cours-cross-90x",
         "startTime": "10:00",
-        "endTime": "11:00",
-        "duration": 60,
+        "endTime": "10:30",
+        "duration": 30,
         "coachIds": [
           "coach-zakaria"
         ],
@@ -1404,7 +1404,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-zoubir"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1421,7 +1421,7 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-gym-baton",
+        "coursId": "cours-gym-ball",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
