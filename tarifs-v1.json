@@ -1,0 +1,986 @@
+{
+  "schemaVersion": 1,
+  "currency": "MAD",
+  "metadata": {
+    "lastUpdated": "2026-09-11T17:45:04.379Z",
+    "updatedBy": "admin"
+  },
+  "copy": {
+    "intro": "Un coach dédié pour votre séance privée de boxe, musculation ou natation.",
+    "noMembership": "Ouvert à tous, même sans abonnement.",
+    "footnote": "L’accueil confirme les tarifs et assigne un coach. Le ou la coach établit le programme."
+  },
+  "labels": {
+    "trial": "Essai",
+    "session": "1 séance",
+    "pack": "10 séances",
+    "member": "Abonné",
+    "guest": "Non abonné"
+  },
+  "disciplines": [
+    {
+      "id": "boxe",
+      "title": "Boxe",
+      "studio": "Studio Rocky",
+      "icon": "fitness-outline",
+      "body": "Séance privée de boxe, adaptée à votre niveau. Technique, cardio et force - encadré en tête-à-tête."
+    },
+    {
+      "id": "muscu",
+      "title": "Musculation",
+      "studio": "Studio Arnold",
+      "icon": "barbell-outline",
+      "body": "Programme musculation personnalisé : force, tonus ou reprise. Le coach construit la séance avec vous."
+    },
+    {
+      "id": "natation",
+      "title": "Natation",
+      "studio": "Studio Aqua",
+      "icon": "water-outline",
+      "body": "Cours particulier en bassin : technique de nage, endurance ou apprentissage. Rythme adapté à chacun."
+    }
+  ],
+  "catalog": [
+    {
+      "id": "coaching-prive",
+      "kind": "personal_training",
+      "disciplineIds": [
+        "boxe",
+        "muscu",
+        "natation"
+      ],
+      "audience": [
+        "member",
+        "guest"
+      ],
+      "products": [
+        {
+          "id": "trial",
+          "type": "trial",
+          "sessionCount": 1,
+          "prices": {
+            "member": {
+              "amountMad": 100
+            },
+            "guest": {
+              "amountMad": 150
+            }
+          }
+        },
+        {
+          "id": "session",
+          "type": "session",
+          "sessionCount": 1,
+          "prices": {
+            "member": {
+              "amountMad": 250
+            },
+            "guest": {
+              "amountMad": 350
+            }
+          }
+        },
+        {
+          "id": "pack-10",
+          "type": "pack",
+          "sessionCount": 10,
+          "prices": {
+            "member": {
+              "amountMad": 2000
+            },
+            "guest": {
+              "amountMad": 2500
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakina",
+      "kind": "spa",
+      "tabs": [
+        {
+          "id": "spa",
+          "label": "Spa",
+          "sections": [
+            {
+              "title": "Hammam",
+              "items": [
+                {
+                  "id": "hammam-gommage",
+                  "name": "Hammam & Gommage",
+                  "duration": "45 min",
+                  "description": "Objectif: purification profonde… Supplément possible: enveloppement ghassoul & friction (20 min).",
+                  "amountMad": 250,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Massages",
+              "items": [
+                {
+                  "id": "massage-du-dos-pieds",
+                  "name": "Massage du Dos / Pieds",
+                  "duration": "30 min",
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "massage-visage-cuir-chevelu",
+                  "name": "Massage Visage & Cuir Chevelu",
+                  "duration": "20 min",
+                  "description": "",
+                  "amountMad": 200,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "massage-relaxant",
+                  "name": "Massage Relaxant",
+                  "duration": "30 min / 60 min",
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": "250 DH / 450 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "massage-tonifiant-amincissant",
+                  "name": "Massage Tonifiant / Amincissant",
+                  "duration": "60 min / 40 min",
+                  "description": "",
+                  "amountMad": 450,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "massage-aux-pierres-volcaniques",
+                  "name": "Massage aux pierres volcaniques",
+                  "duration": "60 min",
+                  "description": "",
+                  "amountMad": 500,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Balnéothérapie",
+              "items": [
+                {
+                  "id": "hydromassage-en-baignoire",
+                  "name": "Hydromassage en baignoire",
+                  "duration": "30 min",
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "couverture-chauffante",
+                  "name": "Couverture chauffante",
+                  "duration": "30 min",
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Soins Visage",
+              "items": [
+                {
+                  "id": "sothys-classique-tout-type-de-peau",
+                  "name": "Sothys Classique tout type de peau",
+                  "duration": "60 min",
+                  "description": "",
+                  "amountMad": 400,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "sothys-specifique",
+                  "name": "Sothys Spécifique",
+                  "duration": "90 min",
+                  "description": "",
+                  "amountMad": 600,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "beauty",
+          "label": "Coiffure & Beauté",
+          "sections": [
+            {
+              "title": "Coiffure",
+              "items": [
+                {
+                  "id": "brushing",
+                  "name": "Brushing",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 70,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "brushing-shampoing-masque",
+                  "name": "Brushing + Shampoing Masque",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 90,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "soin-de-cheveux-hair-care",
+                  "name": "Soin de cheveux / Hair Care",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "coupe-classique",
+                  "name": "Coupe classique",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 150,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "balayage",
+                  "name": "Balayage",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 400,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "coloration",
+                  "name": "Coloration",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 400,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "coloration-racines",
+                  "name": "Coloration racines",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 200,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "babyliss-bouclage",
+                  "name": "Babyliss (Bouclage)",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 150,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "coupe-filles",
+                  "name": "Coupe filles",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 60,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Maquillage",
+              "items": [
+                {
+                  "id": "maquillage-jour",
+                  "name": "Maquillage Jour",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 200,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "maquillage-nuit",
+                  "name": "Maquillage Nuit",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Onglerie",
+              "items": [
+                {
+                  "id": "manucure-simple",
+                  "name": "Manucure Simple",
+                  "duration": "30 min",
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "pedicure-simple",
+                  "name": "Pédicure Simple",
+                  "duration": "40 min",
+                  "description": "",
+                  "amountMad": 150,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "pose-vernis",
+                  "name": "Pose Vernis",
+                  "duration": "10 min",
+                  "description": "",
+                  "amountMad": 50,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "pose-vernis-permanent",
+                  "name": "Pose Vernis Permanent",
+                  "duration": "45 min",
+                  "description": "",
+                  "amountMad": 120,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Épilation Cire",
+              "items": [
+                {
+                  "id": "sourcils",
+                  "name": "Sourcils",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 50,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "duvet",
+                  "name": "Duvet",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 30,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "visage",
+                  "name": "Visage",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "aisselles",
+                  "name": "Aisselles",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 50,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "bras",
+                  "name": "Bras",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 80,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "demi-bras",
+                  "name": "Demi Bras",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 50,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "maillot-simple",
+                  "name": "Maillot Simple",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "maillot-integral",
+                  "name": "Maillot Intégral",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 120,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "jambes-entieres",
+                  "name": "Jambes Entières",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "demi-jambes",
+                  "name": "Demi Jambes",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 80,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "epilation-complete",
+                  "name": "Épilation Complète",
+                  "duration": "90 min",
+                  "description": "",
+                  "amountMad": 300,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "torse",
+                  "name": "Torse",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "dos",
+                  "name": "Dos",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 100,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Épilation au Fil",
+              "items": [
+                {
+                  "id": "sourcils-au-fil",
+                  "name": "Sourcils",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 50,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "duvet-au-fil",
+                  "name": "Duvet",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 30,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "visage-au-fil",
+                  "name": "Visage",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 120,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "biomedical",
+          "label": "Biomédical",
+          "sections": [
+            {
+              "title": "Visage Avancé",
+              "items": [
+                {
+                  "id": "soin-skin-light",
+                  "name": "Soin Skin Light",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 900,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "photo-rajeunissement-lpi",
+                  "name": "Photo-rajeunissement LPI",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 300,
+                  "priceDisplay": "300 DH / 1 500 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "radio-frequence",
+                  "name": "Radio-fréquence",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 350,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "lpg-visage",
+                  "name": "LPG Visage",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 2000,
+                  "priceDisplay": "2 000 DH / 3 000 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Minceur",
+              "items": [
+                {
+                  "id": "bilan-d-impedance",
+                  "name": "Bilan d'impédance",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 150,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "cellu-m6-endermologie",
+                  "name": "Cellu M6 Endermologie",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 350,
+                  "priceDisplay": "350 DH / 3 000 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "cryolipolyse",
+                  "name": "Cryolipolyse",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 1500,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "cavitation",
+                  "name": "Cavitation",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 350,
+                  "priceDisplay": "350 DH / 3 000 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "pressotherapie",
+                  "name": "Pressothérapie",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": "250 DH / 2 000 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "cure-classique-10-seances-20-soins",
+                  "name": "Cure Classique (10 séances / 20 soins)",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 3000,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "cure-classique-15-seances-30-soins",
+                  "name": "Cure Classique (15 séances / 30 soins)",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 4000,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Récupération",
+              "items": [
+                {
+                  "id": "kinesitherapie",
+                  "name": "Kinésithérapie",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": "250 DH / 2 500 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "kine-presso-electro",
+                  "name": "Kiné + Presso + Electro",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 350,
+                  "priceDisplay": "350 DH / 3 000 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "fit-vibe-excel-pro",
+                  "name": "Fit Vibe Excel Pro",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": "250 DH / 1 000 DH",
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            },
+            {
+              "title": "Épilation IPL",
+              "items": [
+                {
+                  "id": "1-zone",
+                  "name": "1 Zone",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 250,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "1-5-zone",
+                  "name": "1,5 Zone",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 375,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "2-zones",
+                  "name": "2 Zones",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 500,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "4-zones",
+                  "name": "4 Zones",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 1000,
+                  "priceDisplay": null,
+                  "oldAmountMad": null,
+                  "isDuo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "packs",
+          "label": "Packs",
+          "sections": [
+            {
+              "title": "Nos Packs Signatures",
+              "items": [
+                {
+                  "id": "marrakech-glow",
+                  "name": "Marrakech Glow",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 1500,
+                  "oldAmountMad": 1900,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "total-recovery",
+                  "name": "Total Recovery",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 800,
+                  "oldAmountMad": 950,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "essentiel-marrakech",
+                  "name": "Essentiel Marrakech",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 560,
+                  "oldAmountMad": 700,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "escapade-royale",
+                  "name": "Escapade Royale",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 1750,
+                  "oldAmountMad": 2500,
+                  "priceDisplay": null,
+                  "isDuo": true
+                },
+                {
+                  "id": "grand-touriste",
+                  "name": "Grand Touriste",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 750,
+                  "oldAmountMad": 870,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "recuperation-medina",
+                  "name": "Récupération Medina",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 800,
+                  "oldAmountMad": 950,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "signature-sakina",
+                  "name": "Signature Sakina",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 1100,
+                  "oldAmountMad": 1350,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "glow-up",
+                  "name": "Glow Up",
+                  "duration": null,
+                  "description": "",
+                  "amountMad": 350,
+                  "oldAmountMad": 600,
+                  "priceDisplay": null,
+                  "isDuo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "adherents",
+          "label": "Adhérents",
+          "sections": [
+            {
+              "title": "Avantages Adhérents",
+              "items": [
+                {
+                  "id": "avantages-adherents",
+                  "name": "Avantages Adhérents",
+                  "duration": null,
+                  "description": "Des tarifs préférentiels et des packs exclusifs sont proposés à nos adhérents, avec tous les détails disponibles à l'accueil du club.",
+                  "amountMad": null,
+                  "oldAmountMad": null,
+                  "priceDisplay": null,
+                  "isDuo": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "club-passes",
+      "kind": "pass",
+      "items": [
+        {
+          "id": "day-boost",
+          "name": "Day Boost",
+          "description": "Accès 1 journée",
+          "amountMad": 250,
+          "oldAmountMad": null,
+          "duration": "1 jour"
+        },
+        {
+          "id": "week-starter",
+          "name": "Week Starter",
+          "description": "Accès 1 semaine",
+          "amountMad": 700,
+          "oldAmountMad": null,
+          "duration": "1 semaine",
+          "towelOptionDh": 200
+        },
+        {
+          "id": "momentum-15",
+          "name": "Momentum 15",
+          "description": "Accès 15 jours",
+          "amountMad": 1200,
+          "oldAmountMad": null,
+          "duration": "15 jours",
+          "towelOptionDh": 300
+        },
+        {
+          "id": "monthly-reset",
+          "name": "Monthly Reset",
+          "description": "Accès 1 mois",
+          "amountMad": 1800,
+          "oldAmountMad": null,
+          "duration": "1 mois",
+          "towelOptionDh": 400
+        }
+      ]
+    },
+    {
+      "id": "club-memberships",
+      "kind": "membership",
+      "items": [
+        {
+          "id": "performance-90",
+          "name": "Performance 90",
+          "description": "Abonnement 3 mois",
+          "billingType": "lump_sum",
+          "totalDh": 3600,
+          "promoTotalDh": null,
+          "billingMonths": 3
+        },
+        {
+          "id": "progress-180",
+          "name": "Progress 180",
+          "description": "Abonnement 6 mois",
+          "billingType": "lump_sum",
+          "totalDh": 6000,
+          "promoTotalDh": null,
+          "billingMonths": 6
+        },
+        {
+          "id": "master-360",
+          "name": "Master 360",
+          "description": "Abonnement 12 mois",
+          "billingType": "lump_sum",
+          "totalDh": 9500,
+          "promoTotalDh": 8700,
+          "billingMonths": 12
+        },
+        {
+          "id": "freedom-flex",
+          "name": "Freedom Flex",
+          "description": "Abonnement mensuel",
+          "billingType": "monthly_debit",
+          "monthlyDh": 650,
+          "entryFeeDh": 6000,
+          "billingMonths": null
+        }
+      ]
+    },
+    {
+      "id": "essai-club",
+      "kind": "trial",
+      "items": [
+        {
+          "id": "essai-decouverte",
+          "name": "Séance d'essai",
+          "description": "Découvrez le club avec une séance d'essai gratuite (flow trial_requests)",
+          "amountMad": null,
+          "duration": "1 séance"
+        }
+      ]
+    }
+  ]
+}
