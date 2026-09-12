@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-11T22:58:53.693Z",
+    "lastUpdated": "2026-09-12T22:59:13.759Z",
     "weekNumber": 37,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1152,26 +1152,26 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-trx",
         "startTime": "09:30",
         "endTime": "10:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-zakaria"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-cross-90x",
+        "startTime": "10:30",
+        "endTime": "11:00",
         "duration": 30,
         "coachIds": [
           "coach-youssef"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-gym-baton",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquagym",
@@ -1223,8 +1223,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser",
-          "coach-zakaria"
+          "coach-hicham"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1235,7 +1234,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
+          "coach-hicham"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
