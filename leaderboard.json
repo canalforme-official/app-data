@@ -38,18 +38,18 @@
         "position": 2,
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
-        "meps": 3849,
+        "meps": 3846,
         "moves": 19,
-        "calories": 28924,
-        "totalMinutes": 4379,
-        "zone0Minutes": 1491,
-        "zone1Minutes": 2176,
+        "calories": 28905,
+        "totalMinutes": 4385,
+        "zone0Minutes": 1500,
+        "zone1Minutes": 2173,
         "zone2Minutes": 512,
         "zone3Minutes": 151,
         "zone4Minutes": 47,
         "zone5Minutes": 2,
         "targetZoneMinutes": 712,
-        "zone1MEPs": 2176,
+        "zone1MEPs": 2173,
         "zone2MEPs": 1024,
         "zone3MEPs": 453,
         "zone4MEPs": 188,
@@ -1764,7 +1764,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 27595,
+      "male": 27592,
       "female": 9056
     },
     "active_users": {
@@ -1778,9 +1778,9 @@
       "total": 29
     },
     "meps_averages": {
-      "male": "1623.2",
+      "male": "1623.1",
       "female": "1006.2",
-      "total": "1409.7"
+      "total": "1409.5"
     }
   }
 }
