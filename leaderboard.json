@@ -388,6 +388,38 @@
       },
       {
         "position": 13,
+        "nickname": "سفيان",
+        "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
+        "meps": 1296,
+        "moves": 9,
+        "calories": 6765,
+        "totalMinutes": 1010,
+        "zone0Minutes": 355,
+        "zone1Minutes": 280,
+        "zone2Minutes": 179,
+        "zone3Minutes": 126,
+        "zone4Minutes": 62,
+        "zone5Minutes": 8,
+        "targetZoneMinutes": 369,
+        "zone1MEPs": 280,
+        "zone2MEPs": 358,
+        "zone3MEPs": 378,
+        "zone4MEPs": 248,
+        "zone5MEPs": 32,
+        "avgEffort": 56,
+        "peakHR": 164,
+        "avgHR": 98,
+        "belt": 7619944,
+        "rank": 24,
+        "status": "Platinum",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 14,
         "nickname": "عثمان",
         "usrGUID": "4d0abe14-ca8e-11ee-92c6-861db27673fb",
         "meps": 1291,
@@ -413,38 +445,6 @@
         "rank": 0,
         "status": "Copper",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a2f4001a-b143-c0ae-9803-3d69aad8e674.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 14,
-        "nickname": "سفيان",
-        "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
-        "meps": 1287,
-        "moves": 9,
-        "calories": 6712,
-        "totalMinutes": 1005,
-        "zone0Minutes": 355,
-        "zone1Minutes": 279,
-        "zone2Minutes": 175,
-        "zone3Minutes": 126,
-        "zone4Minutes": 62,
-        "zone5Minutes": 8,
-        "targetZoneMinutes": 364,
-        "zone1MEPs": 279,
-        "zone2MEPs": 350,
-        "zone3MEPs": 378,
-        "zone4MEPs": 248,
-        "zone5MEPs": 32,
-        "avgEffort": 56,
-        "peakHR": 164,
-        "avgHR": 97,
-        "belt": 7619944,
-        "rank": 24,
-        "status": "Platinum",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
         "type": "Unknown",
         "coachLink": "",
         "pngCaricature": "",
@@ -1764,7 +1764,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 31103,
+      "male": 31112,
       "female": 10838
     },
     "active_users": {
@@ -1778,9 +1778,9 @@
       "total": 29
     },
     "meps_averages": {
-      "male": "1829.6",
+      "male": "1830.1",
       "female": "1204.2",
-      "total": "1613.1"
+      "total": "1613.5"
     }
   }
 }
