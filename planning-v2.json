@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-17T22:58:53.749Z",
+    "lastUpdated": "2026-09-18T22:58:53.168Z",
     "weekNumber": 38,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -109,18 +109,6 @@
         "inputMode": "auto",
         "fixedOrVariable": "nationale",
         "daysCount": 1,
-        "planningKey": "ferie",
-        "planningAffiche": "Jours fériés",
-        "planning": "ferie"
-      },
-      {
-        "start": "2026-03-21",
-        "end": "2026-03-21",
-        "type": "férié",
-        "name": "Aïd Al Fitr (2ème jour)",
-        "inputMode": "manuelle",
-        "fixedOrVariable": "religieuse",
-        "daysCount": 2,
         "planningKey": "ferie",
         "planningAffiche": "Jours fériés",
         "planning": "ferie"
@@ -3066,30 +3054,6 @@
     "dimanche": []
   },
   "planningFerieByDate": {
-    "2026-03-21": [
-      {
-        "coursId": "cours-rpm",
-        "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-aquagym",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-zakaria"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      }
-    ],
     "2026-05-01": [
       {
         "coursId": "cours-bodypump-express",
