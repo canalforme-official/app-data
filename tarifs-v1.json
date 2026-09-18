@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "currency": "MAD",
   "metadata": {
-    "lastUpdated": "2026-09-14T11:47:37.431Z",
+    "lastUpdated": "2026-09-18T12:58:55.902Z",
     "updatedBy": "y.jarmoune@marrakechcanalforme.com"
   },
   "copy": {
@@ -60,10 +60,12 @@
           "sessionCount": 1,
           "prices": {
             "member": {
-              "amountMad": 100
+              "amountMad": 100,
+              "oldAmountMad": null
             },
             "guest": {
-              "amountMad": 150
+              "amountMad": 150,
+              "oldAmountMad": null
             }
           }
         },
@@ -73,10 +75,12 @@
           "sessionCount": 1,
           "prices": {
             "member": {
-              "amountMad": 250
+              "amountMad": 250,
+              "oldAmountMad": null
             },
             "guest": {
-              "amountMad": 350
+              "amountMad": 350,
+              "oldAmountMad": null
             }
           }
         },
@@ -86,10 +90,12 @@
           "sessionCount": 10,
           "prices": {
             "member": {
-              "amountMad": 2000
+              "amountMad": 2000,
+              "oldAmountMad": null
             },
             "guest": {
-              "amountMad": 2500
+              "amountMad": 2500,
+              "oldAmountMad": 3000
             }
           }
         }
@@ -938,6 +944,8 @@
           "billingType": "lump_sum",
           "totalDh": 3600,
           "promoTotalDh": null,
+          "amountMad": 3600,
+          "oldAmountMad": null,
           "billingMonths": 3
         },
         {
@@ -947,6 +955,8 @@
           "billingType": "lump_sum",
           "totalDh": 6000,
           "promoTotalDh": null,
+          "amountMad": 6000,
+          "oldAmountMad": null,
           "billingMonths": 6
         },
         {
@@ -956,6 +966,8 @@
           "billingType": "lump_sum",
           "totalDh": 9500,
           "promoTotalDh": 8700,
+          "amountMad": 8700,
+          "oldAmountMad": 9500,
           "billingMonths": 12
         },
         {
@@ -965,6 +977,8 @@
           "billingType": "monthly_debit",
           "monthlyDh": 650,
           "entryFeeDh": 6000,
+          "amountMad": 650,
+          "oldAmountMad": null,
           "billingMonths": null
         }
       ]
