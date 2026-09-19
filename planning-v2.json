@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-19T17:18:51.046Z",
+    "lastUpdated": "2026-09-19T22:58:56.133Z",
     "weekNumber": 38,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1220,7 +1220,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham",
+          "coach-rabie",
           "coach-zoubir"
         ],
         "studioId": "studio-atlas",
@@ -1236,6 +1236,17 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-mobility",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -1339,6 +1350,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-rpm",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-aquagym",
         "startTime": "18:30",
         "endTime": "19:30",
@@ -1355,7 +1377,8 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-zakaria",
+          "coach-youssef"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1388,7 +1411,7 @@
         "endTime": "20:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1412,7 +1435,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-zoubir"
+          "coach-rabie"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1440,7 +1463,7 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cross-90x",
+        "coursId": "cours-trx",
         "startTime": "10:30",
         "endTime": "11:00",
         "duration": 30,
@@ -1516,17 +1539,6 @@
           "coach-youssef"
         ],
         "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-cross-90x",
-        "startTime": "19:30",
-        "endTime": "20:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-youssef"
-        ],
-        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1609,12 +1621,23 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cx-training",
+        "coursId": "cours-sprint",
         "startTime": "17:30",
         "endTime": "18:00",
         "duration": 30,
         "coachIds": [
           "coach-youssef"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-grit-training",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1658,7 +1681,8 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-youssef",
+          "coach-yasser"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1693,7 +1717,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-rabie"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1715,7 +1739,7 @@
         "endTime": "10:00",
         "duration": 30,
         "coachIds": [
-          "coach-youssef"
+          "coach-rabie"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -1776,12 +1800,23 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-body-step",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-mobility",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-zoubir"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1803,10 +1838,22 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham"
+          "coach-hicham",
+          "coach-yasser"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-circuit-training",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
