@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "currency": "MAD",
   "metadata": {
-    "lastUpdated": "2026-09-18T12:58:55.902Z",
+    "lastUpdated": "2026-09-21T19:11:58.401Z",
     "updatedBy": "y.jarmoune@marrakechcanalforme.com"
   },
   "copy": {
@@ -789,81 +789,326 @@
                   "id": "marrakech-glow",
                   "name": "Marrakech Glow",
                   "duration": null,
-                  "description": "",
+                  "description": "Hammam Royal + Massage signature relaxant (1h) + Soin visage \"Coup d'éclat\" Skin Light + roll-on inclus (300 DH) à garder pour traitement maison",
                   "amountMad": 1500,
                   "oldAmountMad": 1900,
                   "priceDisplay": null,
-                  "isDuo": false
-                },
-                {
-                  "id": "total-recovery",
-                  "name": "Total Recovery",
-                  "duration": null,
-                  "description": "",
-                  "amountMad": 800,
-                  "oldAmountMad": 950,
-                  "priceDisplay": null,
-                  "isDuo": false
+                  "isDuo": false,
+                  "presentation": {
+                    "description": "Hammam Royal + Massage signature relaxant (1h) + Soin visage \"Coup d'éclat\" Skin Light + roll-on inclus (300 DH) à garder pour traitement maison",
+                    "badge": {
+                      "fr": "Pack Expérience Touriste",
+                      "en": "Tourist Experience Pack",
+                      "ar": "باقة تجربة السائح"
+                    },
+                    "pitch": {
+                      "fr": "L'essentiel de la beauté et du bien-être marocain recomposé par nos experts.",
+                      "en": "Moroccan beauty and wellness essentials, curated by our experts.",
+                      "ar": "أساسيات الجمال والعافية المغربية بصياغة خبرائنا."
+                    },
+                    "includes": {
+                      "fr": [
+                        "Hammam Royal avec gommage ancestral",
+                        "Massage signature relaxant (1h)",
+                        "Soin visage \"Coup d'éclat\" Skin Light",
+                        "+ Roll-on offert (300 DH) à garder pour traitement maison"
+                      ],
+                      "en": [
+                        "Royal hammam with ancestral scrub",
+                        "Signature relaxing massage (1h)",
+                        "Skin Light \"radiance boost\" facial",
+                        "+ Complimentary roll-on (300 DH) to keep for home care"
+                      ],
+                      "ar": [
+                        "حمام ملكي مع تقشير تقليدي",
+                        "مساج استرخائي مميز (ساعة)",
+                        "علاج الوجه لمعان Skin Light",
+                        "+ رول-أون مجاني (300 DH) للاحتفاظ به للعناية المنزلية"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Réserver ce pack",
+                      "en": "Book this pack",
+                      "ar": "احجز هذه الباقة"
+                    },
+                    "theme": "light"
+                  }
                 },
                 {
                   "id": "essentiel-marrakech",
                   "name": "Essentiel Marrakech",
                   "duration": null,
-                  "description": "",
+                  "description": "Hammam & Gommage traditionnel + Massage relaxant 60 min + Rituel bien-être express",
                   "amountMad": 560,
                   "oldAmountMad": 700,
                   "priceDisplay": null,
-                  "isDuo": false
+                  "isDuo": false,
+                  "presentation": {
+                    "description": "Hammam & Gommage traditionnel + Massage relaxant 60 min + Rituel bien-être express",
+                    "badge": {
+                      "fr": "Best-seller Touristes",
+                      "en": "Visitor best-seller",
+                      "ar": "الأكثر مبيعا للزوار"
+                    },
+                    "pitch": {
+                      "fr": "Découverte incontournable du rituel local Sakina.",
+                      "en": "A must-try introduction to the local Sakina ritual.",
+                      "ar": "اكتشاف لا بد منه لطقس سكينة (Sakina) المحلي."
+                    },
+                    "includes": {
+                      "fr": [
+                        "Hammam & Gommage traditionnel",
+                        "Massage relaxant 60 min",
+                        "Rituel bien-être express"
+                      ],
+                      "en": [
+                        "Traditional hammam & scrub",
+                        "60 min relaxing massage",
+                        "Express wellness ritual"
+                      ],
+                      "ar": [
+                        "حمام وتقشير تقليدي",
+                        "مساج استرخائي 60 دقيقة",
+                        "طقس عافية سريع"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Explorer le pack",
+                      "en": "Explore the pack",
+                      "ar": "استكشف الباقة"
+                    },
+                    "theme": "light"
+                  }
                 },
                 {
                   "id": "escapade-royale",
                   "name": "Escapade Royale",
                   "duration": null,
-                  "description": "",
+                  "description": "2x Hammam complet + 2x Massage 60 min + 2x Soin visage classique",
                   "amountMad": 1750,
                   "oldAmountMad": 2500,
                   "priceDisplay": null,
-                  "isDuo": true
+                  "isDuo": true,
+                  "presentation": {
+                    "description": "2x Hammam complet + 2x Massage 60 min + 2x Soin visage classique",
+                    "badge": {
+                      "fr": "Coup de cœur Duo",
+                      "en": "Duo favorite",
+                      "ar": "المفضلة للثنائي"
+                    },
+                    "pitch": {
+                      "fr": "Une parenthèse premium à vivre à deux.",
+                      "en": "A premium moment to share together.",
+                      "ar": "لحظة مميزة للعيش معا."
+                    },
+                    "includes": {
+                      "fr": [
+                        "2x Hammam complet",
+                        "2x Massage 60 min",
+                        "2x Soin visage classique"
+                      ],
+                      "en": [
+                        "2x full hammam",
+                        "2x 60 min massage",
+                        "2x classic facial"
+                      ],
+                      "ar": [
+                        "حمامان كاملان",
+                        "مساجان 60 دقيقة",
+                        "علاجا وجه كلاسيكيان"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Choisir ce duo",
+                      "en": "Choose this duo",
+                      "ar": "اختر هذا الثنائي"
+                    },
+                    "theme": "dark"
+                  }
                 },
                 {
                   "id": "grand-touriste",
                   "name": "Grand Touriste",
                   "duration": null,
-                  "description": "",
+                  "description": "Hammam & Gommage + Massage 60 min + Brushing + Manucure",
                   "amountMad": 750,
                   "oldAmountMad": 870,
                   "priceDisplay": null,
-                  "isDuo": false
+                  "isDuo": false,
+                  "presentation": {
+                    "description": "Hammam & Gommage + Massage 60 min + Brushing + Manucure",
+                    "badge": {
+                      "fr": "Expérience Touriste",
+                      "en": "Visitor experience",
+                      "ar": "تجربة السائح"
+                    },
+                    "pitch": {
+                      "fr": "Une formule complète de la tête aux pieds.",
+                      "en": "A full head-to-toe formula.",
+                      "ar": "صيغة متكاملة من الرأس إلى القدمين."
+                    },
+                    "includes": {
+                      "fr": [
+                        "Hammam & Gommage",
+                        "Massage 60 min",
+                        "Brushing + Manucure"
+                      ],
+                      "en": [
+                        "Hammam & scrub",
+                        "60 min massage",
+                        "Blow-dry + manicure"
+                      ],
+                      "ar": [
+                        "حمام وتقشير",
+                        "مساج 60 دقيقة",
+                        "تصفيف + مانيكير"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Voir les détails",
+                      "en": "See details",
+                      "ar": "عرض التفاصيل"
+                    },
+                    "theme": "light"
+                  }
                 },
                 {
                   "id": "recuperation-medina",
                   "name": "Récupération Medina",
                   "duration": null,
-                  "description": "",
+                  "description": "Accès Fitness + Hammam & Gommage + Massage tonifiant 60 min",
                   "amountMad": 800,
                   "oldAmountMad": 950,
                   "priceDisplay": null,
-                  "isDuo": false
+                  "isDuo": false,
+                  "presentation": {
+                    "description": "Accès Fitness + Hammam & Gommage + Massage tonifiant 60 min",
+                    "badge": {
+                      "fr": "Performance & Détente",
+                      "en": "Performance & relaxation",
+                      "ar": "الأداء والاسترخاء"
+                    },
+                    "pitch": {
+                      "fr": "Recharge idéale après une journée active à Marrakech.",
+                      "en": "Ideal recharge after an active day in Marrakech.",
+                      "ar": "إعادة شحن مثالية بعد يوم نشط في مراكش."
+                    },
+                    "includes": {
+                      "fr": [
+                        "Accès Fitness",
+                        "Hammam & Gommage",
+                        "Massage tonifiant 60 min"
+                      ],
+                      "en": [
+                        "Fitness access",
+                        "Hammam & scrub",
+                        "60 min toning massage"
+                      ],
+                      "ar": [
+                        "دخول اللياقة",
+                        "حمام وتقشير",
+                        "مساج منشط 60 دقيقة"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Activer la récupération",
+                      "en": "Start recovery",
+                      "ar": "ابدأ الاستشفاء"
+                    },
+                    "theme": "dark"
+                  }
                 },
                 {
                   "id": "signature-sakina",
                   "name": "Signature Sakina",
                   "duration": null,
-                  "description": "",
+                  "description": "Hammam & Gommage + Massage pierres volcaniques + Soin spécifique 90 min",
                   "amountMad": 1100,
                   "oldAmountMad": 1350,
                   "priceDisplay": null,
-                  "isDuo": false
+                  "isDuo": false,
+                  "presentation": {
+                    "description": "Hammam & Gommage + Massage pierres volcaniques + Soin spécifique 90 min",
+                    "badge": {
+                      "fr": "Coup de cœur Premium",
+                      "en": "Premium favorite",
+                      "ar": "المفضلة المميزة"
+                    },
+                    "pitch": {
+                      "fr": "L'excellence des soins Sakina dans une expérience complète.",
+                      "en": "The best of Sakina care in one complete experience.",
+                      "ar": "أرقى علاجات سكينة (Sakina) في تجربة متكاملة."
+                    },
+                    "includes": {
+                      "fr": [
+                        "Hammam & Gommage",
+                        "Massage pierres volcaniques",
+                        "Soin spécifique 90 min"
+                      ],
+                      "en": [
+                        "Hammam & scrub",
+                        "Hot stone massage",
+                        "90 min targeted treatment"
+                      ],
+                      "ar": [
+                        "حمام وتقشير",
+                        "مساج بالأحجار البركانية",
+                        "علاج متخصص 90 دقيقة"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Découvrir la signature",
+                      "en": "Discover the signature",
+                      "ar": "اكتشف الباقة المميزة"
+                    },
+                    "theme": "light"
+                  }
                 },
                 {
                   "id": "glow-up",
                   "name": "Glow Up",
                   "duration": null,
-                  "description": "",
+                  "description": "LPI coup d'éclat + Massage visage + Soin de cheveux",
                   "amountMad": 350,
                   "oldAmountMad": 600,
                   "priceDisplay": null,
-                  "isDuo": false
+                  "isDuo": false,
+                  "presentation": {
+                    "description": "LPI coup d'éclat + Massage visage + Soin de cheveux",
+                    "badge": {
+                      "fr": "Soin Cible",
+                      "en": "Targeted glow",
+                      "ar": "عناية موجهة"
+                    },
+                    "pitch": {
+                      "fr": "Un format court pour retrouver éclat et fraîcheur.",
+                      "en": "A short format to restore radiance and freshness.",
+                      "ar": "صيغة قصيرة لاستعادة الإشراق والانتعاش."
+                    },
+                    "includes": {
+                      "fr": [
+                        "LPI coup d'éclat",
+                        "Massage visage",
+                        "Soin de cheveux"
+                      ],
+                      "en": [
+                        "LPI radiance boost",
+                        "Face massage",
+                        "Hair care"
+                      ],
+                      "ar": [
+                        "LPI للإشراق",
+                        "مساج الوجه",
+                        "العناية بالشعر"
+                      ]
+                    },
+                    "cta": {
+                      "fr": "Réserver Glow Up",
+                      "en": "Book Glow Up",
+                      "ar": "احجز Glow Up"
+                    },
+                    "theme": "dark"
+                  }
                 }
               ]
             }
