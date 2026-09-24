@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-23T23:59:04.362Z",
+    "lastUpdated": "2026-09-24T20:58:40.267Z",
     "weekNumber": 39,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1778,20 +1778,9 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-danse-orientale",
+        "coursId": "cours-aquatonus",
         "startTime": "16:30",
         "endTime": "17:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-fayza"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-aquatonus",
-        "startTime": "17:30",
-        "endTime": "18:30",
         "duration": 60,
         "coachIds": [
           "coach-fayza"
@@ -1809,6 +1798,17 @@
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-danse-orientale",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-mobility",
