@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "currency": "MAD",
   "metadata": {
-    "lastUpdated": "2026-09-23T19:16:58.579Z",
+    "lastUpdated": "2026-09-28T18:27:55.738Z",
     "updatedBy": "y.jarmoune@marrakechcanalforme.com"
   },
   "copy": {
@@ -582,9 +582,19 @@
                 {
                   "id": "soin-skin-light",
                   "name": "Soin Skin Light",
-                  "duration": null,
-                  "description": null,
+                  "duration": "1 séance",
+                  "description": "Micro-dermabrasion + drainage + électroporation + soin actif + photothérapie LED + masque + cryothérapie + mesure d’hydratation.",
                   "amountMad": 900,
+                  "oldAmountMad": null,
+                  "priceDisplay": null,
+                  "isDuo": false
+                },
+                {
+                  "id": "roll-on-individuel",
+                  "name": "Roll-on individuel",
+                  "duration": null,
+                  "description": "Supplément Skin Light (plusieurs séances).",
+                  "amountMad": 300,
                   "oldAmountMad": null,
                   "priceDisplay": null,
                   "isDuo": false
@@ -592,7 +602,7 @@
                 {
                   "id": "photo-rajeunissement-lpi",
                   "name": "Photo-rajeunissement LPI",
-                  "duration": null,
+                  "duration": "Coup d’éclat / 6 séances",
                   "description": null,
                   "amountMad": 300,
                   "oldAmountMad": null,
@@ -600,23 +610,33 @@
                   "isDuo": false
                 },
                 {
-                  "id": "radio-frequence",
-                  "name": "Radio-fréquence",
-                  "duration": null,
+                  "id": "radio-frequence-visage",
+                  "name": "Radio-fréquence Visage",
+                  "duration": "1 / 6 / 10 séances",
                   "description": null,
                   "amountMad": 350,
                   "oldAmountMad": null,
-                  "priceDisplay": null,
+                  "priceDisplay": "350 DH / 2 000 DH / 3 000 DH",
                   "isDuo": false
                 },
                 {
-                  "id": "lpg-visage",
-                  "name": "LPG Visage",
-                  "duration": null,
-                  "description": null,
-                  "amountMad": 2000,
+                  "id": "cellu-m6-visage",
+                  "name": "Cellu M6 Visage",
+                  "duration": "1 / 6 / 10 séances",
+                  "description": "LPG visage.",
+                  "amountMad": 350,
                   "oldAmountMad": null,
-                  "priceDisplay": "2 000 DH / 3 000 DH",
+                  "priceDisplay": "350 DH / 2 000 DH / 3 000 DH",
+                  "isDuo": false
+                },
+                {
+                  "id": "combo-5-radio-frequence-5-cellu-m6-visage",
+                  "name": "Combo 5 Radio-fréquence + 5 Cellu M6 Visage",
+                  "duration": "Pack 10 séances",
+                  "description": null,
+                  "amountMad": 3000,
+                  "oldAmountMad": null,
+                  "priceDisplay": null,
                   "isDuo": false
                 }
               ]
