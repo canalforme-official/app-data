@@ -420,6 +420,38 @@
       },
       {
         "position": 14,
+        "nickname": "C.Abdel",
+        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
+        "meps": 2321,
+        "moves": 14,
+        "calories": 6232,
+        "totalMinutes": 845,
+        "zone0Minutes": 3,
+        "zone1Minutes": 47,
+        "zone2Minutes": 282,
+        "zone3Minutes": 342,
+        "zone4Minutes": 137,
+        "zone5Minutes": 34,
+        "targetZoneMinutes": 787,
+        "zone1MEPs": 47,
+        "zone2MEPs": 564,
+        "zone3MEPs": 1026,
+        "zone4MEPs": 548,
+        "zone5MEPs": 136,
+        "avgEffort": 72,
+        "peakHR": 153,
+        "avgHR": 99,
+        "belt": 7461313,
+        "rank": 0,
+        "status": "Copper",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a2f4001a-b143-c0ae-9803-3d69aad8e674.png",
+        "type": "Coach",
+        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 15,
         "nickname": "Hatim",
         "usrGUID": "ba9521c8-d400-11ef-9d19-7ebb81ed5510",
         "meps": 2240,
@@ -451,7 +483,7 @@
         "male": true
       },
       {
-        "position": 15,
+        "position": 16,
         "nickname": "Majda ",
         "usrGUID": "f81aa847-ca0d-11ee-92c6-861db27673fb",
         "meps": 2068,
@@ -481,38 +513,6 @@
         "coachLink": "",
         "pngCaricature": "",
         "male": false
-      },
-      {
-        "position": 16,
-        "nickname": "C.Abdel",
-        "usrGUID": "3de3c530-061a-11ef-92c6-861db27673fb",
-        "meps": 2057,
-        "moves": 16,
-        "calories": 5525,
-        "totalMinutes": 763,
-        "zone0Minutes": 3,
-        "zone1Minutes": 46,
-        "zone2Minutes": 271,
-        "zone3Minutes": 303,
-        "zone4Minutes": 112,
-        "zone5Minutes": 28,
-        "targetZoneMinutes": 705,
-        "zone1MEPs": 46,
-        "zone2MEPs": 542,
-        "zone3MEPs": 909,
-        "zone4MEPs": 448,
-        "zone5MEPs": 112,
-        "avgEffort": 72,
-        "peakHR": 153,
-        "avgHR": 98,
-        "belt": 7461313,
-        "rank": 0,
-        "status": "Copper",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a2f4001a-b143-c0ae-9803-3d69aad8e674.png",
-        "type": "Coach",
-        "coachLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/a33b2ec7-16d7-7695-06c0-bfa9fbadcca9.png",
-        "pngCaricature": "",
-        "male": true
       },
       {
         "position": 17,
@@ -1764,7 +1764,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 58808,
+      "male": 59072,
       "female": 19570
     },
     "active_users": {
@@ -1778,9 +1778,9 @@
       "total": 29
     },
     "meps_averages": {
-      "male": "3459.3",
+      "male": "3474.8",
       "female": "2174.4",
-      "total": "3014.5"
+      "total": "3024.7"
     }
   }
 }
