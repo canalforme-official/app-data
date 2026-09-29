@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-09-28T23:59:03.304Z",
+    "lastUpdated": "2026-09-29T23:58:54.878Z",
     "weekNumber": 39,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1187,6 +1187,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-zumba",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-aquadynamic",
         "startTime": "11:30",
         "endTime": "12:30",
@@ -1274,6 +1285,17 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-mobility",
+        "startTime": "19:30",
+        "endTime": "20:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-nouhaila"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -1535,6 +1557,17 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-circuit-training",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-aquatonus",
         "startTime": "11:30",
         "endTime": "12:30",
@@ -1546,25 +1579,25 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-aquagym",
+        "coursId": "cours-tabata",
         "startTime": "16:30",
         "endTime": "17:30",
         "duration": 60,
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-aqua",
+        "studioId": "studio-hergym",
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-circuit-training",
+        "coursId": "cours-aquatonus",
         "startTime": "17:30",
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
           "coach-fayza"
         ],
-        "studioId": "studio-hergym",
+        "studioId": "studio-aqua",
         "type": "100% Femmes"
       },
       {
@@ -1577,6 +1610,17 @@
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-aquastretching",
+        "startTime": "18:30",
+        "endTime": "19:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-bodypump",
@@ -1805,14 +1849,14 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-lesmills-yoga",
+        "coursId": "cours-sprint",
         "startTime": "09:30",
-        "endTime": "10:30",
-        "duration": 60,
+        "endTime": "10:00",
+        "duration": 30,
         "coachIds": [
-          "coach-yasser"
+          "coach-rabie"
         ],
-        "studioId": "studio-atlas",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -1865,7 +1909,18 @@
         "endTime": "17:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-maroua"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquadynamic",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-maroua"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -1925,17 +1980,6 @@
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-circuit-training",
-        "startTime": "18:30",
-        "endTime": "19:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-maroua"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-cx-training",
