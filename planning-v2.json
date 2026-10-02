@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-01T23:58:58.098Z",
+    "lastUpdated": "2026-10-02T23:58:53.449Z",
     "weekNumber": 40,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1153,6 +1153,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-aquadynamic",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
         "coursId": "cours-pilates",
         "startTime": "09:30",
         "endTime": "10:30",
@@ -1203,7 +1214,7 @@
         "endTime": "12:30",
         "duration": 60,
         "coachIds": [
-          "coach-ouidiane"
+          "coach-maroua"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
@@ -1225,7 +1236,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-nouhaila"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -1253,10 +1264,10 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-aquastretching",
+        "coursId": "cours-aquatonus",
         "startTime": "18:30",
-        "endTime": "19:00",
-        "duration": 30,
+        "endTime": "19:30",
+        "duration": 60,
         "coachIds": [
           "coach-fayza"
         ],
@@ -1285,17 +1296,6 @@
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-mobility",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouhaila"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -1355,12 +1355,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-zumba",
+        "coursId": "cours-danse-orientale",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1371,7 +1371,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-maroua"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1612,12 +1612,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-aquastretching",
+        "coursId": "cours-aquagym",
         "startTime": "18:30",
-        "endTime": "19:00",
-        "duration": 30,
+        "endTime": "19:30",
+        "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-nouhaila"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -1635,17 +1635,6 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-bodyjam",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-yasser"
-        ],
-        "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
         "coursId": "cours-pilates",
         "startTime": "19:30",
         "endTime": "20:30",
@@ -1653,7 +1642,7 @@
         "coachIds": [
           "coach-nouredine"
         ],
-        "studioId": "studio-infinity",
+        "studioId": "studio-atlas",
         "type": "Mixte"
       }
     ],
@@ -1675,7 +1664,7 @@
         "endTime": "09:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1703,12 +1692,12 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-danse-orientale",
+        "coursId": "cours-zumba",
         "startTime": "09:30",
         "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-fayza"
+          "coach-maroua"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1920,7 +1909,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-nouhaila"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -1975,8 +1964,7 @@
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-hicham",
-          "coach-yasser"
+          "coach-hicham"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
