@@ -390,25 +390,25 @@
         "position": 13,
         "nickname": "Oussama",
         "usrGUID": "99215234-1020-425c-a123-16e9ed11b0fd",
-        "meps": 8,
+        "meps": 12,
         "moves": 1,
-        "calories": 53,
-        "totalMinutes": 15,
-        "zone0Minutes": 7,
-        "zone1Minutes": 8,
+        "calories": 82,
+        "totalMinutes": 20,
+        "zone0Minutes": 8,
+        "zone1Minutes": 12,
         "zone2Minutes": 0,
         "zone3Minutes": 0,
         "zone4Minutes": 0,
         "zone5Minutes": 0,
         "targetZoneMinutes": 0,
-        "zone1MEPs": 8,
+        "zone1MEPs": 12,
         "zone2MEPs": 0,
         "zone3MEPs": 0,
         "zone4MEPs": 0,
         "zone5MEPs": 0,
-        "avgEffort": 48,
-        "peakHR": 94,
-        "avgHR": 87,
+        "avgEffort": 50,
+        "peakHR": 99,
+        "avgHR": 90,
         "belt": 7461303,
         "rank": 3,
         "status": "Bronze",
@@ -1764,7 +1764,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 2547,
+      "male": 2551,
       "female": 772
     },
     "active_users": {
@@ -1778,9 +1778,9 @@
       "total": 42
     },
     "meps_averages": {
-      "male": "254.7",
+      "male": "255.1",
       "female": "257.3",
-      "total": "255.3"
+      "total": "255.6"
     }
   },
   "previous": {
@@ -1950,25 +1950,25 @@
         "position": 6,
         "nickname": "Nabil ",
         "usrGUID": "aff78f9f-d00d-11ee-92c6-861db27673fb",
-        "meps": 4245,
-        "moves": 20,
-        "calories": 22230,
-        "totalMinutes": 3211,
-        "zone0Minutes": 1078,
-        "zone1Minutes": 999,
-        "zone2Minutes": 469,
+        "meps": 4270,
+        "moves": 22,
+        "calories": 22413,
+        "totalMinutes": 3278,
+        "zone0Minutes": 1121,
+        "zone1Minutes": 1022,
+        "zone2Minutes": 470,
         "zone3Minutes": 352,
         "zone4Minutes": 262,
         "zone5Minutes": 51,
-        "targetZoneMinutes": 1129,
-        "zone1MEPs": 999,
-        "zone2MEPs": 938,
+        "targetZoneMinutes": 1130,
+        "zone1MEPs": 1022,
+        "zone2MEPs": 940,
         "zone3MEPs": 1056,
         "zone4MEPs": 1048,
         "zone5MEPs": 204,
         "avgEffort": 57,
         "peakHR": 173,
-        "avgHR": 102,
+        "avgHR": 101,
         "belt": 7457694,
         "rank": 24,
         "status": "Platinum",
@@ -2108,7 +2108,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 62261,
+      "male": 62286,
       "female": 20186
     },
     "active_users": {
@@ -2122,9 +2122,9 @@
       "total": 29
     },
     "meps_averages": {
-      "male": "3662.4",
+      "male": "3663.9",
       "female": "2242.9",
-      "total": "3171.0"
+      "total": "3172.0"
     }
   }
 }
