@@ -228,6 +228,38 @@
       },
       {
         "position": 8,
+        "nickname": "karim",
+        "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
+        "meps": 427,
+        "moves": 2,
+        "calories": 2324,
+        "totalMinutes": 352,
+        "zone0Minutes": 110,
+        "zone1Minutes": 137,
+        "zone2Minutes": 50,
+        "zone3Minutes": 30,
+        "zone4Minutes": 25,
+        "zone5Minutes": 0,
+        "targetZoneMinutes": 105,
+        "zone1MEPs": 137,
+        "zone2MEPs": 100,
+        "zone3MEPs": 90,
+        "zone4MEPs": 100,
+        "zone5MEPs": 0,
+        "avgEffort": 56,
+        "peakHR": 161,
+        "avgHR": 101,
+        "belt": 7424837,
+        "rank": 24,
+        "status": "Platinum",
+        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
+        "type": "Unknown",
+        "coachLink": "",
+        "pngCaricature": "",
+        "male": true
+      },
+      {
+        "position": 9,
         "nickname": "may",
         "usrGUID": "5961f783-d0f3-11ee-92c6-861db27673fb",
         "meps": 407,
@@ -259,7 +291,7 @@
         "male": false
       },
       {
-        "position": 9,
+        "position": 10,
         "nickname": "Oussama",
         "usrGUID": "99215234-1020-425c-a123-16e9ed11b0fd",
         "meps": 388,
@@ -291,7 +323,7 @@
         "male": true
       },
       {
-        "position": 10,
+        "position": 11,
         "nickname": "سفيان",
         "usrGUID": "47a70c7b-c807-11ee-92c6-861db27673fb",
         "meps": 367,
@@ -323,7 +355,7 @@
         "male": true
       },
       {
-        "position": 11,
+        "position": 12,
         "nickname": "Radouane",
         "usrGUID": "f3b1d098-d313-11ee-92c6-861db27673fb",
         "meps": 343,
@@ -346,38 +378,6 @@
         "peakHR": 153,
         "avgHR": 121,
         "belt": 7424831,
-        "rank": 24,
-        "status": "Platinum",
-        "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
-        "type": "Unknown",
-        "coachLink": "",
-        "pngCaricature": "",
-        "male": true
-      },
-      {
-        "position": 12,
-        "nickname": "karim",
-        "usrGUID": "14f3d178-d6e2-11ee-92c6-861db27673fb",
-        "meps": 326,
-        "moves": 2,
-        "calories": 1688,
-        "totalMinutes": 272,
-        "zone0Minutes": 103,
-        "zone1Minutes": 89,
-        "zone2Minutes": 28,
-        "zone3Minutes": 27,
-        "zone4Minutes": 25,
-        "zone5Minutes": 0,
-        "targetZoneMinutes": 79,
-        "zone1MEPs": 89,
-        "zone2MEPs": 56,
-        "zone3MEPs": 81,
-        "zone4MEPs": 100,
-        "zone5MEPs": 0,
-        "avgEffort": 56,
-        "peakHR": 161,
-        "avgHR": 101,
-        "belt": 7424837,
         "rank": 24,
         "status": "Platinum",
         "iconLink": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/384c13c0-7940-e279-465e-3b23111a5861.png",
@@ -1764,7 +1764,7 @@
       }
     ],
     "total_meps_by_gender": {
-      "male": 6075,
+      "male": 6176,
       "female": 2031
     },
     "active_users": {
@@ -1778,9 +1778,9 @@
       "total": 37
     },
     "meps_averages": {
-      "male": "506.3",
+      "male": "514.7",
       "female": "338.5",
-      "total": "450.3"
+      "total": "455.9"
     }
   },
   "previous": {
