@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-06T23:59:04.657Z",
-    "weekNumber": 40,
+    "lastUpdated": "2026-10-07T23:58:55.627Z",
+    "weekNumber": 41,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
     "periods": [
@@ -1909,7 +1909,7 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-nouhaila"
+          "coach-maroua"
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
@@ -1968,6 +1968,17 @@
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-stretching",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-cx-training",
