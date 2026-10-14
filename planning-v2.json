@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-13T23:58:55.882Z",
-    "weekNumber": 41,
+    "lastUpdated": "2026-10-14T23:58:53.748Z",
+    "weekNumber": 42,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
     "periods": [
@@ -160,6 +160,42 @@
         "planningKey": "ferme",
         "planningAffiche": "Fermé",
         "planning": "ferme"
+      },
+      {
+        "start": "2026-10-31",
+        "end": "2026-10-31",
+        "type": "férié",
+        "name": "Fête de l'unité",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-11-06",
+        "end": "2026-11-06",
+        "type": "férié",
+        "name": "Marche Verte",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
+      },
+      {
+        "start": "2026-11-18",
+        "end": "2026-11-18",
+        "type": "férié",
+        "name": "Fête de l'Indépendance",
+        "inputMode": "manuelle",
+        "fixedOrVariable": "nationale",
+        "daysCount": 1,
+        "planningKey": "ferie",
+        "planningAffiche": "Jours fériés",
+        "planning": "ferie"
       }
     ],
     "horaires": {
