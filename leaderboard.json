@@ -71,10 +71,10 @@
         "nickname": "Simo",
         "usrGUID": "a0231c90-c9d5-11ee-92c6-861db27673fb",
         "meps": 3025,
-        "moves": 16,
+        "moves": 17,
         "calories": 23602,
-        "totalMinutes": 3515,
-        "zone0Minutes": 1135,
+        "totalMinutes": 3526,
+        "zone0Minutes": 1146,
         "zone1Minutes": 1839,
         "zone2Minutes": 447,
         "zone3Minutes": 84,
@@ -454,25 +454,25 @@
         "position": 15,
         "nickname": "yussi ",
         "usrGUID": "d8d38180-fda5-11ee-92c6-861db27673fb",
-        "meps": 1142,
-        "moves": 6,
-        "calories": 3791,
-        "totalMinutes": 727,
-        "zone0Minutes": 239,
-        "zone1Minutes": 143,
-        "zone2Minutes": 121,
-        "zone3Minutes": 139,
+        "meps": 1163,
+        "moves": 7,
+        "calories": 3865,
+        "totalMinutes": 770,
+        "zone0Minutes": 266,
+        "zone1Minutes": 155,
+        "zone2Minutes": 124,
+        "zone3Minutes": 140,
         "zone4Minutes": 82,
         "zone5Minutes": 3,
-        "targetZoneMinutes": 343,
-        "zone1MEPs": 143,
-        "zone2MEPs": 242,
-        "zone3MEPs": 417,
+        "targetZoneMinutes": 347,
+        "zone1MEPs": 155,
+        "zone2MEPs": 248,
+        "zone3MEPs": 420,
         "zone4MEPs": 328,
         "zone5MEPs": 12,
-        "avgEffort": 60,
+        "avgEffort": 59,
         "peakHR": 178,
-        "avgHR": 115,
+        "avgHR": 114,
         "belt": 7461312,
         "rank": 6,
         "status": "Silver",
@@ -1765,7 +1765,7 @@
     ],
     "total_meps_by_gender": {
       "male": 23683,
-      "female": 11164
+      "female": 11185
     },
     "active_users": {
       "male": 15,
@@ -1779,8 +1779,8 @@
     },
     "meps_averages": {
       "male": "1578.9",
-      "female": "1240.4",
-      "total": "1452.0"
+      "female": "1242.8",
+      "total": "1452.8"
     }
   }
 }
