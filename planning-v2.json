@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-25T23:58:56.374Z",
+    "lastUpdated": "2026-10-26T23:58:52.647Z",
     "weekNumber": 43,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1281,7 +1281,7 @@
           "coach-maroua"
         ],
         "studioId": "studio-aqua",
-        "type": "Mixte"
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-aquadynamic",
@@ -1661,30 +1661,6 @@
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-kids-boxing",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-cross",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
       },
       {
         "coursId": "cours-tabata",
@@ -2145,82 +2121,9 @@
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-natation",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-natation",
-        "startTime": "14:00",
-        "endTime": "15:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-cross",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-boxing",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
       }
     ],
-    "dimanche": [
-      {
-        "coursId": "cours-kids-natation",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-natation",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-nouredine",
-          "coach-zakaria"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      }
-    ]
+    "dimanche": []
   },
   "icons": {
     "confetti": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/0fd2224b-ba22-035b-9a60-48d6f7e72b8c.gif",
