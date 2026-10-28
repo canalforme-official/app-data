@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-28T12:25:07.442Z",
+    "lastUpdated": "2026-10-28T21:19:48.325Z",
     "weekNumber": 43,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
     "periods": [
       {
         "start": "2026-01-01",
-        "end": "2026-10-31",
+        "end": "2026-12-31",
         "type": "planning",
         "name": "Planning Début 2026",
         "inputMode": "manuelle",
@@ -1193,6 +1193,13 @@
       "logo": "",
       "duration": 60,
       "category": "Kids"
+    },
+    {
+      "id": "cours-power-attack-bodycombat",
+      "name": "Power Attack bodycombat",
+      "logo": "",
+      "duration": 60,
+      "category": "Intense"
     }
   ],
   "planning": {
