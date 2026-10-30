@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-30T10:03:31.379Z",
+    "lastUpdated": "2026-10-30T10:07:25.147Z",
     "weekNumber": 44,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1672,6 +1672,18 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-kids-boxing",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-rocky",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-tabata",
         "startTime": "16:00",
         "endTime": "17:00",
@@ -1681,6 +1693,18 @@
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-kids-cross",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-aquatonus",
@@ -2130,9 +2154,82 @@
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-kids-natation",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-kids-natation",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-kids-cross",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-kids-boxing",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-rocky",
+        "type": "Mixte"
       }
     ],
-    "dimanche": []
+    "dimanche": [
+      {
+        "coursId": "cours-kids-natation",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-kids-natation",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zakaria",
+          "coach-zoubir"
+        ],
+        "studioId": "studio-aqua",
+        "type": "Mixte"
+      }
+    ]
   },
   "planningRegulierVersions": {
     "Planning Début 2026": {
@@ -2617,6 +2714,18 @@
           "type": "100% Femmes"
         },
         {
+          "coursId": "cours-kids-boxing",
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-rocky",
+          "type": "Mixte"
+        },
+        {
           "coursId": "cours-tabata",
           "startTime": "16:00",
           "endTime": "17:00",
@@ -2626,6 +2735,18 @@
           ],
           "studioId": "studio-hergym",
           "type": "100% Femmes"
+        },
+        {
+          "coursId": "cours-kids-cross",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-infinity",
+          "type": "Mixte"
         },
         {
           "coursId": "cours-aquatonus",
@@ -3075,9 +3196,82 @@
           ],
           "studioId": "studio-aqua",
           "type": "Mixte"
+        },
+        {
+          "coursId": "cours-kids-natation",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-aqua",
+          "type": "Mixte"
+        },
+        {
+          "coursId": "cours-kids-natation",
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-aqua",
+          "type": "Mixte"
+        },
+        {
+          "coursId": "cours-kids-cross",
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-infinity",
+          "type": "Mixte"
+        },
+        {
+          "coursId": "cours-kids-boxing",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-rocky",
+          "type": "Mixte"
         }
       ],
-      "dimanche": []
+      "dimanche": [
+        {
+          "coursId": "cours-kids-natation",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-aqua",
+          "type": "Mixte"
+        },
+        {
+          "coursId": "cours-kids-natation",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zakaria",
+            "coach-zoubir"
+          ],
+          "studioId": "studio-aqua",
+          "type": "Mixte"
+        }
+      ]
     }
   },
   "icons": {
