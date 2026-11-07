@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-11-06T23:58:57.753Z",
+    "lastUpdated": "2026-11-07T23:58:56.646Z",
     "weekNumber": 45,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1466,7 +1466,7 @@
         "endTime": "11:30",
         "duration": 60,
         "coachIds": [
-          "coach-maroua"
+          "coach-fayza"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
@@ -1483,12 +1483,12 @@
         "type": "100% Femmes"
       },
       {
-        "coursId": "cours-cx-training",
+        "coursId": "cours-mobility",
         "startTime": "17:30",
-        "endTime": "18:00",
-        "duration": 30,
+        "endTime": "18:30",
+        "duration": 60,
         "coachIds": [
-          "coach-youssef"
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1557,17 +1557,6 @@
           "coach-nouredine"
         ],
         "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-circuit-boxing",
-        "startTime": "19:30",
-        "endTime": "20:30",
-        "duration": 60,
-        "coachIds": [
-          "coach-yasser"
-        ],
-        "studioId": "studio-infinity",
         "type": "Mixte"
       },
       {
@@ -1677,8 +1666,8 @@
         "endTime": "16:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-yasser"
         ],
         "studioId": "studio-rocky",
         "type": "Mixte"
@@ -1689,8 +1678,8 @@
         "endTime": "17:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -2161,8 +2150,8 @@
         "endTime": "14:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-yasser"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
@@ -2173,7 +2162,6 @@
         "endTime": "15:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
           "coach-zoubir"
         ],
         "studioId": "studio-aqua",
@@ -2185,8 +2173,8 @@
         "endTime": "16:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -2197,8 +2185,8 @@
         "endTime": "17:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-yasser"
         ],
         "studioId": "studio-rocky",
         "type": "Mixte"
@@ -2207,24 +2195,12 @@
     "dimanche": [
       {
         "coursId": "cours-kids-natation",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-natation",
         "startTime": "10:00",
         "endTime": "11:00",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria",
-          "coach-zoubir"
+          "coach-zoubir",
+          "coach-yasser"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
@@ -2508,7 +2484,7 @@
           "endTime": "11:30",
           "duration": 60,
           "coachIds": [
-            "coach-maroua"
+            "coach-fayza"
           ],
           "studioId": "studio-hergym",
           "type": "100% Femmes"
@@ -2525,12 +2501,12 @@
           "type": "100% Femmes"
         },
         {
-          "coursId": "cours-cx-training",
+          "coursId": "cours-mobility",
           "startTime": "17:30",
-          "endTime": "18:00",
-          "duration": 30,
+          "endTime": "18:30",
+          "duration": 60,
           "coachIds": [
-            "coach-youssef"
+            "coach-yasser"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
@@ -2599,17 +2575,6 @@
             "coach-nouredine"
           ],
           "studioId": "studio-atlas",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-circuit-boxing",
-          "startTime": "19:30",
-          "endTime": "20:30",
-          "duration": 60,
-          "coachIds": [
-            "coach-yasser"
-          ],
-          "studioId": "studio-infinity",
           "type": "Mixte"
         },
         {
@@ -2719,8 +2684,8 @@
           "endTime": "16:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
+            "coach-zoubir",
+            "coach-yasser"
           ],
           "studioId": "studio-rocky",
           "type": "Mixte"
@@ -2731,8 +2696,8 @@
           "endTime": "17:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
+            "coach-zoubir",
+            "coach-yasser"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
@@ -3203,8 +3168,8 @@
           "endTime": "14:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
+            "coach-zoubir",
+            "coach-yasser"
           ],
           "studioId": "studio-aqua",
           "type": "Mixte"
@@ -3215,7 +3180,6 @@
           "endTime": "15:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
             "coach-zoubir"
           ],
           "studioId": "studio-aqua",
@@ -3227,8 +3191,8 @@
           "endTime": "16:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
+            "coach-zoubir",
+            "coach-yasser"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
@@ -3239,8 +3203,8 @@
           "endTime": "17:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
+            "coach-zoubir",
+            "coach-yasser"
           ],
           "studioId": "studio-rocky",
           "type": "Mixte"
@@ -3249,24 +3213,12 @@
       "dimanche": [
         {
           "coursId": "cours-kids-natation",
-          "startTime": "09:00",
-          "endTime": "10:00",
-          "duration": 60,
-          "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
-          ],
-          "studioId": "studio-aqua",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-kids-natation",
           "startTime": "10:00",
           "endTime": "11:00",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria",
-            "coach-zoubir"
+            "coach-zoubir",
+            "coach-yasser"
           ],
           "studioId": "studio-aqua",
           "type": "Mixte"
