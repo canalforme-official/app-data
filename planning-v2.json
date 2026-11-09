@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-11-08T23:58:54.043Z",
+    "lastUpdated": "2026-11-09T23:58:56.199Z",
     "weekNumber": 45,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1679,7 +1679,8 @@
         "duration": 60,
         "coachIds": [
           "coach-zoubir",
-          "coach-yasser"
+          "coach-yasser",
+          "coach-nouredine"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -2145,32 +2146,9 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-kids-natation",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-zoubir",
-          "coach-yasser"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-natation",
+        "coursId": "cours-kids-cross",
         "startTime": "14:00",
         "endTime": "15:00",
-        "duration": 60,
-        "coachIds": [
-          "coach-zoubir"
-        ],
-        "studioId": "studio-aqua",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-kids-cross",
-        "startTime": "15:00",
-        "endTime": "16:00",
         "duration": 60,
         "coachIds": [
           "coach-zoubir",
@@ -2181,26 +2159,37 @@
       },
       {
         "coursId": "cours-kids-boxing",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-zoubir",
+          "coach-yasser",
+          "coach-nouredine"
+        ],
+        "studioId": "studio-rocky",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-kids-natation",
         "startTime": "16:00",
         "endTime": "17:00",
         "duration": 60,
         "coachIds": [
-          "coach-zoubir",
-          "coach-yasser"
+          "coach-nouredine"
         ],
-        "studioId": "studio-rocky",
+        "studioId": "studio-aqua",
         "type": "Mixte"
       }
     ],
     "dimanche": [
       {
         "coursId": "cours-kids-natation",
-        "startTime": "10:00",
-        "endTime": "11:00",
+        "startTime": "09:30",
+        "endTime": "10:30",
         "duration": 60,
         "coachIds": [
-          "coach-zoubir",
-          "coach-yasser"
+          "coach-zoubir"
         ],
         "studioId": "studio-aqua",
         "type": "Mixte"
@@ -2697,7 +2686,8 @@
           "duration": 60,
           "coachIds": [
             "coach-zoubir",
-            "coach-yasser"
+            "coach-yasser",
+            "coach-nouredine"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
@@ -3163,32 +3153,9 @@
           "type": "Mixte"
         },
         {
-          "coursId": "cours-kids-natation",
-          "startTime": "13:00",
-          "endTime": "14:00",
-          "duration": 60,
-          "coachIds": [
-            "coach-zoubir",
-            "coach-yasser"
-          ],
-          "studioId": "studio-aqua",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-kids-natation",
+          "coursId": "cours-kids-cross",
           "startTime": "14:00",
           "endTime": "15:00",
-          "duration": 60,
-          "coachIds": [
-            "coach-zoubir"
-          ],
-          "studioId": "studio-aqua",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-kids-cross",
-          "startTime": "15:00",
-          "endTime": "16:00",
           "duration": 60,
           "coachIds": [
             "coach-zoubir",
@@ -3199,26 +3166,37 @@
         },
         {
           "coursId": "cours-kids-boxing",
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-zoubir",
+            "coach-yasser",
+            "coach-nouredine"
+          ],
+          "studioId": "studio-rocky",
+          "type": "Mixte"
+        },
+        {
+          "coursId": "cours-kids-natation",
           "startTime": "16:00",
           "endTime": "17:00",
           "duration": 60,
           "coachIds": [
-            "coach-zoubir",
-            "coach-yasser"
+            "coach-nouredine"
           ],
-          "studioId": "studio-rocky",
+          "studioId": "studio-aqua",
           "type": "Mixte"
         }
       ],
       "dimanche": [
         {
           "coursId": "cours-kids-natation",
-          "startTime": "10:00",
-          "endTime": "11:00",
+          "startTime": "09:30",
+          "endTime": "10:30",
           "duration": 60,
           "coachIds": [
-            "coach-zoubir",
-            "coach-yasser"
+            "coach-zoubir"
           ],
           "studioId": "studio-aqua",
           "type": "Mixte"
@@ -4894,6 +4872,85 @@
         ],
         "studioId": "studio-aqua",
         "type": "100% Femmes"
+      }
+    ],
+    "2026-11-18": [
+      {
+        "coursId": "cours-bodypump",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-rabie"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-bodysculpt",
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-ouidiane"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-tabata",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-aquagym",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fayza"
+        ],
+        "studioId": "studio-aqua",
+        "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-circuit-training",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-zoubir"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-sprint",
+        "startTime": "18:00",
+        "endTime": "18:30",
+        "duration": 30,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-spin",
+        "type": "Mixte"
       }
     ]
   },
