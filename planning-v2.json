@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-11-10T23:58:55.869Z",
+    "lastUpdated": "2026-11-11T19:57:29.481Z",
     "weekNumber": 45,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1188,6 +1188,13 @@
       "logo": "",
       "duration": 60,
       "category": "Intense"
+    },
+    {
+      "id": "cours-move-condition",
+      "name": "Move & Condition",
+      "logo": "https://mcusercontent.com/74abea872abd45d46efed5d41/images/08b449d6-0eef-f1d3-9d7a-5a0a5ab5d798.png",
+      "duration": 60,
+      "category": "Freestyle"
     }
   ],
   "planning": {
@@ -1488,21 +1495,21 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-yasser"
-        ],
-        "studioId": "studio-infinity",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-mobility",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
           "coach-fatima"
         ],
         "studioId": "studio-hergym",
         "type": "100% Femmes"
+      },
+      {
+        "coursId": "cours-move-condition",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-yasser"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
       },
       {
         "coursId": "cours-rpm",
@@ -2495,21 +2502,21 @@
           "endTime": "18:30",
           "duration": 60,
           "coachIds": [
-            "coach-yasser"
-          ],
-          "studioId": "studio-infinity",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-mobility",
-          "startTime": "17:30",
-          "endTime": "18:30",
-          "duration": 60,
-          "coachIds": [
             "coach-fatima"
           ],
           "studioId": "studio-hergym",
           "type": "100% Femmes"
+        },
+        {
+          "coursId": "cours-move-condition",
+          "startTime": "17:30",
+          "endTime": "18:30",
+          "duration": 60,
+          "coachIds": [
+            "coach-yasser"
+          ],
+          "studioId": "studio-infinity",
+          "type": "Mixte"
         },
         {
           "coursId": "cours-rpm",
