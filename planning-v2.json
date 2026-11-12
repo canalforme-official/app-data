@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-11-11T23:59:14.079Z",
+    "lastUpdated": "2026-11-12T23:58:55.046Z",
     "weekNumber": 46,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -1495,21 +1495,21 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-fatima"
-        ],
-        "studioId": "studio-hergym",
-        "type": "100% Femmes"
-      },
-      {
-        "coursId": "cours-move-condition",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
           "coach-yasser"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
+      },
+      {
+        "coursId": "cours-mobility",
+        "startTime": "17:30",
+        "endTime": "18:30",
+        "duration": 60,
+        "coachIds": [
+          "coach-fatima"
+        ],
+        "studioId": "studio-hergym",
+        "type": "100% Femmes"
       },
       {
         "coursId": "cours-rpm",
@@ -1517,7 +1517,8 @@
         "endTime": "18:30",
         "duration": 60,
         "coachIds": [
-          "coach-rabie"
+          "coach-rabie",
+          "coach-youssef"
         ],
         "studioId": "studio-spin",
         "type": "Mixte"
@@ -1534,12 +1535,12 @@
         "type": "100% Hommes"
       },
       {
-        "coursId": "cours-tabata",
+        "coursId": "cours-gtx",
         "startTime": "18:30",
         "endTime": "19:30",
         "duration": 60,
         "coachIds": [
-          "coach-zakaria"
+          "coach-rabie"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -1754,7 +1755,8 @@
         "duration": 60,
         "coachIds": [
           "coach-zakaria",
-          "coach-youssef"
+          "coach-youssef",
+          "coach-zoubir"
         ],
         "studioId": "studio-atlas",
         "type": "Mixte"
@@ -1855,20 +1857,10 @@
         "endTime": "18:00",
         "duration": 30,
         "coachIds": [
-          "coach-rabie"
-        ],
-        "studioId": "studio-spin",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-lesmills-yoga",
-        "startTime": "17:30",
-        "endTime": "18:30",
-        "duration": 60,
-        "coachIds": [
+          "coach-rabie",
           "coach-youssef"
         ],
-        "studioId": "studio-atlas",
+        "studioId": "studio-spin",
         "type": "Mixte"
       },
       {
@@ -1883,13 +1875,23 @@
         "type": "100% Femmes"
       },
       {
+        "coursId": "cours-lesmills-yoga",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "duration": 60,
+        "coachIds": [
+          "coach-youssef"
+        ],
+        "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-trx",
         "startTime": "18:30",
         "endTime": "19:00",
         "duration": 30,
         "coachIds": [
-          "coach-zakaria",
-          "coach-youssef"
+          "coach-zakaria"
         ],
         "studioId": "studio-infinity",
         "type": "Mixte"
@@ -2117,14 +2119,25 @@
         "type": "Mixte"
       },
       {
-        "coursId": "cours-cx-training",
+        "coursId": "cours-lesmills-yoga",
         "startTime": "20:00",
-        "endTime": "20:30",
-        "duration": 30,
+        "endTime": "21:00",
+        "duration": 60,
         "coachIds": [
           "coach-nouredine"
         ],
         "studioId": "studio-atlas",
+        "type": "Mixte"
+      },
+      {
+        "coursId": "cours-trx",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "duration": 30,
+        "coachIds": [
+          "coach-yasser"
+        ],
+        "studioId": "studio-infinity",
         "type": "Mixte"
       }
     ],
@@ -2502,21 +2515,21 @@
           "endTime": "18:30",
           "duration": 60,
           "coachIds": [
-            "coach-fatima"
-          ],
-          "studioId": "studio-hergym",
-          "type": "100% Femmes"
-        },
-        {
-          "coursId": "cours-move-condition",
-          "startTime": "17:30",
-          "endTime": "18:30",
-          "duration": 60,
-          "coachIds": [
             "coach-yasser"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
+        },
+        {
+          "coursId": "cours-mobility",
+          "startTime": "17:30",
+          "endTime": "18:30",
+          "duration": 60,
+          "coachIds": [
+            "coach-fatima"
+          ],
+          "studioId": "studio-hergym",
+          "type": "100% Femmes"
         },
         {
           "coursId": "cours-rpm",
@@ -2524,7 +2537,8 @@
           "endTime": "18:30",
           "duration": 60,
           "coachIds": [
-            "coach-rabie"
+            "coach-rabie",
+            "coach-youssef"
           ],
           "studioId": "studio-spin",
           "type": "Mixte"
@@ -2541,12 +2555,12 @@
           "type": "100% Hommes"
         },
         {
-          "coursId": "cours-tabata",
+          "coursId": "cours-gtx",
           "startTime": "18:30",
           "endTime": "19:30",
           "duration": 60,
           "coachIds": [
-            "coach-zakaria"
+            "coach-rabie"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
@@ -2761,7 +2775,8 @@
           "duration": 60,
           "coachIds": [
             "coach-zakaria",
-            "coach-youssef"
+            "coach-youssef",
+            "coach-zoubir"
           ],
           "studioId": "studio-atlas",
           "type": "Mixte"
@@ -2862,20 +2877,10 @@
           "endTime": "18:00",
           "duration": 30,
           "coachIds": [
-            "coach-rabie"
-          ],
-          "studioId": "studio-spin",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-lesmills-yoga",
-          "startTime": "17:30",
-          "endTime": "18:30",
-          "duration": 60,
-          "coachIds": [
+            "coach-rabie",
             "coach-youssef"
           ],
-          "studioId": "studio-atlas",
+          "studioId": "studio-spin",
           "type": "Mixte"
         },
         {
@@ -2890,13 +2895,23 @@
           "type": "100% Femmes"
         },
         {
+          "coursId": "cours-lesmills-yoga",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "duration": 60,
+          "coachIds": [
+            "coach-youssef"
+          ],
+          "studioId": "studio-atlas",
+          "type": "Mixte"
+        },
+        {
           "coursId": "cours-trx",
           "startTime": "18:30",
           "endTime": "19:00",
           "duration": 30,
           "coachIds": [
-            "coach-zakaria",
-            "coach-youssef"
+            "coach-zakaria"
           ],
           "studioId": "studio-infinity",
           "type": "Mixte"
@@ -3124,14 +3139,25 @@
           "type": "Mixte"
         },
         {
-          "coursId": "cours-cx-training",
+          "coursId": "cours-lesmills-yoga",
           "startTime": "20:00",
-          "endTime": "20:30",
-          "duration": 30,
+          "endTime": "21:00",
+          "duration": 60,
           "coachIds": [
             "coach-nouredine"
           ],
           "studioId": "studio-atlas",
+          "type": "Mixte"
+        },
+        {
+          "coursId": "cours-trx",
+          "startTime": "20:30",
+          "endTime": "21:00",
+          "duration": 30,
+          "coachIds": [
+            "coach-yasser"
+          ],
+          "studioId": "studio-infinity",
           "type": "Mixte"
         }
       ],
