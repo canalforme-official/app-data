@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-11-19T23:58:55.700Z",
+    "lastUpdated": "2026-11-20T23:58:53.781Z",
     "weekNumber": 47,
     "ramadanStart": "2026-02-19",
     "ramadanEnd": "2026-03-19",
@@ -2120,6 +2120,17 @@
         "type": "Mixte"
       },
       {
+        "coursId": "cours-trx",
+        "startTime": "20:00",
+        "endTime": "20:30",
+        "duration": 30,
+        "coachIds": [
+          "coach-yasser"
+        ],
+        "studioId": "studio-infinity",
+        "type": "Mixte"
+      },
+      {
         "coursId": "cours-lesmills-yoga",
         "startTime": "20:00",
         "endTime": "21:00",
@@ -2128,17 +2139,6 @@
           "coach-nouredine"
         ],
         "studioId": "studio-atlas",
-        "type": "Mixte"
-      },
-      {
-        "coursId": "cours-trx",
-        "startTime": "20:30",
-        "endTime": "21:00",
-        "duration": 30,
-        "coachIds": [
-          "coach-yasser"
-        ],
-        "studioId": "studio-infinity",
         "type": "Mixte"
       }
     ],
@@ -3141,6 +3141,17 @@
           "type": "Mixte"
         },
         {
+          "coursId": "cours-trx",
+          "startTime": "20:00",
+          "endTime": "20:30",
+          "duration": 30,
+          "coachIds": [
+            "coach-yasser"
+          ],
+          "studioId": "studio-infinity",
+          "type": "Mixte"
+        },
+        {
           "coursId": "cours-lesmills-yoga",
           "startTime": "20:00",
           "endTime": "21:00",
@@ -3149,17 +3160,6 @@
             "coach-nouredine"
           ],
           "studioId": "studio-atlas",
-          "type": "Mixte"
-        },
-        {
-          "coursId": "cours-trx",
-          "startTime": "20:30",
-          "endTime": "21:00",
-          "duration": 30,
-          "coachIds": [
-            "coach-yasser"
-          ],
-          "studioId": "studio-infinity",
           "type": "Mixte"
         }
       ],
